@@ -9,7 +9,7 @@
 <description>GOM — SAGE · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/gom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 16:13:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 20:41:22 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -256,16 +256,6 @@
 <description></description>
 </item>
 <item>
-<title>Social Support for the Successful Implementation of Technologies in the Workplace: An Examination of Theories and Meta-Analysis of Research</title>
-<link>https://doi.org/10.1177/10596011251387376</link>
-<guid isPermaLink="false">10.1177/10596011251387376</guid>
-<pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Katharina D. Schlicher; Günter W. Maier]]></dc:creator>
-<dc:identifier>doi:10.1177/10596011251387376</dc:identifier>
-<description><![CDATA[Social support provided by organizational actors responsible for designing the change is promoted to achieve technology implementation success (TIS). However, how these support interventions exert their effects remains unclear. We examine interdisciplinary literature on social support provided to employees and identify interventions we frame as organizational support strategies (OSS). Drawing on theories of social support and technology acceptance, we develop and test our social support model of technology implementation. Using meta-analysis, we examine the relationship between OSS—emotional support (e.g., participation, management support), instrumental support (e.g., training, technical support), and informational support (e.g., information provision, change vision)—and TIS outcomes (e.g., technology acceptance, user satisfaction, performance, positive change attitude, computer self-efficacy, reduced strain). Meta-analytic structural equation modeling based on k = 108 unique samples ( N = 23,005) showed a moderate relationship between OSS and TIS ( r = .30). A closer examination revealed that informational support ( r = .38) was the strongest predictor of overall TIS. Further analyses showed that each kind of support was most strongly related to a specific indicator of TIS. These findings help explain how OSS function and offer guidance for aligning support interventions with targeted implementation outcomes.]]></description>
-<content:encoded><![CDATA[Social support provided by organizational actors responsible for designing the change is promoted to achieve technology implementation success (TIS). However, how these support interventions exert their effects remains unclear. We examine interdisciplinary literature on social support provided to employees and identify interventions we frame as organizational support strategies (OSS). Drawing on theories of social support and technology acceptance, we develop and test our social support model of technology implementation. Using meta-analysis, we examine the relationship between OSS—emotional support (e.g., participation, management support), instrumental support (e.g., training, technical support), and informational support (e.g., information provision, change vision)—and TIS outcomes (e.g., technology acceptance, user satisfaction, performance, positive change attitude, computer self-efficacy, reduced strain). Meta-analytic structural equation modeling based on k = 108 unique samples ( N = 23,005) showed a moderate relationship between OSS and TIS ( r = .30). A closer examination revealed that informational support ( r = .38) was the strongest predictor of overall TIS. Further analyses showed that each kind of support was most strongly related to a specific indicator of TIS. These findings help explain how OSS function and offer guidance for aligning support interventions with targeted implementation outcomes.]]></content:encoded>
-</item>
-<item>
 <title>Collective Perceptions Matter: How Team Alignment on Perceived AI Usefulness and Ease of Use Impacts Self-Efficacy and Task Proficiency</title>
 <link>https://doi.org/10.1177/10596011261469249</link>
 <guid isPermaLink="false">10.1177/10596011261469249</guid>
@@ -323,15 +313,6 @@
 <dc:identifier>doi:10.1177/10596011261460498</dc:identifier>
 <description><![CDATA[Digital collaboration tools (DCTs), such as Microsoft Teams and DingTalk, are essential in the functioning of virtual teams. However, existing research on how these technologies influence coordination among virtual team members remains underexplored. This study investigates how DCT-enabled disclosure awareness—the extent to which virtual team members are aware of each other’s personal information via DCTs—influences team functioning. Drawing on adaptive structuration theory, we argue that DCT-enabled disclosure awareness positively affects team coordination and, subsequently, team performance. In addition, we propose that power and status hierarchies moderate this relationship, such that the positive impact of DCT-enabled disclosure awareness is stronger when power hierarchy is low or status hierarchy is high. Our hypotheses are supported by multi-source, multi-wave field survey data from 130 virtual teams. These findings provide new insights into virtual team management in the era of organizational digitalization, specifically highlighting how virtual teams can leverage digital technologies to improve performance.]]></description>
 <content:encoded><![CDATA[Digital collaboration tools (DCTs), such as Microsoft Teams and DingTalk, are essential in the functioning of virtual teams. However, existing research on how these technologies influence coordination among virtual team members remains underexplored. This study investigates how DCT-enabled disclosure awareness—the extent to which virtual team members are aware of each other’s personal information via DCTs—influences team functioning. Drawing on adaptive structuration theory, we argue that DCT-enabled disclosure awareness positively affects team coordination and, subsequently, team performance. In addition, we propose that power and status hierarchies moderate this relationship, such that the positive impact of DCT-enabled disclosure awareness is stronger when power hierarchy is low or status hierarchy is high. Our hypotheses are supported by multi-source, multi-wave field survey data from 130 virtual teams. These findings provide new insights into virtual team management in the era of organizational digitalization, specifically highlighting how virtual teams can leverage digital technologies to improve performance.]]></content:encoded>
-</item>
-<item>
-<title>A Commentary on Dhaenens et al. (2025): Methodological Considerations for Developmental Networks Research</title>
-<link>https://doi.org/10.1177/10596011251408222</link>
-<guid isPermaLink="false">10.1177/10596011251408222</guid>
-<pubDate>Thu, 11 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Melissa E. Robertson; Yimin He; Wei Qiang]]></dc:creator>
-<dc:identifier>doi:10.1177/10596011251408222</dc:identifier>
-<description></description>
 </item>
 <item>
 <title>CSR Mirror: A Social Media Analysis of Corporate Social Responsibility Discourse</title>
@@ -661,6 +642,25 @@
 <dc:creator><![CDATA[Farzaneh Fouladi]]></dc:creator>
 <dc:identifier>doi:10.1177/10596011261426783</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>A Commentary on Shepherd, Wincent, and Chase (2025): Moving Past the WEIRD Divide</title>
+<link>https://doi.org/10.1177/10596011261487020</link>
+<guid isPermaLink="false">10.1177/10596011261487020</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vishal K. Gupta; Athina Skiadopoulou; Sandra Mortal]]></dc:creator>
+<dc:identifier>doi:10.1177/10596011261487020</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Commentary on Schertler et al. (2026): Rethinking Inclusion in Remote Work</title>
+<link>https://doi.org/10.1177/10596011261487045</link>
+<guid isPermaLink="false">10.1177/10596011261487045</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jane Park; Peter D. Harms]]></dc:creator>
+<dc:identifier>doi:10.1177/10596011261487045</dc:identifier>
+<description><![CDATA[Schertler and colleagues (2026) find that remote work intensity is associated with lower belongingness and that leaders’ virtual collaboration behaviors may temper this relationship. We extend their account by framing remote inclusion as a signal-detection problem within the team’s interaction environment. Employees infer whether they belong from cues generated through coworker exchanges, communication technologies, participation norms, and leader-supported routines. Leaders shape this environment, and team members enact it through their everyday interactions. This perspective may explain why stable differences in leaders’ average collaboration behaviors mattered more than within-person fluctuations in those behaviors. We also distinguish belongingness from authenticity and clarify that authenticity should not be treated as equivalent to uniqueness. Remote work may affect these dimensions through difference processes. Future research should examine the interaction routines that make inclusionary cues easier to detect, along with the relational histories and individual differences that shape how those cues are interpreted.]]></description>
+<content:encoded><![CDATA[Schertler and colleagues (2026) find that remote work intensity is associated with lower belongingness and that leaders’ virtual collaboration behaviors may temper this relationship. We extend their account by framing remote inclusion as a signal-detection problem within the team’s interaction environment. Employees infer whether they belong from cues generated through coworker exchanges, communication technologies, participation norms, and leader-supported routines. Leaders shape this environment, and team members enact it through their everyday interactions. This perspective may explain why stable differences in leaders’ average collaboration behaviors mattered more than within-person fluctuations in those behaviors. We also distinguish belongingness from authenticity and clarify that authenticity should not be treated as equivalent to uniqueness. Remote work may affect these dimensions through difference processes. Future research should examine the interaction routines that make inclusionary cues easier to detect, along with the relational histories and individual differences that shape how those cues are interpreted.]]></content:encoded>
 </item>
 <item>
 <title>How to Construct and Report Causal-Loop Diagrams (CLDs) in Organizational Research: A Practical Guide</title>

@@ -9,7 +9,7 @@
 <description>AMR — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/amr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 16:13:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 20:41:22 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -499,15 +499,6 @@
 <description></description>
 </item>
 <item>
-<title>Reimagining Management Theory as Theater Rather than Hoax: A Commentary on Willmott’s “Management Theory: Jungle, Myth, or Hoax?”</title>
-<link>https://doi.org/10.5465/amr.2025.0637</link>
-<guid isPermaLink="false">10.5465/amr.2025.0637</guid>
-<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yannick Griep]]></dc:creator>
-<dc:identifier>doi:10.5465/amr.2025.0637</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Leaders on the Other Side of Voice: Extending Black et al.’s Integrative Theory of Collective Voice</title>
 <link>https://doi.org/10.5465/amr.2025.0769</link>
 <guid isPermaLink="false">10.5465/amr.2025.0769</guid>
@@ -640,6 +631,15 @@
 <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dana Bement; Ryan Krause; Michael C. Withers; Matthew Semadeni]]></dc:creator>
 <dc:identifier>doi:10.5465/amr.2023.0238</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding Institutional Environments: A Reply to Two Dialogues from Schultz &amp; Valentinov and Mikel-Hong</title>
+<link>https://doi.org/10.5465/amr.2026.0759</link>
+<guid isPermaLink="false">10.5465/amr.2026.0759</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Patricia H. Thornton; Juan (“John”) Almandoz]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0759</dc:identifier>
 <description></description>
 </item>
 </channel>

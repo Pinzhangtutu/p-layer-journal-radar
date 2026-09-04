@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 16:13:15 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 20:41:22 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -310,15 +310,6 @@
 <description></description>
 </item>
 <item>
-<title>Delayed structural prediction for relative clauses: A new argument for learning to parse from Santiago Laxopa Zapotec</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106599</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106599</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[John Duff; Delaney Gomez-Jackson; Fe Silva Robles; Maziar Toosarvandani; Matthew Wagers]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106599</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Coherence and the memorability of supernatural concepts</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106661</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106661</guid>
@@ -550,6 +541,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Antoine Guinamard; Nicholas E.V. Foster; Sylvain Clément; Valentin Bégel; Sonja A. Kotz; Séverine Samson; Simone Dalla Bella; Delphine Dellacherie]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106663</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Predictive processing in sentence reading: Semantic prediction but not phonological facilitation in deaf readers</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106703</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106703</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[E. Gutierrez-Sigut; M. Perea; M. Vergara-Martinez; M. MacSweeney; K. Rowley; I. Saenz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106703</dc:identifier>
 <description></description>
 </item>
 <item>
