@@ -9,7 +9,7 @@
 <description>JBE — Springer · Latest in: Online First · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jbe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 07:56:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 16:13:15 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -133,24 +133,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xiang Chen; Yunxiao Yang]]></dc:creator>
 <dc:identifier>doi:10.1007/s10551-026-06392-8</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Impartial Intelligence? Evidence of Country-Label Sensitivity in AI Financial Analysis</title>
-<link>https://doi.org/10.1007/s10551-026-06385-7</link>
-<guid isPermaLink="false">10.1007/s10551-026-06385-7</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Fabio Motoki; Jedson Pinto]]></dc:creator>
-<dc:identifier>doi:10.1007/s10551-026-06385-7</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Cost of Committing ESG-Related Sin</title>
-<link>https://doi.org/10.1007/s10551-026-06390-w</link>
-<guid isPermaLink="false">10.1007/s10551-026-06390-w</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Isaac Otchere; Anup Chowdhury; Moshfique Uddin]]></dc:creator>
-<dc:identifier>doi:10.1007/s10551-026-06390-w</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -645,6 +627,24 @@
 <dc:identifier>doi:10.1007/s10551-026-06431-4</dc:identifier>
 <description><![CDATA[Abstract Corruption affects societies worldwide and takes diverse forms across both the public and private sectors. Existing research highlights the complexity of its antecedents and how they operate across macro, meso, and micro levels. However, while public-sector corruption dynamics have received extensive scholarly attention, the literature on “corporate corruption” remains fragmented with respect to its antecedents. This fragmentation limits understanding of corruption mechanisms in the private sector, despite their critical importance for designing targeted and effective anti-corruption policies. To address this gap, this article conducts a scoping review of 93 quantitative studies, synthesising the antecedents of corporate corruption alongside the theoretical perspectives and empirical approaches used to examine them. Drawing on multilevel theory and a conditional perspective, the study maps these antecedents within a dynamic framework that captures both the levels at which they operate and their influence on the conditions necessary for corporate corruption to materialise. By consolidating existing evidence on the antecedents of corporate corruption, this study advances the corruption literature and provides practical insights for policymakers and business leaders seeking to design targeted anti-corruption strategies and strengthen internal governance policies.]]></description>
 <content:encoded><![CDATA[Abstract Corruption affects societies worldwide and takes diverse forms across both the public and private sectors. Existing research highlights the complexity of its antecedents and how they operate across macro, meso, and micro levels. However, while public-sector corruption dynamics have received extensive scholarly attention, the literature on “corporate corruption” remains fragmented with respect to its antecedents. This fragmentation limits understanding of corruption mechanisms in the private sector, despite their critical importance for designing targeted and effective anti-corruption policies. To address this gap, this article conducts a scoping review of 93 quantitative studies, synthesising the antecedents of corporate corruption alongside the theoretical perspectives and empirical approaches used to examine them. Drawing on multilevel theory and a conditional perspective, the study maps these antecedents within a dynamic framework that captures both the levels at which they operate and their influence on the conditions necessary for corporate corruption to materialise. By consolidating existing evidence on the antecedents of corporate corruption, this study advances the corruption literature and provides practical insights for policymakers and business leaders seeking to design targeted anti-corruption strategies and strengthen internal governance policies.]]></content:encoded>
+</item>
+<item>
+<title>Ethical Wasta: A Postcolonial Account of Ethical Leadership in Lebanon</title>
+<link>https://doi.org/10.1007/s10551-026-06452-z</link>
+<guid isPermaLink="false">10.1007/s10551-026-06452-z</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rima Helal; Sa’ad Ali; Sally Shamieh]]></dc:creator>
+<dc:identifier>doi:10.1007/s10551-026-06452-z</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Caring Shoots Beneath the Algorithms: Text-Based Employee CSR and Firm AI Innovation</title>
+<link>https://doi.org/10.1007/s10551-026-06438-x</link>
+<guid isPermaLink="false">10.1007/s10551-026-06438-x</guid>
+<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zixun Zhou; Xinyu Zhou; Hao Zhong; Xuezhi Zhang; Qi He]]></dc:creator>
+<dc:identifier>doi:10.1007/s10551-026-06438-x</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>How Firms’ Violations of Integrity Influence Employee Evaluations</title>

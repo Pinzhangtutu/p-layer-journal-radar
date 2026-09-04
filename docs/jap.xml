@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 07:56:10 +0000</lastBuildDate>
+<lastBuildDate>Fri, 04 Sep 2026 16:13:15 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -289,21 +289,21 @@
 <description></description>
 </item>
 <item>
-<title>Can formative latent variables represent psychological concepts? Replication and extension of MacKenzie et al. (2005).</title>
-<link>https://doi.org/10.1037/apl0001415</link>
-<guid isPermaLink="false">10.1037/apl0001415</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Miguel Aguirre-Urreta; Reza Yamini; Mikko Rönkkö]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001415</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Socializing through the grapevine: A content-based functional perspective on the receipt of workplace gossip during newcomer socialization.</title>
 <link>https://doi.org/10.1037/apl0001423</link>
 <guid isPermaLink="false">10.1037/apl0001423</guid>
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Rui Zhong; Yingxin Deng; Ryan Tucker]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001423</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can formative latent variables represent psychological concepts? Replication and extension of MacKenzie et al. (2005).</title>
+<link>https://doi.org/10.1037/apl0001415</link>
+<guid isPermaLink="false">10.1037/apl0001415</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miguel Aguirre-Urreta; Reza Yamini; Mikko Rönkkö]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001415</dc:identifier>
 <description></description>
 </item>
 <item>
