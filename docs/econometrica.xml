@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Econometrica</title>
+<link>http://localhost:8767/#econometrica</link>
+<description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/econometrica.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>A Comment on: &lt;i&gt;“Presidential Address: Identity Politics” by Nicola Gennaioli and Guido Tabellini&lt;/i&gt;</title>
+<link>https://doi.org/10.3982/ecta24038</link>
+<guid isPermaLink="false">10.3982/ecta24038</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Francesco Trebbi]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta24038</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fiduciary Duty and the Market for Financial Advice</title>
+<link>https://doi.org/10.3982/ecta18492</link>
+<guid isPermaLink="false">10.3982/ecta18492</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vivek Bhattacharya; Gastón Illanes; Manisha Padi]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta18492</dc:identifier>
+<description><![CDATA[Fiduciary duty aims to solve principal‐agent problems, and the United States is in the middle of a protracted debate surrounding the merits of extending it to all financial advisers. Leveraging a transaction‐level data set of deferred annuities and state‐level variation in common law fiduciary duty, we find that it raises risk‐adjusted returns by 25 bp and leads to a 16% decline in the entry of affected firms. Through the lens of a model of entry and advice provision, we show that this effect can be due to both an increase in fixed costs and an increase in the cost of providing low‐quality advice. We show how to disentangle these channels and find that both are empirically relevant. Counterfactual simulations show that further increases in the stringency of fiduciary duty monotonically improve advice quality.]]></description>
+<content:encoded><![CDATA[Fiduciary duty aims to solve principal‐agent problems, and the United States is in the middle of a protracted debate surrounding the merits of extending it to all financial advisers. Leveraging a transaction‐level data set of deferred annuities and state‐level variation in common law fiduciary duty, we find that it raises risk‐adjusted returns by 25 bp and leads to a 16% decline in the entry of affected firms. Through the lens of a model of entry and advice provision, we show that this effect can be due to both an increase in fixed costs and an increase in the cost of providing low‐quality advice. We show how to disentangle these channels and find that both are empirically relevant. Counterfactual simulations show that further increases in the stringency of fiduciary duty monotonically improve advice quality.]]></content:encoded>
+</item>
+<item>
+<title>Persuasion Meets Delegation</title>
+<link>https://doi.org/10.3982/ecta17051</link>
+<guid isPermaLink="false">10.3982/ecta17051</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anton Kolotilin; Andriy Zapechelnyuk]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta17051</dc:identifier>
+<description><![CDATA[A principal can restrict an agent's information (the persuasion problem) or discretion (the delegation problem). We study these two problems under standard single‐crossing assumptions on the agent's marginal utility. We show that these problems are equivalent on the set of monotone stochastic mechanisms, implying, in particular, the equivalence of deterministic delegation and monotone partitional persuasion. We also show that the monotonicity restriction is superfluous for linear persuasion and linear delegation, implying their equivalence on the set of all stochastic mechanisms. Finally, using tools from the persuasion literature, we characterize optimal delegation mechanisms, thereby generalizing and extending existing results in the delegation literature.]]></description>
+<content:encoded><![CDATA[A principal can restrict an agent's information (the persuasion problem) or discretion (the delegation problem). We study these two problems under standard single‐crossing assumptions on the agent's marginal utility. We show that these problems are equivalent on the set of monotone stochastic mechanisms, implying, in particular, the equivalence of deterministic delegation and monotone partitional persuasion. We also show that the monotonicity restriction is superfluous for linear persuasion and linear delegation, implying their equivalence on the set of all stochastic mechanisms. Finally, using tools from the persuasion literature, we characterize optimal delegation mechanisms, thereby generalizing and extending existing results in the delegation literature.]]></content:encoded>
+</item>
+<item>
+<title>The Econometric Society Annual Reports Report of the Treasurer</title>
+<link>https://doi.org/10.3982/ecta931treas</link>
+<guid isPermaLink="false">10.3982/ecta931treas</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta931treas</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Private Information and Price Regulation in the US Credit Card Market</title>
+<link>https://doi.org/10.3982/ecta18063</link>
+<guid isPermaLink="false">10.3982/ecta18063</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Scott T. Nelson]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta18063</dc:identifier>
+<description><![CDATA[The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one‐third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high‐risk and price‐inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre‐CARD‐Act markups was crucial for realizing these surplus gains.]]></description>
+<content:encoded><![CDATA[The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one‐third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high‐risk and price‐inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre‐CARD‐Act markups was crucial for realizing these surplus gains.]]></content:encoded>
+</item>
+<item>
+<title>A Quest for Knowledge</title>
+<link>https://doi.org/10.3982/ecta22144</link>
+<guid isPermaLink="false">10.3982/ecta22144</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christoph Carnehl; Johannes Schneider]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22144</dc:identifier>
+<description><![CDATA[Is more novel research always desirable? We develop a model in which knowledge shapes society's policies and guides the search for discoveries. Researchers select a question and how intensely to study it. The novelty of a question determines both the value and difficulty of discovering its answer. We show that the benefits of discoveries are nonmonotone in novelty. Knowledge expands endogenously step‐by‐step over time. Through a dynamic externality, moonshots—research on questions more novel than what is myopically optimal—can improve the evolution of knowledge. Moonshots induce research cycles in which subsequent researchers connect the moonshot to previous knowledge.]]></description>
+<content:encoded><![CDATA[Is more novel research always desirable? We develop a model in which knowledge shapes society's policies and guides the search for discoveries. Researchers select a question and how intensely to study it. The novelty of a question determines both the value and difficulty of discovering its answer. We show that the benefits of discoveries are nonmonotone in novelty. Knowledge expands endogenously step‐by‐step over time. Through a dynamic externality, moonshots—research on questions more novel than what is myopically optimal—can improve the evolution of knowledge. Moonshots induce research cycles in which subsequent researchers connect the moonshot to previous knowledge.]]></content:encoded>
+</item>
+<item>
+<title>Choices and Outcomes in Assignment Mechanisms: The Allocation of Deceased Donor Kidneys</title>
+<link>https://doi.org/10.3982/ecta20203</link>
+<guid isPermaLink="false">10.3982/ecta20203</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nikhil Agarwal; Charles Hodgson; Paulo Somaini]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta20203</dc:identifier>
+<description><![CDATA[While the mechanism design paradigm emphasizes notions of efficiency based on agent preferences, policymakers often focus on alternative objectives. School districts emphasize educational achievement, and transplantation communities focus on patient survival. It is unclear whether choice‐based mechanisms perform well when assessed based on these outcomes. This paper evaluates the assignment mechanism for allocating deceased donor kidneys on the basis of patient life‐years from transplantation (LYFT). We examine the role of choice in increasing LYFT and compare realized assignments to benchmarks that remove choice. Our model combines choices and outcomes in order to study how selection affects LYFT. We show how to identify and estimate the model using instruments derived from the mechanism. The estimates suggest that the design in use selects patients with better post‐transplant survival prospects and matches them well, resulting in an average LYFT of 9.29, which is 1.75 years more than a random assignment. However, the maximum aggregate LYFT is 14.08. Realizing the majority of the gains requires transplanting relatively healthy patients, who would have longer life expectancies even without a transplant. Therefore, a policymaker faces a dilemma between transplanting patients who are sicker and those for whom life will be extended the longest.]]></description>
+<content:encoded><![CDATA[While the mechanism design paradigm emphasizes notions of efficiency based on agent preferences, policymakers often focus on alternative objectives. School districts emphasize educational achievement, and transplantation communities focus on patient survival. It is unclear whether choice‐based mechanisms perform well when assessed based on these outcomes. This paper evaluates the assignment mechanism for allocating deceased donor kidneys on the basis of patient life‐years from transplantation (LYFT). We examine the role of choice in increasing LYFT and compare realized assignments to benchmarks that remove choice. Our model combines choices and outcomes in order to study how selection affects LYFT. We show how to identify and estimate the model using instruments derived from the mechanism. The estimates suggest that the design in use selects patients with better post‐transplant survival prospects and matches them well, resulting in an average LYFT of 9.29, which is 1.75 years more than a random assignment. However, the maximum aggregate LYFT is 14.08. Realizing the majority of the gains requires transplanting relatively healthy patients, who would have longer life expectancies even without a transplant. Therefore, a policymaker faces a dilemma between transplanting patients who are sicker and those for whom life will be extended the longest.]]></content:encoded>
+</item>
+<item>
+<title>Auctioning Control and Cash‐Flow Rights Separately</title>
+<link>https://doi.org/10.3982/ecta21343</link>
+<guid isPermaLink="false">10.3982/ecta21343</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tingjun Liu; Dan Bernhardt]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21343</dc:identifier>
+<description><![CDATA[We consider a classical auction setting in which an asset/project is sold to buyers who privately receive signals about expected payoffs, and payoffs are more sensitive to a bidder's signal if he runs the project than if another bidder does. We show that a seller can increase revenues by sometimes allocating cash‐flow rights and control to different bidders, for example, with the highest bidder receiving cash flows and the second‐highest receiving control. Separation reduces a bidder's information rent, which depends on the importance of his private information for the value of his awarded cash flows. As project payoffs are most sensitive to a bidder's information if he controls the project, allocating cash flow to another bidder lowers bidders' informational advantage. As a result, when signals are close, the seller can increase revenues by splitting rights between the top two bidders.]]></description>
+<content:encoded><![CDATA[We consider a classical auction setting in which an asset/project is sold to buyers who privately receive signals about expected payoffs, and payoffs are more sensitive to a bidder's signal if he runs the project than if another bidder does. We show that a seller can increase revenues by sometimes allocating cash‐flow rights and control to different bidders, for example, with the highest bidder receiving cash flows and the second‐highest receiving control. Separation reduces a bidder's information rent, which depends on the importance of his private information for the value of his awarded cash flows. As project payoffs are most sensitive to a bidder's information if he controls the project, allocating cash flow to another bidder lowers bidders' informational advantage. As a result, when signals are close, the seller can increase revenues by splitting rights between the top two bidders.]]></content:encoded>
+</item>
+<item>
+<title>The Complexity of Multidimensional Learning in Agriculture</title>
+<link>https://doi.org/10.3982/ecta22974</link>
+<guid isPermaLink="false">10.3982/ecta22974</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rachid Laajaj; Karen Macours]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22974</dc:identifier>
+<description><![CDATA[Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.]]></description>
+<content:encoded><![CDATA[Studies on agricultural technology adoption often focus on one input, practice, or package, which is analytically useful, but may overlook the complexities involved with multidimensional learning needed for a lot of agricultural decisions. In Kenya, we study farmers' dynamic learning (from oneself and others) and adoption decisions over six seasons after randomly inviting them to participate in agronomic research trials, comparing different combinations of inputs during three consecutive seasons. As a response to the trials, adoption increases steadily despite the absence of positive profits multiple seasons after exposure to the trials. Know‐how increases rapidly and faster for high skill farmers who experiment the most, at the cost of making new mistakes. The findings are consistent with a theoretical model with multidimensionality of input and practice decisions and differential learning from one's own experience by skills, where complementarities imply that adoption of an input requires finding how to re‐optimize other dimensions, which adds to the cost of adoption.]]></content:encoded>
+</item>
+<item>
+<title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
+<link>https://doi.org/10.3982/ecta941sum</link>
+<guid isPermaLink="false">10.3982/ecta941sum</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta941sum</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Outside Options, Reputations, and the Partial Success of the Coase Conjecture</title>
+<link>https://doi.org/10.3982/ecta22022</link>
+<guid isPermaLink="false">10.3982/ecta22022</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jack Fanning]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22022</dc:identifier>
+<description><![CDATA[A buyer and seller bargain in continuous time over a good. Bargainers can be rational or committed to some fixed price. A rational buyer has a private value and outside option. If the set of buyer values and commitment types is rich and the probability of commitment vanishes, outcomes are partially consistent with the Coase conjecture: the seller chooses a price below the maximum of the lowest outside option and half the lowest value; the buyer immediately accepts or takes his outside option.]]></description>
+<content:encoded><![CDATA[A buyer and seller bargain in continuous time over a good. Bargainers can be rational or committed to some fixed price. A rational buyer has a private value and outside option. If the set of buyer values and commitment types is rich and the probability of commitment vanishes, outcomes are partially consistent with the Coase conjecture: the seller chooses a price below the maximum of the lowest outside option and half the lowest value; the buyer immediately accepts or takes his outside option.]]></content:encoded>
+</item>
+<item>
+<title>Work Hours Mismatch</title>
+<link>https://doi.org/10.3982/ecta21849</link>
+<guid isPermaLink="false">10.3982/ecta21849</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marta Lachowska; Alexandre Mas; Raffaele Saggio; Stephen A. Woodbury]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21849</dc:identifier>
+<description><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></description>
+<content:encoded><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></content:encoded>
+</item>
+<item>
+<title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
+<link>https://doi.org/10.3982/ecta944sum</link>
+<guid isPermaLink="false">10.3982/ecta944sum</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta944sum</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data</title>
+<link>https://doi.org/10.3982/ecta22733</link>
+<guid isPermaLink="false">10.3982/ecta22733</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maarten De Ridder; Basile Grassi; Giovanni Morzenti]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22733</dc:identifier>
+<description><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></description>
+<content:encoded><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></content:encoded>
+</item>
+<item>
+<title>Choosing Who Chooses: Selection‐Driven Targeting in Energy Rebate Programs</title>
+<link>https://doi.org/10.3982/ecta21180</link>
+<guid isPermaLink="false">10.3982/ecta21180</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Takanori Ida; Takunori Ishihara; Koichiro Ito; Daido Kido; Toru Kitagawa; Shosei Sakaguchi; Shusaku Sasaki]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21180</dc:identifier>
+<description><![CDATA[We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self‐selection . Our method can be used with experimental or quasi‐experimental data to identify who should be treated, be untreated, and self‐select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self‐selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self‐selection would be valuable and harmful to social welfare.]]></description>
+<content:encoded><![CDATA[We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self‐selection . Our method can be used with experimental or quasi‐experimental data to identify who should be treated, be untreated, and self‐select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self‐selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self‐selection would be valuable and harmful to social welfare.]]></content:encoded>
+</item>
+<item>
+<title>The Econometric Society 2025 Annual Report of the President</title>
+<link>https://doi.org/10.3982/ecta943pres</link>
+<guid isPermaLink="false">10.3982/ecta943pres</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta943pres</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Firm‐to‐Firm Trade: Imports, Exports, and the Labor Market</title>
+<link>https://doi.org/10.3982/ecta20506</link>
+<guid isPermaLink="false">10.3982/ecta20506</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jonathan Eaton; Samuel Kortum; Francis Kramarz]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta20506</dc:identifier>
+<description><![CDATA[Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.]]></description>
+<content:encoded><![CDATA[Customs data reveal the heterogeneity and granularity of relationships among buyers and sellers, showing how more exports to a destination break down into more firms selling there and more buyers per exporter. We develop a quantitative general equilibrium model of firm‐to‐firm matching that builds on this insight to separate the roles of iceberg costs and matching frictions in gravity. In the cross section, we find matching frictions as important as iceberg costs in impeding trade, and more sensitive to distance. Because domestic and imported intermediates compete directly with labor in performing production tasks, our model also fits the heterogeneity of labor shares across French producers. Applying the framework to the 2004 expansion of the European Union, reduced iceberg costs and reduced matching frictions contributed equally to the increase in French exports to the new members. While workers benefited overall, those competing most directly with imports gained less, even losing in some countries entering the EU.]]></content:encoded>
+</item>
+<item>
+<title>Existence of Myopic‐Farsighted Stable Sets in Matching Markets</title>
+<link>https://doi.org/10.3982/ecta24060</link>
+<guid isPermaLink="false">10.3982/ecta24060</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Battal Dogan; Lars Ehlers]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta24060</dc:identifier>
+<description><![CDATA[In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , which are internally and externally stable when myopic agents consider immediate payoffs from their deviations, while farsighted agents anticipate counter‐deviations and consider final payoffs. We constructively prove the existence of a (rational expectations) myopic‐farsighted stable set, in which farsighted agents receive a single payoff while myopic agents may receive multiple payoffs. Our existence result extends to settings with enforcing coalitions of arbitrary size, yielding coalitional myopic‐farsighted stable sets , and to settings where not all members of an enforcing coalition must strictly gain, yielding myopic‐farsighted weakly stable sets . When all farsighted agents have unit demand, our results also extend to many‐to‐one matching markets. As a key corollary, we provide a foundation for the efficiency‐adjusted deferred acceptance algorithm by showing that its outcome constitutes a singleton myopic‐farsighted stable set when one side is farsighted and the other is myopic.]]></description>
+<content:encoded><![CDATA[In the context of one‐to‐one matching markets, we study myopic‐farsighted stable sets , which are internally and externally stable when myopic agents consider immediate payoffs from their deviations, while farsighted agents anticipate counter‐deviations and consider final payoffs. We constructively prove the existence of a (rational expectations) myopic‐farsighted stable set, in which farsighted agents receive a single payoff while myopic agents may receive multiple payoffs. Our existence result extends to settings with enforcing coalitions of arbitrary size, yielding coalitional myopic‐farsighted stable sets , and to settings where not all members of an enforcing coalition must strictly gain, yielding myopic‐farsighted weakly stable sets . When all farsighted agents have unit demand, our results also extend to many‐to‐one matching markets. As a key corollary, we provide a foundation for the efficiency‐adjusted deferred acceptance algorithm by showing that its outcome constitutes a singleton myopic‐farsighted stable set when one side is farsighted and the other is myopic.]]></content:encoded>
+</item>
+<item>
+<title>Identification in Instrumental Variables Models: The Central Role of Abadie's Kappa</title>
+<link>https://doi.org/10.3982/ecta23174</link>
+<guid isPermaLink="false">10.3982/ecta23174</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Manu Navjeevan; Rodrigo Pinto; Andres Santos]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23174</dc:identifier>
+<description><![CDATA[We study instrumental variables models characterized by: (i) Unobserved heterogeneity consisting of potential outcomes and response types that describe how the instrument determines treatment choice; (ii) Conditional independence of the instrument and the unobserved heterogeneity; and (iii) Convex restrictions on the distribution of unobserved heterogeneity. We show certain causal parameters are identified in these models if and only if a version of the kappa of Abadie (2003) exists. Our identification results are constructive in yielding estimating moment conditions. Focusing on a leading special case, we develop asymptotically normal estimators based on a doubly robust version of these moment conditions.]]></description>
+<content:encoded><![CDATA[We study instrumental variables models characterized by: (i) Unobserved heterogeneity consisting of potential outcomes and response types that describe how the instrument determines treatment choice; (ii) Conditional independence of the instrument and the unobserved heterogeneity; and (iii) Convex restrictions on the distribution of unobserved heterogeneity. We show certain causal parameters are identified in these models if and only if a version of the kappa of Abadie (2003) exists. Our identification results are constructive in yielding estimating moment conditions. Focusing on a leading special case, we develop asymptotically normal estimators based on a doubly robust version of these moment conditions.]]></content:encoded>
+</item>
+<item>
+<title>The Econometric Society Annual Reports Report of the Secretary</title>
+<link>https://doi.org/10.3982/ecta941sec</link>
+<guid isPermaLink="false">10.3982/ecta941sec</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta941sec</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Food Policy in a Warming World</title>
+<link>https://doi.org/10.3982/ecta23125</link>
+<guid isPermaLink="false">10.3982/ecta23125</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Allan Hsiao; Jacob Moscona; Karthik A. Sastry]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23125</dc:identifier>
+<description><![CDATA[This paper studies how governments intervene in agricultural markets to reshape the economic consequences of climate extremes. We construct a global dataset of agricultural policies and extreme heat exposure by country and crop since 1980. Extreme heat shocks to domestic production lead to policies that assist consumers by lowering domestic food prices. This effect is persistent, primarily implemented via border policies, and stronger during election years. Shocks to foreign production induce the opposite response: policies that assist producers by raising prices. These findings can be rationalized by a model in which governments use agricultural policy to redistribute among domestic interest groups. Our estimates imply that policy responses shield domestic consumers, while exacerbating losses for domestic producers and foreign consumers. Policy responses have regressive consequences globally, disproportionately harming poor and heat‐exposed countries.]]></description>
+<content:encoded><![CDATA[This paper studies how governments intervene in agricultural markets to reshape the economic consequences of climate extremes. We construct a global dataset of agricultural policies and extreme heat exposure by country and crop since 1980. Extreme heat shocks to domestic production lead to policies that assist consumers by lowering domestic food prices. This effect is persistent, primarily implemented via border policies, and stronger during election years. Shocks to foreign production induce the opposite response: policies that assist producers by raising prices. These findings can be rationalized by a model in which governments use agricultural policy to redistribute among domestic interest groups. Our estimates imply that policy responses shield domestic consumers, while exacerbating losses for domestic producers and foreign consumers. Policy responses have regressive consequences globally, disproportionately harming poor and heat‐exposed countries.]]></content:encoded>
+</item>
+<item>
+<title>Dynamic Incentives in Incompletely Specified Environments</title>
+<link>https://doi.org/10.3982/ecta23373</link>
+<guid isPermaLink="false">10.3982/ecta23373</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gabriel Carroll]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23373</dc:identifier>
+<description><![CDATA[Consider a repeated interaction where it is unknown which of various stage games will be played each period. This framework separates the basic logic of intertemporal incentives from the requirement that any given strategy profile yields a well‐defined payoff vector. A natural solution concept is ex post perfect equilibrium: strategies must form a subgame‐perfect equilibrium for any realization of the sequence of stage games. When there is one long‐run player and others are short‐run, and public randomization is available, we can adapt the standard recursive approach to determine the maximum feasible gap between reward and punishment for the long‐run player. This allows us to identify which actions can be played in equilibrium and, assuming perfect monitoring, to fully characterize what outcome paths can arise. With multiple long‐run players or no public randomization, the approach fails; a diagnostic of this failure is that optimal penal codes may no longer exist.]]></description>
+<content:encoded><![CDATA[Consider a repeated interaction where it is unknown which of various stage games will be played each period. This framework separates the basic logic of intertemporal incentives from the requirement that any given strategy profile yields a well‐defined payoff vector. A natural solution concept is ex post perfect equilibrium: strategies must form a subgame‐perfect equilibrium for any realization of the sequence of stage games. When there is one long‐run player and others are short‐run, and public randomization is available, we can adapt the standard recursive approach to determine the maximum feasible gap between reward and punishment for the long‐run player. This allows us to identify which actions can be played in equilibrium and, assuming perfect monitoring, to fully characterize what outcome paths can arise. With multiple long‐run players or no public randomization, the approach fails; a diagnostic of this failure is that optimal penal codes may no longer exist.]]></content:encoded>
+</item>
+<item>
+<title>Monotonicity and Robust Implementation Under Forward‐Induction Reasoning</title>
+<link>https://doi.org/10.3982/ecta23709</link>
+<guid isPermaLink="false">10.3982/ecta23709</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pierpaolo Battigalli; Emiliano Catonini]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23709</dc:identifier>
+<description><![CDATA[In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).]]></description>
+<content:encoded><![CDATA[In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).]]></content:encoded>
+</item>
+<item>
+<title>The Inference‐Forecast Gap in Belief Updating</title>
+<link>https://doi.org/10.3982/ecta23334</link>
+<guid isPermaLink="false">10.3982/ecta23334</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tony Q. Fan; Yucheng Liang; Cameron Peng]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23334</dc:identifier>
+<description><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></description>
+<content:encoded><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></content:encoded>
+</item>
+<item>
+<title>Comment on &lt;i&gt;‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee&lt;/i&gt;</title>
+<link>https://doi.org/10.3982/ecta24210</link>
+<guid isPermaLink="false">10.3982/ecta24210</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rena M. Conti]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta24210</dc:identifier>
+<description><![CDATA[Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, the United States uses private firms, pharmacy benefit managers (PBMs), to manage medicine access and spending. Yet, PBMs' roles in advancing efficiency are understudied. Ho and Lee model PBMs' use of tiered formularies, lists of covered medicines, without the use of proprietary data on the price concessions drug makers offer for preferred placement. They find PBMs' use of tiered formularies generate significant payor savings through competition. Complementing Ho and Lee, Feng and Maini (2024) model how patient demand inertia limits PBMs' ability to extract price concessions from drug makers which consequently erodes the efficacy gains of PBM formularies. Conti, Frandsen, Powell, and Rebitzer (2021) model formulary auctions where PBM size drives payor savings, but also spurs endogenously set high list prices, reducing patient access. Future economic research should focus on PBM market entry and vertical integration, pharmacy steering, and effects on innovation.]]></description>
+<content:encoded><![CDATA[Biopharmaceuticals advance health and economic growth. Unlike central bargaining abroad, the United States uses private firms, pharmacy benefit managers (PBMs), to manage medicine access and spending. Yet, PBMs' roles in advancing efficiency are understudied. Ho and Lee model PBMs' use of tiered formularies, lists of covered medicines, without the use of proprietary data on the price concessions drug makers offer for preferred placement. They find PBMs' use of tiered formularies generate significant payor savings through competition. Complementing Ho and Lee, Feng and Maini (2024) model how patient demand inertia limits PBMs' ability to extract price concessions from drug makers which consequently erodes the efficacy gains of PBM formularies. Conti, Frandsen, Powell, and Rebitzer (2021) model formulary auctions where PBM size drives payor savings, but also spurs endogenously set high list prices, reducing patient access. Future economic research should focus on PBM market entry and vertical integration, pharmacy steering, and effects on innovation.]]></content:encoded>
+</item>
+<item>
+<title>The Econometric Society Annual Reports Econometrica report 2024–2025Marina Halac</title>
+<link>https://doi.org/10.3982/ecta941eds</link>
+<guid isPermaLink="false">10.3982/ecta941eds</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta941eds</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Assortative Matching on Income</title>
+<link>https://doi.org/10.3982/ecta21097</link>
+<guid isPermaLink="false">10.3982/ecta21097</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pierre-André Chiappori; Carlo Fiorio; Alfred Galichon; Stefano Verzillo]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21097</dc:identifier>
+<description><![CDATA[We analyze marital matching on income using an extremely rich Dutch data set containing all income tax files over seven years. We develop a novel methodology that directly extends previous contributions to allow for highly flexible matching patterns. Investigating all marriages that took place between 2013 and 2019, we find that marital patterns are particularly intriguing. While a majority of couples match assortatively, a small but significant minority display negative assortative matching. We also show that standard approaches, which consider all married couples using current incomes (as opposed to pre‐marriage incomes used in our approach), may generate misleading conclusions.]]></description>
+<content:encoded><![CDATA[We analyze marital matching on income using an extremely rich Dutch data set containing all income tax files over seven years. We develop a novel methodology that directly extends previous contributions to allow for highly flexible matching patterns. Investigating all marriages that took place between 2013 and 2019, we find that marital patterns are particularly intriguing. While a majority of couples match assortatively, a small but significant minority display negative assortative matching. We also show that standard approaches, which consider all married couples using current incomes (as opposed to pre‐marriage incomes used in our approach), may generate misleading conclusions.]]></content:encoded>
+</item>
+<item>
+<title>Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design</title>
+<link>https://doi.org/10.3982/ecta22565</link>
+<guid isPermaLink="false">10.3982/ecta22565</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Naoki Aizawa; Corina Mommaerts; Stephanie Rennane]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22565</dc:identifier>
+<description><![CDATA[This paper studies the labor market impacts of firm accommodation decisions after workplace disability and assesses implications for the design of firm subsidies. We leverage a workers' compensation (WC) program in Oregon that provides wage subsidies to firms for accommodating workers with workplace disabilities. Leveraging rich administrative data and a policy change to the wage subsidy, we show that accommodation rates respond to the subsidy rate and that receipt of accommodation leads to a significant increase in employment and earnings a year later. To explore welfare implications, we develop and estimate a frictional labor market model of accommodation as a form of human capital investment. Worker turnover and imperfect experience rating in WC lead to underaccommodation and inefficient labor market outcomes after workplace disability. Counterfactual simulations show that subsidizing accommodation not only improves long‐run labor market outcomes of workers experiencing work‐related disability but also yields welfare gains for most workers.]]></description>
+<content:encoded><![CDATA[This paper studies the labor market impacts of firm accommodation decisions after workplace disability and assesses implications for the design of firm subsidies. We leverage a workers' compensation (WC) program in Oregon that provides wage subsidies to firms for accommodating workers with workplace disabilities. Leveraging rich administrative data and a policy change to the wage subsidy, we show that accommodation rates respond to the subsidy rate and that receipt of accommodation leads to a significant increase in employment and earnings a year later. To explore welfare implications, we develop and estimate a frictional labor market model of accommodation as a form of human capital investment. Worker turnover and imperfect experience rating in WC lead to underaccommodation and inefficient labor market outcomes after workplace disability. Counterfactual simulations show that subsidizing accommodation not only improves long‐run labor market outcomes of workers experiencing work‐related disability but also yields welfare gains for most workers.]]></content:encoded>
+</item>
+<item>
+<title>Subgroup Decomposition of the Gini Coefficient: A New Solution to an Old Problem</title>
+<link>https://doi.org/10.3982/ecta22145</link>
+<guid isPermaLink="false">10.3982/ecta22145</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vesa-Matti Heikkuri; Matthias Schief]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22145</dc:identifier>
+<description><![CDATA[We derive a novel decomposition of the Gini coefficient into within‐ and between‐group inequality terms that sum to the aggregate Gini coefficient. This decomposition is derived from a set of axioms that ensure desirable behavior for the within‐ and between‐group inequality terms. The decomposition of the Gini coefficient is unique given our axioms, easy to compute, and can be interpreted geometrically.]]></description>
+<content:encoded><![CDATA[We derive a novel decomposition of the Gini coefficient into within‐ and between‐group inequality terms that sum to the aggregate Gini coefficient. This decomposition is derived from a set of axioms that ensure desirable behavior for the within‐ and between‐group inequality terms. The decomposition of the Gini coefficient is unique given our axioms, easy to compute, and can be interpreted geometrically.]]></content:encoded>
+</item>
+<item>
+<title>Communicating Scientific Uncertainty via Approximate Posteriors</title>
+<link>https://doi.org/10.3982/ecta22613</link>
+<guid isPermaLink="false">10.3982/ecta22613</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Isaiah Andrews; Jesse M. Shapiro]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22613</dc:identifier>
+<description><![CDATA[We cast the problem of communicating scientific uncertainty as one of reporting a posterior distribution on an unknown parameter to an audience of Bayesian decision‐makers. We establish novel bounds on the audience's regret when the analyst reports an approximation to a posterior that the audience treats as exact. Under a palatable restriction on the audience's decision problems, the bounds take an especially convenient form. Under a further restriction on the audience's priors, a bootstrap distribution can be used as a stand‐in posterior. We propose a practical recipe for checking whether a conventional statistical report (say, a normal parameterized by a point estimate and standard error) is a good approximation, and for improving the report if it is not. We illustrate our proposals using the articles in the 2021 American Economic Review that use a bootstrap for inference.]]></description>
+<content:encoded><![CDATA[We cast the problem of communicating scientific uncertainty as one of reporting a posterior distribution on an unknown parameter to an audience of Bayesian decision‐makers. We establish novel bounds on the audience's regret when the analyst reports an approximation to a posterior that the audience treats as exact. Under a palatable restriction on the audience's decision problems, the bounds take an especially convenient form. Under a further restriction on the audience's priors, a bootstrap distribution can be used as a stand‐in posterior. We propose a practical recipe for checking whether a conventional statistical report (say, a normal parameterized by a point estimate and standard error) is a good approximation, and for improving the report if it is not. We illustrate our proposals using the articles in the 2021 American Economic Review that use a bootstrap for inference.]]></content:encoded>
+</item>
+<item>
+<title>Mechanism Design for Personalized Policy: A Field Experiment Incentivizing Exercise</title>
+<link>https://doi.org/10.3982/ecta21926</link>
+<guid isPermaLink="false">10.3982/ecta21926</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rebecca Dizon-Ross; Ariel Zucker]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21926</dc:identifier>
+<description><![CDATA[Personalizing policies can theoretically increase their effectiveness. However, personalization is difficult when individual types are unobservable and the preferences of policymakers and individuals are not aligned, which could cause individuals to misreport their type. Mechanism design offers a strategy to overcome this issue: offer an “incentive‐compatible” menu of policy choices designed to induce participants to select the variant intended for their type. Using a field experiment that personalized incentives for exercise among 6,800 adults with diabetes and hypertension in urban India, we show that personalizing with an incentive‐compatible choice menu substantially improves program performance, increasing the treatment effect of incentives on exercise by 80% without increasing incentive costs relative to a one‐size‐fits‐all benchmark. Offering choice achieves similar performance to personalizing with an extensive set of observable variables, but without the same data requirements.]]></description>
+<content:encoded><![CDATA[Personalizing policies can theoretically increase their effectiveness. However, personalization is difficult when individual types are unobservable and the preferences of policymakers and individuals are not aligned, which could cause individuals to misreport their type. Mechanism design offers a strategy to overcome this issue: offer an “incentive‐compatible” menu of policy choices designed to induce participants to select the variant intended for their type. Using a field experiment that personalized incentives for exercise among 6,800 adults with diabetes and hypertension in urban India, we show that personalizing with an incentive‐compatible choice menu substantially improves program performance, increasing the treatment effect of incentives on exercise by 80% without increasing incentive costs relative to a one‐size‐fits‐all benchmark. Offering choice achieves similar performance to personalizing with an extensive set of observable variables, but without the same data requirements.]]></content:encoded>
+</item>
+<item>
+<title>Coordination and Commitment in International Climate Action: Evidence From Palm Oil</title>
+<link>https://doi.org/10.3982/ecta20608</link>
+<guid isPermaLink="false">10.3982/ecta20608</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Allan Hsiao]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta20608</dc:identifier>
+<description><![CDATA[Weak environmental regulation has global consequences. When domestic regulation fails, the international community can target emitters with trade policy. I develop a dynamic empirical framework for evaluating trade policy as a substitute for domestic regulation, and I apply the framework to the market for palm oil, a major driver of deforestation and global CO 2 emissions. Relative to business as usual, a domestic production tax of 50% reduces CO 2 emissions by 7.4 Gt from 1988 to 2016, amounting to 0.26 Gt annually. Coordinated, committed import tariffs of similar magnitude reduce emissions by 5.4 Gt over the same period. The cost of these import tariffs is only $15 per ton of CO 2 , even accounting for compensating transfers that recognize welfare losses for producing countries. Without coordination and commitment, import tariffs have more limited effects. Alternative policies include domestic export taxes, which are fiscally appealing independent of emission concerns, and a carbon border adjustment mechanism, which encourages domestic regulation.]]></description>
+<content:encoded><![CDATA[Weak environmental regulation has global consequences. When domestic regulation fails, the international community can target emitters with trade policy. I develop a dynamic empirical framework for evaluating trade policy as a substitute for domestic regulation, and I apply the framework to the market for palm oil, a major driver of deforestation and global CO 2 emissions. Relative to business as usual, a domestic production tax of 50% reduces CO 2 emissions by 7.4 Gt from 1988 to 2016, amounting to 0.26 Gt annually. Coordinated, committed import tariffs of similar magnitude reduce emissions by 5.4 Gt over the same period. The cost of these import tariffs is only $15 per ton of CO 2 , even accounting for compensating transfers that recognize welfare losses for producing countries. Without coordination and commitment, import tariffs have more limited effects. Alternative policies include domestic export taxes, which are fiscally appealing independent of emission concerns, and a carbon border adjustment mechanism, which encourages domestic regulation.]]></content:encoded>
+</item>
+<item>
+<title>Optimally‐Transported Generalized Method of Moments</title>
+<link>https://doi.org/10.3982/ecta22486</link>
+<guid isPermaLink="false">10.3982/ecta22486</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Susanne Schennach; Vincent Starck]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22486</dc:identifier>
+<description><![CDATA[We propose a novel optimal transport‐based version of the Generalized Method of Moment (GMM). Instead of handling overidentification by reweighting the data to satisfy the moment conditions (as in Generalized Empirical Likelihood methods), this method proceeds by allowing for errors in the variables of the least mean‐square magnitude necessary to simultaneously satisfy all moment conditions. This approach, based on the notions of optimal transport and Wasserstein metric, aims to address the problem of assigning a logical interpretation to GMM results even when overidentification tests reject the null, a situation that cannot always be avoided in applications. We illustrate the method by revisiting Duranton, Morrow and Turner's (2014) study of the relationship between a city's exports and the extent of its transportation infrastructure. Our results corroborate theirs under weaker assumptions and provide insight into the error structure of the variables.]]></description>
+<content:encoded><![CDATA[We propose a novel optimal transport‐based version of the Generalized Method of Moment (GMM). Instead of handling overidentification by reweighting the data to satisfy the moment conditions (as in Generalized Empirical Likelihood methods), this method proceeds by allowing for errors in the variables of the least mean‐square magnitude necessary to simultaneously satisfy all moment conditions. This approach, based on the notions of optimal transport and Wasserstein metric, aims to address the problem of assigning a logical interpretation to GMM results even when overidentification tests reject the null, a situation that cannot always be avoided in applications. We illustrate the method by revisiting Duranton, Morrow and Turner's (2014) study of the relationship between a city's exports and the extent of its transportation infrastructure. Our results corroborate theirs under weaker assumptions and provide insight into the error structure of the variables.]]></content:encoded>
+</item>
+<item>
+<title>Job Ladder and Wealth Dynamics in General Equilibrium</title>
+<link>https://doi.org/10.3982/ecta22542</link>
+<guid isPermaLink="false">10.3982/ecta22542</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Leo Kaas; Etienne Lalé; Nawid Siassi]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22542</dc:identifier>
+<description><![CDATA[This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.]]></description>
+<content:encoded><![CDATA[This paper develops a macroeconomic model that combines an incomplete‐markets overlapping‐generations economy with a job ladder featuring sequential wage bargaining, endogenous search effort of employed and non‐employed workers, and differences in match quality. With these ingredients, our model provides a joint microfoundation for the three main inputs in aggregate production: capital, employment, and labor efficiency. The calibrated model offers a good fit to the empirical age profiles of search activity, job‐finding rates, wages, and savings. We use the model to analyze the impact of tax and transfer policies for labor market dynamics and aggregate economic activity via capital, employment, and labor efficiency channels. Lower unemployment benefits and a less progressive tax schedule bring about welfare losses for a newborn worker which are mainly driven by higher consumption risk and costlier search effort; both policies have differential effects along the age, income, and wealth dimensions.]]></content:encoded>
+</item>
+<item>
+<title>Multidimensional Screening With Precise Seller Information</title>
+<link>https://doi.org/10.3982/ecta23622</link>
+<guid isPermaLink="false">10.3982/ecta23622</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mira Frick; Ryota Iijima; Yuhta Ishii]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23622</dc:identifier>
+<description><![CDATA[A multi‐product monopolist faces a buyer who is privately informed about his valuations for the goods. As is well known, optimal mechanisms are in general complicated, while simple mechanisms—such as pure bundling or separate sales—can be far from optimal and do not admit clear‐cut comparisons. We show that this changes if the monopolist has sufficiently precise information about the buyer's valuations: Now, pure bundling always outperforms separate sales; moreover, there is a sense in which pure bundling performs essentially as well as the optimal mechanism. To formalize this, we characterize how fast the corresponding revenues converge to the first‐best revenue as the monopolist's information grows precise: Pure bundling achieves the same convergence rate to the first‐best as optimal mechanisms; in contrast, the convergence rate under separate sales is suboptimal.]]></description>
+<content:encoded><![CDATA[A multi‐product monopolist faces a buyer who is privately informed about his valuations for the goods. As is well known, optimal mechanisms are in general complicated, while simple mechanisms—such as pure bundling or separate sales—can be far from optimal and do not admit clear‐cut comparisons. We show that this changes if the monopolist has sufficiently precise information about the buyer's valuations: Now, pure bundling always outperforms separate sales; moreover, there is a sense in which pure bundling performs essentially as well as the optimal mechanism. To formalize this, we characterize how fast the corresponding revenues converge to the first‐best revenue as the monopolist's information grows precise: Pure bundling achieves the same convergence rate to the first‐best as optimal mechanisms; in contrast, the convergence rate under separate sales is suboptimal.]]></content:encoded>
+</item>
+<item>
+<title>2025 Election of Fellows to the Econometric Society</title>
+<link>https://doi.org/10.3982/ecta942ef</link>
+<guid isPermaLink="false">10.3982/ecta942ef</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta942ef</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Dynamic Screening of Buyers With Heterogeneous Purchase Frequency</title>
+<link>https://doi.org/10.3982/ecta23049</link>
+<guid isPermaLink="false">10.3982/ecta23049</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johannes Hörner; Anna Sanktjohanser]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23049</dc:identifier>
+<description><![CDATA[We consider a dynamic buyer–seller interaction. Instead of the buyer's valuation, it is the frequency with which he needs to trade that is the buyer's private information. The difference matters. With commitment, full surplus extraction is possible, for instance via limited‐time offers. Without commitment, ratcheting is mitigated, as not buying is not necessarily a sign of strength. Because time is informative, the seller learns and may adjust her behavior over time. When finding a suitable alternative seller is easy, she starts with a pooling offer before permanently switching to a screening offer. When finding a suitable alternative seller takes time, she starts with a pooling offer before occasionally experimenting with separating offers.]]></description>
+<content:encoded><![CDATA[We consider a dynamic buyer–seller interaction. Instead of the buyer's valuation, it is the frequency with which he needs to trade that is the buyer's private information. The difference matters. With commitment, full surplus extraction is possible, for instance via limited‐time offers. Without commitment, ratcheting is mitigated, as not buying is not necessarily a sign of strength. Because time is informative, the seller learns and may adjust her behavior over time. When finding a suitable alternative seller is easy, she starts with a pooling offer before permanently switching to a screening offer. When finding a suitable alternative seller takes time, she starts with a pooling offer before occasionally experimenting with separating offers.]]></content:encoded>
+</item>
+<item>
+<title>Equilibrium Existence in First‐Price Auctions With Private Values</title>
+<link>https://doi.org/10.3982/ecta22570</link>
+<guid isPermaLink="false">10.3982/ecta22570</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wojciech Olszewski; Philip J. Reny; Ron Siegel]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22570</dc:identifier>
+<description><![CDATA[We provide sufficient conditions for equilibrium existence in first‐price auctions with private values that accommodate non quasi‐linear utilities and value‐distributions that contain atoms and exhibit positive or negative correlation. These conditions show that equilibrium existence often turns on properties of a single statistic of the joint distribution of values, namely, the minimum value in the support of the high‐value distribution (the mHV). We also show that modifying the standard tie‐breaking rule only at the mHV is enough to guarantee equilibrium existence without our sufficient conditions. Our results also apply to Bertrand price competition when each firm's constant marginal cost is private information.]]></description>
+<content:encoded><![CDATA[We provide sufficient conditions for equilibrium existence in first‐price auctions with private values that accommodate non quasi‐linear utilities and value‐distributions that contain atoms and exhibit positive or negative correlation. These conditions show that equilibrium existence often turns on properties of a single statistic of the joint distribution of values, namely, the minimum value in the support of the high‐value distribution (the mHV). We also show that modifying the standard tie‐breaking rule only at the mHV is enough to guarantee equilibrium existence without our sufficient conditions. Our results also apply to Bertrand price competition when each firm's constant marginal cost is private information.]]></content:encoded>
+</item>
+<item>
+<title>A Framework for Geoeconomics</title>
+<link>https://doi.org/10.3982/ecta23206</link>
+<guid isPermaLink="false">10.3982/ecta23206</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christopher Clayton; Matteo Maggiori; Jesse Schreger]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23206</dc:identifier>
+<description><![CDATA[Governments use their countries' economic strength from financial and trade relationships to achieve geopolitical and economic goals. We provide a model of the sources of geoeconomic power and how it is wielded. The source of this power is the ability of a hegemonic country to coordinate threats across disparate economic relationships as a means of enforcement on foreign entities. The hegemon wields this power to demand costly actions out of the targeted entities, including mark‐ups, import restrictions, tariffs, and political concessions. The hegemon uses its power to change targeted entities' activities to manipulate the global equilibrium in its favor and increase its power. A sector is strategic either in helping the hegemon form threats or in manipulating the world equilibrium via input‐output amplification. The hegemon acts a global enforcer, thus adding value to the world economy, but destroys value by distorting the equilibrium in its favor.]]></description>
+<content:encoded><![CDATA[Governments use their countries' economic strength from financial and trade relationships to achieve geopolitical and economic goals. We provide a model of the sources of geoeconomic power and how it is wielded. The source of this power is the ability of a hegemonic country to coordinate threats across disparate economic relationships as a means of enforcement on foreign entities. The hegemon wields this power to demand costly actions out of the targeted entities, including mark‐ups, import restrictions, tariffs, and political concessions. The hegemon uses its power to change targeted entities' activities to manipulate the global equilibrium in its favor and increase its power. A sector is strategic either in helping the hegemon form threats or in manipulating the world equilibrium via input‐output amplification. The hegemon acts a global enforcer, thus adding value to the world economy, but destroys value by distorting the equilibrium in its favor.]]></content:encoded>
+</item>
+<item>
+<title>Empirical Bayes When Estimation Precision Predicts Parameters</title>
+<link>https://doi.org/10.3982/ecta22935</link>
+<guid isPermaLink="false">10.3982/ecta22935</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiafeng Chen]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22935</dc:identifier>
+<description><![CDATA[Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location‐scale family of distributions, leading to a family of methods that we call close . The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high‐mobility Census tracts.]]></description>
+<content:encoded><![CDATA[Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location‐scale family of distributions, leading to a family of methods that we call close . The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high‐mobility Census tracts.]]></content:encoded>
+</item>
+<item>
+<title>Trade and Domestic Distortions: The Case of Informality</title>
+<link>https://doi.org/10.3982/ecta19378</link>
+<guid isPermaLink="false">10.3982/ecta19378</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rafael Dix-Carneiro; Pinelopi Goldberg; Costas Meghir; Gabriel Ulyssea]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta19378</dc:identifier>
+<description><![CDATA[We examine the effects of international trade in the presence of a set of domestic distortions giving rise to informality, a prevalent phenomenon in developing countries. In our quantitative model, the informal sector arises from burdensome taxes and regulations that are imperfectly enforced by the government. In equilibrium, smaller, less productive firms face fewer distortions than larger, more productive ones, potentially leading to substantial misallocation. We show that in settings with a large informal sector, the gains from trade are significantly amplified, as reductions in trade barriers imply a reallocation of resources from initially less distorted to more distorted firms. We confirm findings from earlier reduced‐form studies that the informal sector mitigates the impact of negative labor demand shocks on unemployment. Nonetheless, the informal sector can exacerbate the adverse real income effects of economic downturns, amplifying misallocation. Last, our research sheds light on the relationship between trade openness and cross‐firm wage inequality.]]></description>
+<content:encoded><![CDATA[We examine the effects of international trade in the presence of a set of domestic distortions giving rise to informality, a prevalent phenomenon in developing countries. In our quantitative model, the informal sector arises from burdensome taxes and regulations that are imperfectly enforced by the government. In equilibrium, smaller, less productive firms face fewer distortions than larger, more productive ones, potentially leading to substantial misallocation. We show that in settings with a large informal sector, the gains from trade are significantly amplified, as reductions in trade barriers imply a reallocation of resources from initially less distorted to more distorted firms. We confirm findings from earlier reduced‐form studies that the informal sector mitigates the impact of negative labor demand shocks on unemployment. Nonetheless, the informal sector can exacerbate the adverse real income effects of economic downturns, amplifying misallocation. Last, our research sheds light on the relationship between trade openness and cross‐firm wage inequality.]]></content:encoded>
+</item>
+<item>
+<title>Comment on &lt;i&gt;‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee&lt;/i&gt;</title>
+<link>https://doi.org/10.3982/ecta23938</link>
+<guid isPermaLink="false">10.3982/ecta23938</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sylvia Hristakeva]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23938</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Double Robustness of Local Projections and Some Unpleasant VARithmetic</title>
+<link>https://doi.org/10.3982/ecta23345</link>
+<guid isPermaLink="false">10.3982/ecta23345</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[José Luis Montiel Olea; Mikkel Plagborg-Møller; Eric Qian; Christian K. Wolf]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23345</dc:identifier>
+<description><![CDATA[We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a “double robustness” property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short‐to‐moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.]]></description>
+<content:encoded><![CDATA[We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a “double robustness” property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short‐to‐moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.]]></content:encoded>
+</item>
+<item>
+<title>The Econometric Society Annual Reports Report of the Treasurer</title>
+<link>https://doi.org/10.3982/ecta941treas</link>
+<guid isPermaLink="false">10.3982/ecta941treas</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta941treas</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rural Migrants and Urban Informality: Evidence From Brazil</title>
+<link>https://doi.org/10.3982/ecta21854</link>
+<guid isPermaLink="false">10.3982/ecta21854</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Clement Imbert; Gabriel Ulyssea]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21854</dc:identifier>
+<description><![CDATA[This paper studies the economic effects of rural‐urban migration on Brazilian cities. Using a shift‐share IV design, we show that, over a decade, drought‐induced immigration reduces informality, has no effect on unemployment, and increases the number of formal firms and jobs. Downward formal wage adjustments play a key role, as these long‐run effects are weaker in regions with stronger wage rigidity. In the short run, when wage rigidity is strongest, we replicate the informality‐increasing effects documented in the literature. We develop and estimate a model of firm dynamics and informality that rationalizes these results. The counterfactuals reveal that, in the short run, the informal sector absorbs the expanding labor force and acts as a “stepping‐stone” to formality for firms and workers. In the long run, however, it reduces the aggregate benefits from immigration by allowing the least productive firms to survive.]]></description>
+<content:encoded><![CDATA[This paper studies the economic effects of rural‐urban migration on Brazilian cities. Using a shift‐share IV design, we show that, over a decade, drought‐induced immigration reduces informality, has no effect on unemployment, and increases the number of formal firms and jobs. Downward formal wage adjustments play a key role, as these long‐run effects are weaker in regions with stronger wage rigidity. In the short run, when wage rigidity is strongest, we replicate the informality‐increasing effects documented in the literature. We develop and estimate a model of firm dynamics and informality that rationalizes these results. The counterfactuals reveal that, in the short run, the informal sector absorbs the expanding labor force and acts as a “stepping‐stone” to formality for firms and workers. In the long run, however, it reduces the aggregate benefits from immigration by allowing the least productive firms to survive.]]></content:encoded>
+</item>
+<item>
+<title>Holding up Green Energy: Counterparty Risk in the Indian Solar Power Market</title>
+<link>https://doi.org/10.3982/ecta21084</link>
+<guid isPermaLink="false">10.3982/ecta21084</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicholas Ryan]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21084</dc:identifier>
+<description><![CDATA[This paper studies how the risk of hold‐up affects procurement. I use data on the universe of solar power auctions in India. The Indian context allows clean estimates of counterparty risk, because solar plants set up in the same states, by the same firms, are procured in auctions intermediated by either risky states themselves or the trusted central government. I find that the counterparty risk of an average state increases solar prices by 10%. This risk premium sharply reduces investment, because demand for green energy is elastic. Contract intermediation by the central government eliminates the counterparty risk premium.]]></description>
+<content:encoded><![CDATA[This paper studies how the risk of hold‐up affects procurement. I use data on the universe of solar power auctions in India. The Indian context allows clean estimates of counterparty risk, because solar plants set up in the same states, by the same firms, are procured in auctions intermediated by either risky states themselves or the trusted central government. I find that the counterparty risk of an average state increases solar prices by 10%. This risk premium sharply reduces investment, because demand for green energy is elastic. Contract intermediation by the central government eliminates the counterparty risk premium.]]></content:encoded>
+</item>
+<item>
+<title>Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates</title>
+<link>https://doi.org/10.3982/ecta22488</link>
+<guid isPermaLink="false">10.3982/ecta22488</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kate Ho; Robin S. Lee]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22488</dc:identifier>
+<description><![CDATA[We investigate how formularies used by pharmacy benefit managers (PBMs) affect equilibrium manufacturer rebates for branded drugs through tiering and exclusion. We develop a theoretical model of multidimensional contracting in which a PBM negotiates with drug manufacturers over menus of formulary‐contingent rebates and chooses a formulary. We then estimate consumer demand responses to tier placement for statins using claims data from Princeton University, a large employer contracting with a single PBM to offer prescription drug coverage to its employees. Combining the theoretical model with demand estimates and observed list prices, we quantify how allowing for differential tier placement and exclusion affect equilibrium rebates. Our predictions are consistent with available aggregate rebate data, and we find that allowing a PBM to place branded drugs on preferred‐ and non‐preferred tiers can substantially increase negotiated rebate payments.]]></description>
+<content:encoded><![CDATA[We investigate how formularies used by pharmacy benefit managers (PBMs) affect equilibrium manufacturer rebates for branded drugs through tiering and exclusion. We develop a theoretical model of multidimensional contracting in which a PBM negotiates with drug manufacturers over menus of formulary‐contingent rebates and chooses a formulary. We then estimate consumer demand responses to tier placement for statins using claims data from Princeton University, a large employer contracting with a single PBM to offer prescription drug coverage to its employees. Combining the theoretical model with demand estimates and observed list prices, we quantify how allowing for differential tier placement and exclusion affect equilibrium rebates. Our predictions are consistent with available aggregate rebate data, and we find that allowing a PBM to place branded drugs on preferred‐ and non‐preferred tiers can substantially increase negotiated rebate payments.]]></content:encoded>
+</item>
+<item>
+<title>Training Specificity and Occupational Mobility: Evidence From German Apprenticeships</title>
+<link>https://doi.org/10.3982/ecta21835</link>
+<guid isPermaLink="false">10.3982/ecta21835</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dita Eckardt]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21835</dc:identifier>
+<description><![CDATA[Apprenticeships play a key role in enabling successful school‐to‐work transitions in many countries, but in the presence of imperfect information, the specificity of this type of training may entail important costs for those working outside their training fields. I study this issue in one of the most prominent training settings, the German apprenticeship system. Using administrative data and a broad occupational classification, I find that 40% of individuals work in occupations different from their training. I estimate the cost of mismatch using vacancy instruments and extend methodological approaches in high‐dimensional selection settings. Lacking training in one's occupation entails an average wage penalty of 14%, the equivalent of two years of work experience. The penalty increases with the task distance between training and occupation. My findings suggest that retraining is crucial to mitigate the adverse consequences from imperfect information in specialized training settings.]]></description>
+<content:encoded><![CDATA[Apprenticeships play a key role in enabling successful school‐to‐work transitions in many countries, but in the presence of imperfect information, the specificity of this type of training may entail important costs for those working outside their training fields. I study this issue in one of the most prominent training settings, the German apprenticeship system. Using administrative data and a broad occupational classification, I find that 40% of individuals work in occupations different from their training. I estimate the cost of mismatch using vacancy instruments and extend methodological approaches in high‐dimensional selection settings. Lacking training in one's occupation entails an average wage penalty of 14%, the equivalent of two years of work experience. The penalty increases with the task distance between training and occupation. My findings suggest that retraining is crucial to mitigate the adverse consequences from imperfect information in specialized training settings.]]></content:encoded>
+</item>
+<item>
+<title>Comment on &lt;i&gt;‘Asset Bubbles and Overlapping Generations’ by Jean Tirole&lt;/i&gt;</title>
+<link>https://doi.org/10.3982/ecta24365</link>
+<guid isPermaLink="false">10.3982/ecta24365</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ngoc-Sang Pham; Alexis Akira Toda]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta24365</dc:identifier>
+<description><![CDATA[Tirole (1985) studied an overlapping generations model with capital accumulation and showed that the emergence of asset bubbles solves the capital over‐accumulation problem. His Proposition 1(c) claims that if the dividend growth rate is above the bubbleless interest rate (the steady‐state interest rate in the economy without the asset) but below the population growth rate, then bubbles are necessary in the sense that there exists no bubbleless equilibrium but there exists a unique bubbly equilibrium. We show that this result (as stated) is incorrect by presenting an example economy that satisfies all assumptions of Proposition 1(c) but its unique equilibrium is bubbleless. We also restore Proposition 1(c) under the additional assumptions that initial capital is sufficiently large and dividends are sufficiently small. We show through examples that these conditions are essential.]]></description>
+<content:encoded><![CDATA[Tirole (1985) studied an overlapping generations model with capital accumulation and showed that the emergence of asset bubbles solves the capital over‐accumulation problem. His Proposition 1(c) claims that if the dividend growth rate is above the bubbleless interest rate (the steady‐state interest rate in the economy without the asset) but below the population growth rate, then bubbles are necessary in the sense that there exists no bubbleless equilibrium but there exists a unique bubbly equilibrium. We show that this result (as stated) is incorrect by presenting an example economy that satisfies all assumptions of Proposition 1(c) but its unique equilibrium is bubbleless. We also restore Proposition 1(c) under the additional assumptions that initial capital is sufficiently large and dividends are sufficiently small. We show through examples that these conditions are essential.]]></content:encoded>
+</item>
+<item>
+<title>The Economics of Partisan Gerrymandering</title>
+<link>https://doi.org/10.3982/ecta23609</link>
+<guid isPermaLink="false">10.3982/ecta23609</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anton Kolotilin; Alexander Wolitzky]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23609</dc:identifier>
+<description><![CDATA[We study the problem of a partisan gerrymanderer who assigns voters to equipopulous districts to maximize his party's expected seat share. The designer faces both aggregate, district‐level uncertainty (how many votes his party will receive) and idiosyncratic, voter‐level uncertainty (which voters will vote for his party). Segregate‐pair districting , where weaker districts contain one type of voter, while stronger districts contain two, is optimal for the gerrymanderer. The optimal form of segregate‐pair districting depends on the designer's popularity and the relative amounts of aggregate and idiosyncratic uncertainty. When idiosyncratic uncertainty dominates, a designer with majority support pairs all voters, while a designer with minority support segregates opposing voters and pairs more favorable voters; these plans resemble uniform districting and “packing‐and‐cracking,” respectively. When aggregate uncertainty dominates, the designer segregates moderate voters and pairs extreme voters; this “matching slices” plan has received some attention in the literature. Estimating the model using precinct‐level returns from recent U.S. House elections shows that, in practice, idiosyncratic uncertainty dominates. We discuss implications for redistricting reform, political polarization, and detecting gerrymandering. Methodologically, we exploit a formal connection between gerrymandering—partitioning voters into districts—and information design—partitioning states of the world into signals.]]></description>
+<content:encoded><![CDATA[We study the problem of a partisan gerrymanderer who assigns voters to equipopulous districts to maximize his party's expected seat share. The designer faces both aggregate, district‐level uncertainty (how many votes his party will receive) and idiosyncratic, voter‐level uncertainty (which voters will vote for his party). Segregate‐pair districting , where weaker districts contain one type of voter, while stronger districts contain two, is optimal for the gerrymanderer. The optimal form of segregate‐pair districting depends on the designer's popularity and the relative amounts of aggregate and idiosyncratic uncertainty. When idiosyncratic uncertainty dominates, a designer with majority support pairs all voters, while a designer with minority support segregates opposing voters and pairs more favorable voters; these plans resemble uniform districting and “packing‐and‐cracking,” respectively. When aggregate uncertainty dominates, the designer segregates moderate voters and pairs extreme voters; this “matching slices” plan has received some attention in the literature. Estimating the model using precinct‐level returns from recent U.S. House elections shows that, in practice, idiosyncratic uncertainty dominates. We discuss implications for redistricting reform, political polarization, and detecting gerrymandering. Methodologically, we exploit a formal connection between gerrymandering—partitioning voters into districts—and information design—partitioning states of the world into signals.]]></content:encoded>
+</item>
+<item>
+<title>The Class Gap in Career Progression: Evidence From U.S. Academia</title>
+<link>https://doi.org/10.3982/ecta23358</link>
+<guid isPermaLink="false">10.3982/ecta23358</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anna Stansbury; Kyra Rodriguez]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23358</dc:identifier>
+<description><![CDATA[Unlike gender or race, class background is rarely a focus of research on career progression, or of DEI efforts in elite occupations. Should it be? In this paper, we document a large class gap in career progression in one occupation—U.S. tenure‐track academia—using parental education to proxy for class background. First‐generation college graduates are 10% less likely to be tenured at an R1, are tenured at institutions ranked 11% lower, earn 3% less, and report 5% lower job satisfaction, than their former PhD classmates (from the same institution and field) with a parent with a non‐PhD graduate degree. Neither selection out of academia nor different preferences explain this gap; differential research productivity also plays little role. Instead, likely drivers are differences in cultural and social capital. We also find a class gap in career progression for PhDs who work in industry, suggesting this phenomenon generalizes outside academia.]]></description>
+<content:encoded><![CDATA[Unlike gender or race, class background is rarely a focus of research on career progression, or of DEI efforts in elite occupations. Should it be? In this paper, we document a large class gap in career progression in one occupation—U.S. tenure‐track academia—using parental education to proxy for class background. First‐generation college graduates are 10% less likely to be tenured at an R1, are tenured at institutions ranked 11% lower, earn 3% less, and report 5% lower job satisfaction, than their former PhD classmates (from the same institution and field) with a parent with a non‐PhD graduate degree. Neither selection out of academia nor different preferences explain this gap; differential research productivity also plays little role. Instead, likely drivers are differences in cultural and social capital. We also find a class gap in career progression for PhDs who work in industry, suggesting this phenomenon generalizes outside academia.]]></content:encoded>
+</item>
+<item>
+<title>Information Design in Common Value Auction With Moral Hazard: Application to OCS Leasing Auctions</title>
+<link>https://doi.org/10.3982/ecta21839</link>
+<guid isPermaLink="false">10.3982/ecta21839</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anh Nguyen]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21839</dc:identifier>
+<description><![CDATA[This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.]]></description>
+<content:encoded><![CDATA[This paper explores the impact of information design on the auctioneer's revenue in the U.S. offshore oil/gas lease auctions where, post‐auction, the winner decides whether to explore the auctioned tract and must pay the government a royalty on its production value. I first document that there is a positive correlation between the exploration rate and publicly observed losing bids. This suggests that the winning bidder uses the rivals' bids to infer their private information about the tract's potential. I then characterize the equilibrium bidding strategy when the auctioneer designs and commits to how to reveal information on losing bids to the winning bidder. Counterfactual exercises reveal that alternative bid disclosure policies significantly improve auctioneer revenue.]]></content:encoded>
+</item>
+<item>
+<title>The Econometric Society Annual Reports Report of the Editors of the Monograph Series</title>
+<link>https://doi.org/10.3982/ecta941mono</link>
+<guid isPermaLink="false">10.3982/ecta941mono</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta941mono</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Continuity of the Distribution Function of the argmax of a Gaussian Process</title>
+<link>https://doi.org/10.3982/ecta23862</link>
+<guid isPermaLink="false">10.3982/ecta23862</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matias D. Cattaneo; Gregory F. Cox; Michael Jansson; Kenichi Nagasawa]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23862</dc:identifier>
+<description><![CDATA[Certain extremum estimators have asymptotic distributions that are non‐Gaussian, yet characterizable as the distribution of the arg max of a Gaussian process. This paper presents high‐level sufficient conditions under which such asymptotic distributions admit a continuous distribution function. The plausibility of the sufficient conditions is demonstrated by verifying them in three examples, namely, maximum score estimation, empirical risk minimization, and threshold regression estimation. In turn, the continuity result buttresses several recently proposed inference procedures whose validity seems to require a result of the kind established herein. A notable feature of the high‐level assumptions is that one of them is designed to enable us to employ the Cameron–Martin theorem. In a leading special case, the assumption in question is demonstrably weak and appears to be close to minimal.]]></description>
+<content:encoded><![CDATA[Certain extremum estimators have asymptotic distributions that are non‐Gaussian, yet characterizable as the distribution of the arg max of a Gaussian process. This paper presents high‐level sufficient conditions under which such asymptotic distributions admit a continuous distribution function. The plausibility of the sufficient conditions is demonstrated by verifying them in three examples, namely, maximum score estimation, empirical risk minimization, and threshold regression estimation. In turn, the continuity result buttresses several recently proposed inference procedures whose validity seems to require a result of the kind established herein. A notable feature of the high‐level assumptions is that one of them is designed to enable us to employ the Cameron–Martin theorem. In a leading special case, the assumption in question is demonstrably weak and appears to be close to minimal.]]></content:encoded>
+</item>
+<item>
+<title>Spatial Economics for Granular Settings</title>
+<link>https://doi.org/10.3982/ecta19350</link>
+<guid isPermaLink="false">10.3982/ecta19350</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jonathan I. Dingel; Felix Tintelnot]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta19350</dc:identifier>
+<description><![CDATA[We examine the application of quantitative spatial models to the growing body of fine spatial data used to study local economic outcomes. In granular settings in which people choose from a large set of potential residence‐workplace pairs, observed outcomes in part reflect idiosyncratic choices. Using analytical examples, Monte Carlo simulations, and event studies of neighborhood employment booms, we demonstrate that calibration procedures that equate observed shares and modeled probabilities perform very poorly in these high‐dimensional settings. Parsimonious specifications of spatial linkages deliver better counterfactual predictions. To quantify the uncertainty about counterfactual outcomes induced by the idiosyncratic component of individuals' decisions, we introduce a quantitative spatial model with a finite number of individuals. Applying this model to Amazon's proposed second headquarters in New York City reveals that its predicted consequences for most neighborhoods vary substantially across realizations of the individual idiosyncrasies.]]></description>
+<content:encoded><![CDATA[We examine the application of quantitative spatial models to the growing body of fine spatial data used to study local economic outcomes. In granular settings in which people choose from a large set of potential residence‐workplace pairs, observed outcomes in part reflect idiosyncratic choices. Using analytical examples, Monte Carlo simulations, and event studies of neighborhood employment booms, we demonstrate that calibration procedures that equate observed shares and modeled probabilities perform very poorly in these high‐dimensional settings. Parsimonious specifications of spatial linkages deliver better counterfactual predictions. To quantify the uncertainty about counterfactual outcomes induced by the idiosyncratic component of individuals' decisions, we introduce a quantitative spatial model with a finite number of individuals. Applying this model to Amazon's proposed second headquarters in New York City reveals that its predicted consequences for most neighborhoods vary substantially across realizations of the individual idiosyncrasies.]]></content:encoded>
+</item>
+<item>
+<title>The Equilibrium Effects of Campaign Finance Deregulation on U.S. Elections</title>
+<link>https://doi.org/10.3982/ecta22979</link>
+<guid isPermaLink="false">10.3982/ecta22979</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian Cox]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22979</dc:identifier>
+<description><![CDATA[The U.S. Supreme Court's 2010 decision in Citizens United v. Federal Election Commission deregulated campaign finance, enabling the rise of a new political action committee (the Super PAC) with broad freedom to raise and spend money. This led to an unprecedented surge in spending in primary and general elections. To evaluate the impact of Super PACs, I estimate a multistage model of political competition using data from U.S. Congressional elections between 2010 and 2020. I find that Super PAC spending by both sides prompts offsetting responses, resulting in limited net equilibrium effects. However, by amplifying the role of donors, Super PACs still have the potential to reshape the electoral landscape.]]></description>
+<content:encoded><![CDATA[The U.S. Supreme Court's 2010 decision in Citizens United v. Federal Election Commission deregulated campaign finance, enabling the rise of a new political action committee (the Super PAC) with broad freedom to raise and spend money. This led to an unprecedented surge in spending in primary and general elections. To evaluate the impact of Super PACs, I estimate a multistage model of political competition using data from U.S. Congressional elections between 2010 and 2020. I find that Super PAC spending by both sides prompts offsetting responses, resulting in limited net equilibrium effects. However, by amplifying the role of donors, Super PACs still have the potential to reshape the electoral landscape.]]></content:encoded>
+</item>
+<item>
+<title>Economic Growth and the Rise of Large Firms</title>
+<link>https://doi.org/10.3982/ecta22110</link>
+<guid isPermaLink="false">10.3982/ecta22110</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhang Chen]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22110</dc:identifier>
+<description><![CDATA[I document that the right tail of the firm size distribution systematically thickens with economic development. To rationalize this fact, I develop a parsimonious idea search model in which both aggregate growth and the firm size distribution are endogenously determined. The model features an asymptotic balanced growth path along which Gibrat's law holds at each date, and the right tail of the firm size distribution thickens monotonically toward Zipf's law. The model also implies that policies favoring large firms can improve welfare by better utilizing the diffusion externalities arising from idea search.]]></description>
+<content:encoded><![CDATA[I document that the right tail of the firm size distribution systematically thickens with economic development. To rationalize this fact, I develop a parsimonious idea search model in which both aggregate growth and the firm size distribution are endogenously determined. The model features an asymptotic balanced growth path along which Gibrat's law holds at each date, and the right tail of the firm size distribution thickens monotonically toward Zipf's law. The model also implies that policies favoring large firms can improve welfare by better utilizing the diffusion externalities arising from idea search.]]></content:encoded>
+</item>
+<item>
+<title>The Econometric Society Annual Reports Econometrica Referees 2024–2025</title>
+<link>https://doi.org/10.3982/ecta941ref</link>
+<guid isPermaLink="false">10.3982/ecta941ref</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta941ref</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>An Experimental Evaluation of Deferred Acceptance: Evidence From Over 100 Army Officer Labor Markets</title>
+<link>https://doi.org/10.3982/ecta22160</link>
+<guid isPermaLink="false">10.3982/ecta22160</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jonathan M.V. Davis; Kyle Greenberg; Damon Jones]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22160</dc:identifier>
+<description><![CDATA[Internal labor markets are increasingly important for matching workers to jobs within organizations. We present evidence from a randomized trial that compares matching workers to jobs using the deferred acceptance (DA) algorithm to the traditional manager‐directed matching process. Our setting is the U.S. Army's internal labor market, which matches over 14,000 officers to units annually. We find that DA reduces administrative burden and increases match quality as measured by reduced justified envy, increased truthful preference reporting, and officers' and units' preferences over their matches. The overall impact of DA on officer retention and performance in the two years after officers started their new jobs is limited by strategic preference coordination between officers and units. However, DA leads to significant improvements in officer retention and promotions in markets with inexperienced managers. Our findings suggest that cross‐market communication between agents in internal labor markets can attenuate the benefits of strategyproof matching algorithms.]]></description>
+<content:encoded><![CDATA[Internal labor markets are increasingly important for matching workers to jobs within organizations. We present evidence from a randomized trial that compares matching workers to jobs using the deferred acceptance (DA) algorithm to the traditional manager‐directed matching process. Our setting is the U.S. Army's internal labor market, which matches over 14,000 officers to units annually. We find that DA reduces administrative burden and increases match quality as measured by reduced justified envy, increased truthful preference reporting, and officers' and units' preferences over their matches. The overall impact of DA on officer retention and performance in the two years after officers started their new jobs is limited by strategic preference coordination between officers and units. However, DA leads to significant improvements in officer retention and promotions in markets with inexperienced managers. Our findings suggest that cross‐market communication between agents in internal labor markets can attenuate the benefits of strategyproof matching algorithms.]]></content:encoded>
+</item>
+<item>
+<title>Walras–Bowley Lecture: Climate Policy in the Wide World</title>
+<link>https://doi.org/10.3982/ecta22451</link>
+<guid isPermaLink="false">10.3982/ecta22451</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[John Hassler; Per Krusell; Conny Olovsson]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22451</dc:identifier>
+<description><![CDATA[We construct a dynamic integrated assessment model of climate and the economy with very high geographic resolution. Migration is free within, but not allowed across, countries. The model parameterization uses a wealth of data, including the distribution of output, population, energy sources and use, and estimates of the local damages from climate change. It implies very large geographic dispersion in damages from warming. We conduct three kinds of policy experiments. In one, we note that a modest, uniform carbon tax limits global warming and damages around the world substantially. In a second experiment, we let the poorest countries not tax carbon, while the rest compensate by setting higher taxes; the efficiency losses are large. In a final experiment, we find that fast green technology growth alone is a poor substitute for carbon taxes, whether globally available or not.]]></description>
+<content:encoded><![CDATA[We construct a dynamic integrated assessment model of climate and the economy with very high geographic resolution. Migration is free within, but not allowed across, countries. The model parameterization uses a wealth of data, including the distribution of output, population, energy sources and use, and estimates of the local damages from climate change. It implies very large geographic dispersion in damages from warming. We conduct three kinds of policy experiments. In one, we note that a modest, uniform carbon tax limits global warming and damages around the world substantially. In a second experiment, we let the poorest countries not tax carbon, while the rest compensate by setting higher taxes; the efficiency losses are large. In a final experiment, we find that fast green technology growth alone is a poor substitute for carbon taxes, whether globally available or not.]]></content:encoded>
+</item>
+<item>
+<title>Optimal Shrinkage Estimation of Fixed Effects in Linear Panel Data Models</title>
+<link>https://doi.org/10.3982/ecta22386</link>
+<guid isPermaLink="false">10.3982/ecta22386</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Soonwoo Kwon]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22386</dc:identifier>
+<description><![CDATA[Shrinkage methods are frequently used to improve the precision of least squares estimators of fixed effects. However, widely used shrinkage estimators guarantee improved precision only under strong distributional assumptions. I develop an estimator for the fixed effects that obtains the best possible mean squared error within a class of shrinkage estimators. This class includes conventional shrinkage estimators and the optimality does not require distributional assumptions. The estimator has an intuitive form and is easy to implement. Moreover, the fixed effects are allowed to vary with time and to be serially correlated, in which case the shrinkage optimally incorporates the underlying correlation structure. I also provide a method to forecast fixed effects one period ahead in this setting.]]></description>
+<content:encoded><![CDATA[Shrinkage methods are frequently used to improve the precision of least squares estimators of fixed effects. However, widely used shrinkage estimators guarantee improved precision only under strong distributional assumptions. I develop an estimator for the fixed effects that obtains the best possible mean squared error within a class of shrinkage estimators. This class includes conventional shrinkage estimators and the optimality does not require distributional assumptions. The estimator has an intuitive form and is easy to implement. Moreover, the fixed effects are allowed to vary with time and to be serially correlated, in which case the shrinkage optimally incorporates the underlying correlation structure. I also provide a method to forecast fixed effects one period ahead in this setting.]]></content:encoded>
+</item>
+</channel>
+</rss>

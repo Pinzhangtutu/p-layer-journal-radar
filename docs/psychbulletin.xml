@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Psychological Bulletin</title>
+<link>http://localhost:8767/#psychbulletin</link>
+<description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/psychbulletin.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>The approach-inhibition theory of power: A meta-analytic test and synthesis.</title>
+<link>https://doi.org/10.1037/bul0000500</link>
+<guid isPermaLink="false">10.1037/bul0000500</guid>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tyler B. Sabey; Braydon C. Shanklin; Jason A. Colquitt; Michael D. Baer]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000500</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Content knowledge and comprehension: A meta-analytic review of correlational and causal associations.</title>
+<link>https://doi.org/10.1037/bul0000502</link>
+<guid isPermaLink="false">10.1037/bul0000502</guid>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Young-Suk Grace Kim; Yucheng Cao]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000502</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Attention bias for facial expressions of emotion: A meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000496</link>
+<guid isPermaLink="false">10.1037/bul0000496</guid>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joshua W. Maxwell; Robert D. Torrence; Eric Ruthruff]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000496</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Data extraction by generative artificial intelligence: Assessing determinants of accuracy using human-extracted data from systematic review databases.</title>
+<link>https://doi.org/10.1037/bul0000501</link>
+<guid isPermaLink="false">10.1037/bul0000501</guid>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thorben Jansen; Lucas W. Liebenow; Ute Mertens; Fabian T. C. Schmidt; Julian F. Lohmann; Johanna Fleckenstein; Jennifer Meyer]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000501</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Tackling challenges in large language model–based data extraction via context engineering: A commentary on Jansen et al. (2025).</title>
+<link>https://doi.org/10.1037/bul0000520</link>
+<guid isPermaLink="false">10.1037/bul0000520</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junsong Lu; X. T. (XiaoTian) Wang]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000520</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Universal interventions to improve young children’s mental well-being: A systematic review and meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000522</link>
+<guid isPermaLink="false">10.1037/bul0000522</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiying Ling; Sisi Chen; Nancy T. Browne; Melissa G. Gomes]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000522</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Individual differences in personality trait changes across the lifespan: A meta-analysis of longitudinal studies.</title>
+<link>https://doi.org/10.1037/bul0000525</link>
+<guid isPermaLink="false">10.1037/bul0000525</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Haehner; Christopher J. Hopwood; Lukas Schellenberg; Ted Schwaba; Wiebke Bleidorn]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000525</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How spatial skills relate to science achievement: A meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000524</link>
+<guid isPermaLink="false">10.1037/bul0000524</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kinnari Atit; Emily Grossnickle Peterson; Katie Gilligan-Lee; Zachary Hawes; Jihyun Lee]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000524</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Crossmodal semantics in memory: Scoping review and meta-analyses of multisensory effects in short-term and episodic memory systems.</title>
+<link>https://doi.org/10.1037/bul0000483</link>
+<guid isPermaLink="false">10.1037/bul0000483</guid>
+<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Salvador Soto-Faraco; Charles Spence]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000483</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Suicidality in men following relationship breakdown: A systematic review and meta-analysis of global data.</title>
+<link>https://doi.org/10.1037/bul0000482</link>
+<guid isPermaLink="false">10.1037/bul0000482</guid>
+<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael J. Wilson; Amelia J. Scott; Vita Pilkington; Jacqui A. Macdonald; Simon M. Rice; John L. Oliffe; Zac E. Seidler]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000482</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do immediate judgments of learning alter memory performance? A meta-analytical review.</title>
+<link>https://doi.org/10.1037/bul0000487</link>
+<guid isPermaLink="false">10.1037/bul0000487</guid>
+<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Franziska Ingendahl; Vered Halamish; Monika Undorf]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000487</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A meta-analytic reassessment of the vicious cycle of psychopathology and stressful life events: Commentary on Rnic et al. (2023).</title>
+<link>https://doi.org/10.1037/bul0000475</link>
+<guid isPermaLink="false">10.1037/bul0000475</guid>
+<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junhua Dang; Shanshan Xiao]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000475</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Intuitive deontology? A systematic review and multivariate, multilevel meta-analysis of experimental studies on the psychological drivers of moral judgments.</title>
+<link>https://doi.org/10.1037/bul0000472</link>
+<guid isPermaLink="false">10.1037/bul0000472</guid>
+<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alina Fahrenwaldt; Jerome Olsen; Rima-Maria Rahal; Susann Fiedler]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000472</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The predictive power of autobiographical memory in shaping the mental health of young people: An individual participant data meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000474</link>
+<guid isPermaLink="false">10.1037/bul0000474</guid>
+<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Uyen Doan; Dou Hong; Leo Mares; Molly Butler; Adrian Dahl Askelund; Charlotte Gutenbrunner; Rachel Hiller; Reginald D. V. Nixon; Vanessa Puetz; Paul E. Jose; Allison Metts; Lauren B. Alloy; Brandon E. Gibb; Alison E. Hipwell; Karen Salmon; Victoria Powell; Naomi Warne; Frances Rice; Caitlin Hitchcock]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000474</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Ignored, dismissed, and minimized: Understanding the harmful consequences of invalidation in health care—A systematic meta-synthesis of qualitative research.</title>
+<link>https://doi.org/10.1037/bul0000473</link>
+<guid isPermaLink="false">10.1037/bul0000473</guid>
+<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Allyson C. Bontempo; John M. Bontempo; Paul R. Duberstein]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000473</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Handedness in mental and neurodevelopmental disorders: A systematic review and second-order meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000471</link>
+<guid isPermaLink="false">10.1037/bul0000471</guid>
+<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Julian Packheiser; Jette Borawski; Gesa Berretz; Sarah Alina Merklein; Marietta Papadatou-Pastou; Sebastian Ocklenburg]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000471</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Does the Variance of Personality Traits Change Across the Lifespan? A Meta-Analytic Review of Longitudinal Studies</title>
+<link>https://doi.org/10.1037/bul0000523.supp</link>
+<guid isPermaLink="false">10.1037/bul0000523.supp</guid>
+<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000523.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do money and time change who you are? A continuous time meta-analysis and review of reciprocal relationships between personality traits and income.</title>
+<link>https://doi.org/10.1037/bul0000526</link>
+<guid isPermaLink="false">10.1037/bul0000526</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wen-Dong Li; Kaili Yu; Weiwen Yang; Zhen Zhang; Xin Zhang; Christian Dormann; Huanxi Zhang; Yanglei Zheng]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000526</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>AI aversion or appreciation? A capability–personalization framework and a meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000477</link>
+<guid isPermaLink="false">10.1037/bul0000477</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xin Qin; Xiang Zhou; Chen Chen; Dongyuan Wu; Hansen Zhou; Xiaowei Dong; Limei Cao; Jackson G. Lu]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000477</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Electronic screen use and children’s socioemotional problems: A systematic review and meta-analysis of longitudinal studies.</title>
+<link>https://doi.org/10.1037/bul0000468</link>
+<guid isPermaLink="false">10.1037/bul0000468</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roberta Pires Vasconcellos; Taren Sanders; Chris Lonsdale; Philip Parker; James Conigrave; Samantha Tang; Borja del Pozo Cruz; Stuart J. H. Biddle; Rachael Taylor; Christine Innes-Hughes; Katariina Salmela-Aro; Diego Vasconcellos; Katrina Wilhite; Ella Tremaine; Bridget Booker; Michael Noetel]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000468</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of psychotherapy: Synthesis of a “meta-analytic research domain” across world regions and 12 mental health problems.</title>
+<link>https://doi.org/10.1037/bul0000465</link>
+<guid isPermaLink="false">10.1037/bul0000465</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mathias Harrer; Clara Miguel; Wouter van Ballegooijen; Marketa Ciharova; Constantin Yves Plessen; Paula Kuper; Antonia A. Sprenger; Claudia Buntrock; Davide Papola; Ioana A. Cristea; Nino de Ponti; Đorđe Bašić; Darin Pauley; Ellen Driessen; Soledad Quero; Jorge Grimaldos; Sara Fernández Buendía; Cristina Botella; Jessica L. Hamblen; Paula P. Schnurr; Sadie E. Larsen; Rory A. Pfund; Emma Motrico; Irene Gómez-Gómez; Kim Setkowski; Minoo Matbouriahi; Yingying Wang; Josine Rawee; Heleen Riper; Annemieke van Straten; Marit Sijbrandij; Stefan Leucht; Toshi A. Furukawa; Eirini Karyotaki; Pim Cuijpers]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000465</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How physical activity context relates to cognition across the lifespan: A systematic review and meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000478</link>
+<guid isPermaLink="false">10.1037/bul0000478</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Myrto F. Mavilidi; Spyridoula Vazou; David R. Lubans; Katie Robinson; Andrew J. Woods; Valentin Benzing; Sofia Anzeneder; Katherine B. Owen; Celia Álvarez-Bueno; Levi Wade; Jade Burley; George Thomas; Anthony D. Okely; Caterina Pesce]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000478</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Interstimulus interval effects on habituation: A systematic review with theoretical implications.</title>
+<link>https://doi.org/10.1037/bul0000511</link>
+<guid isPermaLink="false">10.1037/bul0000511</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sebastián A. Becerra; Jorge A. Pinto; Orlando E. Jorquera; Pablo D. Matamala; Claudio C. Ramírez; Edgar H. Vogel]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000511</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Effort-Based Decision Making in Psychopathology: A Transdiagnostic Multilevel Meta-Analysis and Systematic Review of Behavioral Patterns and Mechanisms Underlying Amotivational Psychopathology</title>
+<link>https://doi.org/10.1037/bul0000510.supp</link>
+<guid isPermaLink="false">10.1037/bul0000510.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000510.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Relationships Between Cognition and Daily Functioning in Adults With Bipolar Disorder: A Systematic Review and Multilevel Meta-Analysis</title>
+<link>https://doi.org/10.1037/bul0000509.supp</link>
+<guid isPermaLink="false">10.1037/bul0000509.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000509.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for High Math Anxiety Is Associated With Lower Math Achievement Across 90 Countries: An Individual Participant Data Meta-Analysis of Representative Student and Adult Samples</title>
+<link>https://doi.org/10.1037/bul0000514.supp</link>
+<guid isPermaLink="false">10.1037/bul0000514.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000514.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for The Association Between Reading Anxiety and Reading Achievement: A Meta-Analysis and Systematic Review</title>
+<link>https://doi.org/10.1037/bul0000517.supp</link>
+<guid isPermaLink="false">10.1037/bul0000517.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000517.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effort-based decision making in psychopathology: A transdiagnostic multilevel meta-analysis and systematic review of behavioral patterns and mechanisms underlying amotivational psychopathology.</title>
+<link>https://doi.org/10.1037/bul0000510</link>
+<guid isPermaLink="false">10.1037/bul0000510</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matthias Pillny; Katharina E. Renz; Alina Hay; Daniel Fulford; Tania M. Lincoln; Deanna M. Barch; James M. Gold; Stefan Kaiser]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000510</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Temperament, Personality, and Psychopathology in Youth: A Preregistered Multilevel Meta-Analytic Review and Preregistered Large-Scale Replication and Extension</title>
+<link>https://doi.org/10.1037/bul0000515.supp</link>
+<guid isPermaLink="false">10.1037/bul0000515.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000515.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for On the Mechanisms of Intervention Effect Fade-Out: A Meta-Analytic Review of Interventions Targeting At-Risk Students’ Achievement</title>
+<link>https://doi.org/10.1037/bul0000516.supp</link>
+<guid isPermaLink="false">10.1037/bul0000516.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000516.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Misogynous Messages in the Media Increase Hostility to Women: Evidence From a Meta-Analysis of 257 Experimental and Nonexperimental Studies</title>
+<link>https://doi.org/10.1037/bul0000513.supp</link>
+<guid isPermaLink="false">10.1037/bul0000513.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000513.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Emotion Regulation in Mental Disorders: A Systematic Review and Multilevel Meta-Analysis of Transdiagnostic and Disorder-Specific Impairments</title>
+<link>https://doi.org/10.1037/bul0000512.supp</link>
+<guid isPermaLink="false">10.1037/bul0000512.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000512.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On the mechanisms of intervention effect fade-out: A meta-analytic review of interventions targeting at-risk students’ achievement.</title>
+<link>https://doi.org/10.1037/bul0000516</link>
+<guid isPermaLink="false">10.1037/bul0000516</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jens Dietrichson; Roopali Bhatnagar; Trine Filges; Mikkel Helding Vembye]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000516</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Universal Interventions to Improve Young Children’s Mental Well-Being: A Systematic Review and Meta-Analysis</title>
+<link>https://doi.org/10.1037/bul0000522.supp</link>
+<guid isPermaLink="false">10.1037/bul0000522.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000522.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for How Spatial Skills Relate to Science Achievement: A Meta-Analytic Review</title>
+<link>https://doi.org/10.1037/bul0000524.supp</link>
+<guid isPermaLink="false">10.1037/bul0000524.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000524.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Individual Differences in Personality Trait Changes Across the Lifespan: A Meta-Analysis of Longitudinal Studies</title>
+<link>https://doi.org/10.1037/bul0000525.supp</link>
+<guid isPermaLink="false">10.1037/bul0000525.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000525.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Misogynous messages in the media increase hostility to women: Evidence from a meta-analysis of 257 experimental and nonexperimental studies.</title>
+<link>https://doi.org/10.1037/bul0000513</link>
+<guid isPermaLink="false">10.1037/bul0000513</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christa Nater; Lilly Felber; Ronja Lüke; Alice H. Eagly; Tobias Greitemeyer; David I. Miller; Angela R. Dorrough]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000513</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Relationships between cognition and daily functioning in adults with bipolar disorder: A systematic review and multilevel meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000509</link>
+<guid isPermaLink="false">10.1037/bul0000509</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amanda McCleery; Gerhard Stefan Hellemann; Junghee Lee]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000509</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Perfectionism is accelerating over time: A cross-temporal meta-analytic review of 35 years of college student data.</title>
+<link>https://doi.org/10.1037/bul0000518</link>
+<guid isPermaLink="false">10.1037/bul0000518</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Curran; Andrew Hill; Pia Marie Pose]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000518</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The association between reading anxiety and reading achievement: A meta-analysis and systematic review.</title>
+<link>https://doi.org/10.1037/bul0000517</link>
+<guid isPermaLink="false">10.1037/bul0000517</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rachelle M. Johnson; Maxine Schaefer; Cynthia U. Norris; Richard K. Wagner; Sara A. Hart]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000517</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Artificial intelligence as a partner in meta-analysis—Research agenda, user recommendations, and speed–accuracy tradeoffs: Commentary on Jansen et al. (2025).</title>
+<link>https://doi.org/10.1037/bul0000519</link>
+<guid isPermaLink="false">10.1037/bul0000519</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Brooke N. Macnamara]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000519</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Acoustic exaggeration of vowels in infant-directed speech: A multimethod meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000479</link>
+<guid isPermaLink="false">10.1037/bul0000479</guid>
+<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Irena Lovčević; Titia Benders; Sho Tsuji; Riccardo Fusaroli]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000479</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mapping domains of life success: Insights from meta-analytic criterion profile analysis.</title>
+<link>https://doi.org/10.1037/bul0000476</link>
+<guid isPermaLink="false">10.1037/bul0000476</guid>
+<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael P. Wilmot; Brenton M. Wiernik; Deniz S. Ones]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000476</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Procedural skill retention and decay: A meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000481</link>
+<guid isPermaLink="false">10.1037/bul0000481</guid>
+<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Corey E. Tatel; Phillip L. Ackerman]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000481</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Trust and subjective well-being across the lifespan: A multilevel meta-analysis of cross-sectional and longitudinal associations.</title>
+<link>https://doi.org/10.1037/bul0000480</link>
+<guid isPermaLink="false">10.1037/bul0000480</guid>
+<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shanshan Bi; Marlies Maes; Gonneke W. J. M. Stevens; Coriena de Heer; Jian-Bin Li; Yue Sun; Catrin Finkenauer]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000480</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>High math anxiety is associated with lower math achievement across 90 countries: An individual participant data meta-analysis of representative student and adult samples.</title>
+<link>https://doi.org/10.1037/bul0000514</link>
+<guid isPermaLink="false">10.1037/bul0000514</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Martin Brunner; Franzis Preckel; Thomas Götz; Oliver Lüdtke; Lena Keller]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000514</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Temperament, personality, and psychopathology in youth: A preregistered multilevel meta-analytic review and preregistered large-scale replication and extension.</title>
+<link>https://doi.org/10.1037/bul0000515</link>
+<guid isPermaLink="false">10.1037/bul0000515</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjamin A. Katz; Allison N. Shields; Ashley L. Watts; Catherine Wu; Jennifer L. Tackett]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000515</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Emotion regulation in mental disorders: A systematic review and multilevel meta-analysis of transdiagnostic and disorder-specific impairments.</title>
+<link>https://doi.org/10.1037/bul0000512</link>
+<guid isPermaLink="false">10.1037/bul0000512</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Annika Clamor; Tania M. Lincoln; Lars Schulze]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000512</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Is thinking inherently unpleasant? A cautionary note on David, Vassena, and Bijleveld (2024).</title>
+<link>https://doi.org/10.1037/bul0000484</link>
+<guid isPermaLink="false">10.1037/bul0000484</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Axel Grund; Julian Roelle; Sebastian Schmid]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000484</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rethinking emotional reactivity in bipolar disorders: A systematic review and meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000503</link>
+<guid isPermaLink="false">10.1037/bul0000503</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lilla Nora Kovacs; Matthew V. Elliott; Cynthia M. Villanueva; Julian Joachimsthaler; Sophia Gardinier; Jonathan Rottenberg; June Gruber; Sheri L. Johnson]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000503</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive mechanisms underlying sense of agency: Meta-analytic reviews of behavioral and neuroimaging studies.</title>
+<link>https://doi.org/10.1037/bul0000497</link>
+<guid isPermaLink="false">10.1037/bul0000497</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ke Zhao; Jianxin Dang; Jingjin Gu; Xiaolan Fu; Patrick Haggard]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000497</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Risk of undermining the cognitive benefits of physical activity by overcorrecting for risk of bias: Reply to Román-Caballero (2025).</title>
+<link>https://doi.org/10.1037/bul0000505</link>
+<guid isPermaLink="false">10.1037/bul0000505</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Caterina Pesce; Myrto F. Mavilidi; Spyridoula Vazou; Katherine B. Owen; Valentin Benzing; Sofia Anzeneder; Celia Álvarez-Bueno; Katie Robinson; David R. Lubans]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000505</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reassessing the cognitive benefits of physical activity: A meta-analytic reanalysis of Mavilidi et al. (2025).</title>
+<link>https://doi.org/10.1037/bul0000490</link>
+<guid isPermaLink="false">10.1037/bul0000490</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rafael Román-Caballero]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000490</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Positive and negative parenting practices and offspring disruptive behavior: A meta-analytic review of quasi-experimental evidence.</title>
+<link>https://doi.org/10.1037/bul0000495</link>
+<guid isPermaLink="false">10.1037/bul0000495</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lucy Karwatowska; Francesca Solmi; Jessie R. Baldwin; Sara R. Jaffee; Essi Viding; Jean-Baptiste Pingault; Bianca Lucia De Stavola]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000495</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social class and prosociality: A meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000469</link>
+<guid isPermaLink="false">10.1037/bul0000469</guid>
+<pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junhui Wu; Daniel Balliet; Mingliang Yuan; Wenqi Li; Yanyan Chen; Shuxian Jin; Shenghua Luan; Paul A. M. Van Lange]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000469</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Do Money and Time Change Who You Are? A Continuous Time Meta-Analysis and Review of Reciprocal Relationships Between Personality Traits and Income</title>
+<link>https://doi.org/10.1037/bul0000526.supp</link>
+<guid isPermaLink="false">10.1037/bul0000526.supp</guid>
+<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000526.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does the variance of personality traits change across the lifespan? A meta-analytic review of longitudinal studies.</title>
+<link>https://doi.org/10.1037/bul0000523</link>
+<guid isPermaLink="false">10.1037/bul0000523</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Haehner; Susanne Buecker; Marco J. Altorfer; Vera V. Bocklet; Wiebke Bleidorn]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000523</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Intergenerational stability in parenting across two generations: A multilevel meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000494</link>
+<guid isPermaLink="false">10.1037/bul0000494</guid>
+<pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sanne B. Geeraerts; Jenna Spitzer; Susanne Schulz; Deborah M. Capaldi; David C. R. Kerr; Susan Branje]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000494</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Acute effects of fasting on cognitive performance: A systematic review and meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000492</link>
+<guid isPermaLink="false">10.1037/bul0000492</guid>
+<pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christoph Bamberg; David Moreau]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000492</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Feeds, feelings, and focus: A systematic review and meta-analysis examining the cognitive and mental health correlates of short-form video use.</title>
+<link>https://doi.org/10.1037/bul0000498</link>
+<guid isPermaLink="false">10.1037/bul0000498</guid>
+<pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lan Nguyen; Jared Walters; Siddharth Paul; Shay Monreal Ijurco; Georgia E. Rainey; Nupur Parekh; Gabriel Blair; Miranda Darrah]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000498</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How does perceived social support relate to human thriving? A systematic review with meta-analyses.</title>
+<link>https://doi.org/10.1037/bul0000491</link>
+<guid isPermaLink="false">10.1037/bul0000491</guid>
+<pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[GeckHong Yeo; Jennifer E. Lansford; Karen D. Rudolph]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000491</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A meta-analytic review of cultural variation in affect valuation.</title>
+<link>https://doi.org/10.1037/bul0000499</link>
+<guid isPermaLink="false">10.1037/bul0000499</guid>
+<pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeanne L. Tsai; Daniel S. Chen; Angela M. Yang; Julie Y. A. Cachia; Elizabeth Blevins; Michael Ko; Maya B. Mathur; Oriana R. Aragón; Elisabeth A. Arens; Lucy Z. Bencharit; Stephen H. Chen; Ying-Chun Chen; Yulia Chentsova Dutton; Benjamin Y. Cheung; Louise Chim; Philip I. Chow; Magali Clobert; Arezou M. Costello; Igor de Almeida; Christopher P. Ditzfeld; Stacey N. Doan; Victoria A. Floerke; Brett Q. Ford; Helene H. Fung; Amy L. Gentzler; Eddie Harmon-Jones; Steven J. Heine; Derek M. Isaacowitz; Eiji Ito; Da Jiang; Emiko S. Kashima; Birgit Koopmann-Holm; Brian T. Kraus; Jocelyn Lai; Austyn T. Lee; Lilian Y. Li; Corinna E. Löckenhoff; Gloria Luong; Bradley C. Mannell; Yael Millgram; Shir Mizrahi Lakan; Benjamin Oosterhoff; Janelle Painter; BoKyung Park; Cara A. Palmer; Suzanne C. Parker; William Peruel; Matthew B. Ruby; Cristina E. Salvador; Gregory R. Samanez-Larkin; Molly Sands; Vassilis Saroglou; Marine I. Severin; Yoonji Shim; Benjamin A. Swerdlow; Maya Tamir; Renee J. Thompson; Yukiko Uchida; Chit Yuen Yi; Chen-Wei Yu; Xiaoyu Zhou]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000499</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does controlling for baseline stressful life events clarify or cloud the stress generation effect? A response to Dang and Xiao (2025).</title>
+<link>https://doi.org/10.1037/bul0000507</link>
+<guid isPermaLink="false">10.1037/bul0000507</guid>
+<pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katerina Rnic; Angela C. Santee; Hannah R. Snyder; Lisa R. Starr; David J. A. Dozois; Joelle LeMoult]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000507</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Internalized racism and personal self-esteem among ethnoracial minoritized groups: A meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000508</link>
+<guid isPermaLink="false">10.1037/bul0000508</guid>
+<pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Drexler James; Elie ChingYen Yu; Yilin Wang; Mariola Moeyaert]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000508</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Relative effects of implicit and explicit attitudes on behavior: A meta-analytic review and test of key moderators.</title>
+<link>https://doi.org/10.1037/bul0000506</link>
+<guid isPermaLink="false">10.1037/bul0000506</guid>
+<pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel J. Phipps; Martin S. Hagger; Kyra Hamilton]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000506</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The global decline in sexism: A multilevel meta-analytic review of trends in countries’ hostile sexism, benevolent sexism, and gender inequality over time.</title>
+<link>https://doi.org/10.1037/bul0000485</link>
+<guid isPermaLink="false">10.1037/bul0000485</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matthew D. Hammond; Nishtha Singh; Johannes A. Karl]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000485</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exposure to community violence and biomarkers of allostatic load: A systematic review and meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000488</link>
+<guid isPermaLink="false">10.1037/bul0000488</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bria Gresham; Mirinda M. Morency; Frederique Corcoran; Jacob J. Kunkel; Amy Riegelman]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000488</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Evaluative conditioning interventions: A systematic review and meta-analysis focused on attitudinal and behavioral change outcomes.</title>
+<link>https://doi.org/10.1037/bul0000489</link>
+<guid isPermaLink="false">10.1037/bul0000489</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tal Moran; Lidor Krava; Yoel Shilat]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000489</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Internalized racism, stress, and health: A comprehensive meta-analytic structural equation model test of the internalized racism framework.</title>
+<link>https://doi.org/10.1037/bul0000486</link>
+<guid isPermaLink="false">10.1037/bul0000486</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Drexler James; Alicia M. Bowling; Mariola Moeyaert; Kaavya Iyer]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000486</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

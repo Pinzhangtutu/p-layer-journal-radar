@@ -1,0 +1,631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Psychological Review</title>
+<link>http://localhost:8767/#pr</link>
+<description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/pr.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>A global matching model of choice and response times in the Deese–Roediger–Mcdermott semantic and structural false recognition paradigms.</title>
+<link>https://doi.org/10.1037/rev0000596</link>
+<guid isPermaLink="false">10.1037/rev0000596</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Adam F. Osth; Lyulei Zhang; Samuel Williams]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000596</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive mechanisms of subjective value in multiattribute pricing.</title>
+<link>https://doi.org/10.1037/rev0000594</link>
+<guid isPermaLink="false">10.1037/rev0000594</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anderson K. Fitch; Peter D. Kvam]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000594</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reverse engineering the centered self.</title>
+<link>https://doi.org/10.1037/rev0000623</link>
+<guid isPermaLink="false">10.1037/rev0000623</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[L. A. Paul; Tracey Mills; Tomer D. Ullman; Julian De Freitas; Cédric Colas; Joshua B. Tenenbaum]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000623</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Within-alternative processing supports transitivity of preferences in multiattribute choice.</title>
+<link>https://doi.org/10.1037/rev0000587</link>
+<guid isPermaLink="false">10.1037/rev0000587</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gilad Pessach; Konstantinos Tsetsos; Michel Regenwetter; Marius Usher]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000587</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Integrating dual-process decision making and social dynamics: A formal modeling framework for addiction.</title>
+<link>https://doi.org/10.1037/rev0000584</link>
+<guid isPermaLink="false">10.1037/rev0000584</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jesse Boot; Maarten W. J. van den Ende; Reinout W. Wiers; Mike H. Lees; Han L. J. van der Maas]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000584</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The theory of mind hypothesis of autism: A critical evaluation of the status quo.</title>
+<link>https://doi.org/10.1037/rev0000532</link>
+<guid isPermaLink="false">10.1037/rev0000532</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Emily L. Long; Caroline Catmur; Geoffrey Bird]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000532</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The social relations–approach theory of social hierarchy: Understanding the distinct psychological experiences of status and power.</title>
+<link>https://doi.org/10.1037/rev0000618</link>
+<guid isPermaLink="false">10.1037/rev0000618</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicholas A. Hays; Alice J. Lee; Steven L. Blader; Adam D. Galinsky]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000618</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Control adjustment costs limit goal flexibility: Empirical evidence and a computational account.</title>
+<link>https://doi.org/10.1037/rev0000576</link>
+<guid isPermaLink="false">10.1037/rev0000576</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ivan Grahek; Xiamin Leng; Sebastian Musslick; Amitai Shenhav]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000576</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The successes and failures of artificial neural networks (ANNs) highlight the importance of innate linguistic priors for human language acquisition.</title>
+<link>https://doi.org/10.1037/rev0000595</link>
+<guid isPermaLink="false">10.1037/rev0000595</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeffrey S. Bowers]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000595</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Simplicity and complexity of probabilistically defined concepts.</title>
+<link>https://doi.org/10.1037/rev0000563</link>
+<guid isPermaLink="false">10.1037/rev0000563</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jacob Feldman]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000563</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital technologies and evolutionary mismatch: Harming, but also healing mental health.</title>
+<link>https://doi.org/10.1037/rev0000593</link>
+<guid isPermaLink="false">10.1037/rev0000593</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tanay Katiyar; Adam Hunt; Amy Orben; Nikhil Chaudhary; Adrian V. Jaeggi]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000593</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Chance as a (non)explanation: A cross-cultural examination of folk understanding of chance and coincidence.</title>
+<link>https://doi.org/10.1037/rev0000568</link>
+<guid isPermaLink="false">10.1037/rev0000568</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ze Hong]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000568</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Capacity not required: A long-term memory model that exhibits key signatures of working memory.</title>
+<link>https://doi.org/10.1037/rev0000588</link>
+<guid isPermaLink="false">10.1037/rev0000588</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sean M. Polyn; Geoffrey F. Woodman]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000588</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Ensemble-based working memory updating and its computational rules.</title>
+<link>https://doi.org/10.1037/rev0000569</link>
+<guid isPermaLink="false">10.1037/rev0000569</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Chen; Wenwen Li; Xiaowei Ding]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000569</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Computation-limited Bayesian updating: A resource-rational analysis of approximate Bayesian inference.</title>
+<link>https://doi.org/10.1037/rev0000573</link>
+<guid isPermaLink="false">10.1037/rev0000573</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jian-Qiao Zhu; Thomas L. Griffiths]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000573</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adaptive computation as a new mechanism of dynamic human attention.</title>
+<link>https://doi.org/10.1037/rev0000572</link>
+<guid isPermaLink="false">10.1037/rev0000572</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mario Belledonne; Eivinas Butkus; Brian J. Scholl; Ilker Yildirim]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000572</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How beliefs persist amid controversy: The paths to persistence model.</title>
+<link>https://doi.org/10.1037/rev0000583</link>
+<guid isPermaLink="false">10.1037/rev0000583</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kerem Oktar; Tania Lombrozo]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000583</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rational causal induction from events in time.</title>
+<link>https://doi.org/10.1037/rev0000570</link>
+<guid isPermaLink="false">10.1037/rev0000570</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tianwei Gong; M Pacer; Thomas L. Griffiths; Neil R. Bramley]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000570</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A metatheory of classical and modern connectionism.</title>
+<link>https://doi.org/10.1037/rev0000591</link>
+<guid isPermaLink="false">10.1037/rev0000591</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Olivia Guest; Andrea E. Martin]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000591</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adapting to loss: A computational model of grief.</title>
+<link>https://doi.org/10.1037/rev0000567</link>
+<guid isPermaLink="false">10.1037/rev0000567</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zack Dulberg; Rachit Dubey; Jonathan D. Cohen]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000567</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Disorders of self-categorization: How and why a healthy social self-system is the cornerstone of mental health.</title>
+<link>https://doi.org/10.1037/rev0000566</link>
+<guid isPermaLink="false">10.1037/rev0000566</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tegan Cruwys; S. Alexander Haslam; Daniel P. Skorich]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000566</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Inferring the causes of noise from binary outcomes: A normative theory of learning under uncertainty.</title>
+<link>https://doi.org/10.1037/rev0000638</link>
+<guid isPermaLink="false">10.1037/rev0000638</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiaotong Fang; Payam Piray]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000638</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A comparison of single and multiple diffusion process models of continuous-outcome decision making.</title>
+<link>https://doi.org/10.1037/rev0000635</link>
+<guid isPermaLink="false">10.1037/rev0000635</guid>
+<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Philip L. Smith; Paul M. Garrett; Daniel Feuerriegel; Jane Yook; Simon D. Lilburn]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000635</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The two ontologies of person–organization fit.</title>
+<link>https://doi.org/10.1037/rev0000650</link>
+<guid isPermaLink="false">10.1037/rev0000650</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jon Billsberry]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000650</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Learning from generic language.</title>
+<link>https://doi.org/10.1037/rev0000632</link>
+<guid isPermaLink="false">10.1037/rev0000632</guid>
+<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael Henry Tessler; Noah D. Goodman]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000632</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Perception and action as one: Re-integrating research on human action through event files.</title>
+<link>https://doi.org/10.1037/rev0000634</link>
+<guid isPermaLink="false">10.1037/rev0000634</guid>
+<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian Frings; Christian Beste]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000634</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Risk matters less when options are apples-to-oranges: The translate-and-accommodate model.</title>
+<link>https://doi.org/10.1037/rev0000633</link>
+<guid isPermaLink="false">10.1037/rev0000633</guid>
+<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Evan Weingarten; Yuval Rottenstreich; George Wu]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000633</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The evolutionary transition from intentional to overt communication: The role of script recognition.</title>
+<link>https://doi.org/10.1037/rev0000622</link>
+<guid isPermaLink="false">10.1037/rev0000622</guid>
+<pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christine Sievers; Cameron Alexander; Derry Taylor; Gökhan Gönül; Fabrice Clément; Klaus Zuberbühler; Hans-Johann Glock]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000622</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adaptive variability in humans, pigeons, and rats.</title>
+<link>https://doi.org/10.1037/rev0000620</link>
+<guid isPermaLink="false">10.1037/rev0000620</guid>
+<pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Janne Reynders; Tom Verguts; Senne Braem]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000620</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A theory of multiattribute search and choice.</title>
+<link>https://doi.org/10.1037/rev0000614</link>
+<guid isPermaLink="false">10.1037/rev0000614</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sebastian Gluth; Jordan Deakin; Jörg Rieskamp]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000614</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive constraints and reward environments jointly shape memory formation.</title>
+<link>https://doi.org/10.1037/rev0000612</link>
+<guid isPermaLink="false">10.1037/rev0000612</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Si Ma; Vencislav Popov; Qiong Zhang]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000612</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Risk Matters Less When Options Are Apples-to-Oranges: The Translate-and-Accommodate Model</title>
+<link>https://doi.org/10.1037/rev0000633.supp</link>
+<guid isPermaLink="false">10.1037/rev0000633.supp</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000633.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Talking the Talk, Not Walking the Walk: The Coevolution of Overconfidence and Loss Aversion</title>
+<link>https://doi.org/10.1037/rev0000644.supp</link>
+<guid isPermaLink="false">10.1037/rev0000644.supp</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000644.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Adaptive Variability in Humans, Pigeons, and Rats</title>
+<link>https://doi.org/10.1037/rev0000620.supp</link>
+<guid isPermaLink="false">10.1037/rev0000620.supp</guid>
+<pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000620.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Internalized racism as a self-regulatory system: The internalized racism process model.</title>
+<link>https://doi.org/10.1037/rev0000640</link>
+<guid isPermaLink="false">10.1037/rev0000640</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Drexler James]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000640</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond synchrony: Why disengagement can sometimes be the healthiest choice.</title>
+<link>https://doi.org/10.1037/rev0000642</link>
+<guid isPermaLink="false">10.1037/rev0000642</guid>
+<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tal-Chen Rabinowitch; Sigal Zilcha-Mano]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000642</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Extreme-value signal detection theory for recognition memory: The parametric road not taken.</title>
+<link>https://doi.org/10.1037/rev0000615</link>
+<guid isPermaLink="false">10.1037/rev0000615</guid>
+<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Constantin G. Meyer-Grant; David Kellen; Samuel M. Harding; Henrik Singmann]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000615</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beliefs about perception shape perceptual inference: An ideal observer model of detection.</title>
+<link>https://doi.org/10.1037/rev0000552</link>
+<guid isPermaLink="false">10.1037/rev0000552</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matan Mazor; Rani Moran; Clare Press]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000552</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive network enrichment, not degradation, explains the aging mental lexicon and links fluid and crystallized intelligence.</title>
+<link>https://doi.org/10.1037/rev0000557</link>
+<guid isPermaLink="false">10.1037/rev0000557</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas T. Hills]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000557</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A cascading effects model of early sensory development in autism.</title>
+<link>https://doi.org/10.1037/rev0000558</link>
+<guid isPermaLink="false">10.1037/rev0000558</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Natalie Russo; Autism Sensory Research Consortium; Carissa J. Cascio; Grace T. Baranek; Tiffany G. Woynaroski; Zachary J. Williams; Shulamite A. Green; Roseann Schaaf]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000558</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>In defense of the double empathy problem hypothesis: An urgently needed alternative to fallacies and injustices in mainstream autism research.</title>
+<link>https://doi.org/10.1037/rev0000605</link>
+<guid isPermaLink="false">10.1037/rev0000605</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Caroline Bollen; Janna van Grunsven]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000605</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The enchronic envelope.</title>
+<link>https://doi.org/10.1037/rev0000553</link>
+<guid isPermaLink="false">10.1037/rev0000553</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[N. J. Enfield]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000553</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do bilingual advantages in domain-general executive functioning occur in everyday life and/or when performance-based measures have excellent psychometric properties?</title>
+<link>https://doi.org/10.1037/rev0000537</link>
+<guid isPermaLink="false">10.1037/rev0000537</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kenneth R. Paap; John Majoubi; Regina T. Anders-Jefferson; Rin Iosilevsky; Charlotte Ursula Tate]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000537</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Causation, meaning, and communication.</title>
+<link>https://doi.org/10.1037/rev0000548</link>
+<guid isPermaLink="false">10.1037/rev0000548</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ari Beller; Tobias Gerstenberg]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000548</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rethinking ostensive communication in an evolutionary, comparative, and developmental perspective.</title>
+<link>https://doi.org/10.1037/rev0000565</link>
+<guid isPermaLink="false">10.1037/rev0000565</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dan Sperber; Deirdre Wilson]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000565</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rethinking memory impairments: Retrieval failure.</title>
+<link>https://doi.org/10.1037/rev0000538</link>
+<guid isPermaLink="false">10.1037/rev0000538</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joaquín M. Alfei; Ralph R. Miller; Tomás J. Ryan; Gonzalo P. Urcelay]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000538</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Temporal foreknowledge: Anticipation and prospective correction of timing errors by diffusion.</title>
+<link>https://doi.org/10.1037/rev0000556</link>
+<guid isPermaLink="false">10.1037/rev0000556</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fuat Balcı; Tutku Öztel]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000556</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Discourse referents in infancy.</title>
+<link>https://doi.org/10.1037/rev0000545</link>
+<guid isPermaLink="false">10.1037/rev0000545</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gabor Brody; Gergely Csibra]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000545</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Modular serial-parallel network for hierarchical facial representations.</title>
+<link>https://doi.org/10.1037/rev0000646</link>
+<guid isPermaLink="false">10.1037/rev0000646</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mario Fifić; Daniel R. Little; Cheng-Ta Yang]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000646</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Inferring the Causes of Noise From Binary Outcomes: A Normative Theory of Learning Under Uncertainty</title>
+<link>https://doi.org/10.1037/rev0000638.supp</link>
+<guid isPermaLink="false">10.1037/rev0000638.supp</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000638.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Using the dynamics of children’s reaching to examine the role of inhibitory control in social cognitive development.</title>
+<link>https://doi.org/10.1037/rev0000641</link>
+<guid isPermaLink="false">10.1037/rev0000641</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David M. Sobel]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000641</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A goal-directed perspective on dampening of positive affect.</title>
+<link>https://doi.org/10.1037/rev0000619</link>
+<guid isPermaLink="false">10.1037/rev0000619</guid>
+<pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Liesbeth Bogaert; Agnes Moors; Filip Raes]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000619</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A reciprocal model of practice and skill: Navigating between dropout and expertise.</title>
+<link>https://doi.org/10.1037/rev0000627</link>
+<guid isPermaLink="false">10.1037/rev0000627</guid>
+<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pritam Laskar; Raoul P. P. P. Grasman; Maartje E. J. Raijmakers; Ale Jan Homburg; Brenda R. J. Jansen; Han L. J. van der Maas]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000627</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Associative learning explains “intuitive statistics” in animals.</title>
+<link>https://doi.org/10.1037/rev0000626</link>
+<guid isPermaLink="false">10.1037/rev0000626</guid>
+<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stefano Ghirlanda; Janelle Mendoza]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000626</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Talking the talk, not walking the walk: The coevolution of overconfidence and loss aversion.</title>
+<link>https://doi.org/10.1037/rev0000644</link>
+<guid isPermaLink="false">10.1037/rev0000644</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chris Dawson; David de Meza]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000644</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Famine, plague, and slaughters: The fleeing famine hypothesis of anorexia nervosa reconsidered.</title>
+<link>https://doi.org/10.1037/rev0000643</link>
+<guid isPermaLink="false">10.1037/rev0000643</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nikhila S. Udupa; Mina Velimirović; Morgan Robison; Mary E. Duffy; Thomas E. Joiner]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000643</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The format of representation for objects in orbit: Composite and internally referenced.</title>
+<link>https://doi.org/10.1037/rev0000629</link>
+<guid isPermaLink="false">10.1037/rev0000629</guid>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qihan Wu; Jonathan I. Flombaum]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000629</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The statistical physics of psychological networks: Zero matters.</title>
+<link>https://doi.org/10.1037/rev0000611</link>
+<guid isPermaLink="false">10.1037/rev0000611</guid>
+<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Han L. J. van der Maas; Denny Borsboom; Lourens Waldorp]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000611</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The relative psychometric function: A general analysis framework for relating psychological processes.</title>
+<link>https://doi.org/10.1037/rev0000625</link>
+<guid isPermaLink="false">10.1037/rev0000625</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Brian Maniscalco; Olenka Graham Castaneda; Brian Odegaard; Jorge Morales; Sivananda Rajananda; Rachel N. Denison; Megan A. K. Peters]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000625</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Spiking the mind: Rethinking the role of cortical feedback in visual mental imagery.</title>
+<link>https://doi.org/10.1037/rev0000621</link>
+<guid isPermaLink="false">10.1037/rev0000621</guid>
+<pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roger Koenig-Robert; Thomas Pace; Joel Pearson]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000621</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A psychological-scaling approach to unraveling the nature of Pigeons’ categorization of natural visual objects.</title>
+<link>https://doi.org/10.1037/rev0000630</link>
+<guid isPermaLink="false">10.1037/rev0000630</guid>
+<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Odysseus R. P. Orr; Edward A. Wasserman; Robert M. Nosofsky]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000630</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for The Relative Psychometric Function: A General Analysis Framework for Relating Psychological Processes</title>
+<link>https://doi.org/10.1037/rev0000625.supp</link>
+<guid isPermaLink="false">10.1037/rev0000625.supp</guid>
+<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000625.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Probabilistic forecasting guides dynamic decisions.</title>
+<link>https://doi.org/10.1037/rev0000628</link>
+<guid isPermaLink="false">10.1037/rev0000628</guid>
+<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuze Liu; Yang Xiang; Samuel J. Gershman]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000628</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A theory-driven approach to understanding individual differences in bilingualism and executive functioning: Beyond a general advantage.</title>
+<link>https://doi.org/10.1037/rev0000631</link>
+<guid isPermaLink="false">10.1037/rev0000631</guid>
+<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ester Navarro; Manali Pathare; Eleonora Rossi]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000631</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A taxonomy of discriminatory behavior.</title>
+<link>https://doi.org/10.1037/rev0000636</link>
+<guid isPermaLink="false">10.1037/rev0000636</guid>
+<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eric Hehman; Rebecca Neel; Lora E. Park; N. Keita Christophe]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000636</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Why the Big Five personality traits are composites, not common causes: Implications for measurement, prediction, and causal inference.</title>
+<link>https://doi.org/10.1037/rev0000637</link>
+<guid isPermaLink="false">10.1037/rev0000637</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael P. Grosz]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000637</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Internalized Racism as a Self-Regulatory System: The Internalized Racism Process Model</title>
+<link>https://doi.org/10.1037/rev0000640.supp</link>
+<guid isPermaLink="false">10.1037/rev0000640.supp</guid>
+<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000640.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Future-oriented mental time travel and self-reinforcement.</title>
+<link>https://doi.org/10.1037/rev0000624</link>
+<guid isPermaLink="false">10.1037/rev0000624</guid>
+<pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ekrem Dere]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000624</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do congruency effects in Navon’s and Stroop’s paradigms reflect the same (control) mechanisms? A conceptual analysis and an empirical test.</title>
+<link>https://doi.org/10.1037/rev0000617</link>
+<guid isPermaLink="false">10.1037/rev0000617</guid>
+<pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian Gerlach; Nicolas Poirel]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000617</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Academy of Management Perspectives</title>
+<link>http://localhost:8767/#ame</link>
+<description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/ame.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Holdup and Firms’ Relative Advantage in Private Infrastructure Projects</title>
+<link>https://doi.org/10.5465/amp.2023.0187</link>
+<guid isPermaLink="false">10.5465/amp.2023.0187</guid>
+<pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Himanshu Bhatt; Srividya Jandhyala]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0187</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Toward an Agentic Theory of Outsider Outliers: The Case of Carlos Ghosn</title>
+<link>https://doi.org/10.5465/amp.2023.0491</link>
+<guid isPermaLink="false">10.5465/amp.2023.0491</guid>
+<pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Holly B. Cooper; Michael T. Ewing]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0491</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Upgrading Processes of Emerging-Market Manufacturers in Global Value Chains</title>
+<link>https://doi.org/10.5465/amp.2024.0073</link>
+<guid isPermaLink="false">10.5465/amp.2024.0073</guid>
+<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mohammad Iftekhar; Peter Zámborský; Maureen Benson-Rea]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0073</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Managing Political Risk: A Multidisciplinary Review and Reconsideration</title>
+<link>https://doi.org/10.5465/amp.2024.0320</link>
+<guid isPermaLink="false">10.5465/amp.2024.0320</guid>
+<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christopher Bruno; Witold Henisz]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0320</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Firm’s Decision to Settle a Securities Class Action Lawsuit: The Influence of CEO Prevention Focus and CEO Duality</title>
+<link>https://doi.org/10.5465/amp.2024.0047</link>
+<guid isPermaLink="false">10.5465/amp.2024.0047</guid>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarit Avny; Abraham Carmeli]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0047</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Secret of Outlier Ventures: Developing Interpretive Capacity to Scale Up</title>
+<link>https://doi.org/10.5465/amp.2023.0496</link>
+<guid isPermaLink="false">10.5465/amp.2023.0496</guid>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Silvia Sanasi; Alfredo De Massis]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0496</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Random Experimentation and Exceptional Outcomes in Entrepreneurship</title>
+<link>https://doi.org/10.5465/amp.2023.0514</link>
+<guid isPermaLink="false">10.5465/amp.2023.0514</guid>
+<pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mohammad Keyhani; Zahra Jamshidi]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0514</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Configurational Momentum Perspective on Exceptional Growth and Power-Law Distributions</title>
+<link>https://doi.org/10.5465/amp.2023.0494</link>
+<guid isPermaLink="false">10.5465/amp.2023.0494</guid>
+<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yi Peng; Runtian Jing]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0494</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Corporate Engagement with Polarizing Morality Issues Conceptualization and Implications</title>
+<link>https://doi.org/10.5465/amp.2024.0181</link>
+<guid isPermaLink="false">10.5465/amp.2024.0181</guid>
+<pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Niels Selling; Florian Wettstein]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0181</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Inequality and Injustice: Talking Past Each Other</title>
+<link>https://doi.org/10.5465/amp.2023.0358</link>
+<guid isPermaLink="false">10.5465/amp.2023.0358</guid>
+<pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Per L. Bylund; Alexander Cartwright; Mark D. Packard; Steve Trost]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0358</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>“Fake It ’Til You Make It”: The Power and Peril of Implied Social Validation in the Entrepreneurial Journey</title>
+<link>https://doi.org/10.5465/amp.2023.0513</link>
+<guid isPermaLink="false">10.5465/amp.2023.0513</guid>
+<pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeffery S. McMullen]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0513</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Platform Regulation: Beyond Power and Size</title>
+<link>https://doi.org/10.5465/amp.2025.0261</link>
+<guid isPermaLink="false">10.5465/amp.2025.0261</guid>
+<pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Carmelo Cennamo; Peter Gianiodis; Tobias Kretschmer; David McIntyre; Pinar Ozcan; Marshall Van Alstyne]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0261</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Contextualizing the Canon: Sociohistorical Change and the Future of Entrepreneurship Research</title>
+<link>https://doi.org/10.5465/amp.2023.0385</link>
+<guid isPermaLink="false">10.5465/amp.2023.0385</guid>
+<pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David A. Kirsch; R. Daniel Wadhwani; Friederike Welter]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0385</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does Trust Matter? Uncovering the Conditions by Which Boards Trust Managers in Nonprofits</title>
+<link>https://doi.org/10.5465/amp.2024.0164</link>
+<guid isPermaLink="false">10.5465/amp.2024.0164</guid>
+<pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vince Bruni-Bossio; Lee A. Swanson]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0164</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Emplotting Climate Change: Rhetorical History and Imagined Accountability</title>
+<link>https://doi.org/10.5465/amp.2023.0486</link>
+<guid isPermaLink="false">10.5465/amp.2023.0486</guid>
+<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ziyun Fan; Yihan Liu; Daniel Nyberg]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0486</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Navigating the Diversity–Unity Paradox in DEI Strategies</title>
+<link>https://doi.org/10.5465/amp.2024.0179</link>
+<guid isPermaLink="false">10.5465/amp.2024.0179</guid>
+<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Salome Opoku; David A. Waldman; Patrick Wright]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0179</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Breaking Away from the Pack: Uncovering the Characteristics of Exceptional Firms in Power-Law Performance Distributions</title>
+<link>https://doi.org/10.5465/amp.2023.0503</link>
+<guid isPermaLink="false">10.5465/amp.2023.0503</guid>
+<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[William Wales; Maksim Belitski; Jeffrey A. Martin; Tatiana Stettler]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0503</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Entrepreneurialism, Inequality, and Society: Organizational and Policy Implications</title>
+<link>https://doi.org/10.5465/amp.2025.0134</link>
+<guid isPermaLink="false">10.5465/amp.2025.0134</guid>
+<pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robert Eberhart; Timothy Folta; Lisa Hehenberger; Jennifer E. Jennings; P. Devereaux Jennings; William Schulze; Tim Weiss]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0134</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Strategy Formation and Dynamic Capabilities: Motorola’s Entry into China</title>
+<link>https://doi.org/10.5465/amp.2024.0131</link>
+<guid isPermaLink="false">10.5465/amp.2024.0131</guid>
+<pubDate>Thu, 04 Sep 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Frank T. Rothaermel; Anne W. Fuller]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0131</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Boards and Management Under Pressure: Navigating The New Dynamics of Shareholder and Stakeholder Demands</title>
+<link>https://doi.org/10.5465/amp.2024.0170</link>
+<guid isPermaLink="false">10.5465/amp.2024.0170</guid>
+<pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Margarethe F. Wiersema; Cynthia E. Clark; Haeyoung Koo]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0170</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Forgiving Stakeholders</title>
+<link>https://doi.org/10.5465/amp.2023.0460</link>
+<guid isPermaLink="false">10.5465/amp.2023.0460</guid>
+<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeffrey S. Harrison; Violet T. Ho; Robert A. Phillips]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0460</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Training the Elephant to Dance: State-Owned Enterprises, Transition, and the Reinterpretation of Legacy</title>
+<link>https://doi.org/10.5465/amp.2023.0277</link>
+<guid isPermaLink="false">10.5465/amp.2023.0277</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christopher A. Hartwell; Vladimir Korovkin; Natalia Vershinina]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0277</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Telling a Life Story to Creating One: Finding Meaning and Supporting Prosocial Action through Legacy Motive Activation</title>
+<link>https://doi.org/10.5465/amp.2023.0322</link>
+<guid isPermaLink="false">10.5465/amp.2023.0322</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniela Goya-Tocchetto; Jessica J. W. Paek; Kimberly A. Wade-Benzoni]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0322</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Legacy Management in Theory and in Practice</title>
+<link>https://doi.org/10.5465/amp.2025.0240</link>
+<guid isPermaLink="false">10.5465/amp.2025.0240</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miruna Radu-Lefebvre; James H. Davis; Alfredo De Massis; William B. Gartner; Sarah Jack; Gideon D. Markman]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0240</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Managing the Liability of Legacy in Family Firms</title>
+<link>https://doi.org/10.5465/amp.2023.0319</link>
+<guid isPermaLink="false">10.5465/amp.2023.0319</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eric Clinton; Catherine M. Faherty; Colm O’Gorman; Nadine Kammerlander]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0319</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Chip Off the Old Block: Entrepreneurial Legacy in the Geographically Diversified Firm</title>
+<link>https://doi.org/10.5465/amp.2023.0287</link>
+<guid isPermaLink="false">10.5465/amp.2023.0287</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katarina Blomkvist; John A. Cantwell; Philip Kappen; Ivo Zander]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0287</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Seeking Organizational Immortality: Legacy Biases in Organizational Decision-Making</title>
+<link>https://doi.org/10.5465/amp.2023.0276</link>
+<guid isPermaLink="false">10.5465/amp.2023.0276</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeffrey S. Bednar; Ryan S. Elder]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0276</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Show Must Go On: Preserving the Legacy Business through Exit in Family Business Portfolio Firms</title>
+<link>https://doi.org/10.5465/amp.2023.0293</link>
+<guid isPermaLink="false">10.5465/amp.2023.0293</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[R. Duane Ireland; Francesco Chirico; Naveed Akhter; Emanuela Rondi; Rida Ijaz]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0293</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bearing Witness? A Legacy of Faith in Family Entrepreneuring</title>
+<link>https://doi.org/10.5465/amp.2023.0321</link>
+<guid isPermaLink="false">10.5465/amp.2023.0321</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Allan Discua Cruz; Eleanor Hamilton]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0321</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Legacy of Brokering Entrepreneurial Tendencies: A Case Study</title>
+<link>https://doi.org/10.5465/amp.2023.0070</link>
+<guid isPermaLink="false">10.5465/amp.2023.0070</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mollie Painter; Daniel Hjorth; Gideon Pogrund]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0070</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Firms as Quasi-Traditions: The Moral Backbone of Social Legacy</title>
+<link>https://doi.org/10.5465/amp.2023.0296</link>
+<guid isPermaLink="false">10.5465/amp.2023.0296</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicholas Burton; Matthew Sinnicks; Claire Hedley; Allan Discua Cruz; Nicholas D. Wong; Andrew Smith]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0296</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Is Competition Policy Fit for the Digital Economy? A European Perspective</title>
+<link>https://doi.org/10.5465/amp.2023.0249</link>
+<guid isPermaLink="false">10.5465/amp.2023.0249</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Saul Estrin; Klaus E. Meyer; Tobias Kretschmer]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0249</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Crafting Credible and Compelling Conceptual Contributions</title>
+<link>https://doi.org/10.5465/amp.2025.0185</link>
+<guid isPermaLink="false">10.5465/amp.2025.0185</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael L. Barnett; Sandro Cabral; Bonnie Hayden Cheng; Pursey Heugens; Tazeeb Rajwani]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0185</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mastering the Art of Crisis through Mythopoeic Relation to Legacy</title>
+<link>https://doi.org/10.5465/amp.2023.0294</link>
+<guid isPermaLink="false">10.5465/amp.2023.0294</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anastasia Sergeeva; Matthew S. Kraatz]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0294</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Delivering on the Purpose: The Formulation of Effective Unit Mandates</title>
+<link>https://doi.org/10.5465/amp.2023.0475</link>
+<guid isPermaLink="false">10.5465/amp.2023.0475</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicolay Worren; Shawn Pope]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0475</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Participative Management Builds the Foundation for Organizational Ambidexterity: Toyota’s 3 Pillar Activity</title>
+<link>https://doi.org/10.5465/amp.2024.0095</link>
+<guid isPermaLink="false">10.5465/amp.2024.0095</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katsuki Aoki]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0095</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>“Please, Hurry Up!” Leveraging Narratives to Speed Up the Mobilization of Resources for Entrepreneurial Ventures</title>
+<link>https://doi.org/10.5465/amp.2023.0224</link>
+<guid isPermaLink="false">10.5465/amp.2023.0224</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David Johnson; Mark Geiger; Peter T. Gianiodis; Adam J. Bock]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What Is Your AI Strategy? Systematically Integrating Self-Learning Technologies into Your Business Strategy</title>
+<link>https://doi.org/10.5465/amp.2023.0243</link>
+<guid isPermaLink="false">10.5465/amp.2023.0243</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Hutzschenreuter; Tim Lämmermann]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0243</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sovereign Authority or Distributed Influence? Exploring How Journal Editors Manage the Publication Process</title>
+<link>https://doi.org/10.5465/amp.2023.0372</link>
+<guid isPermaLink="false">10.5465/amp.2023.0372</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Caroline Gatrell; Dermot Breslin]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0372</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Creating Long-Term Impact in a World That Requires Short-Term Results: What Is Missing from Academic Discourse on Systems Change</title>
+<link>https://doi.org/10.5465/amp.2025.0225</link>
+<guid isPermaLink="false">10.5465/amp.2025.0225</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sylvia Grewatsch; Alex Ryan]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0225</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Pathways Priming Our Pipeline: Perusing the &lt;i&gt;Perspectives&lt;/i&gt; Portfolio</title>
+<link>https://doi.org/10.5465/amp.2026.0201</link>
+<guid isPermaLink="false">10.5465/amp.2026.0201</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael L. Barnett]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2026.0201</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Duty to Remember: Craft Firms as Custodians of Heritage Craft Persistence</title>
+<link>https://doi.org/10.5465/amp.2024.0214</link>
+<guid isPermaLink="false">10.5465/amp.2024.0214</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chiara Succi; Maral Muratbekova-Touron; Domitille Bonneton; Adelina Tordiglione]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0214</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Improving the Credibility of Corporate Sustainability Metrics</title>
+<link>https://doi.org/10.5465/amp.2024.0202</link>
+<guid isPermaLink="false">10.5465/amp.2024.0202</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Magali A. Delmas; Kelly Clark; Dylan Minor; Tyson Timmer]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0202</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Lessons on How Evidence-Based Performance Management Changed Practice, Policy, and Talent Decisions</title>
+<link>https://doi.org/10.5465/amp.2025.0388</link>
+<guid isPermaLink="false">10.5465/amp.2025.0388</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Herman Aguinis]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0388</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Getting to the Root Causes: An Integrative Framework for Understanding and Mitigating Unethical Workplace Behavior</title>
+<link>https://doi.org/10.5465/amp.2024.0236</link>
+<guid isPermaLink="false">10.5465/amp.2024.0236</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David T. Welsh; Ryan Fehr; Grace Ching Chi Ho; Chris M. Barnes]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0236</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond the Match: What Intermediaries Should Do to Effectively Orchestrate Corporate–Startup Collaborations</title>
+<link>https://doi.org/10.5465/amp.2024.0327</link>
+<guid isPermaLink="false">10.5465/amp.2024.0327</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Medhanie Gaim; Elie Saad; Tomas Blomquist]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0327</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Strategic CSR Investment as a Response to Anticipated Employee Departures from Rivals</title>
+<link>https://doi.org/10.5465/amp.2024.0088</link>
+<guid isPermaLink="false">10.5465/amp.2024.0088</guid>
+<pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rong Gong]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0088</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Toward a New Understanding of Portfolio Governance Senior Management Competence</title>
+<link>https://doi.org/10.5465/amp.2023.0415</link>
+<guid isPermaLink="false">10.5465/amp.2023.0415</guid>
+<pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mariano Garrido-López; Véronique Ambrosini]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0415</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exceptionalism and Outliers: Advancing Management Theory and Public Policy</title>
+<link>https://doi.org/10.5465/amp.2025.0285</link>
+<guid isPermaLink="false">10.5465/amp.2025.0285</guid>
+<pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel R. Clark; Robert J. Pidduck; G. Christopher Crawford; Christian Lechner; Nicola Breugst; Véronique Ambrosini]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0285</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Two Sides of the Same Coin: Why and How Equitable Distribution and Representation Matter for Innovation Advancing the Social Good in Real Places</title>
+<link>https://doi.org/10.5465/amp.2023.0379</link>
+<guid isPermaLink="false">10.5465/amp.2023.0379</guid>
+<pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Andy Buschmann; Dan Breznitz]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0379</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Should Your Team Override AI? A Trust Calibration Routine</title>
+<link>https://doi.org/10.5465/amp.2025.0019</link>
+<guid isPermaLink="false">10.5465/amp.2025.0019</guid>
+<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Iva Atanassova; Huda Khan; Zaheer Khan]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0019</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Matching Stigma Sources to Social Change Strategies: A Framework from FemTech Entrepreneurship</title>
+<link>https://doi.org/10.5465/amp.2025.0058</link>
+<guid isPermaLink="false">10.5465/amp.2025.0058</guid>
+<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Neva Bojovic; Rachel Braun Scherl; Padmaja Agrade]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0058</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Certification of Business Practices and Algorithms as a Complementary Approach to Platform Regulation</title>
+<link>https://doi.org/10.5465/amp.2023.0421</link>
+<guid isPermaLink="false">10.5465/amp.2023.0421</guid>
+<pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dovev Lavie; Oreste Pollicino; Tommaso Valletti]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0421</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Driving Digital Sustainability in Global Value Chains: Multinational Enterprises as Chief Orchestrators</title>
+<link>https://doi.org/10.5465/amp.2023.0160</link>
+<guid isPermaLink="false">10.5465/amp.2023.0160</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Claire Kilpatrick; Kieran M. Conroy]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0160</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Turning Inside Out: How to Leverage Data from Within Organizations</title>
+<link>https://doi.org/10.5465/amp.2026.0111</link>
+<guid isPermaLink="false">10.5465/amp.2026.0111</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Helena Barnard; Michael L. Barnett; Sandro Cabral; Bonnie Hayden Cheng; Tazeeb Rajwani]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2026.0111</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital Sustainability Strategies: Digitally Enabled and Digital-First Innovation for Net Zero</title>
+<link>https://doi.org/10.5465/amp.2023.0169</link>
+<guid isPermaLink="false">10.5465/amp.2023.0169</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lukas Falcke; Ann-Kristin Zobel; Youngjin Yoo; Christopher Tucci]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0169</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>At the Crossroads: An Affordance-Based Perspective for Navigating Digital Sustainability Pathways</title>
+<link>https://doi.org/10.5465/amp.2023.0173</link>
+<guid isPermaLink="false">10.5465/amp.2023.0173</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Davide Moiana; Jacopo Manotti; Antonio Ghezzi; Andrea Rangone]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0173</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Global Digital Sustainability: A Cross-Disciplinary Approach</title>
+<link>https://doi.org/10.5465/amp.2023.0182</link>
+<guid isPermaLink="false">10.5465/amp.2023.0182</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rosalie Luo]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0182</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>“Digital Sustainability”: Addressing Managerial, Organizational, and Institutional Challenges</title>
+<link>https://doi.org/10.5465/amp.2025.0278</link>
+<guid isPermaLink="false">10.5465/amp.2025.0278</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Markus A. Höllerer; George A. Shinkle; Gerard George; Johanna Mair; Shan L. Pan; Yenni Tim; David G. Collings]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0278</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Circular Economy 5.0 on Its Way: A Digital Sustainability Transition</title>
+<link>https://doi.org/10.5465/amp.2023.0161</link>
+<guid isPermaLink="false">10.5465/amp.2023.0161</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eirini Aivazidou; Naoum Tsolakis; Edoardo Mollona]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0161</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital Sustainability Solutions: Expanding the Toolkit for Environmentally Sustainable Outcomes</title>
+<link>https://doi.org/10.5465/amp.2023.0184</link>
+<guid isPermaLink="false">10.5465/amp.2023.0184</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ipek Kocoglu; Murad A. Mithani]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0184</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond One Size Fits All: A Judicious Perspective on Noncompete Agreements</title>
+<link>https://doi.org/10.5465/amp.2023.0232</link>
+<guid isPermaLink="false">10.5465/amp.2023.0232</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Cassandra Lee Torgnes; Siri Terjesen]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0232</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Prosocial Technology Transfer and Academic Entrepreneurship: Lessons Learned and New Directions</title>
+<link>https://doi.org/10.5465/amp.2024.0079</link>
+<guid isPermaLink="false">10.5465/amp.2024.0079</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maribel Guerrero; Donald S. Siegel]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0079</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Invention Withholding in Commercial Organizations</title>
+<link>https://doi.org/10.5465/amp.2023.0011</link>
+<guid isPermaLink="false">10.5465/amp.2023.0011</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarit Erez; Yaniv Shani; Abraham Carmeli]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0011</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Dark Side of Powerful Platform Owners: Aspiration Adaptations of Digital Firms</title>
+<link>https://doi.org/10.5465/amp.2022.0169</link>
+<guid isPermaLink="false">10.5465/amp.2022.0169</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David Diwei Lv; Andreas P.J. Schotter]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2022.0169</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Moving Beyond Place- and Past-Based Identities for Better Stakeholder Engagement</title>
+<link>https://doi.org/10.5465/amp.2020.0119</link>
+<guid isPermaLink="false">10.5465/amp.2020.0119</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David Oliver; Suresh Cuganesan; Kon Shing Kenneth Chung]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2020.0119</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Entrepreneurship through (Cognitive) Emancipation: Implications for Research, Policy, and Practice in Contexts of Oppression</title>
+<link>https://doi.org/10.5465/amp.2023.0395</link>
+<guid isPermaLink="false">10.5465/amp.2023.0395</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Muhammad A. Muhammad; Jennifer E. Jennings; Hans Hansen; Zahid Rahman]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0395</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Important Role of Policy in Employee Intersectional Authenticity</title>
+<link>https://doi.org/10.5465/amp.2023.0399</link>
+<guid isPermaLink="false">10.5465/amp.2023.0399</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tisnue Jean-Baptiste; Danielle D. King; Dominique N. Burrows]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0399</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From a Portfolio of Journals to a System of Knowledge Production</title>
+<link>https://doi.org/10.5465/amp.2025.0192</link>
+<guid isPermaLink="false">10.5465/amp.2025.0192</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matthew A. Cronin; Benjamin Martell Galvin; Elizabeth George; Marc Gruber; Dirk Lindebaum; Gideon D. Markman; C. Chet Miller; Elizabeth L. Rose; Sherry M. B. Thatcher; Geoffrey T. Wood]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0192</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Multilevel Perspective of Organized and Intentional Corporate Social Irresponsibility</title>
+<link>https://doi.org/10.5465/amp.2022.0224</link>
+<guid isPermaLink="false">10.5465/amp.2022.0224</guid>
+<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vikash Kumar Sinha; Mi Tran; Eshani S. Beddewela]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2022.0224</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

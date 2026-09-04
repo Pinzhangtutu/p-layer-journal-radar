@@ -1,0 +1,854 @@
+# P-Layer Journal Radar — journal configuration
+# Each entry maps a journal to its Crossref ISSN, optional publisher RSS URL,
+# and the subfield/tier it belongs to in the P-Layer Journal Library.
+#
+# Fields
+#   id          short, lowercase, used as the RSS feed filename: docs/{id}.xml
+#   abbr        common abbreviation shown in UI
+#   name        full English title
+#   subfield    one of: marketing | management | ob | psychology | sociology
+#               | anthropology | economics | communication | is | education
+#   tier        1 (top flagship) or 2 (next-tier / field journal)
+#   issn        primary print or electronic ISSN registered with Crossref
+#               (Crossref accepts either; we just need one valid one)
+#   publisher   publisher name (purely informational; not used for fetching)
+#   stage       where the journal's latest articles appear (informational)
+#   publisher_rss  optional direct RSS URL from the publisher; used as a
+#                 fallback when Crossref returns < MIN_ARTICLES articles.
+#                 Leave empty to use Crossref only.
+#   enabled     true | false — disable a journal without deleting the entry
+#   note        optional, free-form notes (e.g. "shared ISSN with X")
+
+- id: jcr
+  abbr: JCR
+  name: Journal of Consumer Research
+  subfield: marketing
+  tier: 1
+  issn: 0093-5301
+  publisher: Oxford University Press
+  stage: "Advance / Accepted"
+  publisher_rss: ""
+  enabled: true
+
+- id: jams
+  abbr: JAMS
+  name: Journal of the Academy of Marketing Science
+  subfield: marketing
+  tier: 1
+  issn: 0092-0703
+  publisher: Springer Nature
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: jm
+  abbr: JM
+  name: Journal of Marketing
+  subfield: marketing
+  tier: 1
+  issn: 0022-2429
+  publisher: SAGE / AMA
+  stage: "OnlineFirst / Express"
+  publisher_rss: ""
+  enabled: true
+
+- id: jmr
+  abbr: JMR
+  name: Journal of Marketing Research
+  subfield: marketing
+  tier: 1
+  issn: 0022-2437
+  publisher: SAGE / AMA
+  stage: "OnlineFirst / Express"
+  publisher_rss: ""
+  enabled: true
+
+- id: jcp
+  abbr: JCP
+  name: Journal of Consumer Psychology
+  subfield: marketing
+  tier: 2
+  issn: 1057-7408
+  publisher: Wiley / SCP
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: ijrm
+  abbr: IJRM
+  name: International Journal of Research in Marketing
+  subfield: marketing
+  tier: 2
+  issn: 0167-8116
+  publisher: Elsevier / EMAC
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: jr
+  abbr: JR
+  name: Journal of Retailing
+  subfield: marketing
+  tier: 2
+  issn: 0022-4359
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: jsr
+  abbr: JSR
+  name: Journal of Service Research
+  subfield: marketing
+  tier: 2
+  issn: 1094-6705
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: ms
+  abbr: MS
+  name: Marketing Science
+  subfield: marketing
+  tier: 2
+  issn: 0732-2399
+  publisher: INFORMS
+  stage: "Articles in Advance"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Management ----------
+- id: amr
+  abbr: AMR
+  name: Academy of Management Review
+  subfield: management
+  tier: 1
+  issn: 0363-7425
+  publisher: AOM
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: amj
+  abbr: AMJ
+  name: Academy of Management Journal
+  subfield: management
+  tier: 1
+  issn: 0001-4273
+  publisher: AOM
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: asq
+  abbr: ASQ
+  name: Administrative Science Quarterly
+  subfield: management
+  tier: 1
+  issn: 0001-8392
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: os
+  abbr: OS
+  name: Organization Science
+  subfield: management
+  tier: 1
+  issn: 1047-7039
+  publisher: INFORMS
+  stage: "Articles in Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: smj
+  abbr: SMJ
+  name: Strategic Management Journal
+  subfield: management
+  tier: 2
+  issn: 0143-2095
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: ame
+  abbr: AME
+  name: Academy of Management Perspectives
+  subfield: management
+  tier: 2
+  issn: 1558-9080
+  publisher: AOM
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: jbe
+  abbr: JBE
+  name: Journal of Business Ethics
+  subfield: management
+  tier: 2
+  issn: 0167-4544
+  publisher: Springer
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: jom
+  abbr: JOM
+  name: Journal of Operations Management
+  subfield: management
+  tier: 2
+  issn: 0272-6963
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- OB ----------
+- id: personnelpsych
+  abbr: PersonnelPsych
+  name: Personnel Psychology
+  subfield: ob
+  tier: 1
+  issn: 0031-5826
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: job
+  abbr: JOB
+  name: Journal of Organizational Behavior
+  subfield: ob
+  tier: 1
+  issn: 0894-3796
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: jap
+  abbr: JAP
+  name: Journal of Applied Psychology
+  subfield: ob
+  tier: 1
+  issn: 0021-9010
+  publisher: APA
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: obhdp
+  abbr: OBHDP
+  name: Organizational Behavior and Human Decision Processes
+  subfield: ob
+  tier: 2
+  issn: 0749-5978
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: osc
+  abbr: OSc
+  name: Organization Studies
+  subfield: ob
+  tier: 2
+  issn: 0170-8406
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: gom
+  abbr: GOM
+  name: Group & Organization Management
+  subfield: ob
+  tier: 2
+  issn: 1059-6011
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Psychology ----------
+- id: arp
+  abbr: ARP
+  name: Annual Review of Psychology
+  subfield: psychology
+  tier: 1
+  issn: 1543-5943
+  publisher: Annual Reviews
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: psychbulletin
+  abbr: PsychBulletin
+  name: Psychological Bulletin
+  subfield: psychology
+  tier: 1
+  issn: 0033-2909
+  publisher: APA
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: pr
+  abbr: PR
+  name: Psychological Review
+  subfield: psychology
+  tier: 1
+  issn: 0033-295X
+  publisher: APA
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: jpsp
+  abbr: JPSP
+  name: Journal of Personality and Social Psychology
+  subfield: psychology
+  tier: 1
+  issn: 0022-3514
+  publisher: APA
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: jepg
+  abbr: JEPG
+  name: "Journal of Experimental Psychology: General"
+  subfield: psychology
+  tier: 1
+  issn: 0096-3445
+  publisher: APA
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: psychsci
+  abbr: PsychSci
+  name: Psychological Science
+  subfield: psychology
+  tier: 2
+  issn: 0956-7976
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: cognition
+  abbr: Cognition
+  name: Cognition
+  subfield: psychology
+  tier: 2
+  issn: 0010-0277
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: pspr
+  abbr: PSPR
+  name: Personality and Social Psychology Review
+  subfield: psychology
+  tier: 2
+  issn: 1088-8683
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: scan
+  abbr: SCAN
+  name: Social Cognitive and Affective Neuroscience
+  subfield: psychology
+  tier: 2
+  issn: 1749-5016
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: jpers
+  abbr: JPers
+  name: Journal of Personality
+  subfield: psychology
+  tier: 2
+  issn: 0022-3506
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Sociology ----------
+- id: ajs
+  abbr: AJS
+  name: American Journal of Sociology
+  subfield: sociology
+  tier: 1
+  issn: 0002-9602
+  publisher: University of Chicago Press
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: asr
+  abbr: ASR
+  name: American Sociological Review
+  subfield: sociology
+  tier: 1
+  issn: 0003-1224
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: socialforces
+  abbr: SocialForces
+  name: Social Forces
+  subfield: sociology
+  tier: 1
+  issn: 0037-7732
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: socrev
+  abbr: SocRev
+  name: Sociological Review
+  subfield: sociology
+  tier: 1
+  issn: 0038-0261
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: jhsb
+  abbr: JHSB
+  name: Journal of Health and Social Behavior
+  subfield: sociology
+  tier: 2
+  issn: 0022-1465
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: socmethods
+  abbr: SocMethods
+  name: Sociological Methods & Research
+  subfield: sociology
+  tier: 2
+  issn: 0049-1241
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: spq
+  abbr: SPQ
+  name: Social Psychology Quarterly
+  subfield: sociology
+  tier: 2
+  issn: 0190-2725
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: eursocrev
+  abbr: EurSocRev
+  name: European Sociological Review
+  subfield: sociology
+  tier: 2
+  issn: 0266-7215
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Anthropology ----------
+- id: ca
+  abbr: CA
+  name: Current Anthropology
+  subfield: anthropology
+  tier: 1
+  issn: 0011-3204
+  publisher: University of Chicago Press
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: aa
+  abbr: AA
+  name: American Anthropologist
+  subfield: anthropology
+  tier: 1
+  issn: 0002-7294
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: jrai
+  abbr: JRAI
+  name: Journal of the Royal Anthropological Institute
+  subfield: anthropology
+  tier: 1
+  issn: 1359-0987
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: ethos
+  abbr: Ethos
+  name: Ethos
+  subfield: anthropology
+  tier: 2
+  issn: 0091-2131
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: aeethno
+  abbr: AEEthno
+  name: American Ethnologist
+  subfield: anthropology
+  tier: 2
+  issn: 0094-0496
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: cultanthro
+  abbr: CultAnthro
+  name: Cultural Anthropology
+  subfield: anthropology
+  tier: 2
+  issn: 0886-7356
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Economics ----------
+- id: aer
+  abbr: AER
+  name: American Economic Review
+  subfield: economics
+  tier: 1
+  issn: 0002-8282
+  publisher: AEA
+  stage: "Forthcoming"
+  publisher_rss: ""
+  enabled: true
+
+- id: qje
+  abbr: QJE
+  name: Quarterly Journal of Economics
+  subfield: economics
+  tier: 1
+  issn: 0033-5533
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: jpe
+  abbr: JPE
+  name: Journal of Political Economy
+  subfield: economics
+  tier: 1
+  issn: 0022-3808
+  publisher: University of Chicago Press
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: econometrica
+  abbr: Econometrica
+  name: Econometrica
+  subfield: economics
+  tier: 1
+  issn: 0012-9682
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: jeea
+  abbr: JEEA
+  name: Journal of the European Economic Association
+  subfield: economics
+  tier: 2
+  issn: 1542-4766
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: restud
+  abbr: REStud
+  name: Review of Economic Studies
+  subfield: economics
+  tier: 2
+  issn: 0034-6527
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: jet
+  abbr: JET
+  name: Journal of Economic Theory
+  subfield: economics
+  tier: 2
+  issn: 0022-0531
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: aejmicro
+  abbr: AEJMicro
+  name: "American Economic Journal: Microeconomics"
+  subfield: economics
+  tier: 2
+  issn: 1945-7669
+  publisher: AEA
+  stage: "Forthcoming"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Communication ----------
+- id: joc
+  abbr: JoC
+  name: Journal of Communication
+  subfield: communication
+  tier: 1
+  issn: 0021-9916
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: cr
+  abbr: CR
+  name: Communication Research
+  subfield: communication
+  tier: 1
+  issn: 0093-6502
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: jcmc
+  abbr: JCMC
+  name: Journal of Computer-Mediated Communication
+  subfield: communication
+  tier: 1
+  issn: 1083-6101
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: nms
+  abbr: NMS
+  name: New Media & Society
+  subfield: communication
+  tier: 1
+  issn: 1461-4448
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: commtheory
+  abbr: CommTheory
+  name: Communication Theory
+  subfield: communication
+  tier: 2
+  issn: 1050-3293
+  publisher: Oxford
+  stage: "Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: mcs
+  abbr: MCS
+  name: Mass Communication & Society
+  subfield: communication
+  tier: 2
+  issn: 1520-5436
+  publisher: Taylor & Francis
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: jmcq
+  abbr: JMCQ
+  name: Journalism & Mass Communication Quarterly
+  subfield: communication
+  tier: 2
+  issn: 1077-6990
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Information Science ----------
+- id: jasist
+  abbr: JASIST
+  name: Journal of the Association for Information Science and Technology
+  subfield: is
+  tier: 1
+  issn: 2330-1635
+  publisher: Wiley
+  stage: "Early View"
+  publisher_rss: ""
+  enabled: true
+
+- id: misq
+  abbr: MISQ
+  name: MIS Quarterly
+  subfield: is
+  tier: 1
+  issn: 0276-7783
+  publisher: MISQ
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: isr
+  abbr: ISR
+  name: Information Systems Research
+  subfield: is
+  tier: 1
+  issn: 1047-7047
+  publisher: INFORMS
+  stage: "Articles in Advance"
+  publisher_rss: ""
+  enabled: true
+
+- id: jmis
+  abbr: JMIS
+  name: Journal of Management Information Systems
+  subfield: is
+  tier: 1
+  issn: 0742-1222
+  publisher: Taylor & Francis
+  stage: "Online First"
+  publisher_rss: ""
+  enabled: true
+
+- id: im
+  abbr: IM
+  name: Information & Management
+  subfield: is
+  tier: 2
+  issn: 0378-7206
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: dss
+  abbr: DSS
+  name: Decision Support Systems
+  subfield: is
+  tier: 2
+  issn: 0167-9236
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: ijim
+  abbr: IJIM
+  name: International Journal of Information Management
+  subfield: is
+  tier: 2
+  issn: 0268-4012
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+# ---------- Education ----------
+- id: aer-ed
+  abbr: AER-Ed
+  name: American Educational Research Journal
+  subfield: education
+  tier: 1
+  issn: 0002-8312
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: rer
+  abbr: RER
+  name: Review of Educational Research
+  subfield: education
+  tier: 1
+  issn: 0034-6543
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: edresearcher
+  abbr: EdResearcher
+  name: Educational Researcher
+  subfield: education
+  tier: 1
+  issn: 0013-189X
+  publisher: SAGE
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: jedpsych
+  abbr: JEdPsych
+  name: Journal of Educational Psychology
+  subfield: education
+  tier: 2
+  issn: 0022-0663
+  publisher: APA
+  stage: "OnlineFirst"
+  publisher_rss: ""
+  enabled: true
+
+- id: li
+  abbr: LI
+  name: Learning and Instruction
+  subfield: education
+  tier: 2
+  issn: 0959-4752
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true
+
+- id: cse
+  abbr: CSE
+  name: Computers & Education
+  subfield: education
+  tier: 2
+  issn: 0360-1315
+  publisher: Elsevier
+  stage: "Articles in Press"
+  publisher_rss: ""
+  enabled: true

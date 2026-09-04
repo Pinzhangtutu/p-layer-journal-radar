@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Learning and Instruction</title>
+<link>http://localhost:8767/#li</link>
+<description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/li.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Tell me how: Teaching science with narration vs exposition</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102436</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102436</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sara Soares; João O. Santos; Cláudia Simão; Matilde Gonçalves; Raquel Barata; Rita Jerónimo; Régine Kolinsky]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102436</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Achievement goals shape emotion regulation during goal pursuit</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102456</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102456</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Inbar Katz-Vago; Moti Benita]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102456</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Teacher enjoyment is associated with more stable nonverbal immediacy, while teacher anxiety is associated with lower student cognitive engagement: A dynamic classroom interaction study</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102449</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102449</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rebecca Lazarides; Richard Göllner; Jonas Frenkel; Theresa Dicke; Jiesi Guo; Uroš Petković; Olaf Hellwich; Markus Dresel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102449</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Finding their way: Students’ fraction misconceptions and errors over two years of fraction learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102454</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102454</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sabrina M. Di Lonardo Burr; Chang Xu; Hongxia Li; Jiwei Si; Bijuan Huang; Kaiyue Guo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102454</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring the impact of a GenAI-supported writing program on primary students’ writing motivation, engagement, and performance: A mixed methods study</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102451</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102451</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qi Lu; Minhong Wang; Yuan Yao; Xinhua Zhu; Longhai Xiao; Hongbiao Yin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102451</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Concrete images, diverse ideas: The role of pictures in learning from multimedia texts of varying abstractness</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102432</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102432</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ekaterina Blinova; Olga Shcherbakova]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102432</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>An entropy-based ARAS approach to identifying teachers’ proof schemes</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102438</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102438</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Seda Sahin; Muhammed Fatih Dogan; Zeynep Cavus Erdem]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102438</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Going the distance: Bridging the gap between research and practice</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102450</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102450</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robin P. Nagy]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102450</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Peer instruction in chemistry stratified exercises: Cognitive and metacognitive effects</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102460</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102460</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yanfang Zheng; Xiangyi Wang; Yuting Zhang; Mei Huang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102460</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When choice matters: Effects on interest and performance across mathematical problem types</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102452</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102452</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johanna Schoenherr; Amédee Marchand Martella]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102452</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring avatar-mediated learning outcomes and motivation in the metaverse environment for sign language education</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102448</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102448</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuk Ming Tang; Suet Yi Tse; Ka Yi Lee; G.C.P. Tsui; G.T.S. Ho]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102448</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A systematic review on the development of self-regulated learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102433</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102433</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Charlotte Dignath; Bernadette van Berk; Stella Vosniadou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102433</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Engaging caregivers and children in computational thinking: Family-based tangible programming and unplugged activity interventions</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102455</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102455</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zuofei Geng; Bei Zeng; Jin Huang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102455</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From theory to practice: A quasi-experimental study on the effects of a training program on the (de)motivating teaching styles of pre-service physical education teachers</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102459</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102459</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Carlos Mayo-Rota; Luis García-González; María Sanz-Remacha; Javier García-Cazorla; Ángel Abós]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102459</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How to communicate evidence to teachers: Comparing the effects of verbal and visual effect size representation [Registered Report – stage II]</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102427</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102427</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Florian Kühlwein; Samuel Merk; Jürgen Schneider; Kirstin Schmidt]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102427</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mathematics at the core: Longitudinal network analysis of executive functions and academic performance in Chinese children</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102457</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102457</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Minyuan Song; Chao Ma; Xin Zhao; Xiujie Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102457</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fostering self-regulated learning through adaptive learning technology: A differentiated perspective on the role of feedback</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102394</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102394</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mathias Mejeh; Yvonne M. Fromm]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102394</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Competitive school environments and socioeconomic achievement inequality: A preregistered analysis of data from 69 countries</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102414</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102414</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nathalie Aerts; Thijs Bol; Eddie Brummelman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102414</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Longitudinal and differential effects of differentiated instruction on academic achievement and subjective well-being in inclusive secondary education</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102431</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102431</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Carmen L.A. Zurbriggen; Marcela Pozas; Karin Gehrer; Lena Nusser]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102431</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How teaching shapes motivations to learn across middle school subjects</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102378</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102378</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Luke K. Fryer; W.L. Quint Oga-Baldwin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102378</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Feedback complexities interact with prior knowledge</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102413</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102413</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fynn Töllner; Poldi Kuhl; Michael Besser]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102413</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Towards an adaptive AI scaffold for developing student collaborative problem solving</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102418</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102418</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kester Wong; Sahan Bulathwela; Mutlu Cukurova]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Educational relevance and implications of spatial development in early childhood</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102389</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102389</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anke Maria Weber; Wenke Möhring; Benjamin D. Jee; Samuel Greiff; Roberta Michnick Golinkoff]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102389</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring cognitive processes of professional vision: The role of student-oriented goals and visual attention in preservice teachers’ reasoning about classroom interactions</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102404</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102404</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ricardo Böheim; Martin Daumiller; Aldin Alijagic; Doris Lewalter; Andreas Gegenfurtner; Markus Dresel; Tina Seidel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102404</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Prompting strategies with generative AI during learning from multiple sources</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102435</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102435</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[SeongYeup Kim; Matthew T. McCrudden]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102435</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Enhancing belief change with refutation podcast conversations</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102420</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102420</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jana Asberger; Eva Thomm; Madeleine Müller; Marcus Berger; Johannes Bauer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital attention contagion in mathematics classrooms</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102411</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102411</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[D. Cairns; J. Robinson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can we professionally develop teachers’ visual attention? Video-based professional development of early childhood teachers’ in-action noticing during language-stimulating interactions: A mobile eye-tracking study</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102396</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102396</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thibaut Duthois; Ruben Vanderlinde; Piet Van Avermaet; Maribel Montero-Perez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102396</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Professional vision and medical education: dividing diagnoses into categories to support more effective learning in dermatology</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102434</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102434</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Salla Skön; Ilona Södervik; Alexander Salava; Auli Toom; Viljami Salmela]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102434</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cross-fertilization of content and strategy knowledge: Bayesian insights into fostering scientific literacy in physics education</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102425</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102425</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian M. Thurn; Sonja Peteranderl; Peter A. Edelsbrunner; Anne Deiglmayr; Juliana Keller; Ralph Schumacher; Elsbeth Stern]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102425</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Relationships of intrapersonal, interpersonal, and external support features related to reading engagement and digital practice with adolescents’ digital reading resilience</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102416</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102416</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shipei Zhang; Yang Zhao; Jie Hu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102416</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Enhancing professional vision with annotation tools</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102424</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102424</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Franziska Gazar; Tim Fütterer; Ulrike Franke; Kathleen Stürmer; Rossella Santagata; Andreas Lachner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102424</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>COVID-19: A cross-national analysis with PISA data</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102366</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102366</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Giang Pham; Franziska Maria Locher; Dimitra Kolovou; Eliane Arnold]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102366</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On the challenges of investigating lasting learning: A commentary</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102417</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102417</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katharina Scheiter; Alexander Renkl]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102417</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding peer feedback uptake: The role of perceived peer feedback literacy and situational factors</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102428</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102428</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xingshi Gao; Christian D. Schunn; Omid Noroozi; Judith Gulikers; Harm J.A. Biemans; Seyyed Kazem Banihashem]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102428</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adaptivity as a core principle of cognitive stimulating instruction: Conceptualization and future directions</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102419</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102419</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jasmin Decristan; Hanna Dumont]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102419</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do modes of presence matter? regulation and participation in graduate students’ hybrid synchronous group-based collaboration</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102405</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102405</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rogers Kaliisa; Crina Damşa; Brendan Eagan; Rachelle Esterhazy; Malcolm Langfold; Kamila Misiejuk]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102405</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Thinking beyond boundaries: Epistemic curiosity predicting creative problem finding through semantic networks</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102412</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102412</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuan Yang; Xiying Li; Xuemei Huang; Zhongling Pi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Facilitating autistic student voice in reasonable adjustments</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102423</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102423</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Delyse Clayden; Narelle Lemon; Susan Main]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102423</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The adaptivity of classroom teaching: Comments from a teaching quality perspective</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102429</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102429</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eckhard Klieme]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102429</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effects of the diversity of examples on how L1 and L2 learners apply abstract concepts</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102410</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102410</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Verónica D'Angelo; Máximo Trench]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102410</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Using board games as a protective tool: Effects on cognitive, social, emotional, behavioural outcomes, and learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102415</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102415</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elena Cravet; Maria Carmen Usai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102415</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Driving theories along the developmental path toward improved learning and instruction: A road less traveled</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102430</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102430</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Patricia A. Alexander]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102430</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sense of belonging and professional identity in first year students’ peer networks</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102426</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102426</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pieter M. van Lamoen; Marieke Meeuwisse; Annemarie M.F. Hiemstra; Lidia R. Arends; Sabine E. Severiens; Jasperina Brouwer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102426</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>We are stronger together: The impact of dialogic reading with robots on children's mathematical language and numeracy skills</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102403</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102403</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bei Zeng; Zuofei Geng; Xinyi Liu; Liping Guo; Yongheng Yan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102403</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fostering conceptual change by comparing correct and incorrect solutions – The role of individual misconceptions</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102395</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102395</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Cagla Dikme; Timo Leuders; Kirsten Brunner; Katharina Loibl]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102395</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Implementing multimodal learning analytics in authentic settings: A roadmap for ecological impact</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102341</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102341</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bertrand Schneider; Roberto Martínez-Maldonado; Marcelo Worsley; Gautam Biswas]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102341</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Play, regulate, retain: The mediating role of self-regulation in playfulness and motor learning among kindergarteners</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102367</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102367</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rafat Ghanamah; Hazar Eghbaria-Ghanamah]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102367</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Evaluating and diversifying philosophy education</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102369</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102369</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Friso Timmenga; Indira van der Zande]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102369</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Investigating preservice teachers’ emotions and dialogic teaching practices in simulation-based learning with artificial intelligence-powered virtual student agents</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102381</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102381</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chih-Pu Dai; Fengfeng Ke; Nuodi Zhang; Alex Barrett; Luke West; Saptarshi Bhowmik; Sherry A. Southerland; Xin Yuan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102381</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Latent motivational-emotional profiles and their effects on strategy use and performance in online multimodal reading tasks: A mixed-methods investigation</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102386</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102386</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siyu Zhu; Yuan Yao; Choo Mui Cheong; Xinhua Zhu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102386</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The impact of COVID-19 on Swiss students’ learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102338</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102338</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Valentin Unger; Fabian Grünig; Jan Hochweber; Julian Brauchle; Nicolas Hübner; Michael Kickmeier-Rust]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102338</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Deliberate errors vs. induced errors: How best to structure students’ error generation to promote learning?</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102356</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102356</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xing Li; Han Bai; Xinran Feng; Zheng Liang; Shi Chen; Qingbai Zhao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102356</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Uncovering video-based learning processes: Cued-retrospective reporting versus concurrent and retrospective reporting</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102343</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102343</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marijn Gijsen; Charlotte Van Tricht; Leen Catrysse; Tamara van Gog; Sven De Maeyer; David Gijbels]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102343</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When to inquire and when to instruct: Prior knowledge and element interactivity in medical learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102392</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102392</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jimmy Zambrano R.; Cristian Narváez-Rivera; Gabriel Sayago-Heredia; Sheyla Jácome-León]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102392</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unlearning to learn in simulation-based learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102376</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102376</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[María Laura Angelini]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102376</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Weaving the tapestry of student annotations on perusall: Uncovering annotation types, syntactic patterns, and their role in learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102346</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102346</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jieting Jerry Xin; Nicole Judith Tavares]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102346</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From achievement motivation to anxiety: How individualist–collectivist cultures shape the achievement experience in learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102379</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102379</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Guixia Wang; Youyan Nie; Amelia Yeo; Barry Bai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102379</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Purpose instructions and task models in multiple-text reading</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102347</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102347</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bailing Lyu; Zheng Yao; Matthew T. McCrudden]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102347</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The differential impacts of primary mathematics teachers’ multimodal behaviors on student engagement: A deep learning-driven relational matrix network analysis</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102354</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102354</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qingtang Liu; Ruyi Jiang; Qi Xu; Xinxin Zheng; Xinyu Jiang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102354</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supporting multi-perspectivity and depolarisation: The role of preparatory reading in classroom discussions of a controversial issue</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102371</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102371</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Evgenia Efimova; Thomas Nygren]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102371</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Using real-time process data of domain-specific learning processes to provide adaptive support for learning and instruction: Challenges and opportunities</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102363</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102363</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roger Azevedo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102363</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Training rational thinking: Improvements without transfer to argument evaluation</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102359</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102359</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johanna Grimm; Tobias Richter]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102359</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Generative AI as a psychological Empowerer: The central role of self-efficacy in developing pre-service teachers’ instructional design skills</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102390</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102390</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yun-Qi Bai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102390</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

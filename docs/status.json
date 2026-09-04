@@ -1,0 +1,605 @@
+{
+  "last_run_iso": "2026-09-04T03:42:27.448505+00:00",
+  "feeds": [
+    {
+      "id": "jcr",
+      "name": "Journal of Consumer Research",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:39:39.251110+00:00"
+    },
+    {
+      "id": "jams",
+      "name": "Journal of the Academy of Marketing Science",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:39:44.284233+00:00"
+    },
+    {
+      "id": "jm",
+      "name": "Journal of Marketing",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:39:49.673260+00:00"
+    },
+    {
+      "id": "jmr",
+      "name": "Journal of Marketing Research",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:39:53.533816+00:00"
+    },
+    {
+      "id": "jcp",
+      "name": "Journal of Consumer Psychology",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:39:57.267774+00:00"
+    },
+    {
+      "id": "ijrm",
+      "name": "International Journal of Research in Marketing",
+      "status": "ok",
+      "article_count": 66,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:39:59.415695+00:00"
+    },
+    {
+      "id": "jr",
+      "name": "Journal of Retailing",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:01.387372+00:00"
+    },
+    {
+      "id": "jsr",
+      "name": "Journal of Service Research",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:07.125771+00:00"
+    },
+    {
+      "id": "ms",
+      "name": "Marketing Science",
+      "status": "ok",
+      "article_count": 66,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:09.212267+00:00"
+    },
+    {
+      "id": "amr",
+      "name": "Academy of Management Review",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:10.961282+00:00"
+    },
+    {
+      "id": "amj",
+      "name": "Academy of Management Journal",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:12.861597+00:00"
+    },
+    {
+      "id": "asq",
+      "name": "Administrative Science Quarterly",
+      "status": "ok",
+      "article_count": 63,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:14.623816+00:00"
+    },
+    {
+      "id": "os",
+      "name": "Organization Science",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:16.531643+00:00"
+    },
+    {
+      "id": "smj",
+      "name": "Strategic Management Journal",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:18.967272+00:00"
+    },
+    {
+      "id": "ame",
+      "name": "Academy of Management Perspectives",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:20.544087+00:00"
+    },
+    {
+      "id": "jbe",
+      "name": "Journal of Business Ethics",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:22.505882+00:00"
+    },
+    {
+      "id": "jom",
+      "name": "Journal of Operations Management",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:24.568514+00:00"
+    },
+    {
+      "id": "personnelpsych",
+      "name": "Personnel Psychology",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:26.608623+00:00"
+    },
+    {
+      "id": "job",
+      "name": "Journal of Organizational Behavior",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:29.414204+00:00"
+    },
+    {
+      "id": "jap",
+      "name": "Journal of Applied Psychology",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:31.079304+00:00"
+    },
+    {
+      "id": "obhdp",
+      "name": "Organizational Behavior and Human Decision Processes",
+      "status": "ok",
+      "article_count": 56,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:32.648479+00:00"
+    },
+    {
+      "id": "osc",
+      "name": "Organization Studies",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:34.517651+00:00"
+    },
+    {
+      "id": "gom",
+      "name": "Group & Organization Management",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:36.651579+00:00"
+    },
+    {
+      "id": "arp",
+      "name": "Annual Review of Psychology",
+      "status": "empty",
+      "article_count": 0,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:39.079510+00:00"
+    },
+    {
+      "id": "psychbulletin",
+      "name": "Psychological Bulletin",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:40.821590+00:00"
+    },
+    {
+      "id": "pr",
+      "name": "Psychological Review",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:42.600787+00:00"
+    },
+    {
+      "id": "jpsp",
+      "name": "Journal of Personality and Social Psychology",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:44.343121+00:00"
+    },
+    {
+      "id": "jepg",
+      "name": "Journal of Experimental Psychology: General",
+      "status": "ok",
+      "article_count": 64,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:45.978703+00:00"
+    },
+    {
+      "id": "psychsci",
+      "name": "Psychological Science",
+      "status": "ok",
+      "article_count": 67,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:48.129418+00:00"
+    },
+    {
+      "id": "cognition",
+      "name": "Cognition",
+      "status": "ok",
+      "article_count": 64,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:50.000712+00:00"
+    },
+    {
+      "id": "pspr",
+      "name": "Personality and Social Psychology Review",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:52.311952+00:00"
+    },
+    {
+      "id": "scan",
+      "name": "Social Cognitive and Affective Neuroscience",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:54.818109+00:00"
+    },
+    {
+      "id": "jpers",
+      "name": "Journal of Personality",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:56.939267+00:00"
+    },
+    {
+      "id": "ajs",
+      "name": "American Journal of Sociology",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:40:58.581820+00:00"
+    },
+    {
+      "id": "asr",
+      "name": "American Sociological Review",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:00.496123+00:00"
+    },
+    {
+      "id": "socialforces",
+      "name": "Social Forces",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:03.017973+00:00"
+    },
+    {
+      "id": "socrev",
+      "name": "Sociological Review",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:04.963072+00:00"
+    },
+    {
+      "id": "jhsb",
+      "name": "Journal of Health and Social Behavior",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:06.753026+00:00"
+    },
+    {
+      "id": "socmethods",
+      "name": "Sociological Methods & Research",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:10.352080+00:00"
+    },
+    {
+      "id": "spq",
+      "name": "Social Psychology Quarterly",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:13.104920+00:00"
+    },
+    {
+      "id": "eursocrev",
+      "name": "European Sociological Review",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:15.297055+00:00"
+    },
+    {
+      "id": "ca",
+      "name": "Current Anthropology",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:16.991805+00:00"
+    },
+    {
+      "id": "aa",
+      "name": "American Anthropologist",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:19.580586+00:00"
+    },
+    {
+      "id": "jrai",
+      "name": "Journal of the Royal Anthropological Institute",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:21.300392+00:00"
+    },
+    {
+      "id": "ethos",
+      "name": "Ethos",
+      "status": "ok",
+      "article_count": 63,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:23.425110+00:00"
+    },
+    {
+      "id": "aeethno",
+      "name": "American Ethnologist",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:25.253984+00:00"
+    },
+    {
+      "id": "cultanthro",
+      "name": "Cultural Anthropology",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:27.232431+00:00"
+    },
+    {
+      "id": "aer",
+      "name": "American Economic Review",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:29.198881+00:00"
+    },
+    {
+      "id": "qje",
+      "name": "Quarterly Journal of Economics",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:31.146191+00:00"
+    },
+    {
+      "id": "jpe",
+      "name": "Journal of Political Economy",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:32.803985+00:00"
+    },
+    {
+      "id": "econometrica",
+      "name": "Econometrica",
+      "status": "ok",
+      "article_count": 61,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:34.547556+00:00"
+    },
+    {
+      "id": "jeea",
+      "name": "Journal of the European Economic Association",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:36.509365+00:00"
+    },
+    {
+      "id": "restud",
+      "name": "Review of Economic Studies",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:38.339411+00:00"
+    },
+    {
+      "id": "jet",
+      "name": "Journal of Economic Theory",
+      "status": "ok",
+      "article_count": 65,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:39.995455+00:00"
+    },
+    {
+      "id": "aejmicro",
+      "name": "American Economic Journal: Microeconomics",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:41.799215+00:00"
+    },
+    {
+      "id": "joc",
+      "name": "Journal of Communication",
+      "status": "ok",
+      "article_count": 66,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:43.640871+00:00"
+    },
+    {
+      "id": "cr",
+      "name": "Communication Research",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:45.708715+00:00"
+    },
+    {
+      "id": "jcmc",
+      "name": "Journal of Computer-Mediated Communication",
+      "status": "ok",
+      "article_count": 65,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:47.789401+00:00"
+    },
+    {
+      "id": "nms",
+      "name": "New Media & Society",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:49.582138+00:00"
+    },
+    {
+      "id": "commtheory",
+      "name": "Communication Theory",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:51.439416+00:00"
+    },
+    {
+      "id": "mcs",
+      "name": "Mass Communication & Society",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:53.307075+00:00"
+    },
+    {
+      "id": "jmcq",
+      "name": "Journalism & Mass Communication Quarterly",
+      "status": "ok",
+      "article_count": 52,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:55.074540+00:00"
+    },
+    {
+      "id": "jasist",
+      "name": "Journal of the Association for Information Science and Technology",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:41:58.162217+00:00"
+    },
+    {
+      "id": "misq",
+      "name": "MIS Quarterly",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:00.137598+00:00"
+    },
+    {
+      "id": "isr",
+      "name": "Information Systems Research",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:02.071161+00:00"
+    },
+    {
+      "id": "jmis",
+      "name": "Journal of Management Information Systems",
+      "status": "ok",
+      "article_count": 64,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:03.861832+00:00"
+    },
+    {
+      "id": "im",
+      "name": "Information & Management",
+      "status": "ok",
+      "article_count": 65,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:06.241349+00:00"
+    },
+    {
+      "id": "dss",
+      "name": "Decision Support Systems",
+      "status": "ok",
+      "article_count": 64,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:08.258033+00:00"
+    },
+    {
+      "id": "ijim",
+      "name": "International Journal of Information Management",
+      "status": "ok",
+      "article_count": 65,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:10.565554+00:00"
+    },
+    {
+      "id": "aer-ed",
+      "name": "American Educational Research Journal",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:13.401218+00:00"
+    },
+    {
+      "id": "rer",
+      "name": "Review of Educational Research",
+      "status": "ok",
+      "article_count": 68,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:16.408646+00:00"
+    },
+    {
+      "id": "edresearcher",
+      "name": "Educational Researcher",
+      "status": "ok",
+      "article_count": 69,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:19.459271+00:00"
+    },
+    {
+      "id": "jedpsych",
+      "name": "Journal of Educational Psychology",
+      "status": "ok",
+      "article_count": 70,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:22.404721+00:00"
+    },
+    {
+      "id": "li",
+      "name": "Learning and Instruction",
+      "status": "ok",
+      "article_count": 66,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:25.439847+00:00"
+    },
+    {
+      "id": "cse",
+      "name": "Computers & Education",
+      "status": "ok",
+      "article_count": 62,
+      "error": null,
+      "last_success_iso": "2026-09-04T03:42:27.448389+00:00"
+    }
+  ]
+}

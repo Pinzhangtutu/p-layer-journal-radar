@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Computers &amp; Education</title>
+<link>http://localhost:8767/#cse</link>
+<description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/cse.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>I hear you: Enhancing middle school mathematics engagement and learning outcomes through teachable agent voice design</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105725</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105725</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hai Li; Wanli Xing; Chenglu Li; Bailing Lyu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105725</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Educational prompt engineering self-efficacy scale (Ed-PESS): Development and psychometric validation</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105700</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105700</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fatih Karatas; Recep Gür; Barış Eri̇çok; Fatma Başarır; Lokman Tanrikulu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105700</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>AI-generated podcasts and learning outcomes: The role of behavioral engagement and scaffolding</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105719</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105719</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Erfan Rezvani]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105719</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Developing L2 writing student self-assessment literacy through AI-generated feedback and AI chain-of-thought: An action research study with lower-proficiency university EFL learners</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105716</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105716</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pan Ye; Shulin Yu; Icy Lee; Chenggang Liang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Preparing undergraduate education majors to make and use accessible digital instructional materials</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105708</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105708</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mary Rice]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105708</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Artificial intelligence in educational leadership: A PRISMA-Guided bibliometric review and agenda for future research</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105724</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105724</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chuan-Chung Hsieh; Hope Wilfred Banda; Hui-Chieh Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105724</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Measuring task-level behavioral learning engagement during text revision</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105656</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105656</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ronja Schiller; Johanna Fleckenstein; Ute Mertens; Jennifer Meyer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105656</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Color me confounded: A critical analysis of media comparisons on ChatGPT in education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105701</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105701</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alyssa P. Lawson; Amedee Marchand Martella; Joshua Weidlich; Miriam Mulders; Josef Buchner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105701</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rewiring the knowledge field of artificial intelligence in education: A multi-level theoretical perspective on cross-level topic evolution, 2000–2024</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105720</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105720</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chuang Yang; Zeqing Xu; Yu Lin; Yu Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105720</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fostering career awareness and self-directed learning through an AI-Induced Disruptive Learning Environment</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105688</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105688</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Min Jou; Yungwei Hao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105688</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Analysing student engagement in breakout rooms in an online language course</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105704</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105704</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katja Peltola; Marjaana Veermans; Sara Routarinne]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105704</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Incorporating pedagogical agents into desktop virtual reality: Does visual-tone emotional congruency matter?</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105726</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105726</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shufan Yu; Qingtang Liu; Yuwei Jiang; Jingjing Ma; Yingying Peng; Ruiqiu Ye; Ping Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105726</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The experience of using AI-generated social stories as a behavioral intervention tool for children</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105723</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105723</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nehama Zaklas; Tali Gazit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105723</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>LLM-derived metrics in second language writing assessment: an explainable AI approach</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105721</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105721</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jingying Hu; Yan Cong]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105721</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Designing effective feedback in video lectures using GenAI: The roles of feedback type and learner agency in error detection</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105722</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105722</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhongling Pi; Yuxiang Cao; Yiyu Zhang; Yuxian Ma; Wanru Cao; Xiying Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105722</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mapping teacher education strategies to develop digital competence targets: A cross-framework analysis</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105699</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105699</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Els Tanghe; Katie Goeman; Annelies Raes; Tijs Rotsaert; Tammy Schellens; Katrien Struyven; Jo Tondeur; Adriaan Herremans]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105699</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From building robots to cultivating robotics literacy? A systematic review of educational robotics research and its future directions</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105659</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105659</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Richard Chung Yiu Yeung; Daner Sun; Chi Ho Yeung; Therese Keane; John Chi-Kin Lee]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105659</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Development and validation of a scenario-based multiple-choice test of AI ethical competence (AIEC) using item response theory</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105641</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105641</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yun Dai; Chen Chen; Ziyan Lin; Jianjun Qin; Yanmei Guo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105641</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Simulation supported directed self-guided learning of blended math-science sensemaking for historically marginalized STEM learners</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105639</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105639</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Leonora Kaldaras; Carl Wieman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105639</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What task to offload to GenAI in the writing feedback process? – Effects of task-offloading approaches on EFL learners’ writing skill development</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105675</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105675</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chun Lai; Mengru Pan; Kai Guo; Yaqiong Cui]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105675</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Print versus digital reading in an era of digital immersion: Eye-tracking evidence from pre- and post-pandemic cohorts</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105669</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105669</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu-Cin Jian; Yi-Jye Wu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105669</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What teachers discuss and how they perceive and feel: Topic modeling and sentiment analysis of a generative artificial intelligence learning group on facebook</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105654</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105654</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zicong Song; Chun Lai; Xianhan Huang; Chin-Hsi Lin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105654</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Automated scoring of young learners’ student-generated questioning in elementary reading: A machine-learning approach</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105674</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105674</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hajung Kim; Angelie Ignacio; Eunice Eunhee Jang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105674</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive process grouping on students’ mathematical creative problem solving: Evidence from clustering analysis, lag sequence analysis, and hidden Markov model</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105657</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105657</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuting Tan; Tao Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105657</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Preservice language teachers’ agency in self-directed informal learning with GenAI</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105589</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105589</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chun Lai; Jingjing Qin; Lianjiang Jiang; Mingyue Gu; Chin-Hsi Lin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105589</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social inequality in digital competencies among students in Germany: A trend analysis using ICILS data 2013-2023</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105637</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105637</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Markus Lörz; Birgit Becker; Jan Niemann; Kerstin Drossel; Birgit Eickelmann]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105637</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Socioeconomic inequalities in digital practices and outcomes: Evidence from OECD countries</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105660</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105660</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Seong Won Han]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105660</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring the role of conceptual knowledge and representational competence in an augmented reality physics environment</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105658</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105658</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kozlova Zoya; Edelsbrunner Peter A.; Warkentin Max; Hoyer Christoph; Küchemann Stefan; Kuhn Jochen; Hofer Sarah I.]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105658</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Robot-assisted speaking practice (RASP): Learner affection, engagement, outcomes, and their interplay</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105635</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105635</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruofei Zhang; Di Zou; Haoran Xie; Gary Cheng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105635</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Interacting and reflecting together in VR-mediated group learning: Immersive and observational experiences in shared mixed reality</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105644</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105644</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tingting Yang; Ikseon Choi; Heng Luo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105644</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Diffusion-based AI system for second language reading: Development, text quality validation, and learner perception</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105653</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105653</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Habin Lim; Euijune Lee; Si Eun Kwoun; Sung-Ho Bae; Gyeong-Moon Park; Yohan Hwang; Sangmin-Michelle Lee]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105653</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Automated multimodal visual analytics of social and epistemic dimensions in team communication for reflective practice in healthcare simulation</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105655</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105655</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Linxuan Zhao; Vanessa Echeverria; Dragan Gašević; Lixiang Yan; Riordan Alfredo; Xinyu Li; Roberto Martinez-Maldonado]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105655</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The alignment of knowledge focus during teaching preparation and AI-powered learning-by-teaching and their effects on mathematics learning outcomes in the context of high-stakes state assessments</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105642</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105642</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mingjia Hu; Rui Guo; Hai Li; Chenglu Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105642</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students’ ethical reasoning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105698</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105698</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Cecilia Ka Yuk Chan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105698</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Giving parents HOPE: Predictors of parental confidence and support needs in elementary and secondary online learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105696</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105696</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bobbie Sandberg; Richard E. West; Charles R. Graham; Qi Guo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105696</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Operationalizing cognitive apprenticeship through generative AI pedagogical agents: Proactive and contextualized guidance in simulation-based learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105706</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105706</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Po-Yao Chao; Yu-Chen Cheng; Kuan-Chieh Chen; Ying-Siou Chen; Shu-Hao Wu; Cai-Ting Wen; Chin-Ling Weng; Pei-Jung Tsai; Chia-Hui Chang; Hui-Chun Hung; Chen-Chung Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105706</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>No more excuses: Mandating online learning competencies in all teacher preparation programs</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105686</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105686</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael K. Barbour; Charles B. Hodges]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105686</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Redefining and measuring student agency in AI-assisted learning: Development and validation of the agentic engagement with AI (AE-AI) scale</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105687</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105687</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yun Dai; Suya Liu; Sihan Zhou; Sichen Lai; Ang Liu; Cher Ping Lim]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105687</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Surrounded by screens: How tablet use during class contributes to distraction and self-reported learning loss</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105676</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105676</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>New hats for parents? Reviewing parental roles in K-12 online and blended student engagement</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105695</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105695</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Courtney N. Hanny; Richard E. West]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105695</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Equipping elementary school students with self-regulated learning through human-AI collaboration in online learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105697</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105697</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xinyi Luo; Sikai Wang; Khe Foon Hew]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105697</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Profiles of ESL postgraduate students’ use of artificial intelligence in writing: Antecedents and outcomes</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105689</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105689</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fangzhou Jin; Chin-Hsi Lin; Chun Lai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105689</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fostering digital confidence and collaborative creativity in pre-service teachers: Evaluating change through a convergence, divergence, and synergy lens</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105702</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105702</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mariam Osama Abdelkader; Jeya Amantha Kumar; Sharifah Osman; Scott Schopieray]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105702</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reimagining credit recovery: Leadership and teaching for student engagement and support in asynchronous online learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105694</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105694</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Samantha Viano; Héctor Moya; Elissa Robinson; John Chen; Vivian Conner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105694</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unlocking the potential of resources: An examination of sharing and uptake signs in educational online communities</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105703</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105703</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fitore Morina; Tim Fütterer; Jeffrey Carpenter; Joshua M. Rosenberg; Christian Fischer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105703</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From educational to informational: Genre and instructional quality in Children's informational videos on YouTube</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105673</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105673</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Pu; Somin Park; Rebecca A. Dore; J. Alex Bonus; Brenna Hassinger-Das]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105673</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Tracing affect in digital learning: Combining log data and introspective momentary assessments</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105668</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105668</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Julia Hilpert; Marc Philipp Janson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105668</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The DIPS model: GenAI integration in digital information problem solving by experts and novices</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105677</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105677</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Josien Boetje; Zindzi de Graaf; Iwan Wopereis; Stan O. van Ginkel; Matthijs H.J. Smakman; Johan Versendaal; Erik Barendsen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105677</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beauty is the eye of the beholder: Introducing the visual aesthetic principle for multimedia instructional design and how it is moderated by learners’ creativity</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105671</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105671</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Diana Pak; Juliette C. Désiron; Sascha Schneider]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105671</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A community of inquiry perspective on human–AI co-facilitation within micro-blended learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105707</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105707</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zilong Pan; Zilu Jiang; Shen Ba; Kui Xie]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105707</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cross-course generalizability of SRL-aligned predictive models using digital learning traces</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105670</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105670</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jakob Schwerter; Loreen Sabel; Judith Bose; Matthew L. Bernacki; Di Xu; Marko Schmellenkamp; Thomas Zeume; Philipp Doebler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105670</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Searching for predictors of presence, academic achievement and satisfaction in online adult education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105705</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105705</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stefan Hrastinski; Stefan Stenbom; Helena Colliander; Andreas Fejes]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105705</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Instructor's pointing gestures promote learning more than guiding gaze</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105692</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105692</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fuxing Wang; Ziyi Kuang; Frank Andrasik; Xiangen Hu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105692</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>K-12 blended learning readiness in emerging contexts exploring the readiness of institutions, teachers, and students in Mongolia</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105672</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105672</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Charles R. Graham; Jered Borup; Tserenchimed Purevsuren; Ganbat Danaa; Tsooj Shambaljamts; Batbold Bukhchuluun; Ross Larsen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105672</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unpacking AI–education discourse: Topic modeling and fsQCA of Technology–Resilience dynamics in pedagogical perceptions</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105738</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105738</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hongfeng Zhang; Liwei Ding; Jinqiao Zhou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105738</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring group cohesion dynamics and the role of regulation in collaborative problem-solving using multimodal learning analysis</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105739</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105739</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yoonhee Shin; Jihoon Song; Seohyun Choi; Youngwug Cho; Jaeyeon Choe; Kwanguk Kim]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105739</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Teacher ICT literacy and instructional quality for creativity in teacher education and professional development</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105742</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105742</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ari Kim]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105742</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does school-based AI education narrow readiness gaps? The role of prior agency-related learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105745</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105745</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siya Liang; King Woon Yau; Helen Meng; Thomas K.F. Chiu; Irwin King; Yeung Yam; Ching Sing Chai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105745</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A five-study design-based research approach to co-design an institutional AI digital assistant</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105746</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105746</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bart Rienties; Duygu Bektik; Emily Coughlan; Tim Coughlan; John Domingue; Chris Edwards; Audrey Ekuban; Christothea Herodotou; Joseph Kwarteng; Chris Sanders; Felipe Tessarolo; Thomas Ullmann]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105746</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Trace-based measurement of self-regulated learning in primary mathematics: Implementation and validation within an adaptive learning platform</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105747</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105747</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bor-Chen Kuo; (d Lin; Frederic Tao-Yi Chang; Chih-Wei Yang; Xinyu Li; Mladen Raković; Tongguang Li; Linxuan Zhao; Dragan Gašević]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105747</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Using computer vision to support formative assessment in science experiments: An investigation into the suitability of action recognition models</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105743</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105743</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Edwin Chng; Bertrand Schneider]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105743</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Combining AI and corpus technology in language teaching: Professional development and knowledge co-construction using the CoI framework</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105728</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105728</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qing Ma; Fang Mei; Peter Crosthwaite; Xiaojuan Ma]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105728</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

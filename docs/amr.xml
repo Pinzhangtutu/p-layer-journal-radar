@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Academy of Management Review</title>
+<link>http://localhost:8767/#amr</link>
+<description>AMR — AOM · Latest in: Articles in Press · Subfield: management</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/amr.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Copying the Wrong Winner? When Noisy Attribution Reverses Mutual Learning Prescriptions in Denrell, Christensen, Knudsen, and Liu’s “The Impact of Learning Mode and Speed on Mutual Learning”</title>
+<link>https://doi.org/10.5465/amr.2025.0682</link>
+<guid isPermaLink="false">10.5465/amr.2025.0682</guid>
+<pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Piotr Tomasz Makowski; Nicolai J. Foss]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0682</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Boundary Conditions and the Juxtaposition of Externalities: An Extension to Anand et al.’s “Competitive Externalities in Acquisitions”</title>
+<link>https://doi.org/10.5465/amr.2026.0341</link>
+<guid isPermaLink="false">10.5465/amr.2026.0341</guid>
+<pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Ma]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0341</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Search Heuristics Under Multiple Objectives: The Case of Corporate Social Responsibility</title>
+<link>https://doi.org/10.5465/amr.2024.0178</link>
+<guid isPermaLink="false">10.5465/amr.2024.0178</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel Albert; Felipe A. Csaszar]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0178</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Syncing Minds and Machines: Hybrid Cognitive Alignment as an Emergent Coordination Mechanism in Human–AI Collaboration</title>
+<link>https://doi.org/10.5465/amr.2024.0546</link>
+<guid isPermaLink="false">10.5465/amr.2024.0546</guid>
+<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Li Lu; Bei Yan]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0546</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Opening and Closing the Configurational Theorizing Gateway with Explicit Decision Rules—An Extension of Campbell and Fiss’ “Tackling the Complexity Challenge: When and How to Engage in Configurational and Hybrid Theorizing”</title>
+<link>https://doi.org/10.5465/amr.2026.0121</link>
+<guid isPermaLink="false">10.5465/amr.2026.0121</guid>
+<pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yannick Griep; Kevin S. Cruz]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0121</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Theory of the Temporal Embeddedness of Firms in Entrepreneurs’ Lives</title>
+<link>https://doi.org/10.5465/amr.2025.0095</link>
+<guid isPermaLink="false">10.5465/amr.2025.0095</guid>
+<pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mateja Andric]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0095</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Moral Ambiguity and Judgment: A Reply to “Acting to Know”</title>
+<link>https://doi.org/10.5465/amr.2026.0465</link>
+<guid isPermaLink="false">10.5465/amr.2026.0465</guid>
+<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marina Vorholzer; Anna Brattström]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0465</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Coleman’s Boat and Complex Cross-Level Aggregation in Interinstitutional Systems: An Extension of Almandoz and Thornton’s “Understanding Institutional Environments: An Institutional Logics Model of Societal Evolution”</title>
+<link>https://doi.org/10.5465/amr.2026.0224</link>
+<guid isPermaLink="false">10.5465/amr.2026.0224</guid>
+<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kris Mikel-Hong]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Theoretical Glitter to Gold: Using Foreign Theories in Management</title>
+<link>https://doi.org/10.5465/amr.2026.0729</link>
+<guid isPermaLink="false">10.5465/amr.2026.0729</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dana Minbaeva; Hossam Zeitoun]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0729</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Why and How Societal Crises Give Rise to Extreme Growth Outliers: A Theory of External Enablement</title>
+<link>https://doi.org/10.5465/amr.2023.0072</link>
+<guid isPermaLink="false">10.5465/amr.2023.0072</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Frederik von Briel; Per Davidsson; Jan Recker]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0072</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>External Enablement Is Non-Deterministic but the Occurrence of Extreme Growth Outliers Is Still Systematic: A Reply to “Outliers by Accident” and “Outliers in Waiting”</title>
+<link>https://doi.org/10.5465/amr.2025.0497</link>
+<guid isPermaLink="false">10.5465/amr.2025.0497</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Frederik von Briel; Per Davidsson; Jan Recker]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0497</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Outliers by Accident: Extending Von Briel et al.’s Theory of External Enablement through Stochastic Processes</title>
+<link>https://doi.org/10.5465/amr.2025.0277</link>
+<guid isPermaLink="false">10.5465/amr.2025.0277</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jun Xia; Yuehua Xu]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0277</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Delineation of Reasoning, Intentional Disclosure, and the Potential for Harm: An Extension of Vanneste and Puranam’s “Artificial Intelligence, Trust, and Perceptions of Agency”</title>
+<link>https://doi.org/10.5465/amr.2024.0193</link>
+<guid isPermaLink="false">10.5465/amr.2024.0193</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jayson Killoran; Andrew Park; Jan Kietzmann]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0193</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Is Time the Great Equalizer? How Interpersonal Time Request Processes Are Shaped by and Reproduce Disparities</title>
+<link>https://doi.org/10.5465/amr.2023.0242</link>
+<guid isPermaLink="false">10.5465/amr.2023.0242</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Borbala Csillag; Elizabeth M. Campbell; Le Zhou]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0242</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Competitive Dynamics Are Alive with the Sound of Music: A Reply to “Time to Face the Music”</title>
+<link>https://doi.org/10.5465/amr.2025.1029</link>
+<guid isPermaLink="false">10.5465/amr.2025.1029</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eric Y. Lee; John R. Busenbark; Michael C. Withers; Edward J. Zajac]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.1029</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Feedback as a Mechanism: An Extension of Coffman et al.’s “Leaving Necessity Entrepreneurship Behind”</title>
+<link>https://doi.org/10.5465/amr.2025.0494</link>
+<guid isPermaLink="false">10.5465/amr.2025.0494</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jun Xia; Yue Wang; Xinyu (Jessie) Yan; Shuyuan Bai]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0494</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Leaving Necessity Entrepreneurship Behind: How Entrepreneurs Actualize Desirable Futures</title>
+<link>https://doi.org/10.5465/amr.2023.0163</link>
+<guid isPermaLink="false">10.5465/amr.2023.0163</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chad D. Coffman; Griffin W. Cottle; Sanwar A. Sunny]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0163</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Necessity Entrepreneurship as a Process: A Response to “Beyond the Individual,” “Feedback as a Mechanism,” and “Toward Communalism”</title>
+<link>https://doi.org/10.5465/amr.2025.0914</link>
+<guid isPermaLink="false">10.5465/amr.2025.0914</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chad D. Coffman; Griffin W. Cottle; Sanwar A. Sunny]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0914</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Power and Peril of Awe in Leadership: Transforming Follower Identity and Behavior</title>
+<link>https://doi.org/10.5465/amr.2022.0282</link>
+<guid isPermaLink="false">10.5465/amr.2022.0282</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jack McGuire; Daniel J. McAllister; Jochen I. Menges; David De Cremer]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2022.0282</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time to Face the Music: A Commentary on Lee, Busenbark, Withers, and Zajac’s “How Music Theory Can Inform Competitive Dynamics”</title>
+<link>https://doi.org/10.5465/amr.2024.0606</link>
+<guid isPermaLink="false">10.5465/amr.2024.0606</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Theodore L. Waldron; Gideon D. Markman; Jeffery S. McMullen; Peter Gianiodis]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0606</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Actualizing Desirable Futures Beyond the Individual: A Comment on Coffman et al.’s (2025) “Leaving Necessity Entrepreneurship Behind”</title>
+<link>https://doi.org/10.5465/amr.2025.0393</link>
+<guid isPermaLink="false">10.5465/amr.2025.0393</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ryan Nolan]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0393</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The PSI Model for Predicting Activist Engagements: Toward a Theory of Shareholder Activism</title>
+<link>https://doi.org/10.5465/amr.2024.0006</link>
+<guid isPermaLink="false">10.5465/amr.2024.0006</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mark R. DesJardine]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0006</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Trust and Generative Artificial Intelligence: A Reply to Killoran, Park, and Kietzmann</title>
+<link>https://doi.org/10.5465/amr.2024.0397</link>
+<guid isPermaLink="false">10.5465/amr.2024.0397</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bart S. Vanneste; Phanish Puranam]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0397</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rethinking Necessity Entrepreneurship Beyond Binaries and Toward Communalism: A Commentary on Coffman et al.’s “Leaving Necessity Entrepreneurship Behind”</title>
+<link>https://doi.org/10.5465/amr.2025.0446</link>
+<guid isPermaLink="false">10.5465/amr.2025.0446</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katrin M. Smolka; Sophie Bacq; Pursey P. M. A. R. Heugens]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0446</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Music Theory Can Inform Competitive Dynamics: Anticipatory Awareness and Successful Preemption</title>
+<link>https://doi.org/10.5465/amr.2022.0263</link>
+<guid isPermaLink="false">10.5465/amr.2022.0263</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eric Y. Lee; John R. Busenbark; Michael C. Withers; Edward J. Zajac]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2022.0263</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Outliers in Waiting: An Extension of Von Briel, Davidsson, and Recker’s “Theory of External Enablement”</title>
+<link>https://doi.org/10.5465/amr.2025.0232</link>
+<guid isPermaLink="false">10.5465/amr.2025.0232</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel S. Andrews]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0232</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Flowing with the Current and Making Waves: A Model of Personal Control and Institutional Migration</title>
+<link>https://doi.org/10.5465/amr.2022.0246</link>
+<guid isPermaLink="false">10.5465/amr.2022.0246</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matthew Lee; Jennifer Whitson]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2022.0246</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Promise and Perils of Co-Construction: A Reply to “Co-Constructive Start-Up Illusions”</title>
+<link>https://doi.org/10.5465/amr.2025.0698</link>
+<guid isPermaLink="false">10.5465/amr.2025.0698</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[James Bort]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0698</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Co-Constructive Start-Up Illusions: An Extension of Bort’s “A Theory of the Start-Up Workforce”</title>
+<link>https://doi.org/10.5465/amr.2025.0144</link>
+<guid isPermaLink="false">10.5465/amr.2025.0144</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robert J. Pidduck]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0144</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Taming Artificial Intelligence: A Theory of Control-Accountability Alignment among AI Developers and Users</title>
+<link>https://doi.org/10.5465/amr.2023.0117</link>
+<guid isPermaLink="false">10.5465/amr.2023.0117</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gudela Grote; Sharon K. Parker; Kevin Crowston]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0117</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Achieving Holism: Narrating Multiple Identities in the Moment and over Time</title>
+<link>https://doi.org/10.5465/amr.2023.0215</link>
+<guid isPermaLink="false">10.5465/amr.2023.0215</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarah Wittman; Blake E. Ashforth; Herminia Ibarra]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0215</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From the Evaluator’s Perspective: A Functional Approach to Social Judgments</title>
+<link>https://doi.org/10.5465/amr.2020.0405</link>
+<guid isPermaLink="false">10.5465/amr.2020.0405</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alex Bitektine; Nicole Gillespie; Donald Lange]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2020.0405</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How to R.E.S.P.O.N.D.: A Framework for Thoughtful Revisions and Scholarly Dialogue</title>
+<link>https://doi.org/10.5465/amr.2026.0147</link>
+<guid isPermaLink="false">10.5465/amr.2026.0147</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kristie Rogers; Christine Shropshire; Mark Bolino]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0147</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Theorizing Routine Enactment from a Pragmatist Perspective: Agency, Experience, and Situational Novelty</title>
+<link>https://doi.org/10.5465/amr.2022.0518</link>
+<guid isPermaLink="false">10.5465/amr.2022.0518</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dionysios D. Dionysiou; Haridimos Tsoukas; Kathleen M. Sutcliffe]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2022.0518</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>2025 Presidential Address: Activism, Impact, and Science: Management Scholarship in a Challenging Era</title>
+<link>https://doi.org/10.5465/amr.2025.0742</link>
+<guid isPermaLink="false">10.5465/amr.2025.0742</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Bamberger]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0742</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Awe-Driven Venturing: Identifying and Pursuing Transformational Opportunities</title>
+<link>https://doi.org/10.5465/amr.2023.0247</link>
+<guid isPermaLink="false">10.5465/amr.2023.0247</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Trenton Alma Williams; Dean A. Shepherd]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0247</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond Backlash: Advancing Dominant-Group Employees’ Learning, Allyship, and Growth through Social Identity Threat</title>
+<link>https://doi.org/10.5465/amr.2021.0521</link>
+<guid isPermaLink="false">10.5465/amr.2021.0521</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Camellia Bryan; Brent J. Lyons]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2021.0521</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Theory of the Start-Up Workforce</title>
+<link>https://doi.org/10.5465/amr.2023.0174</link>
+<guid isPermaLink="false">10.5465/amr.2023.0174</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[James Bort]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0174</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>It Takes Two to Untangle: Illuminating How and Why Some Workplace Relationships Adapt while Others Deteriorate after a Workplace Microaggression</title>
+<link>https://doi.org/10.5465/amr.2022.0355</link>
+<guid isPermaLink="false">10.5465/amr.2022.0355</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Summer R. Jackson; Basima A. Tewfik]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2022.0355</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding Inclusion: The Role of Organization Member Prototypes</title>
+<link>https://doi.org/10.5465/amr.2023.0010</link>
+<guid isPermaLink="false">10.5465/amr.2023.0010</guid>
+<pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Felix Danbold; Batia M. Wiesenfeld]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0010</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Interpreting the Chorus: A Reply to “Leaders on the Other Side of Voice: Extending Black et al.’s Integrative Theory of Collective Voice”</title>
+<link>https://doi.org/10.5465/amr.2026.0481</link>
+<guid isPermaLink="false">10.5465/amr.2026.0481</guid>
+<pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nathan A. Black; Daniel W. Newton; Jennifer D. Nahrgang]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0481</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Process Model of Managerial Phronesis in the Age of Generative AI</title>
+<link>https://doi.org/10.5465/amr.2024.0582</link>
+<guid isPermaLink="false">10.5465/amr.2024.0582</guid>
+<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dirk Lindebaum; Natarajan Balasubramanian; Mehreen Ashraf; Patrick Haack]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0582</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Asymmetric Jeopardy through Dissonant Ties: An Extension of Brands and Kilduff’s “Multiplex Jeopardy”</title>
+<link>https://doi.org/10.5465/amr.2025.0499</link>
+<guid isPermaLink="false">10.5465/amr.2025.0499</guid>
+<pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stefano Tasselli; Julia Brennecke]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0499</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Axiology of AI Agents: How Human-AI Interaction Transforms Values from Espoused to Enacted</title>
+<link>https://doi.org/10.5465/amr.2024.0494</link>
+<guid isPermaLink="false">10.5465/amr.2024.0494</guid>
+<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vern L. Glaser; Jennifer Sloan; Rodrigo Valadão; Evelyn R. Micelotta]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0494</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Construct Fallacies and Construct Validation in Theories of Management and Organization</title>
+<link>https://doi.org/10.5465/amr.2024.0235</link>
+<guid isPermaLink="false">10.5465/amr.2024.0235</guid>
+<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joep P. Cornelissen; Mirjam D. Werner; Leander De Schutter; Omar N. Solinger]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0235</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>In Defense of Objectivity: Beyond False Binaries and Manufactured Divides</title>
+<link>https://doi.org/10.5465/amr.2025.0871</link>
+<guid isPermaLink="false">10.5465/amr.2025.0871</guid>
+<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stratos Ramoglou; Robin Holt]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0871</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Stakeholder Governance Framework for Public–Private Partnerships</title>
+<link>https://doi.org/10.5465/amr.2024.0051</link>
+<guid isPermaLink="false">10.5465/amr.2024.0051</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Africa Ariño; Pascual Berrone; Joan E. Ricart; Xavier Sobrepere; Alexis Yong]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0051</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Reply to “Adversity Reveals Character: A Virtue Ethics-Based Contingency Theory Extension of Yan et al.’s ‘How Underdogs Succeed and Fail’”</title>
+<link>https://doi.org/10.5465/amr.2026.0385</link>
+<guid isPermaLink="false">10.5465/amr.2026.0385</guid>
+<pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Liuxin Yan; Daniel J. McAllister; Grace J. H. Lim; Kai Chi Yam]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0385</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Defending the Hoax: A Commentary on Willmott’s “Management Theory: Jungle, Myth, or Hoax?”</title>
+<link>https://doi.org/10.5465/amr.2025.0753</link>
+<guid isPermaLink="false">10.5465/amr.2025.0753</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stefan Schwarzkopf]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0753</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Institutional Resilience for Institutional Diversity: An Extension of Almandoz and Thornton’s “Understanding Institutional Environments: An Institutional Logics Model of Societal Evolution”</title>
+<link>https://doi.org/10.5465/amr.2025.0956</link>
+<guid isPermaLink="false">10.5465/amr.2025.0956</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Felix Carl Schultz; Vladislav Valentinov]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0956</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Compassion Constricts: Identity Threat and Organizational Responses to Suffering</title>
+<link>https://doi.org/10.5465/amr.2024.0068</link>
+<guid isPermaLink="false">10.5465/amr.2024.0068</guid>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[William A. Kahn; Han Liu]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0068</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Writer’s Room: An Extension to Willmott’s “Management Theory: Jungle, Myth, or Hoax?”</title>
+<link>https://doi.org/10.5465/amr.2025.0886</link>
+<guid isPermaLink="false">10.5465/amr.2025.0886</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Carlos Carrasco-Farré; Ferran Torres]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0886</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Hoax to Kayfabe: Reframing Willmott’s Metaphor for Management Theory</title>
+<link>https://doi.org/10.5465/amr.2025.0758</link>
+<guid isPermaLink="false">10.5465/amr.2025.0758</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aditya Simha]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0758</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Attribution Error in Mutual Learning: Noise Versus Systematic Bias—A Reply to “Copying the Wrong Winner? When Noisy Attribution Reverses Mutual Learning Prescriptions”</title>
+<link>https://doi.org/10.5465/amr.2026.0577</link>
+<guid isPermaLink="false">10.5465/amr.2026.0577</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jerker Denrell; Michael Christensen; Thorbjørn Knudsen; Chengwei Liu]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0577</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reimagining Management Theory as Theater Rather than Hoax: A Commentary on Willmott’s “Management Theory: Jungle, Myth, or Hoax?”</title>
+<link>https://doi.org/10.5465/amr.2025.0637</link>
+<guid isPermaLink="false">10.5465/amr.2025.0637</guid>
+<pubDate>Thu, 12 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yannick Griep]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0637</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Leaders on the Other Side of Voice: Extending Black et al.’s Integrative Theory of Collective Voice</title>
+<link>https://doi.org/10.5465/amr.2025.0769</link>
+<guid isPermaLink="false">10.5465/amr.2025.0769</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiaoran Hu; Chang Su]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0769</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Close Friends, Closer Comparisons: Regulating Envy in Multiplex Relationships</title>
+<link>https://doi.org/10.5465/amr.2024.0114</link>
+<guid isPermaLink="false">10.5465/amr.2024.0114</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amnah Ameen; Alexandra Rheinhardt Beer; Kyoungjo (Jo) Oh]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0114</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adversity Reveals Character: A Virtue Ethics-Based Contingency Theory Extension of Yan et al.’s “How Underdogs Succeed and Fail”</title>
+<link>https://doi.org/10.5465/amr.2025.0762</link>
+<guid isPermaLink="false">10.5465/amr.2025.0762</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiaojie Wu; Qingfeng Tian; Xinbo Sun; Xin Li]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0762</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Acting to Know: Extending Vorholzer and Brattström’s Theory of Moral Ambiguity in Entrepreneurial Action through Externalized Moral Resolution</title>
+<link>https://doi.org/10.5465/amr.2025.1031</link>
+<guid isPermaLink="false">10.5465/amr.2025.1031</guid>
+<pubDate>Mon, 30 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Morgan X. Yang; Kwok Yuen Fan; Kevin J. Zeng]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.1031</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How AI Reshapes Multimodal Theorization: An Extension of Kuric and Höllerer’s “Theorization as a Prerequisite for Diffusion”</title>
+<link>https://doi.org/10.5465/amr.2026.0095</link>
+<guid isPermaLink="false">10.5465/amr.2026.0095</guid>
+<pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuang Liu]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0095</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Toward an Architecture of Visioning: Insights From Gaudí’s Sagrada Familia</title>
+<link>https://doi.org/10.5465/amr.2025.0897</link>
+<guid isPermaLink="false">10.5465/amr.2025.0897</guid>
+<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yih-Teen Lee]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0897</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Origins and Evolution of Red, Blue, and Purple Employee Populations: A Theory of How Organizations Become Ideologically Skewed</title>
+<link>https://doi.org/10.5465/amr.2025.0229</link>
+<guid isPermaLink="false">10.5465/amr.2025.0229</guid>
+<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yasir Dewan; Abhinav Gupta; Donald C. Hambrick]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2025.0229</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Organizational Repression of Stakeholder Collective Action</title>
+<link>https://doi.org/10.5465/amr.2024.0426</link>
+<guid isPermaLink="false">10.5465/amr.2024.0426</guid>
+<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Natalie Holzaepfel; Olga Hawn; Timothy Werner]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0426</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Issues of Deception and Complicity: Replies to the Commentaries on “Management Theory: Jungle, Myth, or Hoax?”</title>
+<link>https://doi.org/10.5465/amr.2026.0298</link>
+<guid isPermaLink="false">10.5465/amr.2026.0298</guid>
+<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hugh Willmott]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0298</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond Configurational Primacy: A Commentary on Campbell and Fiss’s “Tackling the Complexity Challenge: When and How to Engage in Configurational and Hybrid Theorizing”</title>
+<link>https://doi.org/10.5465/amr.2026.0371</link>
+<guid isPermaLink="false">10.5465/amr.2026.0371</guid>
+<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[M. Madeleine Meurer; Joep P. Cornelissen; Ferran Torres]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0371</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Triadic Attentional Processing and Buildup of Joint Attentional Engagement in Emergent Strategic Initiatives</title>
+<link>https://doi.org/10.5465/amr.2024.0120</link>
+<guid isPermaLink="false">10.5465/amr.2024.0120</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Olli-Pekka Kauppila; Eero Vaara]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0120</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Extending the Study of Competitive Externalities in Acquisitions: A Reply to “Boundary Conditions and Juxtaposition of Externalities”</title>
+<link>https://doi.org/10.5465/amr.2026.0535</link>
+<guid isPermaLink="false">10.5465/amr.2026.0535</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jaideep Anand; Philipp Meyer-Doyle; Benjamin W. Blunck]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0535</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond Statically Motivated, Rational, and Atomistic Actors: Extending Tabasi-Nejad and Deutsch’s “Effect of Policy Maker Motives on Their Response to Corporate Political Activity”</title>
+<link>https://doi.org/10.5465/amr.2026.0077</link>
+<guid isPermaLink="false">10.5465/amr.2026.0077</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeffrey A. Chandler; Aaron D. Hill]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0077</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Generative AI Dilemma in Knowledge-Intensive Teams</title>
+<link>https://doi.org/10.5465/amr.2024.0538</link>
+<guid isPermaLink="false">10.5465/amr.2024.0538</guid>
+<pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jessica A. Reif; Jonathon N. Cummings]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2024.0538</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Corrective Governance in the Boardroom: A Negotiated Order Perspective</title>
+<link>https://doi.org/10.5465/amr.2023.0238</link>
+<guid isPermaLink="false">10.5465/amr.2023.0238</guid>
+<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dana Bement; Ryan Krause; Michael C. Withers; Matthew Semadeni]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2023.0238</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

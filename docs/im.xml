@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Information &amp; Management</title>
+<link>http://localhost:8767/#im</link>
+<description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/im.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>A review of cybercrime research: Synthesis and future directions</title>
+<link>https://doi.org/10.1016/j.im.2026.104369</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104369</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hamid Reza Nikkhah; Jalal Sarabadani; Varun Grover; Syed Shuva]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104369</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Dual consequences of IT artifact characteristics in reducing sustainable uncertainties: Implications for decision-making within digital supply chain platforms</title>
+<link>https://doi.org/10.1016/j.im.2026.104358</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104358</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maryam Hina; Najmul Islam]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104358</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Instant messaging in the workplace: Facilitating tasks but depleting resources</title>
+<link>https://doi.org/10.1016/j.im.2026.104366</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104366</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Julie N. Y. Zhu; Irene Cheng Chu Chan; Qin Su; Long W. Lam; Zhiwei Wang; Weiqi Hou; Tingting Wen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104366</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding the impact of advertising recommendation sources on consumers' click-through intentions on social media: Focusing on the differences in privacy controls</title>
+<link>https://doi.org/10.1016/j.im.2026.104362</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104362</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wenfang Fan; Bingjia Shao; Yong Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104362</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>MRPDF: A deep learning-based method enhanced by fuzzy sets for product ranking based on online consumer product reviews</title>
+<link>https://doi.org/10.1016/j.im.2026.104368</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104368</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Songyi Yin; Yu Wang; Dongsong Zhang; Xu Ye]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104368</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding the Power of Diverging Voices: Exploring the Interplay of Regulatory Focus, Product Type, and Review Variance on Product Attitude</title>
+<link>https://doi.org/10.1016/j.im.2026.104361</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104361</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eunju Yi; Do-Hyung Park]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104361</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Taking control: The impact of question formatting on response outcomes in online technical question-and-answer communities</title>
+<link>https://doi.org/10.1016/j.im.2026.104365</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104365</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dylan Junluo Chen; Zhewen Liang; Ben Liu; Bofei She]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104365</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Information systems artifact as a product attribute: An empirical analysis of the effects of information systems availability</title>
+<link>https://doi.org/10.1016/j.im.2026.104363</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104363</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yong Liu; Wenjie Fan; Virpi Kristiina Tuunainen; Hongxiu Li; Chee-Wee Tan; Timo Saarinen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104363</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Communication media choices in interfirm collaborations: When media richness matters</title>
+<link>https://doi.org/10.1016/j.im.2026.104349</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104349</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Constantinos S. Lioukas; Jeffrey J. Reuer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104349</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Value-Based Dyadic Online Gifting and the Role of Proximity</title>
+<link>https://doi.org/10.1016/j.im.2026.104367</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104367</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[So-Hyun Lee; Hee-Woong Kim; Atreyi Kankanhalli]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104367</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From comparison to collaboration: Experimental evidence on human and artificial intelligence in public decision making</title>
+<link>https://doi.org/10.1016/j.im.2026.104364</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104364</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shangrui Wang; Yuanmeng Zhang; Yiming Xiao; Zheng Liang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104364</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Structural or freestyle? How review formats shape review helpfulness and consumer purchase intention</title>
+<link>https://doi.org/10.1016/j.im.2026.104357</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104357</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chunyu Li; Weiting Chen; Hua Li; Geng Cui]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104357</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Tell me what I want to hear: The effects of matching reviews on consumers’ decision making</title>
+<link>https://doi.org/10.1016/j.im.2026.104324</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104324</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Long The Nguyen; Zachary J. Sheffler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104324</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Human–machine collaboration and algorithmic decision-making: The role of organizational incentives and AI capabilities</title>
+<link>https://doi.org/10.1016/j.im.2026.104384</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104384</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anh Luong; Nanda Kumar; Karl Reiner Lang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104384</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Disclosing AI-generated image or copy? Understanding consumer responses to the AI-generated green advertisements</title>
+<link>https://doi.org/10.1016/j.im.2026.104388</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104388</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jingwen Li; Lixiao Geng; Yaping Chang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104388</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can only managers enact formal control? The role of team-managed formal control in agile project success</title>
+<link>https://doi.org/10.1016/j.im.2026.104386</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104386</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[John Tripp; Vallabh Sambamurthy]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104386</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Integrating e-commerce and social media metrics in prescriptive multichannel retail store efficiency analysis: A case study in do-it-yourself retailing</title>
+<link>https://doi.org/10.1016/j.im.2026.104381</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104381</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Koen W. De Bock; Kristof Coussement; Arno De Caigny; Cristina Ciobanu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104381</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The livestream commerce puzzle: exploring the ineffectiveness of online reviews in reducing return intentions</title>
+<link>https://doi.org/10.1016/j.im.2026.104382</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104382</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lin Wang; Jiawen Wu; Wenting Feng; Yiran Li; Qihua Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104382</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital innovation for green transformation: Pressure, practice, and performance of manufacturing SMEs in China</title>
+<link>https://doi.org/10.1016/j.im.2026.104383</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104383</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hui Peng; Huanqin Ying; Jiajia Zhang; Shouyang Wang; Yaobin Lu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104383</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What roles does leadership play in navigating team faultlines? An empirical study from an online learning platform</title>
+<link>https://doi.org/10.1016/j.im.2026.104385</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104385</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shouxiang Qiu; Ling Zhao; Xiaobin Zhang; Zujun Shi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104385</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The human firewall: Investigating the impact of chronic motivational orientation, message framing, and cognitive constraints on phishing detection</title>
+<link>https://doi.org/10.1016/j.im.2026.104387</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104387</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junyi Yang; Xuecong Lu; Yuyan Wei; Milena Head]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104387</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Words matter when gangs cyberbang: Predicting imminent urban violence from gang members’ social media posts✰</title>
+<link>https://doi.org/10.1016/j.im.2026.104345</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104345</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sherry L. Fowler; Antonis Stylianou; Dongsong Zhang; Paul Benjamin Lowry; Reza Mousavi; Shannon Reid]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104345</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social media engagement and resource gain spirals: a mixed-methods study of digital empowerment among marginalized caregivers</title>
+<link>https://doi.org/10.1016/j.im.2026.104371</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104371</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Murad Moqbel; Valerie L. Bartelt; Cynthia K. Riemenschneider; Abdullah Albizri; Sam Zaza]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104371</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From large-scale text to model development: A novel approach to algorithm integration in information systems research</title>
+<link>https://doi.org/10.1016/j.im.2026.104389</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104389</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Morteza Namvar; Saeed Akhlaghpour; James Boyce; Marta Indulska]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104389</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The power of language: Other-focused linguistic style and sales performance on home-sharing platforms</title>
+<link>https://doi.org/10.1016/j.im.2026.104370</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104370</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jinming Dang; Xiang Gong; Chenze Wang; Christy M.K. Cheung; Xiaoxiao Liu; Zhenxin Xiao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104370</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Designing away technostress: Digital interface nudges, cognitive effort, and digital mindset in complex decision environments</title>
+<link>https://doi.org/10.1016/j.im.2026.104421</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104421</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maximilian Valta; Christian Maier; Yannick Hildebrandt]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104421</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Actualized fitness technology affordances: Conceptualization and validation of a measurement scale</title>
+<link>https://doi.org/10.1016/j.im.2026.104420</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104420</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yafang Li; Michelle Carter; Robert E. Crossler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The impact of generative AI on news believability: A mind perception perspective</title>
+<link>https://doi.org/10.1016/j.im.2026.104418</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104418</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yang Liu; Junming Zeng; Shan Liu; Lu Han]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Elucidating the bifurcated effects of artificial intelligence technostress on customer satisfaction: The role of affective reactions and voluntariness of use</title>
+<link>https://doi.org/10.1016/j.im.2026.104419</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104419</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siqin Chen; Jiabao Lin; Qinyao Zheng; Xin (Robert) Luo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104419</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>An emotion regulation-theoretic perspective on IS use stress and user resistance during an IS implementation</title>
+<link>https://doi.org/10.1016/j.im.2026.104401</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104401</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian Maier; Sven Laumer; Tim Weitzel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104401</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Dark Side of Artificial Autonomy: Formation and Coping of Relationship-related Technostress between Humans and AI</title>
+<link>https://doi.org/10.1016/j.im.2026.104403</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104403</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fengjiao Zhang; Zhao Pan; Qian Hu; Yaobin Lu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104403</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How doctors’ and nurses’ work-related motivations shape perceived system benefits and resistance to CPOE</title>
+<link>https://doi.org/10.1016/j.im.2026.104408</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104408</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hyoung-Yong Choi; Mark Keil; Arun Rai; Likoebe Maruping]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104408</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Smart services in B2B contexts: A taxonomy and archetypes</title>
+<link>https://doi.org/10.1016/j.im.2026.104390</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104390</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel Heinz; Marcel Fassnacht; Carina Benz; Philipp Luchner; Gerhard Satzger]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104390</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sounds good and feels better—how anthropomorphism influences artificial intelligence voice assistant use</title>
+<link>https://doi.org/10.1016/j.im.2026.104416</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104416</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yixiu Yu; Sisheng Liang; Haoqiang Jiang; Rui Sundrup; Andrew N.K. Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104416</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Information security incidents, market valuation, and supply chain spillovers: Evidence from Chinese listed firms</title>
+<link>https://doi.org/10.1016/j.im.2026.104407</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104407</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiong Zhang; Meng Li; Qiping Wang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104407</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Signal visibility and patient perception: How physicians’ prosocial behavior builds reputation in online health communities</title>
+<link>https://doi.org/10.1016/j.im.2026.104406</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104406</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Muneer Ahmad; Anfei Xia; Jian-Jun Wang; Xiaocong Cui]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104406</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Counterfactual patient satisfaction inference under selective observation: A theory-driven machine learning design approach for online consultation services</title>
+<link>https://doi.org/10.1016/j.im.2026.104417</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104417</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anfei Xia; Jian-Jun Wang; Jingguo Wang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104417</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does knowledge proximity attenuate or amplify the impact of credibility signals on knowledge use? Insights from two natural experiments</title>
+<link>https://doi.org/10.1016/j.im.2026.104413</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104413</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jan Schilpp; Rajiv Sabherwal; Marcel-René Wepper; Hartmut Hoehle]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104413</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Effect of digital habitus and capital on social presence in online social platforms: a multi-group analysis of facebook and roblox users</title>
+<link>https://doi.org/10.1016/j.im.2026.104402</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104402</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Seoyoun Lee; Younghoon Chang; Christian Fernando Libaque-Sáenz; Alain Yee Loong Chong; Qiuju Yin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104402</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Software upgrade pricing under valuation uncertainty: The role of consumer learning</title>
+<link>https://doi.org/10.1016/j.im.2026.104415</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104415</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuxia Peng; Qing Zhang; Bo Li; Pengwen Hou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104415</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>LLM-powered contrastive hierarchical interest learning for cross-platform information recommendation</title>
+<link>https://doi.org/10.1016/j.im.2026.104404</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104404</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Datian Bi; Xue Zhang; Jingyuan Kong; Gongkun Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104404</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unveiling the critical role of ethical leadership in information systems security compliance research: An empirical investigation</title>
+<link>https://doi.org/10.1016/j.im.2026.104405</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104405</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Botong Xue; Merrill Warkentin; Xin (Robert) Luo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104405</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Who will generate buzz for you? Predicting review writers for local businesses and online sellers</title>
+<link>https://doi.org/10.1016/j.im.2026.104409</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104409</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eunjung Lee; Yang Wang; Huimin Zhao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104409</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The impact of corporate artificial intelligence adoption on labor employment in competitive strategic contexts</title>
+<link>https://doi.org/10.1016/j.im.2026.104400</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104400</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Canjun Chen; Lelin Lv; Changxin Xu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104400</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond speculation: Explaining the intention to use cryptocurrency</title>
+<link>https://doi.org/10.1016/j.im.2026.104410</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104410</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pouyan Esmaeilzadeh; Karlene Cousins; Hemang Subramanian; Arun Rai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104410</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
+<link>https://doi.org/10.1016/j.im.2026.104414</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Breaking the Spiral of Silence in Social Media: The Interplay Between Opinion Climates and Hardcore User Identity</title>
+<link>https://doi.org/10.1016/j.im.2026.104430</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104430</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wanghao Dong; Weijun Wang; Wenjing Zhong; Yu Tong; Wei Wang; Chunmei Gan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104430</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Too Old for TikTok? Nope! Exploring Senior Adult Viewer’s Short-form Video Platform Addiction through Attachment Theory and Socio-technical Framework</title>
+<link>https://doi.org/10.1016/j.im.2026.104422</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104422</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhenya Robin Tang; Xueyan Dong; Yuxin Tian; Dahui Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104422</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>AI-powered personalization in online fashion stores: Exploring the impact on shoppers’ perceived risk and intention to buy and recommend</title>
+<link>https://doi.org/10.1016/j.im.2026.104347</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104347</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[K.Mohamed Jasim; Venu Bhaskar Puthineedi; Ashish Kumar Jha]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104347</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Shining a light on firm behavior: Payment strategies under the Physician Payment Sunshine Act</title>
+<link>https://doi.org/10.1016/j.im.2026.104342</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104342</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sherri Cheng; Wenjing Duan; Wenqi Zhou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104342</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Modeling patient switching behavior in online health communities: service quality and satisfaction dynamics with a hidden Markov model</title>
+<link>https://doi.org/10.1016/j.im.2026.104327</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104327</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuanyuan Liu; Hong Wu; Qing Ye; Li Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104327</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>People analytics, trust erosion and intention to leave: the role of information asymmetry</title>
+<link>https://doi.org/10.1016/j.im.2026.104346</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104346</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miriam Klöpper; Frantz Rowe]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104346</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Blockchain applications: The impact of a firm’s choice of financial accounting system on nonprofessional investor judgment and decision-making</title>
+<link>https://doi.org/10.1016/j.im.2026.104344</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104344</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xu (Joyce) Cheng; Travis Holt; James Long; Tina Loraas]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104344</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do you want to bet? Service operations models leveraging consumers’ present-biased preferences</title>
+<link>https://doi.org/10.1016/j.im.2026.104338</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104338</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu-chen Yang; Hsing Kenneth Cheng; Liangfei Qiu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104338</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Leveraging spillover effects of ambulatory electronic health records to manage inpatient costs at hospitals: The role of health information sharing</title>
+<link>https://doi.org/10.1016/j.im.2026.104319</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104319</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ankita Srivastava; Chenzhang Bao; Dursun Delen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104319</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Detecting fake news on social media: a novel uncertainty-aware machine-crowd hybrid-intelligence-based method</title>
+<link>https://doi.org/10.1016/j.im.2026.104348</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104348</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kangwei Shi; Yidong Chai; Lujuan Zhou; Jiaheng Xie; Chunli Liu; Yuanchun Jiang; Yezheng Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104348</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effect of online social networks on theory of mind among adolescents</title>
+<link>https://doi.org/10.1016/j.im.2026.104343</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104343</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elodie Gentina; Rui Chen; Frantz Rowe]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104343</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Toward trustworthy web attack detection: An uncertainty-aware ensemble deep kernel learning model</title>
+<link>https://doi.org/10.1016/j.im.2026.104325</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104325</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yonghang Zhou; Hongyi Zhu; Yidong Chai; Yezheng Liu; Yuanchun Jiang; Yang Qian]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104325</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The value of teamwork: evidence from crowdsourcing contests</title>
+<link>https://doi.org/10.1016/j.im.2026.104336</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104336</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Huiyan Chen; Jing Peng; Jan Stallaert; Sulin Ba]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104336</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Signal startup quality in syndicate equity crowdfunding: The effect of lead investors’ network centrality and reputation</title>
+<link>https://doi.org/10.1016/j.im.2026.104335</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104335</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuting Xu; Lukas Vincent Tatge; Xue Yang; Weiling Ke]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104335</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Lost at the cyber-crossing? Understanding individuals’ internet security threat ambivalence and its impact on threat avoidance and approach behavior</title>
+<link>https://doi.org/10.1016/j.im.2026.104328</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104328</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yaojie Li; Xuan Wang; Yuan Li; Hanieh Javadi Khasraghi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104328</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reward strategies for content platforms: equity or equality?</title>
+<link>https://doi.org/10.1016/j.im.2026.104337</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104337</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruomeng Hu; Haiyang Feng; Giri Kumar Tayi; Nan Feng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104337</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Trust in physicians across generations: The role of internet use in reshaping physician–patient relationships</title>
+<link>https://doi.org/10.1016/j.im.2026.104341</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104341</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bangan Wu; Ben Liu; Xitong Guo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104341</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

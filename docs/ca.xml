@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Current Anthropology</title>
+<link>http://localhost:8767/#ca</link>
+<description>CA — University of Chicago Press · Latest in: Online First · Subfield: anthropology</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/ca.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>“One of Us or One of Them”</title>
+<link>https://doi.org/10.1086/743006</link>
+<guid isPermaLink="false">10.1086/743006</guid>
+<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jaymelee Kim; Lucia Elgerud]]></dc:creator>
+<dc:identifier>doi:10.1086/743006</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How the Churches Serve the State</title>
+<link>https://doi.org/10.1086/739210</link>
+<guid isPermaLink="false">10.1086/739210</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kristóf Szombati]]></dc:creator>
+<dc:identifier>doi:10.1086/739210</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Populism, Populism Research, and Their Discontents</title>
+<link>https://doi.org/10.1086/738633</link>
+<guid isPermaLink="false">10.1086/738633</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yannis Stavrakakis]]></dc:creator>
+<dc:identifier>doi:10.1086/738633</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Anthropology’s Democracy Problem</title>
+<link>https://doi.org/10.1086/738728</link>
+<guid isPermaLink="false">10.1086/738728</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robert Samet]]></dc:creator>
+<dc:identifier>doi:10.1086/738728</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/741637</link>
+<guid isPermaLink="false">10.1086/741637</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/741637</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Immediacy and &lt;i&gt;Heimat&lt;/i&gt; in the Present Populist Moment</title>
+<link>https://doi.org/10.1086/738635</link>
+<guid isPermaLink="false">10.1086/738635</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nitzan Shoshan]]></dc:creator>
+<dc:identifier>doi:10.1086/738635</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Populism as Liberal Alibi</title>
+<link>https://doi.org/10.1086/739791</link>
+<guid isPermaLink="false">10.1086/739791</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gary Wilder]]></dc:creator>
+<dc:identifier>doi:10.1086/739791</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Iru: The Remarkable Life of Irawati Karve&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/741016</link>
+<guid isPermaLink="false">10.1086/741016</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sandipan Mitra]]></dc:creator>
+<dc:identifier>doi:10.1086/741016</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Return of the Slave Master</title>
+<link>https://doi.org/10.1086/738868</link>
+<guid isPermaLink="false">10.1086/738868</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Insa Lee Koch]]></dc:creator>
+<dc:identifier>doi:10.1086/738868</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Populism’s Crowds</title>
+<link>https://doi.org/10.1086/739191</link>
+<guid isPermaLink="false">10.1086/739191</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jason Frank]]></dc:creator>
+<dc:identifier>doi:10.1086/739191</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Populism: Anthropological Approaches</title>
+<link>https://doi.org/10.1086/739000</link>
+<guid isPermaLink="false">10.1086/739000</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Danilyn Rutherford]]></dc:creator>
+<dc:identifier>doi:10.1086/739000</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Populism, Enjoyment, and the Competition for Partisan Visibility in Postrevolutionary Nicaragua</title>
+<link>https://doi.org/10.1086/738959</link>
+<guid isPermaLink="false">10.1086/738959</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Luciana Chamorro]]></dc:creator>
+<dc:identifier>doi:10.1086/738959</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Reconfiguring Racial Capitalism: South Africa in the Chinese Century&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/741014</link>
+<guid isPermaLink="false">10.1086/741014</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Darren Byler]]></dc:creator>
+<dc:identifier>doi:10.1086/741014</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>More than “Information in the Head”</title>
+<link>https://doi.org/10.1086/740965</link>
+<guid isPermaLink="false">10.1086/740965</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Agustín Fuentes; Greg Downey; Alexander J. Gillett]]></dc:creator>
+<dc:identifier>doi:10.1086/740965</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Deciphering Sands and Stones</title>
+<link>https://doi.org/10.1086/741018</link>
+<guid isPermaLink="false">10.1086/741018</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarah Newman]]></dc:creator>
+<dc:identifier>doi:10.1086/741018</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Cover</title>
+<link>https://doi.org/10.1086/742279</link>
+<guid isPermaLink="false">10.1086/742279</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742279</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond “Good Politics, Unspecified”</title>
+<link>https://doi.org/10.1086/740966</link>
+<guid isPermaLink="false">10.1086/740966</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tomas Matza]]></dc:creator>
+<dc:identifier>doi:10.1086/740966</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Innovating the Cuban Kitchen</title>
+<link>https://doi.org/10.1086/741019</link>
+<guid isPermaLink="false">10.1086/741019</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hanna Garth]]></dc:creator>
+<dc:identifier>doi:10.1086/741019</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>An Ecology of Mind Approach to Far-Right Publics in Brazil</title>
+<link>https://doi.org/10.1086/738867</link>
+<guid isPermaLink="false">10.1086/738867</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Letícia Cesarino]]></dc:creator>
+<dc:identifier>doi:10.1086/738867</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Populist Slipper</title>
+<link>https://doi.org/10.1086/739002</link>
+<guid isPermaLink="false">10.1086/739002</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robert Samet; Kabir Tambar; William Mazzarella]]></dc:creator>
+<dc:identifier>doi:10.1086/739002</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Closeted Labor</title>
+<link>https://doi.org/10.1086/740964</link>
+<guid isPermaLink="false">10.1086/740964</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elif Sarı]]></dc:creator>
+<dc:identifier>doi:10.1086/740964</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Thinking through the Practical Implications of the Ontological Turn in Archaeology</title>
+<link>https://doi.org/10.1086/740890</link>
+<guid isPermaLink="false">10.1086/740890</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Brent K. S. Woodfill]]></dc:creator>
+<dc:identifier>doi:10.1086/740890</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mobs and Megaprojects</title>
+<link>https://doi.org/10.1086/739946</link>
+<guid isPermaLink="false">10.1086/739946</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nusrat Sabina Chowdhury]]></dc:creator>
+<dc:identifier>doi:10.1086/739946</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Trees versus People</title>
+<link>https://doi.org/10.1086/738966</link>
+<guid isPermaLink="false">10.1086/738966</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Naomi Schiller]]></dc:creator>
+<dc:identifier>doi:10.1086/738966</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Wager of Popular Address</title>
+<link>https://doi.org/10.1086/738896</link>
+<guid isPermaLink="false">10.1086/738896</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kabir Tambar]]></dc:creator>
+<dc:identifier>doi:10.1086/738896</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;The Pulse of the Earth: Political Geology in Java&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/740952</link>
+<guid isPermaLink="false">10.1086/740952</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sophie Chao]]></dc:creator>
+<dc:identifier>doi:10.1086/740952</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/742280</link>
+<guid isPermaLink="false">10.1086/742280</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742280</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Being in Work</title>
+<link>https://doi.org/10.1086/740874</link>
+<guid isPermaLink="false">10.1086/740874</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stefanie Mauksch; Giorgio Brocco]]></dc:creator>
+<dc:identifier>doi:10.1086/740874</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Political Incarnation as Living Archive</title>
+<link>https://doi.org/10.1086/738978</link>
+<guid isPermaLink="false">10.1086/738978</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[William Mazzarella]]></dc:creator>
+<dc:identifier>doi:10.1086/738978</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Troubling Populations</title>
+<link>https://doi.org/10.1086/741015</link>
+<guid isPermaLink="false">10.1086/741015</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Charles C. Roseman; Rasmus Grønfeldt Winther]]></dc:creator>
+<dc:identifier>doi:10.1086/741015</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Queer Muslim Subjectivity</title>
+<link>https://doi.org/10.1086/742728</link>
+<guid isPermaLink="false">10.1086/742728</guid>
+<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Viola Thimm]]></dc:creator>
+<dc:identifier>doi:10.1086/742728</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Moving to the Center of the Earth</title>
+<link>https://doi.org/10.1086/742929</link>
+<guid isPermaLink="false">10.1086/742929</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nurit Stadler]]></dc:creator>
+<dc:identifier>doi:10.1086/742929</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Blurring Islam</title>
+<link>https://doi.org/10.1086/743068</link>
+<guid isPermaLink="false">10.1086/743068</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Waseem Naser]]></dc:creator>
+<dc:identifier>doi:10.1086/743068</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What If Anthropology Were a Spiritual Exercise?</title>
+<link>https://doi.org/10.1086/740124</link>
+<guid isPermaLink="false">10.1086/740124</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Khaled Furani]]></dc:creator>
+<dc:identifier>doi:10.1086/740124</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/741277</link>
+<guid isPermaLink="false">10.1086/741277</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/741277</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Mindjeris Ki Pudi&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/740043</link>
+<guid isPermaLink="false">10.1086/740043</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vinícius Venancio]]></dc:creator>
+<dc:identifier>doi:10.1086/740043</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>As If You Were Brothers</title>
+<link>https://doi.org/10.1086/739814</link>
+<guid isPermaLink="false">10.1086/739814</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Naor Ben-Yehoyada]]></dc:creator>
+<dc:identifier>doi:10.1086/739814</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Comment on Alvi and Werth 2024</title>
+<link>https://doi.org/10.1086/739952</link>
+<guid isPermaLink="false">10.1086/739952</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Guido Sprenger]]></dc:creator>
+<dc:identifier>doi:10.1086/739952</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Plantation Liberalism</title>
+<link>https://doi.org/10.1086/739995</link>
+<guid isPermaLink="false">10.1086/739995</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alyssa Paredes]]></dc:creator>
+<dc:identifier>doi:10.1086/739995</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring Contemporary Pastoral Variability through Stable Isotope Analysis in the Turkana Basin, Kenya</title>
+<link>https://doi.org/10.1086/739930</link>
+<guid isPermaLink="false">10.1086/739930</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Madeleine Bleasdale; Samuel Derbyshire; Mary Lucas; Lucas Lowasa; Christine Lehn; Joseph Ekidor Nami; Jana Ilgner; Nicole Boivin; Patrick Roberts]]></dc:creator>
+<dc:identifier>doi:10.1086/739930</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Sheepdog Who Cried Wolf</title>
+<link>https://doi.org/10.1086/739842</link>
+<guid isPermaLink="false">10.1086/739842</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[heath pearson]]></dc:creator>
+<dc:identifier>doi:10.1086/739842</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bringing Indigenous Ancestors Back to the Territory</title>
+<link>https://doi.org/10.1086/739929</link>
+<guid isPermaLink="false">10.1086/739929</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jimena Cruz Mamani; Félix A. Acuto; N. G. Daniel Huircapán]]></dc:creator>
+<dc:identifier>doi:10.1086/739929</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Captures of Protest</title>
+<link>https://doi.org/10.1086/740123</link>
+<guid isPermaLink="false">10.1086/740123</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Clara Beccaro]]></dc:creator>
+<dc:identifier>doi:10.1086/740123</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Following Signs of Sentiment</title>
+<link>https://doi.org/10.1086/741915</link>
+<guid isPermaLink="false">10.1086/741915</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Meghanne Barker]]></dc:creator>
+<dc:identifier>doi:10.1086/741915</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Persistence on a Perilous Coast</title>
+<link>https://doi.org/10.1086/742009</link>
+<guid isPermaLink="false">10.1086/742009</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wolfgang Alders; Mikidadi Hassan Musa; Ali Vuai; Abdallah Khamis Ali; Kombo Othman Juma; Asia Haji Ubwa; Zaynab Makame Manzi; Hafidh Salum Muhammed; Hamad Suleiman]]></dc:creator>
+<dc:identifier>doi:10.1086/742009</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Captivation, Coproduction, and Technologies of Compromise at Postclassic Xaltocan, Mexico</title>
+<link>https://doi.org/10.1086/741932</link>
+<guid isPermaLink="false">10.1086/741932</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kirby Farah]]></dc:creator>
+<dc:identifier>doi:10.1086/741932</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Irritation, Cooperation, and Human Relationships</title>
+<link>https://doi.org/10.1086/741744</link>
+<guid isPermaLink="false">10.1086/741744</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anni Kajanus; Charles Stafford]]></dc:creator>
+<dc:identifier>doi:10.1086/741744</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Scripts Are Built on Visual Metaphor</title>
+<link>https://doi.org/10.1086/742105</link>
+<guid isPermaLink="false">10.1086/742105</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ludovica Ottaviano; Kathryn Kelley; Mattia Cartolano; Silvia Ferrara]]></dc:creator>
+<dc:identifier>doi:10.1086/742105</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Talking Lure</title>
+<link>https://doi.org/10.1086/741742</link>
+<guid isPermaLink="false">10.1086/741742</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Beth Michelle Semel]]></dc:creator>
+<dc:identifier>doi:10.1086/741742</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Ambiguous Relations</title>
+<link>https://doi.org/10.1086/741916</link>
+<guid isPermaLink="false">10.1086/741916</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joe Ellis]]></dc:creator>
+<dc:identifier>doi:10.1086/741916</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time with No Time</title>
+<link>https://doi.org/10.1086/742019</link>
+<guid isPermaLink="false">10.1086/742019</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Omer Hacker]]></dc:creator>
+<dc:identifier>doi:10.1086/742019</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/743482</link>
+<guid isPermaLink="false">10.1086/743482</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/743482</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Cover</title>
+<link>https://doi.org/10.1086/743481</link>
+<guid isPermaLink="false">10.1086/743481</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/743481</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Doing Collaboration Otherwise</title>
+<link>https://doi.org/10.1086/742049</link>
+<guid isPermaLink="false">10.1086/742049</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Luisa Enria]]></dc:creator>
+<dc:identifier>doi:10.1086/742049</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Engaging Dirt</title>
+<link>https://doi.org/10.1086/742018</link>
+<guid isPermaLink="false">10.1086/742018</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heide Wrobel Nørgaard]]></dc:creator>
+<dc:identifier>doi:10.1086/742018</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fit to Kill?: &lt;i&gt;Chimpanzees, War, and History: Are Men Born to Kill?&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/741118</link>
+<guid isPermaLink="false">10.1086/741118</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robert Wasserstrom]]></dc:creator>
+<dc:identifier>doi:10.1086/741118</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/742412</link>
+<guid isPermaLink="false">10.1086/742412</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A New Big Data Methodology for Anthropology?: &lt;i&gt;Heritage and Nationalism: Understanding Populism through Big Data&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/741117</link>
+<guid isPermaLink="false">10.1086/741117</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Byron Hyde; Louise Williams]]></dc:creator>
+<dc:identifier>doi:10.1086/741117</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Cover</title>
+<link>https://doi.org/10.1086/742411</link>
+<guid isPermaLink="false">10.1086/742411</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cathedrals in the Blood</title>
+<link>https://doi.org/10.1086/741104</link>
+<guid isPermaLink="false">10.1086/741104</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fenella Cannell]]></dc:creator>
+<dc:identifier>doi:10.1086/741104</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Confronting Bias and Representation in the Heritage of American Cities</title>
+<link>https://doi.org/10.1086/741094</link>
+<guid isPermaLink="false">10.1086/741094</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Krysta Ryzewski; Rebecca S. Graff]]></dc:creator>
+<dc:identifier>doi:10.1086/741094</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Five Limits to Current Autoethnography</title>
+<link>https://doi.org/10.1086/741099</link>
+<guid isPermaLink="false">10.1086/741099</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David Sausdal; Henrik Vigh; Kristoffer Albris]]></dc:creator>
+<dc:identifier>doi:10.1086/741099</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Who Cares? Therapeutic Practices and the Making of Noncommunicable Diseases in Zanzibar</title>
+<link>https://doi.org/10.1086/741158</link>
+<guid isPermaLink="false">10.1086/741158</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Caroline Meier zu Biesen]]></dc:creator>
+<dc:identifier>doi:10.1086/741158</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Conversion as Refusal</title>
+<link>https://doi.org/10.1086/741120</link>
+<guid isPermaLink="false">10.1086/741120</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aghil Daghagheleh]]></dc:creator>
+<dc:identifier>doi:10.1086/741120</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Question of Interest?</title>
+<link>https://doi.org/10.1086/741103</link>
+<guid isPermaLink="false">10.1086/741103</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Molly Sundberg]]></dc:creator>
+<dc:identifier>doi:10.1086/741103</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Witchcraft and Patriarchy</title>
+<link>https://doi.org/10.1086/741068</link>
+<guid isPermaLink="false">10.1086/741068</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chloe Nahum-Claudel]]></dc:creator>
+<dc:identifier>doi:10.1086/741068</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rushing Around</title>
+<link>https://doi.org/10.1086/741098</link>
+<guid isPermaLink="false">10.1086/741098</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marcos Lopes Campos]]></dc:creator>
+<dc:identifier>doi:10.1086/741098</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Imperial Abandonment</title>
+<link>https://doi.org/10.1086/741095</link>
+<guid isPermaLink="false">10.1086/741095</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Helena Zeweri]]></dc:creator>
+<dc:identifier>doi:10.1086/741095</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Judeo-Arabic Debates</title>
+<link>https://doi.org/10.1086/742736</link>
+<guid isPermaLink="false">10.1086/742736</guid>
+<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jonathan Glasser]]></dc:creator>
+<dc:identifier>doi:10.1086/742736</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

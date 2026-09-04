@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Journal of Management Information Systems</title>
+<link>http://localhost:8767/#jmis</link>
+<description>JMIS — Taylor &amp; Francis · Latest in: Online First · Subfield: is</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/jmis.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Hate Speech Detection on Online News Platforms: A Deep-Learning Approach Based on Agenda-Setting Theory</title>
+<link>https://doi.org/10.1080/07421222.2025.2520173</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520173</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Seong-Su Kim; Seongbeom Kim; Hee-Woong Kim]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520173</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Risk of Cyberattacks Arising from Strategic Alliances with Big Tech</title>
+<link>https://doi.org/10.1080/07421222.2025.2520176</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520176</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jong Seok Lee]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520176</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Impact of Non-Diagnostic Digital Services on Online Healthcare Consultation</title>
+<link>https://doi.org/10.1080/07421222.2025.2520180</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520180</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sijia Zhou; Yanzhen Chen; Xin Li]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520180</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mixed Signals: The Effects of Online Rating Discrepancy on User Trust</title>
+<link>https://doi.org/10.1080/07421222.2025.2520178</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520178</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Florian Schneider; Pavel Dykmann; Timm Teubner]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520178</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Algorithmic Stakeholder Governance on Content Platforms: A Lead Role Perspective</title>
+<link>https://doi.org/10.1080/07421222.2025.2520177</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520177</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mareike Möhlmann; Robert Gregory; Ola Henfridsson]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520177</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can Correction Messages Reduce the Spread of Fake News on Social Media? The Impact of Information Updates on the Effectiveness of Corrections</title>
+<link>https://doi.org/10.1080/07421222.2025.2520174</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520174</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kelvin K. King; Diego Escobari]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520174</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Boundary Morphing: Causes, Consequences, and Architectural Levers</title>
+<link>https://doi.org/10.1080/07421222.2025.2520179</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520179</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amrit Tiwana; Stephen K. Kim]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520179</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Roles of Psychological Recovery Experiences and Visual Anonymity in Team-based Gamified Online Learning</title>
+<link>https://doi.org/10.1080/07421222.2025.2520175</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520175</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dong-Heon (Austin) Kwak; Asher John; Jose Benitez; Soomin Park; Yu (Audrey) Zhao; Merrill Warkentin]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520175</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding the Drivers and Outcomes of Ideologically Charged Social Media Firestorms: The Sociotechnical and Social Learning Perspectives</title>
+<link>https://doi.org/10.1080/07421222.2025.2520170</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520170</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tommy K. H. Chan; Zach W. Y. Lee; Meizhi Pan; Ke Sun]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520170</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital Skill Visibility and Job Promotion of Open Source Software Developers</title>
+<link>https://doi.org/10.1080/07421222.2025.2520171</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2520171</guid>
+<pubDate>Thu, 03 Jul 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sherae L Daniel; Renzhi (Fred) Zhao; Likoebe M. Maruping]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2520171</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Algorithm Discount: Explaining Consumers’ Valuation of Human- versus Algorithm-Created Digital Products</title>
+<link>https://doi.org/10.1080/07421222.2025.2487308</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487308</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jennifer Rix; Benedikt Berger; Thomas Hess; Christine Rzepka]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487308</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Are You Willing to Pay for Generative Artificial Intelligence (GenAI) Products? Disentangling the Disclosure Effects and the Mediating Role of Psychological Value</title>
+<link>https://doi.org/10.1080/07421222.2025.2487314</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487314</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bachazile Sikhondze; Hua Jonathan Ye; Weiyu Wang; Xinhui Zhan; Radhika Santhanam]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487314</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding the Role of Technology in Coordination Through Affordance Configurations</title>
+<link>https://doi.org/10.1080/07421222.2025.2487306</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487306</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jennifer L. Claggett; Elena Karahanna]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487306</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effects of Nudging and Privacy Control on Online Physician Reviews: Evidence from a Field Experiment</title>
+<link>https://doi.org/10.1080/07421222.2025.2487309</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487309</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aishwarya Deep Shukla; Jie Mein (JM) Goh; Tianshu Sun; Guodong (Gordon) Gao; Ritu Agarwal]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487309</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Generative Artificial Intelligence (GenAI)-Based Recommender Addressing Contribution Pollution and Information Cacophony on Digital Platforms</title>
+<link>https://doi.org/10.1080/07421222.2025.2487311</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487311</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Onkar S. Malgonde]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487311</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Shifting Dynamics: How Generative AI as a Boundary Resource Reshapes Digital Platform Governance</title>
+<link>https://doi.org/10.1080/07421222.2025.2487312</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487312</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anne-Sophie Mayer; Angelos Kostis; Franz Strich; Jonny Holmström]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487312</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Generative AI and its Transformative Value for Digital Platforms</title>
+<link>https://doi.org/10.1080/07421222.2025.2487315</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487315</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael Wessel; Martin Adam; Alexander Benlian; Ann Majchrzak; Ferdinand Thies]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487315</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Job Crafting in the Context of Enterprise System Implementations</title>
+<link>https://doi.org/10.1080/07421222.2025.2487305</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487305</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Frank K. Y. Chan; James Y. L. Thong; Viswanath Venkatesh]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487305</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Heterogeneous Effects of Generative artificial intelligence (GenAI) on Knowledge Seeking in Online Communities</title>
+<link>https://doi.org/10.1080/07421222.2025.2487313</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487313</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Martin Quinn; Dominik Gutt]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487313</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Complementor Value Co-Creation in Generative AI Platform Ecosystems</title>
+<link>https://doi.org/10.1080/07421222.2025.2487310</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487310</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vincent Heimburg; Maximilian Schreieck; Manuel Wiesche]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487310</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Assortment Planning at an Omni-Channel Retailer: Long-Tail Strategy, Demand Fulfillment Level, and Primary Channel</title>
+<link>https://doi.org/10.1080/07421222.2025.2561387</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561387</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amar Sapra; Subodha Kumar]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561387</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social Identity Theory and Algorithmic Bias: Ingroup and Outgroup Acrophily in Recommender Systems</title>
+<link>https://doi.org/10.1080/07421222.2025.2561382</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561382</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Carlos Carrasco-Farré; Didier Grimaldi; Marc Torrens; Enzo Longobuco]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561382</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Good Intentions Backfire: The Asymmetric Effects of Minority-Ownership Markers for Businesses on Online Platforms</title>
+<link>https://doi.org/10.1080/07421222.2025.2561388</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561388</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Antino Kim; Che-Wei Liu]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561388</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Dependency Network Structure and Security Vulnerabilities in Software Supply Chains</title>
+<link>https://doi.org/10.1080/07421222.2025.2561385</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561385</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eunae Yoo; Christopher W. Craighead; Sagar Samtani]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561385</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Generative Blockchain: Transforming Blockchain from Transaction Recording to Transaction Generation through Proof-of-Merit</title>
+<link>https://doi.org/10.1080/07421222.2025.2561386</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561386</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Haozhao Zhang; Zhe (James) Zhang; Zhiqiang (Eric) Zheng; Varghese S. Jacob]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561386</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Leveraging Large Language Models for Hate Speech Detection: Multi-Agent, Information-Theoretic Prompt Learning for Enhancing Contextual Understanding</title>
+<link>https://doi.org/10.1080/07421222.2025.2561383</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561383</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kyuhan Lee; Sudha Ram]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561383</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Resistance to Retention: Passive Innovation Resistance and Post-Adoption Usage of Digital Services</title>
+<link>https://doi.org/10.1080/07421222.2025.2561389</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561389</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mario Schaarschmidt; Sven Heidenreich; Matthias Bertram]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561389</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Turning Off Your Better Judgment: Algorithmic Conformity in Artificial Intelligence-Human Collaboration</title>
+<link>https://doi.org/10.1080/07421222.2025.2561390</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561390</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yotam Liel; Lior Zalmanson]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561390</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Artificial Intelligence Recommendations Amplify the Sharing of True and Fake News on Social Media by Appealing to Fast Cognition</title>
+<link>https://doi.org/10.1080/07421222.2025.2561381</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561381</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hanzhuo Ma; Alexander S. Dennis; Alan R. Dennis; Wei Huang]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561381</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Defending Deep Learning-Based Raw Malware Detectors Against Adversarial Attacks: A Sequence Modeling Approach</title>
+<link>https://doi.org/10.1080/07421222.2025.2561384</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2561384</guid>
+<pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Reza Ebrahimi; James Lee Hu; Ning Zhang; Jay F. Nunamaker; Hsinchun Chen]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2561384</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Modeling and Interpreting the Propagation Influence of Neighbor Information in Time-Variant Networks with Exemplification by Financial Risk Prediction</title>
+<link>https://doi.org/10.1080/07421222.2025.2452016</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2452016</guid>
+<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jianfei Wang; Lina Zhou; Cuiqing Jiang; Zhao Wang]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2452016</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How the Metaverse is Reshaping Multichannel Retail Through Balancing Complementarity and Substitution</title>
+<link>https://doi.org/10.1080/07421222.2025.2452019</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2452019</guid>
+<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bingqing Xiong; Jie Fang; Wilson Li]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2452019</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Foundations of Decentralized Metaverse Economies: Converging Physical and Virtual Realities</title>
+<link>https://doi.org/10.1080/07421222.2025.2452017</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2452017</guid>
+<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Björn Hanneke; Marius Heß; Oliver Hinz]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2452017</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Value Drivers for Metaverse Business Models: A Complementor Perspective</title>
+<link>https://doi.org/10.1080/07421222.2025.2452679</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2452679</guid>
+<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kim Krüger; Jörg Weking; Erwin Fielt; Timo Böttcher; Marek Kowalkiewicz; Helmut Krcmar]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2452679</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Computational Framework for Measuring Strategic Opportunities Based on Structural Hole Theory</title>
+<link>https://doi.org/10.1080/07421222.2026.2692278</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692278</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Myunghwan Lee; Gene Moo Lee; Hasan Cavusoglu; Marc-David L. Seidel]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692278</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Theory of Privacy Interests: An Onto-Epistemological Perspective on Privacy Actions</title>
+<link>https://doi.org/10.1080/07421222.2026.2692276</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692276</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicholas James Brown; Vitali Mindel; Paul Benjamin Lowry; Quinton Nottingham]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692276</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Anonymous Donors, Visible Effects: Balancing Anonymity and Signal Diagnosticity in Medical Crowdfunding</title>
+<link>https://doi.org/10.1080/07421222.2026.2692284</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692284</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Victor Xiaoqi Wang; Hua (Jonathan) Ye]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692284</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Competitive Value of Product Security for Platform Complementors</title>
+<link>https://doi.org/10.1080/07421222.2026.2692279</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692279</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[He Li]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692279</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mind and the Machine: How Does Generative Artificial Intelligence Usage Affect the Coding Performance of Developers?</title>
+<link>https://doi.org/10.1080/07421222.2026.2692282</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692282</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Guohou Shan; Michael Rivera; Subodha Kumar; Pawan Anand]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692282</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Review First or Rate First: How the Review Process and Device Choice Shape Online Reviewing Behavior</title>
+<link>https://doi.org/10.1080/07421222.2026.2692281</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692281</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hamed Qahri-Saremi; Nima Kordzadeh; Ofir Turel]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692281</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Reflection Enhances Task Factuality in the Use of Large Language Models</title>
+<link>https://doi.org/10.1080/07421222.2026.2692283</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692283</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Monideepa Tarafdar; Martin Adam; Long The Nguyen]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692283</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Artificial Normality: How Conversational Agents’ Perceived Humanness Inhibits Error Attribution and Preserves Satisfaction</title>
+<link>https://doi.org/10.1080/07421222.2026.2692275</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692275</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alfred Benedikt Brendel; Sascha Lichtenberg; Fabian Hildebrandt; Alan R. Dennis]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692275</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Success of New Ideas in Online Platforms: An Idea Network Perspective</title>
+<link>https://doi.org/10.1080/07421222.2026.2692285</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692285</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yimei Zhou; Qian Tang; Vincent Z.W. Mack; Shao Yi Liaw]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692285</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Protecting the Linked Artificial Intelligence Repositories on Open Source Software Platforms: A Graph Self-Supervised Learning Approach</title>
+<link>https://doi.org/10.1080/07421222.2026.2692274</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692274</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ben Uribe Lazarine; Sagar Samtani; Hongyi Zhu; Ramesh Venkataraman]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692274</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fostering Information Disclosure in Telemental Healthcare Settings: How Telehealth Can Mitigate the Deleterious Effects of Stigma</title>
+<link>https://doi.org/10.1080/07421222.2026.2647466</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647466</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ryan Raimi; Paul Benjamin Lowry; Detmar W. Straub]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647466</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive View of New Entry Threats in Mobile App Markets</title>
+<link>https://doi.org/10.1080/07421222.2026.2647467</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647467</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Franck Soh; Varun Grover]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647467</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fewer Reviews but Better Content: When an Online Review Platform Disables Downvotes</title>
+<link>https://doi.org/10.1080/07421222.2026.2647471</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647471</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yinan Yu; Dezhi Yin; Warut Khern-am-nuai]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647471</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Partner or Rival? How Human-Artificial Intelligence Conflict Shapes Artificial Intelligence Aversion</title>
+<link>https://doi.org/10.1080/07421222.2026.2647459</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647459</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kimia Ansari; Maryam Ghasemaghaei]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647459</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Celebrity-as-a-Service: Trust and Willingness to Use Digital Twins for Customer Service</title>
+<link>https://doi.org/10.1080/07421222.2026.2647472</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647472</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lingyao (Ivy) Yuan; Antino Kim; Mike Seymour; Alan R. Dennis]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647472</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Should a Deep-Tech Product Be Compatible with an Incumbent? Influence of Network Effects</title>
+<link>https://doi.org/10.1080/07421222.2026.2647461</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647461</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Youhyun Lee; Hsing Kenneth Cheng; Liangfei Qiu]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Collaboration Patterns Between Humans and Bots in an Online Knowledge Community: The Influence of Resources and Dependencies</title>
+<link>https://doi.org/10.1080/07421222.2026.2647464</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647464</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiangnan Qiu; Mengjie Li; Shuangyan Gao; Rongjiang Huang; Zhongming Ma; Yan Li]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647464</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Affordances, Routines, and Loyalty for Different Online Game Genres</title>
+<link>https://doi.org/10.1080/07421222.2026.2647469</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647469</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ching-I Teng; Tzu-Ling Huang; Alexander S. Dennis; Alan R. Dennis; Gen-Yih Liao]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647469</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Machine Learning Analysis of Emotional Appeals in Charity Crowdfunding</title>
+<link>https://doi.org/10.1080/07421222.2026.2647463</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647463</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Feng Liu; Yu Chen; Yi-Chun (Chad) Ho; Subhasish Dasgupta; Mingjie Fang]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647463</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reconceptualizing Online Community Participation Behaviors with the Visibility–Cost Framework and Commitment</title>
+<link>https://doi.org/10.1080/07421222.2026.2647470</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647470</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ariel D. Wigdor; Zachary J. Sheffler; Traci J. Hess]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647470</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Double-Edged Sword of Online Communication Substantiveness in the Pursuit of Strategy Uniqueness</title>
+<link>https://doi.org/10.1080/07421222.2025.2602401</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602401</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hongfei Ruan; Li Tong; Ying Zhang; Yi Xiang; Xiaocong Tian]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602401</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Synchronizing Development Teams with Drifting Software Systems: A Decomposability-Based Theory of Evolutionary Mechanisms</title>
+<link>https://doi.org/10.1080/07421222.2025.2602394</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602394</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amrit Tiwana; Hani Safadi]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602394</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Artificial Intelligence and Jobs: Has the Inflection Point Arrived? Evidence from an Online Labor Platform</title>
+<link>https://doi.org/10.1080/07421222.2025.2602400</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602400</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dandan Qiao; Huaxia Rui; Qian Xiong]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602400</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effects of Social Solicitation on E-Commerce Livestreaming Performance</title>
+<link>https://doi.org/10.1080/07421222.2025.2602393</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602393</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Danyang Song; Xi Chen; Zhiling Guo; Ruijin Jin]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602393</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Physicians’ Contributions to Online Healthcare Platforms: Relative Effects of Herding Cues and Feedback Types</title>
+<link>https://doi.org/10.1080/07421222.2025.2602402</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602402</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Liuan Wang; Hillol Bala; Lu (Lucy) Yan; Xitong Guo]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602402</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do Mildly Ill Patients Really Need an Offline Doctor? Deciphering Health Choices from Artificial Intelligence Diagnostic Design and Trust Dynamics</title>
+<link>https://doi.org/10.1080/07421222.2025.2602395</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602395</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aihui Chen; Yaobin Lu]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602395</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Navigating Trade-Offs: Platform Strategies in Two-Sided Markets with Negative Externalities</title>
+<link>https://doi.org/10.1080/07421222.2025.2602392</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602392</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sumanta Singha; Rajib L. Saha; Abhijeet Ghoshal]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602392</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital Innovation as an Outcome and a Process: The Juxtaposed Effects on Firm Performance</title>
+<link>https://doi.org/10.1080/07421222.2025.2602399</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602399</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hui Peng; Yaobin Lu; Xin (Robert) Luo]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602399</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Venture Capital, Gender, and Deregulation in IT Startup Performance</title>
+<link>https://doi.org/10.1080/07421222.2025.2602398</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602398</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ho Cheung Brian Lee; Yen-Yao Wang; Kangkang Qi; Vallabh Sambamurthy; Jocelyn D. Evans]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602398</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Talk and Walk Diverge: How Organizational-AI Misalignment Erodes Integrity-Based Trust and Reliance on AI</title>
+<link>https://doi.org/10.1080/07421222.2025.2602397</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2602397</guid>
+<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maryam Ghasemaghaei]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2602397</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

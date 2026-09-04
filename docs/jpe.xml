@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Journal of Political Economy</title>
+<link>http://localhost:8767/#jpe</link>
+<description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/jpe.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Optimal Tests Following Sequential Experiments</title>
+<link>https://doi.org/10.1086/742418</link>
+<guid isPermaLink="false">10.1086/742418</guid>
+<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Karun Adusumilli]]></dc:creator>
+<dc:identifier>doi:10.1086/742418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mis(sed) Diagnosis: Physician Decision-Making and ADHD</title>
+<link>https://doi.org/10.1086/742421</link>
+<guid isPermaLink="false">10.1086/742421</guid>
+<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kelli Marquardt]]></dc:creator>
+<dc:identifier>doi:10.1086/742421</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo Paga</title>
+<link>https://doi.org/10.1086/740226</link>
+<guid isPermaLink="false">10.1086/740226</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Juliana Londoño-Vélez; Catherine Rodríguez; Fabio Sánchez; Luis Esteban Álvarez-Arango]]></dc:creator>
+<dc:identifier>doi:10.1086/740226</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Zero-Beta Interest Rate</title>
+<link>https://doi.org/10.1086/740220</link>
+<guid isPermaLink="false">10.1086/740220</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sebastian Di Tella; Benjamin Hébert; Pablo Kurlat; Qitong Wang]]></dc:creator>
+<dc:identifier>doi:10.1086/740220</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search</title>
+<link>https://doi.org/10.1086/740223</link>
+<guid isPermaLink="false">10.1086/740223</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jason Abaluck; Giovanni Compiani; Fan Zhang]]></dc:creator>
+<dc:identifier>doi:10.1086/740223</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recent Referees</title>
+<link>https://doi.org/10.1086/742834</link>
+<guid isPermaLink="false">10.1086/742834</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742834</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Origin of the State: Land Productivity or Appropriability? A Comment</title>
+<link>https://doi.org/10.1086/740225</link>
+<guid isPermaLink="false">10.1086/740225</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nikolai Cook; Thibaut Duprey; Anthony Heyes; Martino Pelli]]></dc:creator>
+<dc:identifier>doi:10.1086/740225</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Gas Trap: Outcompeting Coal versus Renewables</title>
+<link>https://doi.org/10.1086/740172</link>
+<guid isPermaLink="false">10.1086/740172</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bård Harstad; Katinka Holtsmark]]></dc:creator>
+<dc:identifier>doi:10.1086/740172</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>JPE Turnaround Times</title>
+<link>https://doi.org/10.1086/742464</link>
+<guid isPermaLink="false">10.1086/742464</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742464</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Training, Communications Patterns, and Spillovers inside Organizations</title>
+<link>https://doi.org/10.1086/740219</link>
+<guid isPermaLink="false">10.1086/740219</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miguel Espinosa; Christopher Stanton]]></dc:creator>
+<dc:identifier>doi:10.1086/740219</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/742833</link>
+<guid isPermaLink="false">10.1086/742833</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742833</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Macroeconomic Consequences of Early Childhood Development Policies</title>
+<link>https://doi.org/10.1086/740224</link>
+<guid isPermaLink="false">10.1086/740224</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Diego Daruich]]></dc:creator>
+<dc:identifier>doi:10.1086/740224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining</title>
+<link>https://doi.org/10.1086/742712</link>
+<guid isPermaLink="false">10.1086/742712</guid>
+<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David A. Green; Ben M. Sand; Iain G. Snoddy; Jeanne Tschopp]]></dc:creator>
+<dc:identifier>doi:10.1086/742712</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Doubt to Devotion: Trials and Learning-Based Pricing</title>
+<link>https://doi.org/10.1086/742434</link>
+<guid isPermaLink="false">10.1086/742434</guid>
+<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tan Gan; Nicholas Wu]]></dc:creator>
+<dc:identifier>doi:10.1086/742434</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Peer Effects and Rank Concerns in the Classroom</title>
+<link>https://doi.org/10.1086/742714</link>
+<guid isPermaLink="false">10.1086/742714</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michela M. Tincani]]></dc:creator>
+<dc:identifier>doi:10.1086/742714</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Blackwell-Monotone Updating Rules</title>
+<link>https://doi.org/10.1086/741272</link>
+<guid isPermaLink="false">10.1086/741272</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mark Whitmeyer]]></dc:creator>
+<dc:identifier>doi:10.1086/741272</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Scalable Demand and Markups</title>
+<link>https://doi.org/10.1086/741641</link>
+<guid isPermaLink="false">10.1086/741641</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Enghin Atalay; Erika Frost; Alan Sorensen; Christopher Sullivan; Wanjia Zhu]]></dc:creator>
+<dc:identifier>doi:10.1086/741641</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exchange Rates and Asset Prices in a Global Demand System</title>
+<link>https://doi.org/10.1086/741624</link>
+<guid isPermaLink="false">10.1086/741624</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ralph S. J. Koijen; Motohiro Yogo]]></dc:creator>
+<dc:identifier>doi:10.1086/741624</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/743795</link>
+<guid isPermaLink="false">10.1086/743795</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/743795</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Optimal Queue Design</title>
+<link>https://doi.org/10.1086/741622</link>
+<guid isPermaLink="false">10.1086/741622</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yeon-Koo Che; Olivier Tercieux]]></dc:creator>
+<dc:identifier>doi:10.1086/741622</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do Mergers and Acquisitions Improve Efficiency? Evidence from Power Plants</title>
+<link>https://doi.org/10.1086/740222</link>
+<guid isPermaLink="false">10.1086/740222</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mert Demirer; Ömer Karaduman]]></dc:creator>
+<dc:identifier>doi:10.1086/740222</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>JPE Turnaround Times</title>
+<link>https://doi.org/10.1086/743444</link>
+<guid isPermaLink="false">10.1086/743444</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/743444</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Making a Swap: Network Formation with Increasing Marginal Costs</title>
+<link>https://doi.org/10.1086/741274</link>
+<guid isPermaLink="false">10.1086/741274</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Evan Sadler]]></dc:creator>
+<dc:identifier>doi:10.1086/741274</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sleep: Educational Impact and Habit Formation</title>
+<link>https://doi.org/10.1086/740221</link>
+<guid isPermaLink="false">10.1086/740221</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Osea Giuntella; Silvia Saccardo; Sally Sadoff]]></dc:creator>
+<dc:identifier>doi:10.1086/740221</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Robust Estimation and Inference in Panels with Interactive Fixed Effects</title>
+<link>https://doi.org/10.1086/741623</link>
+<guid isPermaLink="false">10.1086/741623</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Timothy B. Armstrong; Martin Weidner; Andrei Zeleneev]]></dc:creator>
+<dc:identifier>doi:10.1086/741623</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recent Referees</title>
+<link>https://doi.org/10.1086/743796</link>
+<guid isPermaLink="false">10.1086/743796</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/743796</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Who Values Democracy?</title>
+<link>https://doi.org/10.1086/743899</link>
+<guid isPermaLink="false">10.1086/743899</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Max Miller]]></dc:creator>
+<dc:identifier>doi:10.1086/743899</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Connecting Common Ratio and Common Consequence Preferences</title>
+<link>https://doi.org/10.1086/743896</link>
+<guid isPermaLink="false">10.1086/743896</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christina McGranaghan; Kirby Nielsen; Ted O'Donoghue; Jason Somerville; Charles Sprenger]]></dc:creator>
+<dc:identifier>doi:10.1086/743896</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Macroeconomic Dynamics of Labor Market Polices</title>
+<link>https://doi.org/10.1086/743915</link>
+<guid isPermaLink="false">10.1086/743915</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Erik G. Hurst; Patrick Kehoe; Elena Pastorino; Thomas Winberry]]></dc:creator>
+<dc:identifier>doi:10.1086/743915</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Using Consumption Data to Derive Optimal Top Income and Capital Tax Rates</title>
+<link>https://doi.org/10.1086/743901</link>
+<guid isPermaLink="false">10.1086/743901</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian Hellwig; Nicolas Werquin]]></dc:creator>
+<dc:identifier>doi:10.1086/743901</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Collusion through Common Leadership</title>
+<link>https://doi.org/10.1086/743900</link>
+<guid isPermaLink="false">10.1086/743900</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alejandro Herrera-Caicedo; Jessica Jeffers; Elena Prager]]></dc:creator>
+<dc:identifier>doi:10.1086/743900</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Long Run Economic Effects of Medical Innovation and the Role of Opportunities</title>
+<link>https://doi.org/10.1086/743898</link>
+<guid isPermaLink="false">10.1086/743898</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sonia Bhalotra; Damian Clarke; Atheendar Venkataramani]]></dc:creator>
+<dc:identifier>doi:10.1086/743898</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Strategic Wishful Thinking: Implications for Forecasts</title>
+<link>https://doi.org/10.1086/743916</link>
+<guid isPermaLink="false">10.1086/743916</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Snehal Banerjee; Jesse Davis; Naveen Gondhi]]></dc:creator>
+<dc:identifier>doi:10.1086/743916</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Not Learning from Others</title>
+<link>https://doi.org/10.1086/743914</link>
+<guid isPermaLink="false">10.1086/743914</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[John Conlon; Malavika Mani; Gautam Rao; Matthew Ridley; Frank Schilbach]]></dc:creator>
+<dc:identifier>doi:10.1086/743914</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Illiquid Lemon Markets and the Macroeconomy</title>
+<link>https://doi.org/10.1086/742435</link>
+<guid isPermaLink="false">10.1086/742435</guid>
+<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aimé Bierdel; Andres Drenik; Juan Herreño; Pablo Ottonello]]></dc:creator>
+<dc:identifier>doi:10.1086/742435</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Online Business Models, Digital Ads, and User Welfare</title>
+<link>https://doi.org/10.1086/742715</link>
+<guid isPermaLink="false">10.1086/742715</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daron Acemoglu; Daniel Huttenlocher; Asuman Ozdaglar; James Siderius]]></dc:creator>
+<dc:identifier>doi:10.1086/742715</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Quota Mechanisms: Finite-Sample Optimality and Robustness</title>
+<link>https://doi.org/10.1086/742716</link>
+<guid isPermaLink="false">10.1086/742716</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ian Schofield Ball; Deniz Kattwinkel]]></dc:creator>
+<dc:identifier>doi:10.1086/742716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Silence to Solidarity: How Communication About a Minority Affects Discrimination</title>
+<link>https://doi.org/10.1086/742724</link>
+<guid isPermaLink="false">10.1086/742724</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Duncan Webb]]></dc:creator>
+<dc:identifier>doi:10.1086/742724</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Environmental Consequences of Hydrocarbon Infrastructure Policy</title>
+<link>https://doi.org/10.1086/742713</link>
+<guid isPermaLink="false">10.1086/742713</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas R Covert; Ryan Kellogg]]></dc:creator>
+<dc:identifier>doi:10.1086/742713</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Regulatory Competition in the US Life Insurance Industry</title>
+<link>https://doi.org/10.1086/742725</link>
+<guid isPermaLink="false">10.1086/742725</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johnny Tang]]></dc:creator>
+<dc:identifier>doi:10.1086/742725</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Why Is Intermediating Houses So Difficult? Evidence from iBuyers</title>
+<link>https://doi.org/10.1086/742710</link>
+<guid isPermaLink="false">10.1086/742710</guid>
+<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Greg Buchak; Gregor Matvos; Tomasz Piskorski; Amit Seru]]></dc:creator>
+<dc:identifier>doi:10.1086/742710</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Effect of Education Policy on Crime: An Intergenerational Perspective</title>
+<link>https://doi.org/10.1086/742423</link>
+<guid isPermaLink="false">10.1086/742423</guid>
+<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ulrika Ahrsjö; Costas Meghir; Mårten Palme; Marieke Schnabel]]></dc:creator>
+<dc:identifier>doi:10.1086/742423</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rent Guarantee Insurance</title>
+<link>https://doi.org/10.1086/742422</link>
+<guid isPermaLink="false">10.1086/742422</guid>
+<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Boaz Abramson; Stijn Van Nieuwerburgh]]></dc:creator>
+<dc:identifier>doi:10.1086/742422</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>JPE Turnaround Times</title>
+<link>https://doi.org/10.1086/742160</link>
+<guid isPermaLink="false">10.1086/742160</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742160</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing Valuable Skilling Opportunities</title>
+<link>https://doi.org/10.1086/739830</link>
+<guid isPermaLink="false">10.1086/739830</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ali Cheema; Asim I. Khwaja; M. Farooq Naseer; Jacob N. Shapiro]]></dc:creator>
+<dc:identifier>doi:10.1086/739830</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Ever since Allais</title>
+<link>https://doi.org/10.1086/739829</link>
+<guid isPermaLink="false">10.1086/739829</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aluma Dembo; Shachar Kariv; Matthew Polisson; John K.-H. Quah]]></dc:creator>
+<dc:identifier>doi:10.1086/739829</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/742399</link>
+<guid isPermaLink="false">10.1086/742399</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742399</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Linking Social and Personal Preferences: Theory and Experiment</title>
+<link>https://doi.org/10.1086/739832</link>
+<guid isPermaLink="false">10.1086/739832</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[William R. Zame; Bertil Tungodden; Erik Ø. Sørensen; Shachar Kariv; Alexander W. Cappelen]]></dc:creator>
+<dc:identifier>doi:10.1086/739832</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recent Referees</title>
+<link>https://doi.org/10.1086/742400</link>
+<guid isPermaLink="false">10.1086/742400</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742400</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health</title>
+<link>https://doi.org/10.1086/739831</link>
+<guid isPermaLink="false">10.1086/739831</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elena Capatina; Michael Keane]]></dc:creator>
+<dc:identifier>doi:10.1086/739831</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Revolutionary Transition: Inheritance Change and Fertility Decline</title>
+<link>https://doi.org/10.1086/739821</link>
+<guid isPermaLink="false">10.1086/739821</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Victor Gay; Paula E. Gobbi; Marc Goñi]]></dc:creator>
+<dc:identifier>doi:10.1086/739821</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On the Nature of Entrepreneurship</title>
+<link>https://doi.org/10.1086/739823</link>
+<guid isPermaLink="false">10.1086/739823</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anmol Bhandari; Tobey Kass; Thomas J. May; Ellen R. McGrattan; Evan Schulz]]></dc:creator>
+<dc:identifier>doi:10.1086/739823</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions</title>
+<link>https://doi.org/10.1086/743331</link>
+<guid isPermaLink="false">10.1086/743331</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rodrigo Adao; Costas Arkolakis; Sharat Ganapati]]></dc:creator>
+<dc:identifier>doi:10.1086/743331</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Markups: A Search-Theoretic Perspective</title>
+<link>https://doi.org/10.1086/742420</link>
+<guid isPermaLink="false">10.1086/742420</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Guido Menzio]]></dc:creator>
+<dc:identifier>doi:10.1086/742420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis</title>
+<link>https://doi.org/10.1086/743329</link>
+<guid isPermaLink="false">10.1086/743329</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Wollmann]]></dc:creator>
+<dc:identifier>doi:10.1086/743329</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Safe Spaces: Shelters or Tribes?</title>
+<link>https://doi.org/10.1086/743388</link>
+<guid isPermaLink="false">10.1086/743388</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jean Tirole]]></dc:creator>
+<dc:identifier>doi:10.1086/743388</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Political Parties as Drivers of U.S. Polarization: 1927-2018</title>
+<link>https://doi.org/10.1086/743333</link>
+<guid isPermaLink="false">10.1086/743333</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nathan Canen; Chad Kendall; Francesco Trebbi]]></dc:creator>
+<dc:identifier>doi:10.1086/743333</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Theory of Redistribution and Public Good Provision Under Non-Democracy</title>
+<link>https://doi.org/10.1086/743332</link>
+<guid isPermaLink="false">10.1086/743332</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicola Persico]]></dc:creator>
+<dc:identifier>doi:10.1086/743332</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can Gifted Education Help Higher-Ability Boys from Disadvantaged Backgrounds?</title>
+<link>https://doi.org/10.1086/743389</link>
+<guid isPermaLink="false">10.1086/743389</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David Card; Eric Chyn; Laura Giuliano]]></dc:creator>
+<dc:identifier>doi:10.1086/743389</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Demand for Mobility: Evidence From an Experiment With Uber Riders</title>
+<link>https://doi.org/10.1086/743387</link>
+<guid isPermaLink="false">10.1086/743387</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Christensen; Gustavo Nino; Adam Osman]]></dc:creator>
+<dc:identifier>doi:10.1086/743387</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery</title>
+<link>https://doi.org/10.1086/743334</link>
+<guid isPermaLink="false">10.1086/743334</guid>
+<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kohei Takeda; Atsushi Yamagishi]]></dc:creator>
+<dc:identifier>doi:10.1086/743334</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Debiasing and &lt;i&gt;t&lt;/i&gt; -Tests for Synthetic Control Inference on Average Causal Effects</title>
+<link>https://doi.org/10.1086/742424</link>
+<guid isPermaLink="false">10.1086/742424</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Victor Chernozhukov; Kaspar Wüthrich; Yinchu Zhu]]></dc:creator>
+<dc:identifier>doi:10.1086/742424</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recent Referees</title>
+<link>https://doi.org/10.1086/742103</link>
+<guid isPermaLink="false">10.1086/742103</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742103</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>JPE Turnaround Times</title>
+<link>https://doi.org/10.1086/741685</link>
+<guid isPermaLink="false">10.1086/741685</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/741685</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Algorithm Design: A Fairness-Accuracy Frontier</title>
+<link>https://doi.org/10.1086/739826</link>
+<guid isPermaLink="false">10.1086/739826</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Annie Liang; Jay Lu; Xiaosheng Mu; Kyohei Okumura]]></dc:creator>
+<dc:identifier>doi:10.1086/739826</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/742102</link>
+<guid isPermaLink="false">10.1086/742102</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/742102</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry</title>
+<link>https://doi.org/10.1086/739827</link>
+<guid isPermaLink="false">10.1086/739827</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicholas Vreugdenhil]]></dc:creator>
+<dc:identifier>doi:10.1086/739827</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Causal Effects of Youth Cigarette Addiction and Education</title>
+<link>https://doi.org/10.1086/739828</link>
+<guid isPermaLink="false">10.1086/739828</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rong Hai; James Heckman]]></dc:creator>
+<dc:identifier>doi:10.1086/739828</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Private Private Information</title>
+<link>https://doi.org/10.1086/739833</link>
+<guid isPermaLink="false">10.1086/739833</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kevin He; Fedor Sandomirskiy; Omer Tamuz]]></dc:creator>
+<dc:identifier>doi:10.1086/739833</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>US Public Debt and Safe Asset Market Power</title>
+<link>https://doi.org/10.1086/739824</link>
+<guid isPermaLink="false">10.1086/739824</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jason Choi; Rishabh Kirpalani; Diego J. Perez]]></dc:creator>
+<dc:identifier>doi:10.1086/739824</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

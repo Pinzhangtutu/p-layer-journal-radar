@@ -1,0 +1,601 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Journal of Economic Theory</title>
+<link>http://localhost:8767/#jet</link>
+<description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/jet.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Limit-of-All-Finite equilibria in infinite normal-form games</title>
+<link>https://doi.org/10.1016/j.jet.2026.106161</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106161</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Francesc Dilmé]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106161</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Elimination by (subjective) aspects: a characterization</title>
+<link>https://doi.org/10.1016/j.jet.2026.106153</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106153</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pedram Heydari]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106153</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On the relationship between damage and deception</title>
+<link>https://doi.org/10.1016/j.jet.2026.106148</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106148</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joel Sobel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106148</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Stochastic sorting</title>
+<link>https://doi.org/10.1016/j.jet.2026.106146</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106146</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hector Chade; Jan Eeckhout]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106146</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Learning about ambiguous long-term prospects</title>
+<link>https://doi.org/10.1016/j.jet.2026.106147</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106147</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hongseok Choi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106147</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Culture and communication</title>
+<link>https://doi.org/10.1016/j.jet.2026.106152</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106152</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rajiv Sethi; Muhamet Yildiz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106152</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Investment subsidies with spillovers and endogenous private information: Why Pigou got it all right</title>
+<link>https://doi.org/10.1016/j.jet.2026.106160</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106160</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Luca V.A. Colombo; Gianluca Femminis; Alessandro Pavan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106160</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On the efficiency of runnable banking arrangements</title>
+<link>https://doi.org/10.1016/j.jet.2026.106221</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106221</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David Andolfatto; Ed Nosal]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106221</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Robustly optimal voting rule</title>
+<link>https://doi.org/10.1016/j.jet.2026.106219</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106219</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Noriaki Kiguchi; Shinpei Noguchi; Yuta Takahashi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106219</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Informational inertia and the Taylor principle</title>
+<link>https://doi.org/10.1016/j.jet.2026.106220</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106220</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alexander Meyer-Gohde; Mary Tzaawa-Krenzler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106220</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
+<link>https://doi.org/10.1016/j.jet.2026.106217</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recursive preferences and ambiguity attitudes</title>
+<link>https://doi.org/10.1016/j.jet.2026.106224</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When can less be more? Inducing dealer responses in RFQ platforms</title>
+<link>https://doi.org/10.1016/j.jet.2026.106223</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106223</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bart Zhou Yueshen; Junyuan Zou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106223</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Classical matching via network formation</title>
+<link>https://doi.org/10.1016/j.jet.2026.106208</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106208</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Evan Sadler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106208</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Government trading and efficiency in imperfectly competitive financial markets</title>
+<link>https://doi.org/10.1016/j.jet.2026.106226</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106226</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel Neuhann; Michael Sockin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106226</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Local non-bossiness</title>
+<link>https://doi.org/10.1016/j.jet.2026.106230</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106230</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eduardo Duque-Rosas; Juan S. Pereyra; Juan Pablo Torres-Martínez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106230</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Minimum price equilibrium in the assignment market: Structural properties and the Serial Vickrey mechanism</title>
+<link>https://doi.org/10.1016/j.jet.2026.106216</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106216</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu Zhou; Shigehiro Serizawa]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106216</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A folk theorem for finitely repeated games with public monitoring</title>
+<link>https://doi.org/10.1016/j.jet.2026.106227</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106227</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johannes Hörner; Jérôme Renault]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106227</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time use and heterogeneous markups</title>
+<link>https://doi.org/10.1016/j.jet.2026.106218</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106218</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Brian C. Albrecht; Thomas Phelan; Nick Pretnar]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106218</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Hold-up in the absence of individual rationality: Asymptotic efficiency and gradualism</title>
+<link>https://doi.org/10.1016/j.jet.2026.106209</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106209</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Prabal Roy Chowdhury; Kunal Sengupta]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106209</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On preference for simplicity and probability weighting</title>
+<link>https://doi.org/10.1016/j.jet.2026.106225</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106225</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lasse Mononen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106225</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Investment sophistication and wealth inequality</title>
+<link>https://doi.org/10.1016/j.jet.2026.106206</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106206</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ehsan Azarmsa]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106206</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Managing persuasion robustly: The optimality of quota rules</title>
+<link>https://doi.org/10.1016/j.jet.2026.106222</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106222</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dirk Bergemann; Tan Gan; Yingkai Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106222</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When is the trend the cycle?</title>
+<link>https://doi.org/10.1016/j.jet.2026.106228</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106228</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dan Cao; Jean-Paul L’Huillier; Donghoon Yoo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106228</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Isolation index and variations on relative exposure</title>
+<link>https://doi.org/10.1016/j.jet.2026.106229</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106229</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Casilda Lasso de la Vega; Oscar Volij]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106229</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Temporary exclusion in repeated contests</title>
+<link>https://doi.org/10.1016/j.jet.2026.106234</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106234</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yaron Azrieli]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106234</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Value of information in social learning</title>
+<link>https://doi.org/10.1016/j.jet.2026.106232</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106232</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hiroto Sato; Konan Shimizu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106232</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Optimal stopping under volatility ambiguity</title>
+<link>https://doi.org/10.1016/j.jet.2026.106244</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106244</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wenbin Cao; Xiaowei Chen; Yinghui Ye; Wei Yuan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106244</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The comparative statics of dominance</title>
+<link>https://doi.org/10.1016/j.jet.2026.106231</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106231</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gregorio Curello; Ludvig Sinander; Mark Whitmeyer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106231</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Intergenerational cultural transmission with social interactions as an evolutionary game</title>
+<link>https://doi.org/10.1016/j.jet.2026.106233</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106233</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiabin Wu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106233</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Dominance and optimality</title>
+<link>https://doi.org/10.1016/j.jet.2025.106128</link>
+<guid isPermaLink="false">10.1016/j.jet.2025.106128</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xienan Cheng; Tilman Börgers]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2025.106128</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Coasian dynamics and endogenous learning</title>
+<link>https://doi.org/10.1016/j.jet.2025.106136</link>
+<guid isPermaLink="false">10.1016/j.jet.2025.106136</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tuomas Laiho; Julia Salmi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2025.106136</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Preferences for the resolution of risk and ambiguity</title>
+<link>https://doi.org/10.1016/j.jet.2026.106151</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106151</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alexander L. Brown; Huiyi Guo; Hyundam Je]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106151</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Information design for social learning on a recommendation platform</title>
+<link>https://doi.org/10.1016/j.jet.2026.106150</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106150</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chen Lyu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106150</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Managing the expectations of buyers with reference-dependent preferences</title>
+<link>https://doi.org/10.1016/j.jet.2025.106134</link>
+<guid isPermaLink="false">10.1016/j.jet.2025.106134</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nathan Hancart]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2025.106134</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The shocks matter: Labor mobility and the welfare cost of a currency union</title>
+<link>https://doi.org/10.1016/j.jet.2025.106132</link>
+<guid isPermaLink="false">10.1016/j.jet.2025.106132</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sihao Chen; David Cook; Haichao Fan; Juanyi Xu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2025.106132</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sequential network design</title>
+<link>https://doi.org/10.1016/j.jet.2026.106145</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106145</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yang Sun; Wei Zhao; Junjie Zhou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106145</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bank runs and interventions with wholesale funding</title>
+<link>https://doi.org/10.1016/j.jet.2026.106143</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106143</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Luis Araujo; Ryuichiro Izumi; Fabrizio Mattesini]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106143</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>WITHDRAWN: Introduction to the Special Issue on “Upzoning”</title>
+<link>https://doi.org/10.1016/j.jet.2026.106165</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106165</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jenny Schuetz; Arnold Ventures; N. Edward Coulson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106165</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On the core of markets with co-ownerships and indivisibilities</title>
+<link>https://doi.org/10.1016/j.jet.2025.106135</link>
+<guid isPermaLink="false">10.1016/j.jet.2025.106135</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiang Sun; Qianfeng Tang; Mingjun Xiao; Jun Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2025.106135</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Asymmetric optimal auction design with loss-averse bidders</title>
+<link>https://doi.org/10.1016/j.jet.2026.106186</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106186</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Akitoshi Muramoto; Takeharu Sogo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106186</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reference-dependent choice bracketing</title>
+<link>https://doi.org/10.1016/j.jet.2026.106207</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106207</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pauline Vorjohann]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106207</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Nonbossy mechanisms: Mechanism design robust to secondary goals</title>
+<link>https://doi.org/10.1016/j.jet.2026.106187</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106187</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Renato Paes Leme; Jon Schneider; Hanrui Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106187</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Localized perfection</title>
+<link>https://doi.org/10.1016/j.jet.2026.106183</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106183</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Enxian Chen; Lei Qiao; Xiang Sun; Yeneng Sun]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106183</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Credit rationing in unsecured debt markets</title>
+<link>https://doi.org/10.1016/j.jet.2026.106188</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106188</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[V. Filipe Martins-da-Rocha; Toàn Phan; Yiannis Vailakis]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106188</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Learning through imitation: An experiment</title>
+<link>https://doi.org/10.1016/j.jet.2026.106203</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106203</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marina Agranov; Gabriel Lopez-Moctezuma; Philipp Strack; Omer Tamuz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106203</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Positive and negative selection in bargaining</title>
+<link>https://doi.org/10.1016/j.jet.2026.106190</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106190</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dongkyu Chang; Duk Gyoo Kim; Wooyoung Lim]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106190</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Expectation and confusion: Evidence and theory</title>
+<link>https://doi.org/10.1016/j.jet.2026.106189</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106189</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heng Chen; Yicheng Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106189</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The VCG mechanism, the core, and assignment stages in auctions</title>
+<link>https://doi.org/10.1016/j.jet.2026.106192</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106192</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lawrence M. Ausubel; Oleg Baranov]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106192</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Information design with endogenous state verification</title>
+<link>https://doi.org/10.1016/j.jet.2026.106182</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106182</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lily Ling Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106182</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The hold-up problem with flexible unobservable investments</title>
+<link>https://doi.org/10.1016/j.jet.2026.106205</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106205</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel Krähmer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106205</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Hard Problem and the Tyranny of the Losers</title>
+<link>https://doi.org/10.1016/j.jet.2026.106204</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106204</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stan Cheung; Marco Mariotti; Roberto Veneziani]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106204</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Covert learning and disclosure</title>
+<link>https://doi.org/10.1016/j.jet.2026.106179</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106179</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matteo Escudé]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106179</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Which experiments test a model?</title>
+<link>https://doi.org/10.1016/j.jet.2026.106191</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106191</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paul J. Healy; Greg Leo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106191</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Credit, money and (pseudo-)anonymity</title>
+<link>https://doi.org/10.1016/j.jet.2026.106202</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106202</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Remo Isch-Taudien; Fabienne Schneider]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106202</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Revisiting “A theory of debt maturity and innovation” [J. Econ. Theory 218 (2024) 105828]</title>
+<link>https://doi.org/10.1016/j.jet.2026.106167</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106167</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sonny Biswas; Kostas Koufopoulos; Thi Mai Nguyen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106167</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Self-insurance and market insurance substitutability: An established tenet reconsidered</title>
+<link>https://doi.org/10.1016/j.jet.2026.106180</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106180</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jean-Marc Bourgeon; Pierre Picard]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106180</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Meta-preference, endogenous preference formation and dynamic choice</title>
+<link>https://doi.org/10.1016/j.jet.2026.106184</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106184</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Takashi Hayashi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106184</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cautiousness when experts disagree</title>
+<link>https://doi.org/10.1016/j.jet.2026.106181</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106181</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Antoine Bommier; Adrien Fabre; Arnaud Goussebaïle; Daniel Heyen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106181</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Portfolio choice and settlement frictions: A theory of endogenous convenience yields</title>
+<link>https://doi.org/10.1016/j.jet.2026.106166</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106166</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Javier Bianchi; Saki Bigio]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106166</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Player strength and effort in contests</title>
+<link>https://doi.org/10.1016/j.jet.2026.106164</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106164</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Giebe; Oliver Gürtler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106164</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Evidence design and voluntary disclosure</title>
+<link>https://doi.org/10.1016/j.jet.2026.106163</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106163</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Denis Shishkin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106163</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Blockchain congestion facilitates currency competition</title>
+<link>https://doi.org/10.1016/j.jet.2026.106162</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106162</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maxi Guennewig]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106162</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Axiomatic characterizations of draft rules</title>
+<link>https://doi.org/10.1016/j.jet.2026.106169</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106169</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jacob Coreno; Ivan Balbuzanov]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106169</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Strengthening incentives for truth-telling in Majority voting</title>
+<link>https://doi.org/10.1016/j.jet.2026.106168</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106168</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Margarita Kirneva; Matías Núñez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106168</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

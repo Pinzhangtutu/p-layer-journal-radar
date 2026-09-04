@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Cognition</title>
+<link>http://localhost:8767/#cognition</link>
+<description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/cognition.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Manipulating prior causal beliefs affects the formation of apparent causal illusions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106684</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106684</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Simon Stephan; Michael R. Waldmann]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106684</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Lying and truth-telling in social interaction: Basic mechanisms</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106690</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106690</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kirsten Stark; Rasha Abdel Rahman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106690</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The cognitive architecture of degraded speech intelligibility</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106692</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106692</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joseph E. Rovetti; Ingrid S. Johnsrude; Stephen C. Van Hedger]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106692</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The puzzle of early deception: Lying before belief representation</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106687</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106687</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aliyar Ozercan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106687</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A speaker-centric motivation for the use of optional adjectives during language production</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106675</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106675</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ella R. Bohlman; Jessica L. Montag]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106675</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Age-related differences in the role of explicit encoding instructions on verbal, visual and spatial Hebb learning</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106691</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106691</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Helena Leach; Dominic Guitard]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106691</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Pedagogy in the speech-gesture couplings of caregivers: Evidence from a corpus-based analysis</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106674</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106674</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marine Yumeng Wang; Ed Donnellan; Gabriella Vigliocco]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106674</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reward selectively preserves relational structure in memory</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106673</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106673</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Seoyoung Lee; Akram Bakkour]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106673</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A sibling to all: Reversed neural pattern of social affiliation in extraordinary altruists</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106696</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106696</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Moshe Roseman-Shalem; Aryeh Dienstag; Abed Khalaileh; Shahar Arzy]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106696</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Decomposing SNARC: How distinct spatial-numerical association components relate to specific early numerical skills in kindergarten</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106677</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106677</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tânia Ramos; Christine Schiltz; Carrie Georges]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106677</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring the malleability of Sensitivity to Intersensory Synchrony in typically developing preschoolers: Insights from single-session Intersensory Synchrony Experiential Practice (ISEP-SS)</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106676</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106676</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Silvia Ampollini; Ada Cigala]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106676</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Consonant, vowel, and tone cues in early wordform recognition: Evidence from Cantonese-learning infants</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106624</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106624</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chunzi Li; Zhenting Liu; Thierry Nazzi; Regine Yee King Lai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106624</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Perceived coordinated biological motion sequences warp time perception</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106611</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106611</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuhui Cheng; Jiazhen Wu; Yao Bian; Xiangyong Yuan; Yi Jiang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106611</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sensory attenuation scales with the strength of action-outcome coupling: A psychophysical study</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106631</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106631</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Adrien Paire; Lilian Nguyen; Hélène Gomes de Araujo; Dorine Vergilino-Perez; Céline Paeye]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106631</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The adaptive function of analytic thinking styles: Balancing effort and accuracy in meta-reasoning</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106618</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106618</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gabe Avakian Orona]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106618</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bilingual representation of multi-word phrases: Evidence from phrase-acceptability judgment in Chinese-English bilinguals</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106607</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106607</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tianjiao Zeng; Holly P. Branigan; Martin J. Pickering]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106607</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The wham-womb sound symbolic effect: English-speaking children and adults link phonemes with arousal</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106603</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106603</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jillian E. Kuo; Ye Li; Christine S.-P. Yu; Michael K. McBeath; Viridiana L. Benitez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106603</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Inhibitory control of disconfirmed predictions during sentence processing in aging</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106602</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106602</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jina Kim; Si On Yoon; Jan R. Wessel; Kristi Hendrickson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106602</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Blurred lines or clear boundaries? Synchrony and social dominance shape domain-specific self–other processing</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106632</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106632</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[C.M. Bates; S. Dias Salgado; M. Von Mohr; I. Konvalinka; A.K. Martin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106632</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>People make graded judgments about the inconceivable</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106627</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106627</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jennifer Hu; Felix Sosa; Tomer Ullman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106627</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Knowability predicts curiosity and learning</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106626</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106626</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Samuel Recht; Nick Yeung]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106626</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Eye-tracking emotional responses and moral decisions in bilingual contexts</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106600</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106600</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Irini Mavrou; Andrea Révész; Andreas Kyriakou; Sin Manw Sophia Lam]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106600</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can language attrition be reversed: Evidence from speech perception and production</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106571</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106571</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marta Marecka; Magdalena Wrembel; Alba Casado; Antonella Sorace; Zofia Wodniecka]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106571</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When arrows behave like eyes: Reversal of spatial stroop interference by visual masking</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106623</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106623</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Renato Ponce; Andrea Marotta; Rafael Román-Caballero; Yoshihiko Tanaka; Şule Akçeşme; Jeanette A. Chacón-Candia; Bruce Milliken; Maria Casagrande; Juan Lupiáñez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106623</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can I believe my voice? Self-similarity and the illusory truth effect</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106630</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106630</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Oliver Jaggy; Stephan Schwan; Hauke S. Meyerhoff]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106630</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The bilingual math dilemma - Language switching costs in declarative and procedural arithmetic knowledge</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106608</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106608</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kevin M. Baumschlager; Moritz Wußing; Cornelia Pachner; Henrik Saalbach; Lennart Schalk; Bert De Smedt; Roland H. Grabner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106608</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Can't wait to relax: First-time evidence for a prospective relaxation of control as revealed by a future-based congruency sequence effect</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106606</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106606</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Luca Moretti; Giacomo Spinelli]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106606</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A folk taxonomy of magic</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106610</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106610</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gustav Kuhn; Cyril Thomas; Thomas L. Griffiths]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106610</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sources of imprecision in integrated value comparisons</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106619</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106619</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Giulia Mezzadri; Michael Woodford]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106619</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The self as an image: Appearance and belief in visual representations of one's own face</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106639</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106639</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Arijit De; Shao Feng Liu; Kinkini Monaragala; Moaz Shoura; William A. Cunningham; Adrian Nestor]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106639</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time resolves syntactic-semantic conflict in temporary semantic illusions: Evidence from role reversal sentences</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106625</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106625</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kate Stone; Henning Holle; Milena Rabovsky]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106625</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Identifying distinct sources of whole number interference in children's decimal comparison: the role of numerical magnitude and inhibitory control</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106636</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106636</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Piper L. Rennerfeldt; Roberto A. Abreu-Mendoza; Miriam Rosenberg-Lee]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106636</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Evidence for abstract spatial concept learning in young animals</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106633</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106633</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Orsola Rosa-Salva; Rosa Rugani; Arianna Felisatti; Lucia Regolin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106633</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Throwing good effort after bad: Evidence for a sunk-cost effect in cognitive effort-based decision-making</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106628</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106628</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mario Bogdanov; Sean Devine; Ziqi Fu; Echo Wang; A. Ross Otto]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106628</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Delayed structural prediction for relative clauses: A new argument for learning to parse from Santiago Laxopa Zapotec</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106599</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106599</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[John Duff; Delaney Gomez-Jackson; Fe Silva Robles; Maziar Toosarvandani; Matthew Wagers]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106599</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Children's narrow learning bottleneck accelerates the emergence of statistical properties of language</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106622</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106622</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lucie Wolters; Simon Kirby; Inbal Arnon]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106622</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Coherence and the memorability of supernatural concepts</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106661</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106661</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joseph Sommer; Julien Musolino; Pernille Hemmer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106661</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Multiple motor systems spontaneously track speech structures at distinct levels with individual variability</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106666</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106666</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lu Luo; Xiaoyu Zhang; Lingxi Lu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106666</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When criterion control in face matching induces correlation: Commentary on Baker et al. (2026)</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106644</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106644</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robin S.S. Kramer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106644</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sleep consolidation of social memories and common ground</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106670</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106670</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yicheng Qiu; Lewis V. Ball; Catie Hopkins; Dan Denis; M. Gareth Gaskell; Heather J. Ferguson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106670</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Binary categorization of ordered stimuli implicitly guides attention during visual search</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106658</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106658</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lizhu Yan; Weizhi Nan; Shimin Fu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106658</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does communication-based belief attribution in 18-month-olds reflect an altercentric bias?</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106645</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106645</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bartuğ Çelik; Ágnes Melinda Kovács]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106645</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>English-hearing toddlers learn words from consistent and variable labels</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106647</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106647</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kennedy Casey; Casey Lew-Williams]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106647</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106672</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Spatial biases of covert attention with dynamic gaze position</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106667</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106667</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuqing Cai; Christoph Strauch; Stefan Van der Stigchel; Marnix Naber]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106667</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Directional asymmetry in event schema activation</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106669</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106669</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shu Hu; Joseph P. Magliano; Sashank Varma]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106669</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Perceived moral objectivity: Why some moral issues seem more objective than others</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106642</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106642</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roy Schulman; Nira Liberman; Tal Eyal]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106642</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Music-induced spontaneous thought reflects individual differences in creativity</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106660</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106660</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjamin M. Kubit; Peter Benson; Cara Turnbull; Nicholas Kathios; Ziyan (Annie) Zhao; Bolor Amgalan; Oscar von Rekowsky; Infinity Bauer; Noelle Carter; Elizabeth H. Margulis; Psyche Loui]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106660</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Serial effects in choice and confidence modulate each other: Evidence from 26 experiments</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106643</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106643</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michaela Bocheva; Kai Xue; Dobromir Rahnev]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106643</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Statistical learning and mathematics: Are different domains and modalities of statistical learning related to different math skills?</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106662</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106662</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michelle C. Janssens; Liv Smets; Eleonore H.M. Smalle; Arnaud Szmalec; Bert Reynvoet]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106662</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Overrated intuition and underappreciated deliberation: Reevaluating the Smart System-1 account of reasoning</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106640</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106640</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Atakan Atamer; Andras Molnar; Priti Shah]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106640</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Children expect prior belief strength to constrain belief revision</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106668</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106668</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pearl Han Li; Laura K. Soter; Tamar Kushnir]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106668</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Towards an attentional theory of second-language speech perception: Evidence from cue ecology</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106671</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106671</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Annie Tremblay; Taehong Cho; Mirjam Broersma; Hyoju Kim; Quentin Zhen Qin; Jiayu Liang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106671</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Repetition induced rhythm as an alternative account to statistical word segmentation: A model and meta-analysis</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106648</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106648</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Felix Hao Wang; Jason Zevin; John Trueswell; Toben H. Mintz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106648</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The tiger moving through the tall grass: Spontaneous perception and tracking of change-defined objects from second-order features</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106657</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106657</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dawei Bai; Brian J. Scholl]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106657</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Executing actions guides the eyes selectively towards action-related body part images suppressed from visual awareness</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106646</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106646</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Petra Vetter; Tiago Mesquita; Stephanie Badde]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106646</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Disagreement judgments capture more than differences in beliefs</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106659</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106659</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kerem Oktar; John Branson Byers; Tania Lombrozo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106659</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Individual differences in overconfidence: A common core and its motivational and cognitive correlates</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106665</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106665</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[M. Asher Lawson; Richard P. Larrick; Jack B. Soll]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106665</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Processing negation may demonstrate compositionality in rhesus macaques</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106638</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106638</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Angelle Antoun; Rohini Murugan; Kathleen J. Bostick; Benjamin Wilson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106638</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Silent coach: The role of inner speech in learning and performing new chunked actions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106649</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106649</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Angelo Mattia Gervasi; Claudia Mazzuca; Anna M. Borghi; Claudio Brozzoli]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106649</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Higher creativity is linked to increased association scores in an audiovisual task</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106664</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106664</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Andrea Schiavio; Alessandro Ansani; Nicola Di Stefano; Adrian Kempf; Charles Spence; Mathias Benedek]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106664</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Distinct developmental trajectories shape human sensitivity to rhythms in the environment</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106663</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106663</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Antoine Guinamard; Nicholas E.V. Foster; Sylvain Clément; Valentin Bégel; Sonja A. Kotz; Séverine Samson; Simone Dalla Bella; Delphine Dellacherie]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106663</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The impact of visual imagery absence on fine-grained memory for object colour and size: an aphantasia study</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106695</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106695</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiangqi Luo; Minhong Zhu; Zhenjiang Cui; J.S.H. Taylor; Huafeng Tang; Zhiyun Dai; Xuliang Zhang; Yuxin Liu; Dorothy Z. Gao; Serena Yu-Xi Shi; Zaizhu Han]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106695</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does disfluency affect social judgments and decisions? Evidence from spontaneous speech</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106697</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106697</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jonathan Him Nok Lee; Anna Papafragou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106697</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

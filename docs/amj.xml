@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Academy of Management Journal</title>
+<link>http://localhost:8767/#amj</link>
+<description>AMJ — AOM · Latest in: Articles in Press · Subfield: management</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/amj.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Ideology or Identity? CEO Political Party Affiliation and Conformity in Competitive Strategy</title>
+<link>https://doi.org/10.5465/amj.2024.0596</link>
+<guid isPermaLink="false">10.5465/amj.2024.0596</guid>
+<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Krishnan Nair; Eric Y. Lee]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0596</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>“We’re Not Designing with the Same Brain”: How Tattoo Artists Navigate Authority-Expertise Asymmetry to Sustain Creator-Client Co-Creation</title>
+<link>https://doi.org/10.5465/amj.2024.1212</link>
+<guid isPermaLink="false">10.5465/amj.2024.1212</guid>
+<pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alexandra Rheinhardt Beer; Amnah Ameen; Dhvani Badwaik; Monique Domingo; Nora Madjar]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.1212</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Short-Term Demands and Long-Term Commitments: A Temporal Model of Stakeholder Governance</title>
+<link>https://doi.org/10.5465/amj.2023.1164</link>
+<guid isPermaLink="false">10.5465/amj.2023.1164</guid>
+<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Romain Boulongne; Trevor Young-Hyman; Pascual Berrone]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1164</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bricolage as Enacted Sensemaking in Emergent Response Groups: Organizing in Conditions of Extreme Equivocality</title>
+<link>https://doi.org/10.5465/amj.2024.0486</link>
+<guid isPermaLink="false">10.5465/amj.2024.0486</guid>
+<pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ricardo Coelho Da Silva; Leid Zejnilović; Marco Berti; Miguel Pina e Cunha; Pedro Oliveira]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0486</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time the Surge: Theorizing and Examining Team Pacing in Multiple-Membership Contexts</title>
+<link>https://doi.org/10.5465/amj.2024.0522</link>
+<guid isPermaLink="false">10.5465/amj.2024.0522</guid>
+<pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chen Zhang; Ning Li; Xilan Zhang; Yi-An Deng; Laijie Yang]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0522</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding Why and When Coworkers Undermine Employees Who Have Friends in High Places</title>
+<link>https://doi.org/10.5465/amj.2022.1306</link>
+<guid isPermaLink="false">10.5465/amj.2022.1306</guid>
+<pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruolian Fang; Daniel J. McAllister; Zhen Zhang; Michelle K. Duffy; Lin Wang]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2022.1306</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Firm Speed and Environmental Accidents</title>
+<link>https://doi.org/10.5465/amj.2024.0689</link>
+<guid isPermaLink="false">10.5465/amj.2024.0689</guid>
+<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Toby X. Li]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0689</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Violence and Competition: The Effect of Mass Shootings and Domestic Terrorism on Organizational Risk-Taking in Response to Performance Shortfalls</title>
+<link>https://doi.org/10.5465/amj.2023.0306</link>
+<guid isPermaLink="false">10.5465/amj.2023.0306</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian Schumacher; Steffen Keck; Abhinav Gupta]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0306</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Deeply Rooted and Versatile? Knowledge Scouts and External Knowledge Integration in Multidivisional Firms</title>
+<link>https://doi.org/10.5465/amj.2024.0276</link>
+<guid isPermaLink="false">10.5465/amj.2024.0276</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benoit Decreton; Felipe Monteiro; Francisco Polidoro]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0276</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Paralysis to Publicization: How Victims of the UK Post Office Horizon IT Scandal Experienced and Confronted Organizational Harm</title>
+<link>https://doi.org/10.5465/amj.2024.1166</link>
+<guid isPermaLink="false">10.5465/amj.2024.1166</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jan Lodge; Grace Augustine; Mislav Radic]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.1166</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Artificial Intelligence and Responsible Research at AMJ</title>
+<link>https://doi.org/10.5465/amj.2026.4002</link>
+<guid isPermaLink="false">10.5465/amj.2026.4002</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Quinetta Roberson]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2026.4002</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Employees Who Have Made Upward Social Class Transitions Get Heard in the Workplace</title>
+<link>https://doi.org/10.5465/amj.2023.0042</link>
+<guid isPermaLink="false">10.5465/amj.2023.0042</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yasha Spriha; Subrahmaniam Tangirala; Rui Shu; Srinivas Ekkirala]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0042</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Resource Insecurity Mindset: Why CEOs from Lower-Class Origins Are Both Greedier and More Generous</title>
+<link>https://doi.org/10.5465/amj.2024.0347</link>
+<guid isPermaLink="false">10.5465/amj.2024.0347</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Timothy D. Hubbard; Lívia Markóczy; Aten Zaandam]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0347</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Ties That Nurture: Expressive Simmelian Ties, Instrumental Brokerage, and Individual Performance</title>
+<link>https://doi.org/10.5465/amj.2024.0234</link>
+<guid isPermaLink="false">10.5465/amj.2024.0234</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marco Tortoriello; Giuseppe Soda; Manuel Gomez-Solorzano]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0234</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Woulda, Shoulda, Coulda? The Impact of Predictive, Prescriptive, and Prospective Expectations on Stakeholder Reactions</title>
+<link>https://doi.org/10.5465/amj.2024.0135</link>
+<guid isPermaLink="false">10.5465/amj.2024.0135</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuri Mishina; Maxine Yu; David Gomulya]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0135</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Siloed Sustainability: How Paradox Management Unravels in Integrative Practice Implementation</title>
+<link>https://doi.org/10.5465/amj.2023.0548</link>
+<guid isPermaLink="false">10.5465/amj.2023.0548</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lucas Amaral; Juliane Reinecke; Michael Etter]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0548</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Who Avoids Punishment? How Discretion and Psychopathy Shape Leaders’ Responses to Misconduct</title>
+<link>https://doi.org/10.5465/amj.2024.0229</link>
+<guid isPermaLink="false">10.5465/amj.2024.0229</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Jee Ong; Grace J. H. Lim]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0229</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Resonance, Consonance, Dissonance: Explaining Divergent Responses to Entrepreneurial Setbacks</title>
+<link>https://doi.org/10.5465/amj.2025.0122</link>
+<guid isPermaLink="false">10.5465/amj.2025.0122</guid>
+<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jean-François Soublière]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2025.0122</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Founders to Funders: Generalized Reciprocity and Embeddedness in Founders’ Transition to Angel Investing</title>
+<link>https://doi.org/10.5465/amj.2024.1097</link>
+<guid isPermaLink="false">10.5465/amj.2024.1097</guid>
+<pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alessandro Piazza; William D. Miles]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.1097</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Knowledge Bridging: How Acquirers Leverage the Knowledge of Their Targets’ Prior Alliance Partners</title>
+<link>https://doi.org/10.5465/amj.2024.1203</link>
+<guid isPermaLink="false">10.5465/amj.2024.1203</guid>
+<pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jens-Christian Friedmann; Korcan Kavusan]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.1203</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Endogenous Sources of Uncertainty: The Role of Firm Status in Shaping Financially Uncertain Investments</title>
+<link>https://doi.org/10.5465/amj.2024.0427</link>
+<guid isPermaLink="false">10.5465/amj.2024.0427</guid>
+<pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anran Li; Michael Jensen]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0427</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Navigating the Talent Development Paradox: How Training Breadth and Depth Shape Lateral Mobility Outcomes within Organizations</title>
+<link>https://doi.org/10.5465/amj.2023.1327</link>
+<guid isPermaLink="false">10.5465/amj.2023.1327</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuye Lu; Huaikang Zhou; Qiuping Peng; Ning Li]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1327</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social Intermediation amid Extreme Marginalization: The Morpho-Regeneration of Fractured Reflexivity</title>
+<link>https://doi.org/10.5465/amj.2023.0422</link>
+<guid isPermaLink="false">10.5465/amj.2023.0422</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Andrea Sottini; Alessandro Giudici; Benedetto Lorenzo Cannatelli]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0422</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Culprit to Cure: How Incumbents Use Prognostic Framing to Turn Societal Problem Sources into Solutions</title>
+<link>https://doi.org/10.5465/amj.2024.1030</link>
+<guid isPermaLink="false">10.5465/amj.2024.1030</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hannah Schupfer; Birthe Soppe]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.1030</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Does Appointing a Female Director Influence CEO Pay Raises? Investigating the Conditions that Unleash Her Minority Influence in the Boardroom</title>
+<link>https://doi.org/10.5465/amj.2023.0843</link>
+<guid isPermaLink="false">10.5465/amj.2023.0843</guid>
+<pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Su Chen; Jie (Jasmine) Feng; María Del Carmen Triana]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0843</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Back to the Beginning: Rediscovering a Beginner’s Mind Enhances Advice Provision to Novices</title>
+<link>https://doi.org/10.5465/amj.2023.0816</link>
+<guid isPermaLink="false">10.5465/amj.2023.0816</guid>
+<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ting Zhang]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0816</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Movin’ and Groovin’! Increased Prior Mobility Facilitates Newcomers’ Transitions Into Organizations</title>
+<link>https://doi.org/10.5465/amj.2024.0138</link>
+<guid isPermaLink="false">10.5465/amj.2024.0138</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rebecca R. Kehoe; F. Scott Bentley]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0138</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Relationship Splintering and Repair: The Dynamics of Marginalization in Organizations</title>
+<link>https://doi.org/10.5465/amj.2022.1042</link>
+<guid isPermaLink="false">10.5465/amj.2022.1042</guid>
+<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Deniz Öztürk; John M. Amis]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2022.1042</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>To Be or Not To Be (Aligned with Elites): Navigating Systemic Power within Informal Institutions</title>
+<link>https://doi.org/10.5465/amj.2023.0515</link>
+<guid isPermaLink="false">10.5465/amj.2023.0515</guid>
+<pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christopher Sutter; Babita Bhatt; Israr Qureshi]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0515</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Constructing Agency Under Persistent Precarity: Shame, Anger, and Compassion in the Self-Narratives of Thai Sex Workers</title>
+<link>https://doi.org/10.5465/amj.2023.1415</link>
+<guid isPermaLink="false">10.5465/amj.2023.1415</guid>
+<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hee-Chan Song; Winnie Y. Jiang]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1415</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Trauma at Work: Reframing Experiences to Sustain Engagement</title>
+<link>https://doi.org/10.5465/amj.2023.1101</link>
+<guid isPermaLink="false">10.5465/amj.2023.1101</guid>
+<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Madeleine Rauch; Shaz Ansari]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1101</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Listen to Your Users? Self-Selection in User Community Feedback and Commercial Impact</title>
+<link>https://doi.org/10.5465/amj.2024.0178</link>
+<guid isPermaLink="false">10.5465/amj.2024.0178</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ryan T. Allen; Robert Bremner; Rory M. McDonald]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0178</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Prosocial Perspective on Advice Seeking and Networking: How Focusing on What Advice Givers Can Gain Motivates Advice Seekers to Reach Out More</title>
+<link>https://doi.org/10.5465/amj.2024.0635</link>
+<guid isPermaLink="false">10.5465/amj.2024.0635</guid>
+<pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anne Burmeister; Daniel Z. Levin]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0635</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Dualities of Multiple Team Membership: Implications for Team Performance and Adaptability</title>
+<link>https://doi.org/10.5465/amj.2024.0176</link>
+<guid isPermaLink="false">10.5465/amj.2024.0176</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tingting Lang; Thomas A. de Vries; Haoyuan Li; Jason D. Shaw]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0176</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Dirty Work Inspires: The Joint Effect of Work Dirtiness and Perceived Stigma on Pro-Organizational Behavior</title>
+<link>https://doi.org/10.5465/amj.2024.0108</link>
+<guid isPermaLink="false">10.5465/amj.2024.0108</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ann C. Peng; Dongchul Kim; John M. Schaubroeck; Wei Zeng]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0108</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Under Pressure to Be Perfect: How Dehumanizing and Rehumanizing Social Cues Lead to Maladaptive and Adaptive Perfectionism in Professional Ballet</title>
+<link>https://doi.org/10.5465/amj.2023.0187</link>
+<guid isPermaLink="false">10.5465/amj.2023.0187</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rachael D. Goodwin; Lyndon E. Garrett; Ali P. Block]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0187</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On the Move: The Impact of Internal Mobility and Internal Comobility on Unit- and Organization-Level Outcomes</title>
+<link>https://doi.org/10.5465/amj.2023.0311</link>
+<guid isPermaLink="false">10.5465/amj.2023.0311</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Caitlin Ray; Anthony J. Nyberg; Mark A. Maltarich; Greg Reilly]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0311</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Research Methods Articles Designed to Advance Theory: An Update and Further Guidance</title>
+<link>https://doi.org/10.5465/amj.2026.4004</link>
+<guid isPermaLink="false">10.5465/amj.2026.4004</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paul D. Bliese; John Busenbark; S. Trevis Certo; Tine Köhler; Anne D. Smith; Quinetta Roberson]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2026.4004</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Role Rectification: How Hybrid Entrepreneurship Turns Entrepreneur Roles from Liability to Advantage in Hiring</title>
+<link>https://doi.org/10.5465/amj.2023.1071</link>
+<guid isPermaLink="false">10.5465/amj.2023.1071</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gavin Williamson; Timothy P. Munyon; Ali Mchiri; Malgorzata W. Kozusznik]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1071</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reckoning with the Ideal Worker Body: A Qualitative Study of Workers in Chronic Pain</title>
+<link>https://doi.org/10.5465/amj.2023.0511</link>
+<guid isPermaLink="false">10.5465/amj.2023.0511</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Beth S. Schinoff; Kim Rocheville; Elana Feldman; Njoke Thomas]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0511</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Who I Am Not: Enhancing Self-Clarity through Cultivating Not-Me Identities</title>
+<link>https://doi.org/10.5465/amj.2024.0530</link>
+<guid isPermaLink="false">10.5465/amj.2024.0530</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Neveen Saied; Katleen De Stobbeleir]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0530</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Algorithmic Facial Expression Analysis: A Novel Methodology to Advance Management Research on Emotions</title>
+<link>https://doi.org/10.5465/amj.2024.0826</link>
+<guid isPermaLink="false">10.5465/amj.2024.0826</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Silvia Stroe; Charlotta Sirén; Vivianna Fang He; Barbara Burkhard; Vangelis Souitaris]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0826</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>We’re Not in Kansas Anymore: Pragmatic Adaptation in Large-Scale Creative Projects with Underspecified Product Concepts</title>
+<link>https://doi.org/10.5465/amj.2024.0418</link>
+<guid isPermaLink="false">10.5465/amj.2024.0418</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elizabeth D. Rouse]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>CEO Regulatory Focus as an Interpretive Frame: An Empirical Examination of Investor Perceptions in the Context of Earning Deviations</title>
+<link>https://doi.org/10.5465/amj.2023.0896</link>
+<guid isPermaLink="false">10.5465/amj.2023.0896</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Srikanth Paruchuri; Joel L. Andrus; David W. Sullivan]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0896</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Multiverse Analysis to Advance Theory and Practice: Illustrating and Investigating Variability in CEO Gender Pay Inequality</title>
+<link>https://doi.org/10.5465/amj.2024.0355</link>
+<guid isPermaLink="false">10.5465/amj.2024.0355</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Martin Götz; Christina Matz Carnes; Aaron D. Hill; Ernest H. O’Boyle]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0355</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Seeking Greener Pastures: Employee Turnover Following Corporate Stakeholder Violations</title>
+<link>https://doi.org/10.5465/amj.2024.0243</link>
+<guid isPermaLink="false">10.5465/amj.2024.0243</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Forrest Briscoe; Mark R. DesJardine]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0243</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Resolving the Performance Feedback Puzzle: CEO Psychopathy, Heterogeneous Emotional Responses to Aspiration Gaps, and Risk-Taking</title>
+<link>https://doi.org/10.5465/amj.2024.1013</link>
+<guid isPermaLink="false">10.5465/amj.2024.1013</guid>
+<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Remzi Gözübüyük; Steffen Burkert; Aino Tenhiälä; Carl J. Kock; Jukka Partanen]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.1013</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Innovating More Formally: How Resistance-Led Participation Drives Expansion and Integration in Innovation Control Configuration</title>
+<link>https://doi.org/10.5465/amj.2024.0722</link>
+<guid isPermaLink="false">10.5465/amj.2024.0722</guid>
+<pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shiko M. Ben-Menahem; Vivianna F. He; Georg Von Krogh; Christian Wedl]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0722</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Mega-threats Influence Workplace Cooperation: Effect of #BlackLivesMatter Salience on Cooperation among and between Black and White Coworkers</title>
+<link>https://doi.org/10.5465/amj.2024.0457</link>
+<guid isPermaLink="false">10.5465/amj.2024.0457</guid>
+<pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steffen Keck; Christian Schumacher; Abhinav Gupta; Keith Leavitt]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0457</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Spacing Bodies: The Interplay between Focal and Subsidiary Coordinating</title>
+<link>https://doi.org/10.5465/amj.2024.0300</link>
+<guid isPermaLink="false">10.5465/amj.2024.0300</guid>
+<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Samer Faraj; Karla Sayegh]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0300</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Tied in or Tied Up? The Contrasting Effects of Social Ties on Employee Turnover</title>
+<link>https://doi.org/10.5465/amj.2024.0641</link>
+<guid isPermaLink="false">10.5465/amj.2024.0641</guid>
+<pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alessandro Iorio; Shad Morris]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0641</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Pipelines and Sprinkler Systems: Documenting the Speed–Flexibility Tradeoff in How Jobs Shape Promotion</title>
+<link>https://doi.org/10.5465/amj.2024.0582</link>
+<guid isPermaLink="false">10.5465/amj.2024.0582</guid>
+<pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shun Yiu; Matthew Bidwell; JR Keller]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0582</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Loosening the Theoretical Reins: A Case for Phenomenon-Driven Research in AMJ</title>
+<link>https://doi.org/10.5465/amj.2026.4003</link>
+<guid isPermaLink="false">10.5465/amj.2026.4003</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anne L. J. Ter Wal; Laura M. Little; Matthew G. Grimes; Quinetta Roberson]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2026.4003</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Grow Old with Me: The Temporal Dynamics of Founder–Market Interactions in Capturing Market Attention</title>
+<link>https://doi.org/10.5465/amj.2023.0974</link>
+<guid isPermaLink="false">10.5465/amj.2023.0974</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paola Cillo; Gaia Rubera]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0974</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When the Moon Is Jealous of the Stars: Implications of Informal Leadership for Supervisor Downward Jealousy and Their Treatment of Other Subordinates</title>
+<link>https://doi.org/10.5465/amj.2023.0646</link>
+<guid isPermaLink="false">10.5465/amj.2023.0646</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Feng Qiu; Lingtao Yu; Xueqi Wen; Michelle Duffy; Ke Michael Mai]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0646</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Stakeholder Political Ideology, Purpose of Business Beliefs, and Responses to CEO Activism: Introducing an Asymmetry Model</title>
+<link>https://doi.org/10.5465/amj.2023.0510</link>
+<guid isPermaLink="false">10.5465/amj.2023.0510</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Krishnan Nair; Marlon Mooijman]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0510</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Market-Stigmatized Groups and the Effectiveness of Stigma Management Strategies: Evidence from Washington’s Marijuana Market</title>
+<link>https://doi.org/10.5465/amj.2023.0995</link>
+<guid isPermaLink="false">10.5465/amj.2023.0995</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Cyrus Dioun; Kisha Lashley; Vontrese Pamphile]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0995</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Team Hierarchical Adaptability: Benefits for Team Coordination and Performance</title>
+<link>https://doi.org/10.5465/amj.2023.1308</link>
+<guid isPermaLink="false">10.5465/amj.2023.1308</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicole Abi-Esber; Lindred L. Greer; Annebel H. B. De Hoogh]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1308</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Impact, Interrupted: How and When Thwarted Prosocial Impact Undermines Employee Performance and Retention</title>
+<link>https://doi.org/10.5465/amj.2024.0445</link>
+<guid isPermaLink="false">10.5465/amj.2024.0445</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jordan D. Nielsen; Kinshuk Sharma; Daniel D. Goering]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0445</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Moderately Fast and Furious: A Screening and Behavioral Theory of New CEO Strategic Action Speed</title>
+<link>https://doi.org/10.5465/amj.2024.0829</link>
+<guid isPermaLink="false">10.5465/amj.2024.0829</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[John R. Busenbark; Robert Campbell; Diego Villalpando]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0829</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Point Break? The Efficacy of Creative Differences as a Protective Label for Future Work</title>
+<link>https://doi.org/10.5465/amj.2023.0759</link>
+<guid isPermaLink="false">10.5465/amj.2023.0759</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Spencer Huber Harrison; Patrick Reilly; Yanbo Song; Khwan Kim]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0759</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Corporate Venture Capital Knowledge Obsolescence and Portfolio Firm Innovation</title>
+<link>https://doi.org/10.5465/amj.2023.1020</link>
+<guid isPermaLink="false">10.5465/amj.2023.1020</guid>
+<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Umit Ozmel; Yoon Jung (Jenny) Kwon; David H. Hsu]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1020</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Visible from Afar: Remote Employees’ Collaboration Responsiveness to Managerial Requests</title>
+<link>https://doi.org/10.5465/amj.2024.0399</link>
+<guid isPermaLink="false">10.5465/amj.2024.0399</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hui Liao; Yasha Spriha; Qiang Feng; Li Zhu; Zhengyi Zhao]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0399</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Connectivity Paradox of Flexible Team Arrangements</title>
+<link>https://doi.org/10.5465/amj.2023.0869</link>
+<guid isPermaLink="false">10.5465/amj.2023.0869</guid>
+<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stefan Berger; Hendrik J. Van de Brake; Heike Bruch; Gerben S. Van der Vegt]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0869</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>They Saw It Coming: Executive Experience and Foresight in Competitor Identification</title>
+<link>https://doi.org/10.5465/amj.2024.0463</link>
+<guid isPermaLink="false">10.5465/amj.2024.0463</guid>
+<pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sruthi Thatchenkery]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0463</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Dynamic Demands versus Durable Skills: Career Dilemmas in Pharmaceutical R&amp;D</title>
+<link>https://doi.org/10.5465/amj.2024.0338</link>
+<guid isPermaLink="false">10.5465/amj.2024.0338</guid>
+<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shinjinee Chattopadhyay; Shinjae Won; Matthew Bidwell]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0338</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Social Attribution of Innovation: Uncovering the Heads Behind the Guillotine</title>
+<link>https://doi.org/10.5465/amj.2024.0314</link>
+<guid isPermaLink="false">10.5465/amj.2024.0314</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paolo Aversa; Paul Gouvard; Maria A. Makarova]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0314</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>ChatGPT, a Hype That Teaches: Generative AI and the Collective Accumulation of Technology Literacy on Social Media</title>
+<link>https://doi.org/10.5465/amj.2024.0536</link>
+<guid isPermaLink="false">10.5465/amj.2024.0536</guid>
+<pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hassan Md. Hamadi; Anna Brattström]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0536</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Polyphonic Career Scripting: Political and Relational Dynamics in the Construction of Promotion Norms</title>
+<link>https://doi.org/10.5465/amj.2022.1039</link>
+<guid isPermaLink="false">10.5465/amj.2022.1039</guid>
+<pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elena Doldor; Madeleine Wyatt; Doyin Atewologun]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2022.1039</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Jailcraft: Atmospheric Security Work in Violent Contexts</title>
+<link>https://doi.org/10.5465/amj.2025.0026</link>
+<guid isPermaLink="false">10.5465/amj.2025.0026</guid>
+<pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Adrian Marrison; Jaco Lok; Mark de Rond]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2025.0026</dc:identifier>
+<description></description>
+</item>
+</channel>
+</rss>

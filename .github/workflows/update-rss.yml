@@ -1,0 +1,71 @@
+name: Update journal radar
+
+# Re-fetch every Crossref + publisher feed every 6 hours, regenerate
+# docs/*.xml and docs/index.html, then commit back to main. GitHub Pages
+# picks up the change automatically (assuming Pages is configured to serve
+# the /docs directory of the main branch — see README.md).
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      only:
+        description: "Comma-separated journal ids to fetch (leave empty for all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: journal-radar-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    env:
+      PIA_RADAR_SITE_URL: ${{ vars.PIA_RADAR_SITE_URL || 'https://YOUR-USER.github.io/journal-radar' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('requirements.txt') }}
+          restore-keys: ${{ runner.os }}-pip-
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run fetch
+        run: |
+          if [ -n "${{ inputs.only }}" ]; then
+            python scripts/fetch.py --only "${{ inputs.only }}" --site-url "$PIA_RADAR_SITE_URL"
+          else
+            python scripts/fetch.py --site-url "$PIA_RADAR_SITE_URL"
+          fi
+
+      - name: Commit & push
+        run: |
+          git config user.name "journal-radar-bot"
+          git config user.email "journal-radar-bot@users.noreply.github.com"
+          # Allow up to 3 rebase retries to absorb concurrent pushes.
+          for i in 1 2 3; do
+            git add docs/ && git commit -m "chore(radar): refresh feeds" || break
+            if git push; then
+              break
+            fi
+            echo "Push attempt $i failed, rebasing..."
+            git pull --rebase --autostash || true
+          done

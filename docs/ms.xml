@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Marketing Science</title>
+<link>http://localhost:8767/#ms</link>
+<description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
+<language>en</language>
+<atom:link href="http://localhost:8767/ms.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<generator>p-layer-journal-radar</generator>
+<docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Talking Without Speaking: Paid Trolls on Social Media and Court Decision</title>
+<link>https://doi.org/10.1287/mksc.2024.0679</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0679</guid>
+<pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yi Liu; Haitao (Tony) Cui]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0679</dc:identifier>
+<description><![CDATA[This article aims to investigate how public opinions and paid trolls may affect the outcome of legal disputes between opposing parties.]]></description>
+<content:encoded><![CDATA[This article aims to investigate how public opinions and paid trolls may affect the outcome of legal disputes between opposing parties.]]></content:encoded>
+</item>
+<item>
+<title>An Empirical Investigation of a Digital Platform’s Release Strategy for Serialized Content</title>
+<link>https://doi.org/10.1287/mksc.2023.0308</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0308</guid>
+<pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Clarice Zhao; Nitin Mehta; Mengze Shi]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0308</dc:identifier>
+<description><![CDATA[This paper examines how digital platforms can maximize serialized-content revenue by balancing binge consumption and product exploration through hybrid release strategies.]]></description>
+<content:encoded><![CDATA[This paper examines how digital platforms can maximize serialized-content revenue by balancing binge consumption and product exploration through hybrid release strategies.]]></content:encoded>
+</item>
+<item>
+<title>On the Value of Coalition Loyalty Programs</title>
+<link>https://doi.org/10.1287/mksc.2024.1138</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1138</guid>
+<pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yan Liu; Jingmai Wang; Yulan Wang; Dan Zhang]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1138</dc:identifier>
+<description><![CDATA[This paper examines how coalition loyalty programs enhance firms’ ability to price discriminate and shows why the optimal program size depends on market composition.]]></description>
+<content:encoded><![CDATA[This paper examines how coalition loyalty programs enhance firms’ ability to price discriminate and shows why the optimal program size depends on market composition.]]></content:encoded>
+</item>
+<item>
+<title>Optimizing Reserve Prices in Display Advertising Auctions</title>
+<link>https://doi.org/10.1287/mksc.2023.0002</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0002</guid>
+<pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hana Choi; Carl F. Mela]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0002</dc:identifier>
+<description><![CDATA[This paper examines how publishers should set reserve prices in display advertising auctions when advertisers face practical constraints such as campaign reach.]]></description>
+<content:encoded><![CDATA[This paper examines how publishers should set reserve prices in display advertising auctions when advertisers face practical constraints such as campaign reach.]]></content:encoded>
+</item>
+<item>
+<title>The Design of Centralized Matching Systems on Two-Sided Platforms: Evidence from the Ride-Hailing Market</title>
+<link>https://doi.org/10.1287/mksc.2023.0561</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0561</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xueli Zhang; Wei Miao; Junhong Chu; Ivan Png]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0561</dc:identifier>
+<description><![CDATA[This paper develops a dynamic structural model to investigate the tradeoff between matching efficiency and agent autonomy in the ride-hailing market.]]></description>
+<content:encoded><![CDATA[This paper develops a dynamic structural model to investigate the tradeoff between matching efficiency and agent autonomy in the ride-hailing market.]]></content:encoded>
+</item>
+<item>
+<title>2025 Ad Hoc Reviewers (Update)</title>
+<link>https://doi.org/10.1287/mksc.2026.ack.v45.n4</link>
+<guid isPermaLink="false">10.1287/mksc.2026.ack.v45.n4</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/mksc.2026.ack.v45.n4</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Consumer Reviews and Regulation: Evidence from New York City Restaurants</title>
+<link>https://doi.org/10.1287/mksc.2023.0088</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0088</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chiara Farronato; Georgios Zervas]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0088</dc:identifier>
+<description><![CDATA[This paper examines whether consumer reviews predict restaurant health violations and how online signals influence hygiene compliance and consumer demand.]]></description>
+<content:encoded><![CDATA[This paper examines whether consumer reviews predict restaurant health violations and how online signals influence hygiene compliance and consumer demand.]]></content:encoded>
+</item>
+<item>
+<title>Consumer-Driven Class Pricing</title>
+<link>https://doi.org/10.1287/mksc.2023.0133</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0133</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zuhui Xiao]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0133</dc:identifier>
+<description><![CDATA[This paper proposes a consumer loss aversion-based rationale for class pricing, which is the practice of assigning only a few price points to many differentiated products.]]></description>
+<content:encoded><![CDATA[This paper proposes a consumer loss aversion-based rationale for class pricing, which is the practice of assigning only a few price points to many differentiated products.]]></content:encoded>
+</item>
+<item>
+<title>Algorithmic Targeting and the Precision-Recall Tradeoff</title>
+<link>https://doi.org/10.1287/mksc.2024.0930</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0930</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ganesh Iyer; Yunfei (Jesse) Yao; Zemin (Zachary) Zhong]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0930</dc:identifier>
+<description><![CDATA[We examine the implications of competitive algorithmic targeting when outcomes of targeting algorithms are the individual consumer-level predicted probabilities of conversion. In these situations, firms implicitly face the well-known precision-recall tradeoff while choosing their targeting strategies. They can choose to target a smaller set of consumers with a high probability of conversion (precision) but miss out on many consumers who might still be interested in their product. Conversely, firms can target a larger set of consumers (recall), but this results in a greater probability that their targeting is wasted on uninterested consumers. We analyze this precision-recall tradeoff under competition between firms that strategically choose their algorithmic targeting policies. We show that competing firms favor a targeting policy that has higher precision but lower recall compared with a monopoly. Firms target fewer consumers when their algorithms are more correlated. They also have the incentive to strategically decrease the precision of their targeting policies in order to reduce competition. If firms endogenously choose their algorithmic correlation, then there is an equilibrium incentive to decrease the correlation. History: Anthony Dukes served as the senior editor for this article. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mksc.2024.0930 .]]></description>
+<content:encoded><![CDATA[We examine the implications of competitive algorithmic targeting when outcomes of targeting algorithms are the individual consumer-level predicted probabilities of conversion. In these situations, firms implicitly face the well-known precision-recall tradeoff while choosing their targeting strategies. They can choose to target a smaller set of consumers with a high probability of conversion (precision) but miss out on many consumers who might still be interested in their product. Conversely, firms can target a larger set of consumers (recall), but this results in a greater probability that their targeting is wasted on uninterested consumers. We analyze this precision-recall tradeoff under competition between firms that strategically choose their algorithmic targeting policies. We show that competing firms favor a targeting policy that has higher precision but lower recall compared with a monopoly. Firms target fewer consumers when their algorithms are more correlated. They also have the incentive to strategically decrease the precision of their targeting policies in order to reduce competition. If firms endogenously choose their algorithmic correlation, then there is an equilibrium incentive to decrease the correlation. History: Anthony Dukes served as the senior editor for this article. Supplemental Material: The online appendix is available at https://doi.org/10.1287/mksc.2024.0930 .]]></content:encoded>
+</item>
+<item>
+<title>Advertiser Learning in Direct Advertising Markets</title>
+<link>https://doi.org/10.1287/mksc.2024.0847</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0847</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Carl F. Mela; Jason M. T. Roos; Tulio Sousa]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0847</dc:identifier>
+<description><![CDATA[By pooling information across many advertisers, direct buy ad networks can alleviate advertiser uncertainty about where to place ads, increasing publisher revenue and advertiser welfare.]]></description>
+<content:encoded><![CDATA[By pooling information across many advertisers, direct buy ad networks can alleviate advertiser uncertainty about where to place ads, increasing publisher revenue and advertiser welfare.]]></content:encoded>
+</item>
+<item>
+<title>Large Language Models for Market Research: A Data-Augmentation Approach</title>
+<link>https://doi.org/10.1287/mksc.2025.0009</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0009</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mengxin Wang; Dennis J. Zhang; Heng Zhang]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0009</dc:identifier>
+<description><![CDATA[This paper proposes a statistical data augmentation approach that efficiently integrates LLM-generated data with real data in conjoint analysis.]]></description>
+<content:encoded><![CDATA[This paper proposes a statistical data augmentation approach that efficiently integrates LLM-generated data with real data in conjoint analysis.]]></content:encoded>
+</item>
+<item>
+<title>Frontiers: The Demand for Counterfeits: A Descriptive Analysis</title>
+<link>https://doi.org/10.1287/mksc.2025.0565</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0565</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nan Chen; Mengqi Xiang]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0565</dc:identifier>
+<description><![CDATA[This paper documents descriptively new evidence about counterfeit demand using large-scale field data.]]></description>
+<content:encoded><![CDATA[This paper documents descriptively new evidence about counterfeit demand using large-scale field data.]]></content:encoded>
+</item>
+<item>
+<title>Frontiers: ChatGPT Referrals to E-Commerce Websites: How Do LLMs Compare Against Traditional Channels?</title>
+<link>https://doi.org/10.1287/mksc.2025.0489</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0489</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maximilian Kaiser; Christian Schulze]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0489</dc:identifier>
+<description><![CDATA[This is a descriptive study reporting financial and engagement metrics for 973 e-commerce websites, comparing organic large language model traffic (oLLM) with traditional digital channels.]]></description>
+<content:encoded><![CDATA[This is a descriptive study reporting financial and engagement metrics for 973 e-commerce websites, comparing organic large language model traffic (oLLM) with traditional digital channels.]]></content:encoded>
+</item>
+<item>
+<title>How Do Content Producers Respond to Engagement on Social Media Platforms?</title>
+<link>https://doi.org/10.1287/mksc.2023.0178</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0178</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Simha Mummalaneni; Hema Yoganarasimhan; Varad Pathak]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0178</dc:identifier>
+<description><![CDATA[We examine how receiving engagement affects users’ subsequent behavior on social media platform, using a large-scale field experiment from Twitter.]]></description>
+<content:encoded><![CDATA[We examine how receiving engagement affects users’ subsequent behavior on social media platform, using a large-scale field experiment from Twitter.]]></content:encoded>
+</item>
+<item>
+<title>Privacy-Preserving Data Fusion</title>
+<link>https://doi.org/10.1287/mksc.2023.0068</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0068</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Longxiu Tian; Dana Turjeman; Samuel Levy]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0068</dc:identifier>
+<description><![CDATA[This paper proposes a generative methodology enabling companies to combine data sets with strong privacy guarantees and near-optimal performance in customer analytics.]]></description>
+<content:encoded><![CDATA[This paper proposes a generative methodology enabling companies to combine data sets with strong privacy guarantees and near-optimal performance in customer analytics.]]></content:encoded>
+</item>
+<item>
+<title>Choice Models and Permutation Invariance: Deep Demand Estimation in Differentiated Products Markets</title>
+<link>https://doi.org/10.1287/mksc.2024.0724</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0724</guid>
+<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amandeep Singh; Ye Liu; Hema Yoganarasimhan]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0724</dc:identifier>
+<description><![CDATA[This paper proposes a fundamental characterization of choice functions for flexible, data-driven demand estimation in differentiated products markets, accommodating endogenous product features and enabling valid inference on economic objects such as price elasticities]]></description>
+<content:encoded><![CDATA[This paper proposes a fundamental characterization of choice functions for flexible, data-driven demand estimation in differentiated products markets, accommodating endogenous product features and enabling valid inference on economic objects such as price elasticities]]></content:encoded>
+</item>
+<item>
+<title>A Representative Sampling Method for Peer Encouragement Designs in Network Experiments</title>
+<link>https://doi.org/10.1287/mksc.2022.0409</link>
+<guid isPermaLink="false">10.1287/mksc.2022.0409</guid>
+<pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yanyan Li; Sha Yang; Qing Liu]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2022.0409</dc:identifier>
+<description><![CDATA[This paper proposes a representative ego network sampling method that controls sample contamination while preserving population representativeness for peer encouragement experiments.]]></description>
+<content:encoded><![CDATA[This paper proposes a representative ego network sampling method that controls sample contamination while preserving population representativeness for peer encouragement experiments.]]></content:encoded>
+</item>
+<item>
+<title>Unraveling Multifaceted User Preferences on Digital Platforms: A Bayesian Deep-Learning Approach</title>
+<link>https://doi.org/10.1287/mksc.2024.1090</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1090</guid>
+<pubDate>Tue, 21 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mingzhang Yin; Ziwei Cong; Jia Liu]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1090</dc:identifier>
+<description><![CDATA[This paper proposes a Bayesian deep-learning model that captures multifaceted, time-varying user activities on digital platforms, yielding interpretable and dynamic preference estimations at the platform and individual levels.]]></description>
+<content:encoded><![CDATA[This paper proposes a Bayesian deep-learning model that captures multifaceted, time-varying user activities on digital platforms, yielding interpretable and dynamic preference estimations at the platform and individual levels.]]></content:encoded>
+</item>
+<item>
+<title>An Empirical Analysis of Optimal Nonlinear Pricing in Business-to-Business Markets</title>
+<link>https://doi.org/10.1287/mksc.2023.0487</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0487</guid>
+<pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Soheil Ghili; Russ Yoon]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0487</dc:identifier>
+<description><![CDATA[This paper provides a methodology for business-to-business firms to implement nonlinear pricing optimally.]]></description>
+<content:encoded><![CDATA[This paper provides a methodology for business-to-business firms to implement nonlinear pricing optimally.]]></content:encoded>
+</item>
+<item>
+<title>Leveraging Generative Artificial Intelligence to Create Visual Content in Digital Advertising</title>
+<link>https://doi.org/10.1287/mksc.2024.1130</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1130</guid>
+<pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Remi Daviet; Yohei Nishimura]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1130</dc:identifier>
+<description><![CDATA[Creating high-performing, brand-aligned advertising visuals is challenging; we develop a generative AI framework using Bayesian active learning to efficiently discover effective designs.]]></description>
+<content:encoded><![CDATA[Creating high-performing, brand-aligned advertising visuals is challenging; we develop a generative AI framework using Bayesian active learning to efficiently discover effective designs.]]></content:encoded>
+</item>
+<item>
+<title>Does Premium Version Adoption in mHealth Improve User Engagement and Health-Related Outcomes?</title>
+<link>https://doi.org/10.1287/mksc.2022.0437</link>
+<guid isPermaLink="false">10.1287/mksc.2022.0437</guid>
+<pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yikun Jiang; Kosuke Uetake; Nathan Yang]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2022.0437</dc:identifier>
+<description><![CDATA[Premium adoption in mHealth.]]></description>
+<content:encoded><![CDATA[Premium adoption in mHealth.]]></content:encoded>
+</item>
+<item>
+<title>Consumer Impatience, Technological Innovation, and Market Structure</title>
+<link>https://doi.org/10.1287/mksc.2024.0885</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0885</guid>
+<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chaewon Seol; Federico Rossi; Sara Valentini; Elisa Montaguti]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0885</dc:identifier>
+<description><![CDATA[This paper investigates how consumer impatience affects competition and how delivery technology may reshape market structure in online retail markets.]]></description>
+<content:encoded><![CDATA[This paper investigates how consumer impatience affects competition and how delivery technology may reshape market structure in online retail markets.]]></content:encoded>
+</item>
+<item>
+<title>Does Access to Human Coaches Lead to More Weight Loss Than With AI Coaches Alone?</title>
+<link>https://doi.org/10.1287/mksc.2023.0029</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0029</guid>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anuj Kapoor; Sridhar Narayanan; Puneet Manchanda]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0029</dc:identifier>
+<description><![CDATA[Access to human coaches leads to more weight loss than with access to an AI coach alone, with consumers setting higher weight loss goals, tracking their weight and food intake more frequently.]]></description>
+<content:encoded><![CDATA[Access to human coaches leads to more weight loss than with access to an AI coach alone, with consumers setting higher weight loss goals, tracking their weight and food intake more frequently.]]></content:encoded>
+</item>
+<item>
+<title>Symbolic vs. Substantive Support: The Impact of Black Lives Matter on Black-Owned Businesses</title>
+<link>https://doi.org/10.1287/mksc.2023.0243</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0243</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siddharth Sharma; Justin Frake; Jared Watson]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0243</dc:identifier>
+<description><![CDATA[This study examines the impact of Black Lives Matter (BLM) on Black-owned businesses following the murder of George Floyd.]]></description>
+<content:encoded><![CDATA[This study examines the impact of Black Lives Matter (BLM) on Black-owned businesses following the murder of George Floyd.]]></content:encoded>
+</item>
+<item>
+<title>Is Fair Advertising Good for Platforms?</title>
+<link>https://doi.org/10.1287/mksc.2023.0201</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0201</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Di Yuan; Manmohan Aseri; Tridas Mukhopadhyay]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0201</dc:identifier>
+<description><![CDATA[The paper analyzes various fairness policies for ensuring fairness in ad-auctions.]]></description>
+<content:encoded><![CDATA[The paper analyzes various fairness policies for ensuring fairness in ad-auctions.]]></content:encoded>
+</item>
+<item>
+<title>Estimating Position and Social Influence Effects in Online Search</title>
+<link>https://doi.org/10.1287/mksc.2023.0392</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0392</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ata Jameei Osgouei; Andrew T. Ching; Brian T. Ratchford; Shervin Shahrokhi Tehrani]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0392</dc:identifier>
+<description><![CDATA[This paper estimates position and social influence effects in online search using a structural model and field experiment data.]]></description>
+<content:encoded><![CDATA[This paper estimates position and social influence effects in online search using a structural model and field experiment data.]]></content:encoded>
+</item>
+<item>
+<title>Vertical Competition on a Common Platform</title>
+<link>https://doi.org/10.1287/mksc.2022.0402</link>
+<guid isPermaLink="false">10.1287/mksc.2022.0402</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiaojuan Puyang; Zheyin (Jane) Gu; Rachel R. Chen; Juan Li]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2022.0402</dc:identifier>
+<description><![CDATA[We investigate how a platform decides on the provision and pricing of its infrastructure for vertically differentiated vendors when facing vendors’ strategic reactions.]]></description>
+<content:encoded><![CDATA[We investigate how a platform decides on the provision and pricing of its infrastructure for vertically differentiated vendors when facing vendors’ strategic reactions.]]></content:encoded>
+</item>
+<item>
+<title>Can Rising Eco-sensitivity Hurt Sustainability? Eco-impact of Durable Goods Innovations</title>
+<link>https://doi.org/10.1287/mksc.2022.0304</link>
+<guid isPermaLink="false">10.1287/mksc.2022.0304</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[K. Sudhir; Ramesh Shankar; Yuan Jin]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2022.0304</dc:identifier>
+<description><![CDATA[We analyze the ecoimpact of different types of durable goods innovations under rising consumer ecosensitivity based on a dynamic two-period framework.]]></description>
+<content:encoded><![CDATA[We analyze the ecoimpact of different types of durable goods innovations under rising consumer ecosensitivity based on a dynamic two-period framework.]]></content:encoded>
+</item>
+<item>
+<title>Gender-Based Pricing in Consumer Packaged Goods: A Pink Tax?</title>
+<link>https://doi.org/10.1287/mksc.2023.1452</link>
+<guid isPermaLink="false">10.1287/mksc.2023.1452</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarah Moshary; Anna Tuchman; Natasha Vajravelu]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.1452</dc:identifier>
+<description><![CDATA[This paper studies the extent to which firms segment, differentiate, and price discriminate on the basis of gender in the personal care category.]]></description>
+<content:encoded><![CDATA[This paper studies the extent to which firms segment, differentiate, and price discriminate on the basis of gender in the personal care category.]]></content:encoded>
+</item>
+<item>
+<title>When Less Is More: Content Strategies for Subscription Video on Demand</title>
+<link>https://doi.org/10.1287/mksc.2023.0106</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0106</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miguel Godinho de Matos; Samir Mamadehussene; Pedro Ferreira]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0106</dc:identifier>
+<description><![CDATA[A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.]]></description>
+<content:encoded><![CDATA[A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.]]></content:encoded>
+</item>
+<item>
+<title>Shrinkflation and Consumer Demand</title>
+<link>https://doi.org/10.1287/mksc.2024.0948</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0948</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aljoscha Janssen; Johannes Kasinger]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0948</dc:identifier>
+<description><![CDATA[Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.]]></description>
+<content:encoded><![CDATA[Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.]]></content:encoded>
+</item>
+<item>
+<title>Regional Poverty Alleviation Partnership and E-Commerce Trade</title>
+<link>https://doi.org/10.1287/mksc.2023.0214</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0214</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zemin (Zachary) Zhong; Wenyu Zhou; Jiewei Li; Peng Li]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0214</dc:identifier>
+<description><![CDATA[This paper examines how the East-West Poverty Alleviation Partnership, which pairs rich cities in East China with economically disadvantaged cities in West China, affects e-commerce trade.]]></description>
+<content:encoded><![CDATA[This paper examines how the East-West Poverty Alleviation Partnership, which pairs rich cities in East China with economically disadvantaged cities in West China, affects e-commerce trade.]]></content:encoded>
+</item>
+<item>
+<title>Bad Apples on Rotten Tomatoes: Critics, Crowds, and Gender Bias in Product Ratings</title>
+<link>https://doi.org/10.1287/mksc.2023.0236</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0236</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Luis Aguiar]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0236</dc:identifier>
+<description><![CDATA[This paper shows that movie crowd reviewers provide evaluations that are biased against movies with a stronger female presence relative to professional critics.]]></description>
+<content:encoded><![CDATA[This paper shows that movie crowd reviewers provide evaluations that are biased against movies with a stronger female presence relative to professional critics.]]></content:encoded>
+</item>
+<item>
+<title>The Evolution of Discrimination in Online Markets: How the Rise in Anti-Asian Bias Affected Airbnb During the Pandemic</title>
+<link>https://doi.org/10.1287/mksc.2023.0112</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0112</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael Luca; Elizaveta Pronkina; Michelangelo Rossi]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0112</dc:identifier>
+<description><![CDATA[Anti-Asian bias surged on Airbnb during COVID-19. Hosts with Asian names experienced a 20% decline in guests, resulting in $180–$330 monthly losses.]]></description>
+<content:encoded><![CDATA[Anti-Asian bias surged on Airbnb during COVID-19. Hosts with Asian names experienced a 20% decline in guests, resulting in $180–$330 monthly losses.]]></content:encoded>
+</item>
+<item>
+<title>Focus on Authors</title>
+<link>https://doi.org/10.1287/mksc.2026.focusonaus.v45.n1</link>
+<guid isPermaLink="false">10.1287/mksc.2026.focusonaus.v45.n1</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/mksc.2026.focusonaus.v45.n1</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Job Security, Gender, and Sales Performance: Evidence from a Retail Sales Context</title>
+<link>https://doi.org/10.1287/mksc.2023.0233</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0233</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Diego F. Salazar; Noah Lim; Ingrid Koch]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0233</dc:identifier>
+<description><![CDATA[This paper investigates the impact of job stability on the performance of workers, specifically women.]]></description>
+<content:encoded><![CDATA[This paper investigates the impact of job stability on the performance of workers, specifically women.]]></content:encoded>
+</item>
+<item>
+<title>Investigating the Impact of Advertising on Smoking Cessation: The Role of Direct-to-Consumer Prescription Drug Advertising</title>
+<link>https://doi.org/10.1287/mksc.2024.0848</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0848</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Erfan Loghmani; Ali Goli]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0848</dc:identifier>
+<description><![CDATA[This paper measures the effects of direct-to-consumer advertising for smoking cessation prescription drugs and examines how access barriers moderate these effects.]]></description>
+<content:encoded><![CDATA[This paper measures the effects of direct-to-consumer advertising for smoking cessation prescription drugs and examines how access barriers moderate these effects.]]></content:encoded>
+</item>
+<item>
+<title>Applying Large Language Models to Sponsored Search Advertising</title>
+<link>https://doi.org/10.1287/mksc.2023.0611</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0611</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Martin Reisenbichler; Thomas Reutterer; David A. Schweidel]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0611</dc:identifier>
+<description><![CDATA[This paper presents a human-in-the-loop LLM framework that boosts search engine ad performance and explores cost trade-offs and boundary conditions.]]></description>
+<content:encoded><![CDATA[This paper presents a human-in-the-loop LLM framework that boosts search engine ad performance and explores cost trade-offs and boundary conditions.]]></content:encoded>
+</item>
+<item>
+<title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
+<link>https://doi.org/10.1287/mksc.2023.0309</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0309</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[K. Sudhir; Onesun Steve Yoo; Zihao Zhou]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0309</dc:identifier>
+<description><![CDATA[Information asymmetry between investors and entrepreneurs brings about distortions to product experimentations and inefficiencies to innovation outcomes, which are exacerbated by investors’ stereotypes on entrepreneurs.]]></description>
+<content:encoded><![CDATA[Information asymmetry between investors and entrepreneurs brings about distortions to product experimentations and inefficiencies to innovation outcomes, which are exacerbated by investors’ stereotypes on entrepreneurs.]]></content:encoded>
+</item>
+<item>
+<title>Novelty in Content Creation: Experimental Results Using Deep Learning–Based Image Recognition on a Large Social Network</title>
+<link>https://doi.org/10.1287/mksc.2023.0547</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0547</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Justin Huang; Rupali Kaul; Sridhar Narayanan]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0547</dc:identifier>
+<description><![CDATA[Using a field experiment on a social network and machine learning methods, we investigate whether artists create more novel content after getting attention and recognition.]]></description>
+<content:encoded><![CDATA[Using a field experiment on a social network and machine learning methods, we investigate whether artists create more novel content after getting attention and recognition.]]></content:encoded>
+</item>
+<item>
+<title>A Deep-DiD Method to Estimate Heterogeneous Treatment Effects: Application to Content Creator Selection</title>
+<link>https://doi.org/10.1287/mksc.2023.0511</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0511</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yan Cheng; Jingbo Wang; Xinyu Cao; Zuo-Jun Max Shen; Yuhui Zhang]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0511</dc:identifier>
+<description><![CDATA[This paper develops a Deep-DiD method that integrates two deep neural networks into a difference-in-differences framework to estimate heterogeneous treatment effects and applies it to optimizing platform creator selection.]]></description>
+<content:encoded><![CDATA[This paper develops a Deep-DiD method that integrates two deep neural networks into a difference-in-differences framework to estimate heterogeneous treatment effects and applies it to optimizing platform creator selection.]]></content:encoded>
+</item>
+<item>
+<title>2025 &lt;i&gt;Marketing Science&lt;/i&gt; Service Awards</title>
+<link>https://doi.org/10.1287/mksc.2026.servawards.v45.n2</link>
+<guid isPermaLink="false">10.1287/mksc.2026.servawards.v45.n2</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/mksc.2026.servawards.v45.n2</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Safety Reviews on Airbnb: An Information Tale</title>
+<link>https://doi.org/10.1287/mksc.2023.0552</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0552</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aron Culotta; Ginger Zhe Jin; Yidan Sun; Liad Wagman]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0552</dc:identifier>
+<description><![CDATA[This paper studies a platform’s incentive to disclose and disseminate consumer reviews about the vicinity safety of short-term rental listings.]]></description>
+<content:encoded><![CDATA[This paper studies a platform’s incentive to disclose and disseminate consumer reviews about the vicinity safety of short-term rental listings.]]></content:encoded>
+</item>
+<item>
+<title>Focus on Authors</title>
+<link>https://doi.org/10.1287/mksc.2026.focusonaus.v45.n2</link>
+<guid isPermaLink="false">10.1287/mksc.2026.focusonaus.v45.n2</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/mksc.2026.focusonaus.v45.n2</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The End of Tourist Traps: The Impact of Review Platforms on Quality Upgrading</title>
+<link>https://doi.org/10.1287/mksc.2023.0482</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0482</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dante Donati]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0482</dc:identifier>
+<description><![CDATA[This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.]]></description>
+<content:encoded><![CDATA[This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.]]></content:encoded>
+</item>
+<item>
+<title>2025 Guest Associate Editors and Ad Hoc Reviewers</title>
+<link>https://doi.org/10.1287/mksc.2026.ack.v45.n2</link>
+<guid isPermaLink="false">10.1287/mksc.2026.ack.v45.n2</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/mksc.2026.ack.v45.n2</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Frontiers: Content Quality Provision and Welfare Implications of Digital Platform Commission Fees</title>
+<link>https://doi.org/10.1287/mksc.2024.1084</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1084</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siddhartha Sharma; Amit Mehra]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1084</dc:identifier>
+<description><![CDATA[The paper studies how commission fees charged by platforms affect innovation by digital content developers and consumer welfare.]]></description>
+<content:encoded><![CDATA[The paper studies how commission fees charged by platforms affect innovation by digital content developers and consumer welfare.]]></content:encoded>
+</item>
+<item>
+<title>Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools</title>
+<link>https://doi.org/10.1287/mksc.2023.0164</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0164</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qiaochu Wang; Yan Huang; Param Singh]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0164</dc:identifier>
+<description><![CDATA[This paper theoretically studies financial lenders’ strategic decisions in providing preapproval checking tools, and shows such decisions could be asymmetric.]]></description>
+<content:encoded><![CDATA[This paper theoretically studies financial lenders’ strategic decisions in providing preapproval checking tools, and shows such decisions could be asymmetric.]]></content:encoded>
+</item>
+<item>
+<title>Exploring Peer Effects Associated with User Retention in a Socially Connected Business</title>
+<link>https://doi.org/10.1287/mksc.2023.0391</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0391</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yijun Chen; Nitin Mehta]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0391</dc:identifier>
+<description><![CDATA[This paper analyzes peer effects in user retention, showing churn of high-centrality user causes negative cascades and informing targeted retention strategies.]]></description>
+<content:encoded><![CDATA[This paper analyzes peer effects in user retention, showing churn of high-centrality user causes negative cascades and informing targeted retention strategies.]]></content:encoded>
+</item>
+<item>
+<title>A Model of Information Security and Competition</title>
+<link>https://doi.org/10.1287/mksc.2023.0513</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0513</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alexandre de Cornière; Greg Taylor]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0513</dc:identifier>
+<description><![CDATA[We study platforms’ incentives to invest in cybersecurity under ad-funded and subscription-funded business models.]]></description>
+<content:encoded><![CDATA[We study platforms’ incentives to invest in cybersecurity under ad-funded and subscription-funded business models.]]></content:encoded>
+</item>
+<item>
+<title>Bargaining and Network Effects in Two-Sided Platforms: Evidence from Online Healthcare</title>
+<link>https://doi.org/10.1287/mksc.2024.0922</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0922</guid>
+<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xu Zhang; Junhong Chu; Puneet Manchanda]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0922</dc:identifier>
+<description><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></description>
+<content:encoded><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></content:encoded>
+</item>
+<item>
+<title>Focus on Authors</title>
+<link>https://doi.org/10.1287/mksc.2025.focusonaus.v44.6</link>
+<guid isPermaLink="false">10.1287/mksc.2025.focusonaus.v44.6</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/mksc.2025.focusonaus.v44.6</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Ripple Effect of Platform Quality Controls in a Submarket: Evidence from a Secondhand Marketplace</title>
+<link>https://doi.org/10.1287/mksc.2024.1228</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1228</guid>
+<pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu Feng; Hui Li; Qiaowei Shen]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1228</dc:identifier>
+<description><![CDATA[Platform quality controls within a submarket have a positive carryover effect on adopters and a U-shaped spillover effect on nonadopters.]]></description>
+<content:encoded><![CDATA[Platform quality controls within a submarket have a positive carryover effect on adopters and a U-shaped spillover effect on nonadopters.]]></content:encoded>
+</item>
+<item>
+<title>When Food Gets Political: How Does News Drive Green Food Offerings?</title>
+<link>https://doi.org/10.1287/mksc.2025.0134</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0134</guid>
+<pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Boya Xu; Tong Guo; Daniel Yi Xu]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0134</dc:identifier>
+<description><![CDATA[This paper provides causal evidence that local social media news significantly promotes small businesses’ adoption of sustainable food innovations, with stronger effects in liberal-leaning regions.]]></description>
+<content:encoded><![CDATA[This paper provides causal evidence that local social media news significantly promotes small businesses’ adoption of sustainable food innovations, with stronger effects in liberal-leaning regions.]]></content:encoded>
+</item>
+<item>
+<title>My Fair AI: Accuracy Parity and Strategic Identity Disclosure in AI Content Recommendation</title>
+<link>https://doi.org/10.1287/mksc.2024.0900</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0900</guid>
+<pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Evelyn O. Smith; Jeffrey D. Shulman; Antino Kim]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0900</dc:identifier>
+<description><![CDATA[How consumers’ strategic identity disclosure decisions under AI accuracy parity policy interact with firm’s AI recommendation and AI learning investment decisions.]]></description>
+<content:encoded><![CDATA[How consumers’ strategic identity disclosure decisions under AI accuracy parity policy interact with firm’s AI recommendation and AI learning investment decisions.]]></content:encoded>
+</item>
+<item>
+<title>Is Competition Only One Click Away? The Digital Markets Act’s Impact on Google Maps</title>
+<link>https://doi.org/10.1287/mksc.2025.0159</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0159</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Louis-Daniel Pape; Michelangelo Rossi]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0159</dc:identifier>
+<description><![CDATA[European Union-mandated changes to Google results increased map-related searches but produced little traffic gain for competitors, underscoring Google Maps’ dominance.]]></description>
+<content:encoded><![CDATA[European Union-mandated changes to Google results increased map-related searches but produced little traffic gain for competitors, underscoring Google Maps’ dominance.]]></content:encoded>
+</item>
+<item>
+<title>Communicating Attribute Importance Under Competition</title>
+<link>https://doi.org/10.1287/mksc.2024.1124</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1124</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jae-Yun Lee; Jiwoong Shin; Jungju Yu]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1124</dc:identifier>
+<description><![CDATA[The paper shows that competing firms with competitive advantages in distinct attributes can credibly coordinate their messaging about attribute importance, reducing consumer uncertainty and generating category demand. A truthful equilibrium arises in which each firm highlights the more important attribute—even when at a disadvantage—but such an equilibrium does not exist without competition.]]></description>
+<content:encoded><![CDATA[The paper shows that competing firms with competitive advantages in distinct attributes can credibly coordinate their messaging about attribute importance, reducing consumer uncertainty and generating category demand. A truthful equilibrium arises in which each firm highlights the more important attribute—even when at a disadvantage—but such an equilibrium does not exist without competition.]]></content:encoded>
+</item>
+<item>
+<title>Leveraging Large-Scale Granular Single-Source Data for TV Advertising: An Identification Strategy</title>
+<link>https://doi.org/10.1287/mksc.2023.0582</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0582</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tsung-Yiou Hsieh; Rex Yuxing Du; Shijie Lu]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0582</dc:identifier>
+<description><![CDATA[This paper introduces a new instrumental variable to estimate the causal effects of linear TV advertising, using granular household-level viewing and purchase panel data.]]></description>
+<content:encoded><![CDATA[This paper introduces a new instrumental variable to estimate the causal effects of linear TV advertising, using granular household-level viewing and purchase panel data.]]></content:encoded>
+</item>
+<item>
+<title>Strategic Capacity Commitment: A Channel Competition Perspective</title>
+<link>https://doi.org/10.1287/mksc.2023.0139</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0139</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuguang Zhang; Wei Shi Lim; Lucy Gongtao Chen]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0139</dc:identifier>
+<description><![CDATA[This paper examines how capacity commitment shapes strategic interactions between asymmetric channels—one centralized and one decentralized—and reveals that a centralized manufacturer’s capacity commitment can mitigate price competition and benefit both channels.]]></description>
+<content:encoded><![CDATA[This paper examines how capacity commitment shapes strategic interactions between asymmetric channels—one centralized and one decentralized—and reveals that a centralized manufacturer’s capacity commitment can mitigate price competition and benefit both channels.]]></content:encoded>
+</item>
+<item>
+<title>Data and Algorithms: Strategic Disclosure of Competitiveness on Platforms Through Marketplace Analytics</title>
+<link>https://doi.org/10.1287/mksc.2024.0960</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0960</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yi Liu; Fei Long]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0960</dc:identifier>
+<description><![CDATA[This paper studies an e-commerce platform’s two intertwined decisions when offering marketplace analytics: the data access policy and the algorithm design.]]></description>
+<content:encoded><![CDATA[This paper studies an e-commerce platform’s two intertwined decisions when offering marketplace analytics: the data access policy and the algorithm design.]]></content:encoded>
+</item>
+<item>
+<title>Focus on Authors</title>
+<link>https://doi.org/10.1287/mksc.2026.focusonaus.v45.n3</link>
+<guid isPermaLink="false">10.1287/mksc.2026.focusonaus.v45.n3</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/mksc.2026.focusonaus.v45.n3</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Bayesian Dual Clustering Approach for Selecting Data and Parameter Granularities</title>
+<link>https://doi.org/10.1287/mksc.2024.1018</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1018</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mingyung Kim; Eric T. Bradlow; Raghuram Iyengar]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1018</dc:identifier>
+<description><![CDATA[We propose a Bayesian dual clustering method that infers both data and parameter granularities.]]></description>
+<content:encoded><![CDATA[We propose a Bayesian dual clustering method that infers both data and parameter granularities.]]></content:encoded>
+</item>
+<item>
+<title>Price Caps by Matching Platforms: The Case of Ticket Resales</title>
+<link>https://doi.org/10.1287/mksc.2023.0623</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0623</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Da He; Song Lin]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0623</dc:identifier>
+<description><![CDATA[This study examines ticket resale platforms’ voluntary price caps, analyzing their adoption incentives and effects on prices, sales, profitability, and welfare.]]></description>
+<content:encoded><![CDATA[This study examines ticket resale platforms’ voluntary price caps, analyzing their adoption incentives and effects on prices, sales, profitability, and welfare.]]></content:encoded>
+</item>
+<item>
+<title>Practice Paper—AI-Driven Behavioral Nudges for Organizations: An Integrative System for Sustainable Resource Management</title>
+<link>https://doi.org/10.1287/mksc.2024.1154</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1154</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christopher Amaral; Ceren Kolsarici; Iina Ikonen; Nicole Robitaille]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1154</dc:identifier>
+<description><![CDATA[This paper presents a novel integrative approach that combines artificial intelligence-driven forecasting with behavioral interventions to help businesses optimize energy consumption under critical peak pricing schemes.]]></description>
+<content:encoded><![CDATA[This paper presents a novel integrative approach that combines artificial intelligence-driven forecasting with behavioral interventions to help businesses optimize energy consumption under critical peak pricing schemes.]]></content:encoded>
+</item>
+<item>
+<title>Automated Targeted Bidding for Sponsored Ads on E-Commerce Platforms</title>
+<link>https://doi.org/10.1287/mksc.2024.0813</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0813</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ehsan Saremi; Upender Subramanian]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0813</dc:identifier>
+<description><![CDATA[We examine how automated bidding for sponsored ads affects seller competition and consumer buying behaviors on e-commerce platforms.]]></description>
+<content:encoded><![CDATA[We examine how automated bidding for sponsored ads affects seller competition and consumer buying behaviors on e-commerce platforms.]]></content:encoded>
+</item>
+<item>
+<title>The Value of Silence: The Effect of UMG’s Licensing Dispute with TikTok on Music Demand</title>
+<link>https://doi.org/10.1287/mksc.2024.1170</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1170</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mengjie (Magie) Cheng; Elie Ofek; Hema Yoganarasimhan]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1170</dc:identifier>
+<description><![CDATA[This study examines how the dispute between TikTok and Universal Music Group (UMG) impacted music demand on streaming platforms.]]></description>
+<content:encoded><![CDATA[This study examines how the dispute between TikTok and Universal Music Group (UMG) impacted music demand on streaming platforms.]]></content:encoded>
+</item>
+</channel>
+</rss>
