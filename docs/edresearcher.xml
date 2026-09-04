@@ -5,11 +5,11 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Educational Researcher</title>
-<link>http://localhost:8767/#edresearcher</link>
+<link>https://pinzhangtutu.github.io/p-layer-journal-radar/#edresearcher</link>
 <description>EdResearcher — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
-<atom:link href="http://localhost:8767/edresearcher.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/edresearcher.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 07:56:10 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -353,16 +353,6 @@
 <content:encoded><![CDATA[Over the last 15 years, almost a third of states have removed requirements to pass exit exams to graduate high school. This brief leverages an original data set of state-level graduation requirements between 2008–2009 and 2019–2020 to identify the effects of removing exit exams on 4-year adjusted cohort graduation rates (ACGR). Removing exams led to increases in school-level ACGR of about 3 percentage points, with larger effects on the limited English proficient (LEP) ACGR at 10 percentage points and smaller effects on the ACGR for White students at 2 percentage points. The LEP ACGR is projected to increase each year, up 15 percentage points at 4 years after exam removal.]]></content:encoded>
 </item>
 <item>
-<title>Teaching About Palestine in U.S. Schools From the 1980s to Present Day: A Systematic Review of Research</title>
-<link>https://doi.org/10.3102/0013189x251365922</link>
-<guid isPermaLink="false">10.3102/0013189x251365922</guid>
-<pubDate>Thu, 11 Sep 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Antero Garcia; Rubén A. González; Kristen Jackson; Nicole Mirra]]></dc:creator>
-<dc:identifier>doi:10.3102/0013189x251365922</dc:identifier>
-<description><![CDATA[This article shares findings from a systematic review of education research exploring the representation of Palestine in U.S. K–12 schooling. This study identified 13 peer-reviewed journal articles, from 1984 to 2024, and analyzed the studies for themes within and across the corpus of data. These findings demonstrate that (a) the reviewed scholarship focuses on small sample sizes almost entirely devoid of the experiences of Palestinian people, (b) the sociopolitical history of Palestine is often omitted and/or contextualized, and (c) Palestine is often framed as an abstract and, at times, contentious location. This article draws attention to the failure to meaningfully engage in exploration of Palestine within education research, alluding to broader gaps in the field of education research.]]></description>
-<content:encoded><![CDATA[This article shares findings from a systematic review of education research exploring the representation of Palestine in U.S. K–12 schooling. This study identified 13 peer-reviewed journal articles, from 1984 to 2024, and analyzed the studies for themes within and across the corpus of data. These findings demonstrate that (a) the reviewed scholarship focuses on small sample sizes almost entirely devoid of the experiences of Palestinian people, (b) the sociopolitical history of Palestine is often omitted and/or contextualized, and (c) Palestine is often framed as an abstract and, at times, contentious location. This article draws attention to the failure to meaningfully engage in exploration of Palestine within education research, alluding to broader gaps in the field of education research.]]></content:encoded>
-</item>
-<item>
 <title>Has Godot Arrived? An Update on the State of Economic Evaluation in Education Research</title>
 <link>https://doi.org/10.3102/0013189x261472450</link>
 <guid isPermaLink="false">10.3102/0013189x261472450</guid>
@@ -371,6 +361,16 @@
 <dc:identifier>doi:10.3102/0013189x261472450</dc:identifier>
 <description><![CDATA[Economic evaluation has received increased attention recently with adoption by major research organizations such as the Institute of Education Sciences. We ask: Has the prevalence and quality of economic evaluation increased in education research considering its increased salience? We conducted a search of research published since 2007, analyzed the type and rigor of the cost estimates and patterns by field and subfield to map relative saturations and gaps in economic evaluations across fields, and noted variability in quality and policy impact. We find evidence of increase in number and rigor of cost studies, particularly in the areas of higher education and socioemotional learning. Nonetheless, there is still work to do as original empirical cost analyses remain relatively rare.]]></description>
 <content:encoded><![CDATA[Economic evaluation has received increased attention recently with adoption by major research organizations such as the Institute of Education Sciences. We ask: Has the prevalence and quality of economic evaluation increased in education research considering its increased salience? We conducted a search of research published since 2007, analyzed the type and rigor of the cost estimates and patterns by field and subfield to map relative saturations and gaps in economic evaluations across fields, and noted variability in quality and policy impact. We find evidence of increase in number and rigor of cost studies, particularly in the areas of higher education and socioemotional learning. Nonetheless, there is still work to do as original empirical cost analyses remain relatively rare.]]></content:encoded>
+</item>
+<item>
+<title>Conducting Transformative Mixed Methods Research in Higher Education: A Primer</title>
+<link>https://doi.org/10.3102/0013189x261481803</link>
+<guid isPermaLink="false">10.3102/0013189x261481803</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xueli Wang]]></dc:creator>
+<dc:identifier>doi:10.3102/0013189x261481803</dc:identifier>
+<description><![CDATA[Mixed methods research is increasingly used to study educational inequities, yet its potential to serve as a transformative approach remains underarticulated, particularly in higher education. Drawing on the transformative paradigm and foundational mixed methods scholarship, this essay conceptualizes transformative mixed methods research (TMMR) as an orienting framework that guides how researchers approach study design, knowledge production, and the integration of qualitative and quantitative approaches in pursuit of justice and social change. Using higher education, including community colleges, as a generative context, the essay articulates core considerations and practices of TMMR that move mixed methods inquiry beyond methodological pluralism toward transformative engagement. In doing so, it positions TMMR as a way of aligning how we study inequity with how we seek to transform it.]]></description>
+<content:encoded><![CDATA[Mixed methods research is increasingly used to study educational inequities, yet its potential to serve as a transformative approach remains underarticulated, particularly in higher education. Drawing on the transformative paradigm and foundational mixed methods scholarship, this essay conceptualizes transformative mixed methods research (TMMR) as an orienting framework that guides how researchers approach study design, knowledge production, and the integration of qualitative and quantitative approaches in pursuit of justice and social change. Using higher education, including community colleges, as a generative context, the essay articulates core considerations and practices of TMMR that move mixed methods inquiry beyond methodological pluralism toward transformative engagement. In doing so, it positions TMMR as a way of aligning how we study inequity with how we seek to transform it.]]></content:encoded>
 </item>
 <item>
 <title>A Quantitative Study of Mathematical Vocabulary Use in Upper Elementary Classrooms</title>

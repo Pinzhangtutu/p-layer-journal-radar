@@ -5,11 +5,11 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Cognition</title>
-<link>http://localhost:8767/#cognition</link>
+<link>https://pinzhangtutu.github.io/p-layer-journal-radar/#cognition</link>
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
-<atom:link href="http://localhost:8767/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 07:56:10 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -310,15 +310,6 @@
 <description></description>
 </item>
 <item>
-<title>Throwing good effort after bad: Evidence for a sunk-cost effect in cognitive effort-based decision-making</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106628</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106628</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Mario Bogdanov; Sean Devine; Ziqi Fu; Echo Wang; A. Ross Otto]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106628</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Delayed structural prediction for relative clauses: A new argument for learning to parse from Santiago Laxopa Zapotec</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106599</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106599</guid>
@@ -328,12 +319,12 @@
 <description></description>
 </item>
 <item>
-<title>Children's narrow learning bottleneck accelerates the emergence of statistical properties of language</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106622</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106622</guid>
+<title>Throwing good effort after bad: Evidence for a sunk-cost effect in cognitive effort-based decision-making</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106628</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106628</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lucie Wolters; Simon Kirby; Inbal Arnon]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106622</dc:identifier>
+<dc:creator><![CDATA[Mario Bogdanov; Sean Devine; Ziqi Fu; Echo Wang; A. Ross Otto]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106628</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -568,6 +559,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Antoine Guinamard; Nicholas E.V. Foster; Sylvain Clément; Valentin Bégel; Sonja A. Kotz; Séverine Samson; Simone Dalla Bella; Delphine Dellacherie]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106663</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The cost of “what might have been”: false memories for counterfactual actions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106701</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106701</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Silvia Seghezzi; Maia Juliet Armstrong; Patrick Haggard]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106701</dc:identifier>
 <description></description>
 </item>
 <item>

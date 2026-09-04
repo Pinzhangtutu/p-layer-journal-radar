@@ -5,11 +5,11 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Journal of Retailing</title>
-<link>http://localhost:8767/#jr</link>
+<link>https://pinzhangtutu.github.io/p-layer-journal-radar/#jr</link>
 <description>JR — Elsevier · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
-<atom:link href="http://localhost:8767/jr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 11:42:27 +0800</lastBuildDate>
+<atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jr.xml" rel="self" type="application/rss+xml"/>
+<lastBuildDate>Fri, 04 Sep 2026 07:56:10 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -67,15 +67,6 @@
 <description></description>
 </item>
 <item>
-<title>NFT design choices and the heterogeneity of investor responses</title>
-<link>https://doi.org/10.1016/j.jretai.2026.03.006</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.03.006</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Navid Bahmani; Amit Bhatnagar; Minakshi Trivedi]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.03.006</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Call me by my name: The effects of addressing customers by their names, the underlying mechanisms, and the boundary conditions</title>
 <link>https://doi.org/10.1016/j.jretai.2026.03.008</link>
 <guid isPermaLink="false">10.1016/j.jretai.2026.03.008</guid>
@@ -112,120 +103,128 @@
 <description></description>
 </item>
 <item>
-<title>Probabilistic selling in a variety-seeking market</title>
-<link>https://doi.org/10.1016/j.jretai.2026.03.002</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.03.002</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qing Li; He Xu; Peiwen Yu; Jiahua Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.03.002</dc:identifier>
+<title>When familiar retail experiences feel new: How unfamiliar environments increase enjoyment</title>
+<link>https://doi.org/10.1016/j.jretai.2026.02.001</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.02.001</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aekyoung Kim; Donnel Briley; Loraine Lau-Gesk; Ruud Wetzels]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.02.001</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Beyond the thermostat: A research agenda for distinguishing consumer thermoregulation from retail temperature interventions across the customer journey</title>
-<link>https://doi.org/10.1016/j.jretai.2025.08.004</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.08.004</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gretchen R. Ross; Margaret G. Meloy; Simon J. Blanchard]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.08.004</dc:identifier>
+<title>Profitability of two-part tariffs in name-your-own-price markets</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.002</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.002</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lucas Stich; Robert Zeithammer; Martin Spann; Gerald Häubl]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.002</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>When rewards connect to the self: Unlocking customer engagement through experiential rewards</title>
-<link>https://doi.org/10.1016/j.jretai.2025.07.002</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.07.002</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ayalla A. Ruvio; Farnoosh Khodakarami; Forrest V. Morgeson; Clay M. Voorhees]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.07.002</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Advertising sequence response dynamics and the impact of retail environments</title>
-<link>https://doi.org/10.1016/j.jretai.2025.08.006</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.08.006</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Maarten J. Gijsenberg; Julien Schmitt; Jaap E. Wieringa; Shuba Srinivasan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.08.006</dc:identifier>
+<title>When recovery discounts backfire: The role of political ideology in shaping post-recovery satisfaction</title>
+<link>https://doi.org/10.1016/j.jretai.2025.12.006</link>
+<guid isPermaLink="false">10.1016/j.jretai.2025.12.006</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shahin Sharifi; Riza Casidy; Kiju Jung; Adam Duhachek]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2025.12.006</dc:identifier>
 <description></description>
 </item>
 <item>
 <title>Unleashing the predators: Autonomous predation and manipulation through algorithms</title>
 <link>https://doi.org/10.1016/j.jretai.2026.02.002</link>
 <guid isPermaLink="false">10.1016/j.jretai.2026.02.002</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ibrahim Abada; Xavier Lambin]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.02.002</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Creating and maintaining digital third places: Orchestrating interaction ritual chains at a distance</title>
-<link>https://doi.org/10.1016/j.jretai.2025.08.001</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.08.001</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ozlem Sandikci; Bige Saatcioglu; Eileen Fischer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.08.001</dc:identifier>
+<title>FM ii: Copyright/ ID Statement</title>
+<link>https://doi.org/10.1016/s0022-4359(26)00086-2</link>
+<guid isPermaLink="false">10.1016/s0022-4359(26)00086-2</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1016/s0022-4359(26)00086-2</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Upward-tilted logos cue perceptions of unhealthiness</title>
-<link>https://doi.org/10.1016/j.jretai.2025.08.003</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.08.003</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tanvi Gupta; Henrik Hagtvedt]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.08.003</dc:identifier>
+<title>NFT design choices and the heterogeneity of investor responses</title>
+<link>https://doi.org/10.1016/j.jretai.2026.03.006</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.03.006</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Navid Bahmani; Amit Bhatnagar; Minakshi Trivedi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.03.006</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Challenging the customer</title>
-<link>https://doi.org/10.1016/j.jretai.2026.03.004</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.03.004</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ryan Mullins; Sascha Alavi; Johannes Habel; Bianca Schiffer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.03.004</dc:identifier>
+<title>Minimalist by design, ambiguous in value: Consumer perspective and the valuation of aesthetically minimalist luxury products in retail contexts</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.003</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.003</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Niek Althuizen; Sona Klucarova]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.003</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Making omnichannel work: A dynamic capabilities roadmap for retail transformation</title>
-<link>https://doi.org/10.1016/j.jretai.2026.03.003</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.03.003</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Edda Blumenstein; Vassiliki Bamiatzi; G․ Tomas M․ Hult; Jorge Pena Marin]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.03.003</dc:identifier>
+<title>When payment options stand out: Payment option salience on the product page increases purchase likelihood</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.005</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.005</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Deniz Lefkeli; Nazli Gurdamar-Okutur; Francisco Villarroel Ordenes]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.005</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>The effect of recommendation display position on review persuasiveness: Moderating roles of temporal distance, affect, and valence</title>
-<link>https://doi.org/10.1016/j.jretai.2025.09.002</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.09.002</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Subhash Jha; M.S. Balaji; Abhijit Guha; Abhijit Biswas; Eric W.K. See-To; Prashanth Ravula]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.09.002</dc:identifier>
+<title>Who seeks variety? Profiles and behaviors of consumers with varying brand choice concentration</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.004</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.004</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Andreas Plank; Oliver Koll]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.004</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Reducing food waste conveniently with semi-prepared food</title>
-<link>https://doi.org/10.1016/j.jretai.2025.08.009</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.08.009</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jenny van Doorn; Marit Luiting-Drijfhout; Koert van Ittersum; Daphne Ribbers]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.08.009</dc:identifier>
+<title>How and when authenticity relates to sales growth: Longitudinal field evidence from the retail customer journey</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.006</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.006</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[D. Todd Donavan; Brad․ D. Carlson; Jeremy S. Wolter; James G. Maxham]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.006</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Retail labor as a marketing asset: Organizational depth, automation, and brand value</title>
-<link>https://doi.org/10.1016/j.jretai.2026.02.004</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.02.004</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Katrijn Gielens]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.02.004</dc:identifier>
+<title>Man is the measure of all things: Evaluability and overpackaging</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.007</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.007</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Feng Jiang; Chao Fan; Su Lu; Li-Jun Ji; Guohui Sun; Luping Sun]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.007</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Standing out from adjacent reviews: How content similarity affects review helpfulness</title>
-<link>https://doi.org/10.1016/j.jretai.2026.02.005</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.02.005</guid>
+<title>Promotion elasticities of national and store brands: The effect of price level and brand type on promotion elasticity</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.001</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.001</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kristopher O. Keller; Raj Sethuraman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.001</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Keeping the mall alive? Identifying drivers of shopping mall satisfaction and survival from customer reviews</title>
+<link>https://doi.org/10.1016/j.jretai.2026.02.003</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.02.003</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David de Jong; Dennis Herhausen; Stephan Ludwig; Christoph Teller; Francisco Villarroel Ordenes; Dhruv Grewal]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.02.003</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Probabilistic selling in a variety-seeking market</title>
+<link>https://doi.org/10.1016/j.jretai.2026.03.002</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.03.002</guid>
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Baojun Gao; Jiawen Wang; Shan Liu; Nan Cui]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.02.005</dc:identifier>
+<dc:creator><![CDATA[Qing Li; He Xu; Peiwen Yu; Jiahua Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.03.002</dc:identifier>
 <description></description>
 </item>
 <item>
