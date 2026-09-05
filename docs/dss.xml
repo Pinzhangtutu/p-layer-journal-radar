@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 04 Sep 2026 20:41:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 04:07:09 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,6 +121,15 @@
 <description></description>
 </item>
 <item>
+<title>Advancing personalized healthcare for elderly individuals through AI-enhanced preventive disease risk stratification decision</title>
+<link>https://doi.org/10.1016/j.dss.2026.114771</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114771</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Beyond interlocks: Board networks and corporate social responsibility performance similarity</title>
 <link>https://doi.org/10.1016/j.dss.2026.114716</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114716</guid>
@@ -175,15 +184,6 @@
 <description></description>
 </item>
 <item>
-<title>Explainable AI model for predicting customer service communication effectiveness: A computational design science approach</title>
-<link>https://doi.org/10.1016/j.dss.2026.114762</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114762</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xin Liu; Lin Jia; Gemin Liang; Yifan Yu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114762</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>How to initiate human-agent intervention for recovery when chatbots fail: A social information processing perspective</title>
 <link>https://doi.org/10.1016/j.dss.2026.114715</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114715</guid>
@@ -211,12 +211,30 @@
 <description></description>
 </item>
 <item>
+<title>Exploring the involuntary and excessive use of mobile instant messaging for work-related purposes: A triangulated mixed-methods investigation</title>
+<link>https://doi.org/10.1016/j.dss.2026.114758</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114758</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tingting Hou; Ping Ding; Keke Hou; Yifeng Ruan; Xin (Robert) Luo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114758</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Confirmation or overload? The nonlinear impact of topic-extension on revisiting consultation in online healthcare</title>
 <link>https://doi.org/10.1016/j.dss.2026.114759</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114759</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jiantong Zhang; Yuting Zhang; Binhua Ye; Yushan Guo]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114759</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Explainable AI model for predicting customer service communication effectiveness: A computational design science approach</title>
+<link>https://doi.org/10.1016/j.dss.2026.114762</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114762</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xin Liu; Lin Jia; Gemin Liang; Yifan Yu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114762</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -472,15 +490,6 @@
 <description></description>
 </item>
 <item>
-<title>Exploring the involuntary and excessive use of mobile instant messaging for work-related purposes: A triangulated mixed-methods investigation</title>
-<link>https://doi.org/10.1016/j.dss.2026.114758</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114758</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tingting Hou; Ping Ding; Keke Hou; Yifeng Ruan; Xin Luo]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114758</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>From compliance to commitment: A deep learning decision-support artifact linking corporate social performance to multidimensional employee perceptions</title>
 <link>https://doi.org/10.1016/j.dss.2026.114683</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114683</guid>
@@ -586,15 +595,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Bingqing Xiong; Fangfang Hou; Chee-Wee Tan; Hao Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114648</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>AI representing personas representing user groups: Applying the agency theory to examine interaction challenges of conversational personas as decision-making tools</title>
-<link>https://doi.org/10.1016/j.dss.2026.114633</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114633</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Joni Salminen; Soon-Gyo Jung; Ilkka Kaate; Trang Thi Thu Xuan; Jinan Y. Azem; Kholoud Khalil Aldous; Danial Amin; Bernard J. Jansen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114633</dc:identifier>
 <description></description>
 </item>
 </channel>
