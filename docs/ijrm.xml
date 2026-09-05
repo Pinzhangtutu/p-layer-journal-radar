@@ -9,7 +9,7 @@
 <description>IJRM — Elsevier / EMAC · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijrm.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 05 Sep 2026 04:07:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 10:26:48 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -157,21 +157,21 @@
 <description></description>
 </item>
 <item>
-<title>Implementing e-commerce channels in business-to-business selling</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.10.003</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.10.003</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Roland Kassemeier; Sascha Alavi; Johannes Habel]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.10.003</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Cute package, sweet taste? The effects of Kindchenschema food packaging on consumers</title>
 <link>https://doi.org/10.1016/j.ijresmar.2025.11.001</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2025.11.001</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Raphaela E. Bruckdorfer; Oliver B. Büttner]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.11.001</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Implementing e-commerce channels in business-to-business selling</title>
+<link>https://doi.org/10.1016/j.ijresmar.2025.10.003</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2025.10.003</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roland Kassemeier; Sascha Alavi; Johannes Habel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2025.10.003</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -229,6 +229,15 @@
 <description></description>
 </item>
 <item>
+<title>Donor migration to contractual relationships and the impact on charity income</title>
+<link>https://doi.org/10.1016/j.ijresmar.2025.12.004</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2025.12.004</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nhat Quang Le; Bram Foubert; Kathleen Cleeren; Barbara Briers]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2025.12.004</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>The brand-equity implications of selling through hard discounters</title>
 <link>https://doi.org/10.1016/j.ijresmar.2026.01.005</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2026.01.005</guid>
@@ -244,15 +253,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Maximilian Witte; Mark Heitmann; Jochen Hartmann; Keno Tetzlaff]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2026.01.001</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Donor migration to contractual relationships and the impact on charity income</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.12.004</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.12.004</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nhat Quang Le; Bram Foubert; Kathleen Cleeren; Barbara Briers]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.12.004</dc:identifier>
 <description></description>
 </item>
 <item>
