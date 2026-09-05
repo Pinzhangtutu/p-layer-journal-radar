@@ -9,7 +9,7 @@
 <description>JMIS — Taylor &amp; Francis · Latest in: Online First · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmis.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 05 Sep 2026 10:26:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 15:01:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -328,21 +328,21 @@
 <description></description>
 </item>
 <item>
-<title>The Theory of Privacy Interests: An Onto-Epistemological Perspective on Privacy Actions</title>
-<link>https://doi.org/10.1080/07421222.2026.2692276</link>
-<guid isPermaLink="false">10.1080/07421222.2026.2692276</guid>
-<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nicholas James Brown; Vitali Mindel; Paul Benjamin Lowry; Quinton Nottingham]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2026.2692276</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Anonymous Donors, Visible Effects: Balancing Anonymity and Signal Diagnosticity in Medical Crowdfunding</title>
 <link>https://doi.org/10.1080/07421222.2026.2692284</link>
 <guid isPermaLink="false">10.1080/07421222.2026.2692284</guid>
 <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Victor Xiaoqi Wang; Hua (Jonathan) Ye]]></dc:creator>
 <dc:identifier>doi:10.1080/07421222.2026.2692284</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Theory of Privacy Interests: An Onto-Epistemological Perspective on Privacy Actions</title>
+<link>https://doi.org/10.1080/07421222.2026.2692276</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2692276</guid>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicholas James Brown; Vitali Mindel; Paul Benjamin Lowry; Quinton Nottingham]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2692276</dc:identifier>
 <description></description>
 </item>
 <item>

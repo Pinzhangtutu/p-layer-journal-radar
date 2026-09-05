@@ -9,7 +9,7 @@
 <description>JRAI — Wiley · Latest in: Early View · Subfield: anthropology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jrai.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 05 Sep 2026 10:26:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 15:01:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -272,6 +272,15 @@
 <description></description>
 </item>
 <item>
+<title>Muir, Sarah. Routine crisis: an ethnography of disillusion. 200 pp., bibliogr. Chicago: University Press, 2021. $30.00 (paper)</title>
+<link>https://doi.org/10.1111/1467-9655.70164</link>
+<guid isPermaLink="false">10.1111/1467-9655.70164</guid>
+<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dolores Señorans]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70164</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Campesi, Giuseppe. Policing mobility regimes: Frontex and the production of the European borderscape. 324 pp., bibliogr. London: Routledge, 2022. £41.99 (paper)</title>
 <link>https://doi.org/10.1111/1467-9655.70158</link>
 <guid isPermaLink="false">10.1111/1467-9655.70158</guid>
@@ -287,15 +296,6 @@
 <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Iman Ali]]></dc:creator>
 <dc:identifier>doi:10.1111/1467-9655.70149</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Muir, Sarah. Routine crisis: an ethnography of disillusion. 200 pp., bibliogr. Chicago: University Press, 2021. $30.00 (paper)</title>
-<link>https://doi.org/10.1111/1467-9655.70164</link>
-<guid isPermaLink="false">10.1111/1467-9655.70164</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dolores Señorans]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70164</dc:identifier>
 <description></description>
 </item>
 <item>

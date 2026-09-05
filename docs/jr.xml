@@ -9,7 +9,7 @@
 <description>JR — Elsevier · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 05 Sep 2026 10:26:48 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 15:01:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -147,6 +147,15 @@
 <description></description>
 </item>
 <item>
+<title>Beyond the receipt: risk reduction and locus of attribution in grocery returns</title>
+<link>https://doi.org/10.1016/j.jretai.2026.08.008</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.08.008</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Boram Lim; Lauren Min; Kissan Joseph]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.08.008</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>NFT design choices and the heterogeneity of investor responses</title>
 <link>https://doi.org/10.1016/j.jretai.2026.03.006</link>
 <guid isPermaLink="false">10.1016/j.jretai.2026.03.006</guid>
@@ -216,15 +225,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David de Jong; Dennis Herhausen; Stephan Ludwig; Christoph Teller; Francisco Villarroel Ordenes; Dhruv Grewal]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.02.003</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Probabilistic selling in a variety-seeking market</title>
-<link>https://doi.org/10.1016/j.jretai.2026.03.002</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.03.002</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qing Li; He Xu; Peiwen Yu; Jiahua Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.03.002</dc:identifier>
 <description></description>
 </item>
 <item>
