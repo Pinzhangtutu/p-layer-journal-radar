@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 05 Sep 2026 15:01:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 20:15:23 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -136,16 +136,6 @@
 <description></description>
 </item>
 <item>
-<title>The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data</title>
-<link>https://doi.org/10.3982/ecta22733</link>
-<guid isPermaLink="false">10.3982/ecta22733</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Maarten De Ridder; Basile Grassi; Giovanni Morzenti]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta22733</dc:identifier>
-<description><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></description>
-<content:encoded><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></content:encoded>
-</item>
-<item>
 <title>Choosing Who Chooses: Selection‐Driven Targeting in Energy Rebate Programs</title>
 <link>https://doi.org/10.3982/ecta21180</link>
 <guid isPermaLink="false">10.3982/ecta21180</guid>
@@ -154,6 +144,16 @@
 <dc:identifier>doi:10.3982/ecta21180</dc:identifier>
 <description><![CDATA[We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self‐selection . Our method can be used with experimental or quasi‐experimental data to identify who should be treated, be untreated, and self‐select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self‐selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self‐selection would be valuable and harmful to social welfare.]]></description>
 <content:encoded><![CDATA[We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self‐selection . Our method can be used with experimental or quasi‐experimental data to identify who should be treated, be untreated, and self‐select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self‐selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self‐selection would be valuable and harmful to social welfare.]]></content:encoded>
+</item>
+<item>
+<title>The Hitchhiker's Guide to Markup Estimation: Assessing Estimates From Financial Data</title>
+<link>https://doi.org/10.3982/ecta22733</link>
+<guid isPermaLink="false">10.3982/ecta22733</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maarten De Ridder; Basile Grassi; Giovanni Morzenti]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22733</dc:identifier>
+<description><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></description>
+<content:encoded><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></content:encoded>
 </item>
 <item>
 <title>The Econometric Society 2025 Annual Report of the President</title>

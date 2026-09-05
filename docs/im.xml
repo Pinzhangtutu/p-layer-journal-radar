@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 05 Sep 2026 15:01:07 +0000</lastBuildDate>
+<lastBuildDate>Sat, 05 Sep 2026 20:15:23 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -202,6 +202,15 @@
 <description></description>
 </item>
 <item>
+<title>When Does Generative AI Adoption Pay Off? Ethical Governance as a Dynamic Capability in SMEs</title>
+<link>https://doi.org/10.1016/j.im.2026.104436</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Investigating the Effect of Notification Deactivation on Social Media App Usage: A Longitudinal Experiment</title>
 <link>https://doi.org/10.1016/j.im.2026.104432</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
@@ -256,6 +265,24 @@
 <description></description>
 </item>
 <item>
+<title>Breaking the spiral of silence in social media: The interplay between opinion climates and hardcore user identity</title>
+<link>https://doi.org/10.1016/j.im.2026.104430</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104430</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wanghao Dong; Weijun Wang; Wenjing Zhong; Yu Tong; Wei Wang; Chunmei Gan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104430</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Too old for TikTok? Nope! Exploring senior adult viewer’s short-form video platform addiction through attachment theory and socio-technical framework</title>
+<link>https://doi.org/10.1016/j.im.2026.104422</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104422</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhenya Robin Tang; Xueyan Dong; Yuxin Tian; Dahui Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104422</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Designing away technostress: Digital interface nudges, cognitive effort, and digital mindset in complex decision environments</title>
 <link>https://doi.org/10.1016/j.im.2026.104421</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104421</guid>
@@ -292,21 +319,21 @@
 <description></description>
 </item>
 <item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
 <link>https://doi.org/10.1016/j.im.2026.104411</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -463,24 +490,6 @@
 <description></description>
 </item>
 <item>
-<title>Breaking the Spiral of Silence in Social Media: The Interplay Between Opinion Climates and Hardcore User Identity</title>
-<link>https://doi.org/10.1016/j.im.2026.104430</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104430</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wanghao Dong; Weijun Wang; Wenjing Zhong; Yu Tong; Wei Wang; Chunmei Gan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104430</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Too Old for TikTok? Nope! Exploring Senior Adult Viewer’s Short-form Video Platform Addiction through Attachment Theory and Socio-technical Framework</title>
-<link>https://doi.org/10.1016/j.im.2026.104422</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104422</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zhenya Robin Tang; Xueyan Dong; Yuxin Tian; Dahui Li]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104422</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>AI-powered personalization in online fashion stores: Exploring the impact on shoppers’ perceived risk and intention to buy and recommend</title>
 <link>https://doi.org/10.1016/j.im.2026.104347</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104347</guid>
@@ -586,15 +595,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yuting Xu; Lukas Vincent Tatge; Xue Yang; Weiling Ke]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104335</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Lost at the cyber-crossing? Understanding individuals’ internet security threat ambivalence and its impact on threat avoidance and approach behavior</title>
-<link>https://doi.org/10.1016/j.im.2026.104328</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104328</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yaojie Li; Xuan Wang; Yuan Li; Hanieh Javadi Khasraghi]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104328</dc:identifier>
 <description></description>
 </item>
 </channel>
