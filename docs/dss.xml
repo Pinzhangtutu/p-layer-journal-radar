@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 06 Sep 2026 10:45:31 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 15:21:48 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -586,15 +586,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sihang Chen; Lijian Wei; Lei Shi]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114666</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Unraveling the dark side of Danmaku: The effects of aggressive Danmaku and original work's attributes on condensed clips' performance</title>
-<link>https://doi.org/10.1016/j.dss.2026.114648</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114648</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bingqing Xiong; Fangfang Hou; Chee-Wee Tan; Hao Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114648</dc:identifier>
 <description></description>
 </item>
 </channel>
