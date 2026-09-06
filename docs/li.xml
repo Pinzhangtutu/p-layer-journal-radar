@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 06 Sep 2026 04:14:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 10:45:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -283,21 +283,21 @@
 <description></description>
 </item>
 <item>
-<title>Cross-fertilization of content and strategy knowledge: Bayesian insights into fostering scientific literacy in physics education</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102425</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102425</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christian M. Thurn; Sonja Peteranderl; Peter A. Edelsbrunner; Anne Deiglmayr; Juliana Keller; Ralph Schumacher; Elsbeth Stern]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102425</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Professional vision and medical education: dividing diagnoses into categories to support more effective learning in dermatology</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102434</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102434</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Salla Skön; Ilona Södervik; Alexander Salava; Auli Toom; Viljami Salmela]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102434</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cross-fertilization of content and strategy knowledge: Bayesian insights into fostering scientific literacy in physics education</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102425</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102425</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian M. Thurn; Sonja Peteranderl; Peter A. Edelsbrunner; Anne Deiglmayr; Juliana Keller; Ralph Schumacher; Elsbeth Stern]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102425</dc:identifier>
 <description></description>
 </item>
 <item>

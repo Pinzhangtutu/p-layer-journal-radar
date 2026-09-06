@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 06 Sep 2026 04:14:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 10:45:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -91,6 +91,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Noriaki Kiguchi; Shinpei Noguchi; Yuta Takahashi]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106219</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Matching and Price Competition in Large Markets</title>
+<link>https://doi.org/10.1016/j.jet.2026.106250</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106250</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bingchao Huangfu; Gagan Ghosh; Heng Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106250</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -361,15 +370,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jenny Schuetz; Arnold Ventures; N. Edward Coulson]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106165</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>On the core of markets with co-ownerships and indivisibilities</title>
-<link>https://doi.org/10.1016/j.jet.2025.106135</link>
-<guid isPermaLink="false">10.1016/j.jet.2025.106135</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xiang Sun; Qianfeng Tang; Mingjun Xiao; Jun Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2025.106135</dc:identifier>
 <description></description>
 </item>
 <item>

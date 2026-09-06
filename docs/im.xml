@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 06 Sep 2026 04:14:38 +0000</lastBuildDate>
+<lastBuildDate>Sun, 06 Sep 2026 10:45:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -166,6 +166,15 @@
 <description></description>
 </item>
 <item>
+<title>Security Breaches and Crypto Token Valuation: Evidence from Blockchain Projects</title>
+<link>https://doi.org/10.1016/j.im.2026.104437</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104437</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhe Li; Mi Zhou; Hasan Cavusoglu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104437</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>The livestream commerce puzzle: exploring the ineffectiveness of online reviews in reducing return intentions</title>
 <link>https://doi.org/10.1016/j.im.2026.104382</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104382</guid>
@@ -193,15 +202,6 @@
 <description></description>
 </item>
 <item>
-<title>Seeking Love or Fearing Loss:Divergent Motivations in Content Creations of Mega and Micro Creators on Social Media Platforms</title>
-<link>https://doi.org/10.1016/j.im.2026.104434</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104434</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Mengyuan Wang; Yaobin Lu; Qian Chen; Lv Yang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104434</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When Does Generative AI Adoption Pay Off? Ethical Governance as a Dynamic Capability in SMEs</title>
 <link>https://doi.org/10.1016/j.im.2026.104436</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
@@ -211,12 +211,30 @@
 <description></description>
 </item>
 <item>
+<title>Seeking Love or Fearing Loss:Divergent Motivations in Content Creations of Mega and Micro Creators on Social Media Platforms</title>
+<link>https://doi.org/10.1016/j.im.2026.104434</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104434</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mengyuan Wang; Yaobin Lu; Qian Chen; Lv Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104434</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Investigating the Effect of Notification Deactivation on Social Media App Usage: A Longitudinal Experiment</title>
 <link>https://doi.org/10.1016/j.im.2026.104432</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Enhancing Market Transparency with AI: A Large Language Model Approach to Decoding Risk Signals from Chinese Comment Letters</title>
+<link>https://doi.org/10.1016/j.im.2026.104435</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104435</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xin Chen; Brian C.W. Kei; Yingyu Zhong; Vincent Y. Zhuang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104435</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -319,21 +337,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -463,12 +481,12 @@
 <description></description>
 </item>
 <item>
-<title>The impact of corporate artificial intelligence adoption on labor employment in competitive strategic contexts</title>
-<link>https://doi.org/10.1016/j.im.2026.104400</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104400</guid>
+<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
+<link>https://doi.org/10.1016/j.im.2026.104414</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Canjun Chen; Lelin Lv; Changxin Xu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104400</dc:identifier>
+<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -481,12 +499,12 @@
 <description></description>
 </item>
 <item>
-<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
-<link>https://doi.org/10.1016/j.im.2026.104414</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
+<title>The impact of corporate artificial intelligence adoption on labor employment in competitive strategic contexts</title>
+<link>https://doi.org/10.1016/j.im.2026.104400</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104400</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
+<dc:creator><![CDATA[Canjun Chen; Lelin Lv; Changxin Xu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104400</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -577,24 +595,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yonghang Zhou; Hongyi Zhu; Yidong Chai; Yezheng Liu; Yuanchun Jiang; Yang Qian]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104325</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The value of teamwork: evidence from crowdsourcing contests</title>
-<link>https://doi.org/10.1016/j.im.2026.104336</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104336</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Huiyan Chen; Jing Peng; Jan Stallaert; Sulin Ba]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104336</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Signal startup quality in syndicate equity crowdfunding: The effect of lead investors’ network centrality and reputation</title>
-<link>https://doi.org/10.1016/j.im.2026.104335</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104335</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yuting Xu; Lukas Vincent Tatge; Xue Yang; Weiling Ke]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104335</dc:identifier>
 <description></description>
 </item>
 </channel>
