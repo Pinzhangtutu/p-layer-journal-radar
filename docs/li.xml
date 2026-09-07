@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 07 Sep 2026 12:15:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 21:26:14 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -166,21 +166,21 @@
 <description></description>
 </item>
 <item>
-<title>Competitive school environments and socioeconomic achievement inequality: A preregistered analysis of data from 69 countries</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102414</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102414</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nathalie Aerts; Thijs Bol; Eddie Brummelman]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102414</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Longitudinal and differential effects of differentiated instruction on academic achievement and subjective well-being in inclusive secondary education</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102431</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102431</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Carmen L.A. Zurbriggen; Marcela Pozas; Karin Gehrer; Lena Nusser]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102431</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Competitive school environments and socioeconomic achievement inequality: A preregistered analysis of data from 69 countries</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102414</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102414</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nathalie Aerts; Thijs Bol; Eddie Brummelman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102414</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -211,21 +211,21 @@
 <description></description>
 </item>
 <item>
-<title>Towards an adaptive AI scaffold for developing student collaborative problem solving</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102418</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102418</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kester Wong; Sahan Bulathwela; Mutlu Cukurova]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102418</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Towards an adaptive AI scaffold for developing student collaborative problem solving</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102418</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102418</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kester Wong; Sahan Bulathwela; Mutlu Cukurova]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102418</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -328,15 +328,6 @@
 <description></description>
 </item>
 <item>
-<title>On the challenges of investigating lasting learning: A commentary</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102417</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102417</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Katharina Scheiter; Alexander Renkl]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102417</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Understanding peer feedback uptake: The role of perceived peer feedback literacy and situational factors</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102428</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102428</guid>
@@ -346,7 +337,25 @@
 <description></description>
 </item>
 <item>
-<title>Adaptivity as a core principle of cognitive stimulating instruction: Conceptualization and future directions</title>
+<title>On the challenges of investigating lasting learning: A commentary</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102417</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102417</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katharina Scheiter; Alexander Renkl]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102417</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Thinking beyond boundaries: Epistemic curiosity predicting creative problem finding through semantic networks</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102412</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102412</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuan Yang; Xiying Li; Xuemei Huang; Zhongling Pi]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adaptivity as a core principle of cognitively stimulating instruction: Conceptualization and future directions</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102419</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102419</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
@@ -364,12 +373,12 @@
 <description></description>
 </item>
 <item>
-<title>Thinking beyond boundaries: Epistemic curiosity predicting creative problem finding through semantic networks</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102412</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102412</guid>
+<title>The adaptivity of classroom teaching: Comments from a teaching quality perspective</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102429</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102429</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yuan Yang; Xiying Li; Xuemei Huang; Zhongling Pi]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102412</dc:identifier>
+<dc:creator><![CDATA[Eckhard Klieme]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102429</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -379,15 +388,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Delyse Clayden; Narelle Lemon; Susan Main]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102423</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The adaptivity of classroom teaching: Comments from a teaching quality perspective</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102429</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102429</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Eckhard Klieme]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102429</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -409,12 +409,12 @@
 <description></description>
 </item>
 <item>
-<title>Driving theories along the developmental path toward improved learning and instruction: A road less traveled</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102430</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102430</guid>
+<title>We are stronger together: The impact of dialogic reading with robots on children's mathematical language and numeracy skills</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102403</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102403</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Patricia A. Alexander]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102430</dc:identifier>
+<dc:creator><![CDATA[Bei Zeng; Zuofei Geng; Xinyi Liu; Liping Guo; Yongheng Yan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102403</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -427,12 +427,12 @@
 <description></description>
 </item>
 <item>
-<title>We are stronger together: The impact of dialogic reading with robots on children's mathematical language and numeracy skills</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102403</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102403</guid>
+<title>Driving theories along the developmental path toward improved learning and instruction: A road less traveled</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102430</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102430</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bei Zeng; Zuofei Geng; Xinyi Liu; Liping Guo; Yongheng Yan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102403</dc:identifier>
+<dc:creator><![CDATA[Patricia A. Alexander]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102430</dc:identifier>
 <description></description>
 </item>
 <item>

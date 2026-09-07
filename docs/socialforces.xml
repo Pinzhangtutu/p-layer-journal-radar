@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 07 Sep 2026 12:15:27 +0000</lastBuildDate>
+<lastBuildDate>Mon, 07 Sep 2026 21:26:14 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -38,15 +38,6 @@
 <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Justin Sola]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag057</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Review of “Who Cares About Parents?: Temporary Alliances, Exclusionary Practices, and the Strategic Possibilities of Parenting Groups”</title>
-<link>https://doi.org/10.1093/sf/soag059</link>
-<guid isPermaLink="false">10.1093/sf/soag059</guid>
-<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bailey Brown]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag059</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -537,6 +528,15 @@
 <dc:identifier>doi:10.1093/sf/soag104</dc:identifier>
 <description><![CDATA[Abstract Discourse on gender-based violence started as a political struggle driven by feminist movements allied with progressive parties in the 1970s. However, in recent years, both progressive and conservative Italian parties have proposed and approved laws to combat gender-based violence. The combination of cross-partisan legislation and sharp cultural divisions makes Italy an interesting case for examining how polarization can persist alongside legislative consensus. This study draws on a large corpus of newspaper articles (7,978) from progressive, moderate, and conservative national outlets to address the following questions: How did the distribution of frames of gender-based violence vary across the political spectrum between 2005 and 2023 (ideological polarization)? Did newspapers make explicit adversarial claims against the opposing political side (affective polarization), and if so, around which frames? Combining Structural Topic Modeling and qualitative content analysis, this article shows that the salience of gender-based violence increased across the political spectrum. However, ideological polarization persists regarding how newspapers describe gender-based violence and which solutions they privilege, with progressives increasingly focusing on preventive, rather than punitive, interventions. At the same time, gender-based violence became a catalyst for deep partisan divisions around gender identity and immigration, two discursive overlaps that fuel affective polarization. By examining the framing process as a site of both ideological and affective polarization, this study bridges the literatures on social problems and political polarization and provides a data-driven understanding about the actual content of opposing positions.]]></description>
 <content:encoded><![CDATA[Abstract Discourse on gender-based violence started as a political struggle driven by feminist movements allied with progressive parties in the 1970s. However, in recent years, both progressive and conservative Italian parties have proposed and approved laws to combat gender-based violence. The combination of cross-partisan legislation and sharp cultural divisions makes Italy an interesting case for examining how polarization can persist alongside legislative consensus. This study draws on a large corpus of newspaper articles (7,978) from progressive, moderate, and conservative national outlets to address the following questions: How did the distribution of frames of gender-based violence vary across the political spectrum between 2005 and 2023 (ideological polarization)? Did newspapers make explicit adversarial claims against the opposing political side (affective polarization), and if so, around which frames? Combining Structural Topic Modeling and qualitative content analysis, this article shows that the salience of gender-based violence increased across the political spectrum. However, ideological polarization persists regarding how newspapers describe gender-based violence and which solutions they privilege, with progressives increasingly focusing on preventive, rather than punitive, interventions. At the same time, gender-based violence became a catalyst for deep partisan divisions around gender identity and immigration, two discursive overlaps that fuel affective polarization. By examining the framing process as a site of both ideological and affective polarization, this study bridges the literatures on social problems and political polarization and provides a data-driven understanding about the actual content of opposing positions.]]></content:encoded>
+</item>
+<item>
+<title>Review of “Kid Cops: What Communities Gain and Lose from Junior Police in Schools”</title>
+<link>https://doi.org/10.1093/sf/soag128</link>
+<guid isPermaLink="false">10.1093/sf/soag128</guid>
+<pubDate>Mon, 07 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rebecca D Gleit]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag128</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Job precarity and earnings inequality in contemporary China</title>
