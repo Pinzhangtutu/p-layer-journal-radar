@@ -9,7 +9,7 @@
 <description>JR — Elsevier · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 08 Sep 2026 16:30:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 21:02:42 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -201,15 +201,6 @@
 <description></description>
 </item>
 <item>
-<title>Man is the measure of all things: Evaluability and overpackaging</title>
-<link>https://doi.org/10.1016/j.jretai.2026.01.007</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.01.007</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Feng Jiang; Chao Fan; Su Lu; Li-Jun Ji; Guohui Sun; Luping Sun]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.01.007</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Promotion elasticities of national and store brands: The effect of price level and brand type on promotion elasticity</title>
 <link>https://doi.org/10.1016/j.jretai.2026.01.001</link>
 <guid isPermaLink="false">10.1016/j.jretai.2026.01.001</guid>
@@ -225,6 +216,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David de Jong; Dennis Herhausen; Stephan Ludwig; Christoph Teller; Francisco Villarroel Ordenes; Dhruv Grewal]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.02.003</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Man is the measure of all things: Evaluability and overpackaging</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.007</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.007</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Feng Jiang; Chao Fan; Su Lu; Li-Jun Ji; Guohui Sun; Luping Sun]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.007</dc:identifier>
 <description></description>
 </item>
 <item>

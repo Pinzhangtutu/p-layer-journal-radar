@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 08 Sep 2026 16:30:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 21:02:42 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -29,15 +29,6 @@
 <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tania DoCarmo]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag056</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Review of “Inside Data Science: Hackers and the Making of a New Profession”</title>
-<link>https://doi.org/10.1093/sf/soag057</link>
-<guid isPermaLink="false">10.1093/sf/soag057</guid>
-<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Justin Sola]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag057</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -157,6 +148,16 @@
 <dc:identifier>doi:10.1093/sf/soag102</dc:identifier>
 <description><![CDATA[Abstract Racial residential segregation has been pivotal in maintaining racial inequality following the Civil Rights Era. The transformation of cities by the spread of gentrification in recent decades may have mitigated these longstanding divisions or reproduced them as gentrification reorganizes residential patterns across urban space. However, the extent and nature of this relationship remain in question. We bridge theories of racial capitalism and residential sorting to test the racialized nature of gentrification’s prevalence, and we use a decomposition approach for measuring segregation to examine the relationship between the prevalence of gentrification and changes in segregation between various race-income groups from 1990 to 2019 across US metropolitan areas. We find that the prevalence of gentrification within central cities is associated with decreasing segregation between several groups—including poor Black and nonpoor White households—but also increasing segregation between poor minority and nonpoor White households in the suburbs and between nonpoor Black and White households overall. Altogether, the results highlight the changing spatial structure of segregation and the evolution of residential attainment for nonpoor Black households in the twenty-first century. They suggest that the spread of gentrification may contribute to dismantling longstanding patterns of segregation by race and class but may simultaneously contribute to new patterns of segregation in the suburbs and reinforce Black-White divisions.]]></description>
 <content:encoded><![CDATA[Abstract Racial residential segregation has been pivotal in maintaining racial inequality following the Civil Rights Era. The transformation of cities by the spread of gentrification in recent decades may have mitigated these longstanding divisions or reproduced them as gentrification reorganizes residential patterns across urban space. However, the extent and nature of this relationship remain in question. We bridge theories of racial capitalism and residential sorting to test the racialized nature of gentrification’s prevalence, and we use a decomposition approach for measuring segregation to examine the relationship between the prevalence of gentrification and changes in segregation between various race-income groups from 1990 to 2019 across US metropolitan areas. We find that the prevalence of gentrification within central cities is associated with decreasing segregation between several groups—including poor Black and nonpoor White households—but also increasing segregation between poor minority and nonpoor White households in the suburbs and between nonpoor Black and White households overall. Altogether, the results highlight the changing spatial structure of segregation and the evolution of residential attainment for nonpoor Black households in the twenty-first century. They suggest that the spread of gentrification may contribute to dismantling longstanding patterns of segregation by race and class but may simultaneously contribute to new patterns of segregation in the suburbs and reinforce Black-White divisions.]]></content:encoded>
+</item>
+<item>
+<title>Human rights and populist wrongs: how populist incumbents threaten democracy, 1990–2023</title>
+<link>https://doi.org/10.1093/sf/soag127</link>
+<guid isPermaLink="false">10.1093/sf/soag127</guid>
+<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wade M Cole]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag127</dc:identifier>
+<description><![CDATA[Abstract This paper leverages variation in respect for human rights to intervene in ongoing debates over the consequences of populism for democracy. Compiling data for 103 democratic countries between 1990 and 2023, and using a novel cross-national classification of populist leaders and parties, I examine the relationships between left-wing, centrist, and right-wing populist incumbency and 18 measures of civil, political, and social rights. Two-way fixed-effects and heterogeneity-robust difference-in-differences analyses reveal that populists do not attack human rights indiscriminately. Instead, left- and right-wing populists preside over sharp declines in core political rights that are essential to free and fair elections, including the freedoms of speech, association, and the press. Their effects on civil and social rights are more limited and vary by populist subtype, while centrist populists generally exhibit weaker effects overall. These patterns suggest that left- and right-wing populists violate human rights strategically, concentrating on rights that enable political opposition, public criticism, and democratic accountability. The findings imply that populism is destructive not merely of liberal democracy, as commonly argued, but of democracy itself. More broadly, they demonstrate the value of disaggregating populism and human rights for understanding threats to contemporary democracy.]]></description>
+<content:encoded><![CDATA[Abstract This paper leverages variation in respect for human rights to intervene in ongoing debates over the consequences of populism for democracy. Compiling data for 103 democratic countries between 1990 and 2023, and using a novel cross-national classification of populist leaders and parties, I examine the relationships between left-wing, centrist, and right-wing populist incumbency and 18 measures of civil, political, and social rights. Two-way fixed-effects and heterogeneity-robust difference-in-differences analyses reveal that populists do not attack human rights indiscriminately. Instead, left- and right-wing populists preside over sharp declines in core political rights that are essential to free and fair elections, including the freedoms of speech, association, and the press. Their effects on civil and social rights are more limited and vary by populist subtype, while centrist populists generally exhibit weaker effects overall. These patterns suggest that left- and right-wing populists violate human rights strategically, concentrating on rights that enable political opposition, public criticism, and democratic accountability. The findings imply that populism is destructive not merely of liberal democracy, as commonly argued, but of democracy itself. More broadly, they demonstrate the value of disaggregating populism and human rights for understanding threats to contemporary democracy.]]></content:encoded>
 </item>
 <item>
 <title>Higher education expansion and attainment gaps in meritocratic beliefs</title>
