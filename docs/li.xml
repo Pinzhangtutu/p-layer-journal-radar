@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 07 Sep 2026 21:26:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 08 Sep 2026 04:14:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -202,15 +202,6 @@
 <description></description>
 </item>
 <item>
-<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
@@ -226,6 +217,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kester Wong; Sahan Bulathwela; Mutlu Cukurova]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
 <description></description>
 </item>
 <item>
