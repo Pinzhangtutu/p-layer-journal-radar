@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 09 Sep 2026 11:10:30 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 16:27:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,21 +211,12 @@
 <description></description>
 </item>
 <item>
-<title>Seeking Love or Fearing Loss:Divergent Motivations in Content Creations of Mega and Micro Creators on Social Media Platforms</title>
-<link>https://doi.org/10.1016/j.im.2026.104434</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104434</guid>
+<title>Investigating the Effect of Notification Deactivation on Social Media App Usage: A Longitudinal Experiment</title>
+<link>https://doi.org/10.1016/j.im.2026.104432</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Mengyuan Wang; Yaobin Lu; Qian Chen; Lv Yang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104434</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>When Does Generative AI Adoption Pay Off? Ethical Governance as a Dynamic Capability in SMEs</title>
-<link>https://doi.org/10.1016/j.im.2026.104436</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
+<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -235,15 +226,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xin Chen; Brian C.W. Kei; Yingyu Zhong; Vincent Y. Zhuang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104435</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Investigating the Effect of Notification Deactivation on Social Media App Usage: A Longitudinal Experiment</title>
-<link>https://doi.org/10.1016/j.im.2026.104432</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -319,6 +301,24 @@
 <description></description>
 </item>
 <item>
+<title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
+<link>https://doi.org/10.1016/j.im.2026.104436</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Seeking love or fearing loss: divergent motivations in content creations of mega and micro creators on social media platforms</title>
+<link>https://doi.org/10.1016/j.im.2026.104434</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104434</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mengyuan Wang; Yaobin Lu; Qian Chen; Lv Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104434</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Actualized fitness technology affordances: Conceptualization and validation of a measurement scale</title>
 <link>https://doi.org/10.1016/j.im.2026.104420</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104420</guid>
@@ -346,21 +346,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -490,12 +490,12 @@
 <description></description>
 </item>
 <item>
-<title>The impact of corporate artificial intelligence adoption on labor employment in competitive strategic contexts</title>
-<link>https://doi.org/10.1016/j.im.2026.104400</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104400</guid>
+<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
+<link>https://doi.org/10.1016/j.im.2026.104414</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Canjun Chen; Lelin Lv; Changxin Xu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104400</dc:identifier>
+<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -508,12 +508,12 @@
 <description></description>
 </item>
 <item>
-<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
-<link>https://doi.org/10.1016/j.im.2026.104414</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
+<title>The impact of corporate artificial intelligence adoption on labor employment in competitive strategic contexts</title>
+<link>https://doi.org/10.1016/j.im.2026.104400</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104400</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
+<dc:creator><![CDATA[Canjun Chen; Lelin Lv; Changxin Xu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104400</dc:identifier>
 <description></description>
 </item>
 <item>
