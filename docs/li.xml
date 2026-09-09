@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 08 Sep 2026 21:02:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 04:21:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -202,15 +202,6 @@
 <description></description>
 </item>
 <item>
-<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
@@ -226,6 +217,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kester Wong; Sahan Bulathwela; Mutlu Cukurova]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -283,21 +283,21 @@
 <description></description>
 </item>
 <item>
-<title>Cross-fertilization of content and strategy knowledge: Bayesian insights into fostering scientific literacy in physics education</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102425</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102425</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christian M. Thurn; Sonja Peteranderl; Peter A. Edelsbrunner; Anne Deiglmayr; Juliana Keller; Ralph Schumacher; Elsbeth Stern]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102425</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Professional vision and medical education: dividing diagnoses into categories to support more effective learning in dermatology</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102434</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102434</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Salla Skön; Ilona Södervik; Alexander Salava; Auli Toom; Viljami Salmela]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102434</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cross-fertilization of content and strategy knowledge: Bayesian insights into fostering scientific literacy in physics education</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102425</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102425</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christian M. Thurn; Sonja Peteranderl; Peter A. Edelsbrunner; Anne Deiglmayr; Juliana Keller; Ralph Schumacher; Elsbeth Stern]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102425</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -598,12 +598,12 @@
 <description></description>
 </item>
 <item>
-<title>Generative AI as a psychological Empowerer: The central role of self-efficacy in developing pre-service teachers’ instructional design skills</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102390</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102390</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yun-Qi Bai]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102390</dc:identifier>
+<title>Can elementary schools compensate for disparities across Europe?</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102458</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102458</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Brüggemann; Ulrich Ludewig; Jakob Schwerter; Nele McElvany; Philipp Doebler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102458</dc:identifier>
 <description></description>
 </item>
 </channel>

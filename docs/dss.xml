@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 08 Sep 2026 21:02:42 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 04:21:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -127,6 +127,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
+<link>https://doi.org/10.1016/j.dss.2026.114774</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -577,15 +586,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Junye Lin; Liping Yang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114653</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From prompts to parameters: A prompt-free GLLM framework to measure digital activities through corporate disclosures</title>
-<link>https://doi.org/10.1016/j.dss.2026.114666</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114666</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sihang Chen; Lijian Wei; Lei Shi]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114666</dc:identifier>
 <description></description>
 </item>
 </channel>
