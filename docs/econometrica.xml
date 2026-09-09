@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 09 Sep 2026 04:21:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 11:10:30 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -118,16 +118,6 @@
 <content:encoded><![CDATA[A buyer and seller bargain in continuous time over a good. Bargainers can be rational or committed to some fixed price. A rational buyer has a private value and outside option. If the set of buyer values and commitment types is rich and the probability of commitment vanishes, outcomes are partially consistent with the Coase conjecture: the seller chooses a price below the maximum of the lowest outside option and half the lowest value; the buyer immediately accepts or takes his outside option.]]></content:encoded>
 </item>
 <item>
-<title>Work Hours Mismatch</title>
-<link>https://doi.org/10.3982/ecta21849</link>
-<guid isPermaLink="false">10.3982/ecta21849</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marta Lachowska; Alexandre Mas; Raffaele Saggio; Stephen A. Woodbury]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta21849</dc:identifier>
-<description><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></description>
-<content:encoded><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></content:encoded>
-</item>
-<item>
 <title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
 <link>https://doi.org/10.3982/ecta944sum</link>
 <guid isPermaLink="false">10.3982/ecta944sum</guid>
@@ -154,6 +144,16 @@
 <dc:identifier>doi:10.3982/ecta22733</dc:identifier>
 <description><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></description>
 <content:encoded><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></content:encoded>
+</item>
+<item>
+<title>Work Hours Mismatch</title>
+<link>https://doi.org/10.3982/ecta21849</link>
+<guid isPermaLink="false">10.3982/ecta21849</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marta Lachowska; Alexandre Mas; Raffaele Saggio; Stephen A. Woodbury]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21849</dc:identifier>
+<description><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></description>
+<content:encoded><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></content:encoded>
 </item>
 <item>
 <title>The Econometric Society 2025 Annual Report of the President</title>
@@ -232,16 +232,6 @@
 <content:encoded><![CDATA[In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).]]></content:encoded>
 </item>
 <item>
-<title>The Inference‐Forecast Gap in Belief Updating</title>
-<link>https://doi.org/10.3982/ecta23334</link>
-<guid isPermaLink="false">10.3982/ecta23334</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tony Q. Fan; Yucheng Liang; Cameron Peng]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta23334</dc:identifier>
-<description><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></description>
-<content:encoded><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></content:encoded>
-</item>
-<item>
 <title>Comment on &lt;i&gt;‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee&lt;/i&gt;</title>
 <link>https://doi.org/10.3982/ecta24210</link>
 <guid isPermaLink="false">10.3982/ecta24210</guid>
@@ -268,6 +258,16 @@
 <dc:identifier>doi:10.3982/ecta21097</dc:identifier>
 <description><![CDATA[We analyze marital matching on income using an extremely rich Dutch data set containing all income tax files over seven years. We develop a novel methodology that directly extends previous contributions to allow for highly flexible matching patterns. Investigating all marriages that took place between 2013 and 2019, we find that marital patterns are particularly intriguing. While a majority of couples match assortatively, a small but significant minority display negative assortative matching. We also show that standard approaches, which consider all married couples using current incomes (as opposed to pre‐marriage incomes used in our approach), may generate misleading conclusions.]]></description>
 <content:encoded><![CDATA[We analyze marital matching on income using an extremely rich Dutch data set containing all income tax files over seven years. We develop a novel methodology that directly extends previous contributions to allow for highly flexible matching patterns. Investigating all marriages that took place between 2013 and 2019, we find that marital patterns are particularly intriguing. While a majority of couples match assortatively, a small but significant minority display negative assortative matching. We also show that standard approaches, which consider all married couples using current incomes (as opposed to pre‐marriage incomes used in our approach), may generate misleading conclusions.]]></content:encoded>
+</item>
+<item>
+<title>The Inference‐Forecast Gap in Belief Updating</title>
+<link>https://doi.org/10.3982/ecta23334</link>
+<guid isPermaLink="false">10.3982/ecta23334</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tony Q. Fan; Yucheng Liang; Cameron Peng]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23334</dc:identifier>
+<description><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></description>
+<content:encoded><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></content:encoded>
 </item>
 <item>
 <title>Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design</title>

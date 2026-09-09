@@ -9,7 +9,7 @@
 <description>JASIST — Wiley · Latest in: Early View · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jasist.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 09 Sep 2026 04:21:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 11:10:30 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -207,6 +207,16 @@
 <dc:identifier>doi:10.1002/asi.70069</dc:identifier>
 <description><![CDATA[Abstract Understanding how reviewer self‐reported confidence shapes evaluation behavior is vital, as it influences editorial decisions, the identification of methodological flaws, and which research directions gain prominence. However, prior studies have rarely examined how self‐reported confidence affects both the breadth and depth of review content across distinct evaluative dimensions. This study addresses this gap using large‐scale data from an open peer review platform to analyze the relationship between reviewer self‐reported confidence and evaluation breadth and depth. Results show that self‐reported confidence is negatively associated with breadth, meaning reviewers with higher confidence focus on fewer dimensions. However, it is positively associated with depth, as reviewers with higher confidence provide more detailed, rigorous feedback within chosen dimensions. Dimension‐specific analyses show heterogeneous focus patterns. For soundness, reviewers with higher confidence attend to fewer aspects without adding depth; for contribution, they narrow focus but deepen feedback; for novelty, they broaden focus and increase depth. These findings align with attention allocation theory, suggesting that reviewers with higher confidence selectively allocate attention to dimensions they deem most relevant or demanding.]]></description>
 <content:encoded><![CDATA[Abstract Understanding how reviewer self‐reported confidence shapes evaluation behavior is vital, as it influences editorial decisions, the identification of methodological flaws, and which research directions gain prominence. However, prior studies have rarely examined how self‐reported confidence affects both the breadth and depth of review content across distinct evaluative dimensions. This study addresses this gap using large‐scale data from an open peer review platform to analyze the relationship between reviewer self‐reported confidence and evaluation breadth and depth. Results show that self‐reported confidence is negatively associated with breadth, meaning reviewers with higher confidence focus on fewer dimensions. However, it is positively associated with depth, as reviewers with higher confidence provide more detailed, rigorous feedback within chosen dimensions. Dimension‐specific analyses show heterogeneous focus patterns. For soundness, reviewers with higher confidence attend to fewer aspects without adding depth; for contribution, they narrow focus but deepen feedback; for novelty, they broaden focus and increase depth. These findings align with attention allocation theory, suggesting that reviewers with higher confidence selectively allocate attention to dimensions they deem most relevant or demanding.]]></content:encoded>
+</item>
+<item>
+<title>Mental health‐related information behavior among adolescents around the world: A systematic review. An Annual Review of Information Science and Technology (ARIST) paper</title>
+<link>https://doi.org/10.1002/asi.70116</link>
+<guid isPermaLink="false">10.1002/asi.70116</guid>
+<pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiaofeng Li; Xiaojun Yuan; Qingyue Guo]]></dc:creator>
+<dc:identifier>doi:10.1002/asi.70116</dc:identifier>
+<description><![CDATA[Abstract Adolescence is a developmental period when many young people develop mental health challenges. This systematic review synthesizes the evidence from the Library and Information Science and cognate literature on the information behavior of adolescents as they seek information on mental health problems. By identifying general patterns of information seeking, information sharing, and information use, the review aims to inform the design of information services for young people. The databases searched were Web of Science, Scopus , Library & Information Science Abstracts , and the ACM Digital Library from 2013 to July 18, 2024. Of the 3114 items retrieved, 18 met the inclusion criteria, and backward citation chaining identified one additional eligible article, resulting in 19 studies focused on adolescents aged 13–19 years and examining mental health‐related information behavior, information literacy, or help‐seeking. Findings indicated that adolescents engaged in dynamic information behavior, including active seeking, avoiding, passive encountering, and combining information seeking with social interactions. These behaviors were influenced by individual characteristics, sociocultural factors, and technological affordances. The findings suggest that effective mental health information services should promote mental health literacy, improve the discoverability of trustworthy and developmentally appropriate information, and foster collaboration among information professionals, educators, health professionals, and system designers.]]></description>
+<content:encoded><![CDATA[Abstract Adolescence is a developmental period when many young people develop mental health challenges. This systematic review synthesizes the evidence from the Library and Information Science and cognate literature on the information behavior of adolescents as they seek information on mental health problems. By identifying general patterns of information seeking, information sharing, and information use, the review aims to inform the design of information services for young people. The databases searched were Web of Science, Scopus , Library & Information Science Abstracts , and the ACM Digital Library from 2013 to July 18, 2024. Of the 3114 items retrieved, 18 met the inclusion criteria, and backward citation chaining identified one additional eligible article, resulting in 19 studies focused on adolescents aged 13–19 years and examining mental health‐related information behavior, information literacy, or help‐seeking. Findings indicated that adolescents engaged in dynamic information behavior, including active seeking, avoiding, passive encountering, and combining information seeking with social interactions. These behaviors were influenced by individual characteristics, sociocultural factors, and technological affordances. The findings suggest that effective mental health information services should promote mental health literacy, improve the discoverability of trustworthy and developmentally appropriate information, and foster collaboration among information professionals, educators, health professionals, and system designers.]]></content:encoded>
 </item>
 <item>
 <title>Community intermediary strategies and tactics to close digital divides and enhance equitable technology use in everyday life</title>
@@ -527,14 +537,6 @@
 <guid isPermaLink="false">10.1002/asi.70047</guid>
 <pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1002/asi.70047</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Issue Information</title>
-<link>https://doi.org/10.1002/asi.24928</link>
-<guid isPermaLink="false">10.1002/asi.24928</guid>
-<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1002/asi.24928</dc:identifier>
 <description></description>
 </item>
 <item>

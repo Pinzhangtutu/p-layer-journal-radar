@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 09 Sep 2026 04:21:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 09 Sep 2026 11:10:30 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -593,14 +593,14 @@
 <content:encoded><![CDATA[Abstract We study the effect of entry on the price distribution in the German retail gasoline market. Exploiting several hundred entries over five years in an event study design, we find that entry causes a persistent first-order stochastic shift in the price distribution for at least three years after entry. Prices at the top of the distribution change moderately or not at all, but prices at the left tail decrease by up to 13% (9%) of stations’ gross margins after entry within a 1 km (2 km) radius. The value of information (VOI) increases by 29% (15%) in 1 km (2 km) markets, suggesting larger savings for consumers with easy access to information.]]></content:encoded>
 </item>
 <item>
-<title>The Lock-In Effect and the Corporate Payout Puzzle,</title>
+<title>The Lock-In Effect and the Corporate Payout Puzzle</title>
 <link>https://doi.org/10.1093/jeea/jvag043</link>
 <guid isPermaLink="false">10.1093/jeea/jvag043</guid>
 <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Chris Mitchell]]></dc:creator>
 <dc:identifier>doi:10.1093/jeea/jvag043</dc:identifier>
-<description><![CDATA[Abstract Taxes on capital gains are deferred until realization whereas dividends are taxed upon accrual. This often makes dividends tax disadvantaged relative to share repurchases, which leads to the payout puzzle: why do firms pay dividends? This paper demonstrates that tax deferment can also provide a solution to this puzzle: if shareholders with an accrued capital gain and a non-zero investment horizon demand a premium to sell equity—as compensation for accelerated realizations (and taxation)—then dividends can become tax efficient. This mechanism is appealing because it can explain dividend payments without appealing to asymmetric information, incomplete contracting, repurchase constraints, and/or irrationality.]]></description>
-<content:encoded><![CDATA[Abstract Taxes on capital gains are deferred until realization whereas dividends are taxed upon accrual. This often makes dividends tax disadvantaged relative to share repurchases, which leads to the payout puzzle: why do firms pay dividends? This paper demonstrates that tax deferment can also provide a solution to this puzzle: if shareholders with an accrued capital gain and a non-zero investment horizon demand a premium to sell equity—as compensation for accelerated realizations (and taxation)—then dividends can become tax efficient. This mechanism is appealing because it can explain dividend payments without appealing to asymmetric information, incomplete contracting, repurchase constraints, and/or irrationality.]]></content:encoded>
+<description><![CDATA[Abstract Taxes on capital gains are deferred until realization whereas dividends are taxed upon accrual. This often makes dividends tax-disadvantaged relative to share repurchases, which leads to the payout puzzle: why do firms pay dividends? This paper demonstrates that tax deferment can also provide a solution to this puzzle: if shareholders with an accrued capital gain and a non-zero investment horizon demand a premium to sell equity—as compensation for accelerated realizations (and taxation)—then dividends can become tax efficient. This mechanism is appealing because it can explain dividend payments without appealing to asymmetric information, incomplete contracting, repurchase constraints, and/or irrationality.]]></description>
+<content:encoded><![CDATA[Abstract Taxes on capital gains are deferred until realization whereas dividends are taxed upon accrual. This often makes dividends tax-disadvantaged relative to share repurchases, which leads to the payout puzzle: why do firms pay dividends? This paper demonstrates that tax deferment can also provide a solution to this puzzle: if shareholders with an accrued capital gain and a non-zero investment horizon demand a premium to sell equity—as compensation for accelerated realizations (and taxation)—then dividends can become tax efficient. This mechanism is appealing because it can explain dividend payments without appealing to asymmetric information, incomplete contracting, repurchase constraints, and/or irrationality.]]></content:encoded>
 </item>
 <item>
 <title>Political Interdependence: Evidence from Emigrant Voter Turnout in 1,267 Elections Worldwide</title>
