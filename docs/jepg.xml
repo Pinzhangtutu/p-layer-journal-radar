@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 16:16:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:46:32 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -305,6 +305,31 @@
 <description></description>
 </item>
 <item>
+<title>Joint perception biases subjective awareness reports.</title>
+<link>https://doi.org/10.1037/xge0002001</link>
+<guid isPermaLink="false">10.1037/xge0002001</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjy Barnett; Daniel Yon]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002001</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Adaptive Regulation of Confidence Following Metacognitive Conflict: Evidence From Behavior and Computational Modeling</title>
+<link>https://doi.org/10.1037/xge0001997.supp</link>
+<guid isPermaLink="false">10.1037/xge0001997.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/xge0001997.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for From Gestalt Boundary to Psychological Border: Perceptual Structure Constrains Strategic Planning and Intention Inference</title>
+<link>https://doi.org/10.1037/xge0001977.supp</link>
+<guid isPermaLink="false">10.1037/xge0001977.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/xge0001977.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Supplemental Material for Artificial Intelligence and Machines Are Capable of Harm, but Not of Experiencing Punishment</title>
 <link>https://doi.org/10.1037/xge0001930.supp</link>
 <guid isPermaLink="false">10.1037/xge0001930.supp</guid>
@@ -550,33 +575,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ricardo Morales-Torres; Tobias Egner]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001912</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Children learn what is right or wrong selectively from a legitimate authority’s punishment.</title>
-<link>https://doi.org/10.1037/xge0001927</link>
-<guid isPermaLink="false">10.1037/xge0001927</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Young-eun Lee; Setayesh Radkani; Rebecca Saxe]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001927</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The boundaries and ontogeny of myside bias.</title>
-<link>https://doi.org/10.1037/xge0001932</link>
-<guid isPermaLink="false">10.1037/xge0001932</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[F. Ece Özkan; Samuel Ronfard]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001932</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Attributing experts' achievements to effort rather than to natural ability leads to better performance.</title>
-<link>https://doi.org/10.1037/xge0001916</link>
-<guid isPermaLink="false">10.1037/xge0001916</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nuria Tolsá-Caballero; Chia-Jung Tsay]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001916</dc:identifier>
 <description></description>
 </item>
 </channel>

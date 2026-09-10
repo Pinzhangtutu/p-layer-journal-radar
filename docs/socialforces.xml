@@ -9,28 +9,9 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 16:16:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:46:32 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>What we talk about when we talk about guns: four decades of firearms coverage in the &lt;i&gt;New York Times&lt;/i&gt;</title>
-<link>https://doi.org/10.1093/sf/soag060</link>
-<guid isPermaLink="false">10.1093/sf/soag060</guid>
-<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Brett C Burkhardt; Aimee Dinnín Huff]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag060</dc:identifier>
-<description><![CDATA[Abstract Guns are potent cultural objects in the United States, a fact that has spurred much recent social science research. Much of that work examines the beliefs, discourses, and actions of gun enthusiasts. Less understood are the cultural dimensions of guns in the wider population, where gun owners are in the minority. This paper considers the cultural life of guns by studying the language used to depict them in a prominent US mass media outlet over four decades. We use structural topic modeling to describe the New York Times’ coverage of guns from 1980 to 2019. The analysis reveals that the coverage centers danger and societal responses to it, albeit in different ways over time. Whereas local street violence and criminal punishment dominated coverage during much of the time period, high-profile mass shootings and efforts at federal legislation have become more salient in recent years. In examining depictions of guns in mass media, the paper contributes to a growing body of literature on the cultural life of guns in US society.]]></description>
-<content:encoded><![CDATA[Abstract Guns are potent cultural objects in the United States, a fact that has spurred much recent social science research. Much of that work examines the beliefs, discourses, and actions of gun enthusiasts. Less understood are the cultural dimensions of guns in the wider population, where gun owners are in the minority. This paper considers the cultural life of guns by studying the language used to depict them in a prominent US mass media outlet over four decades. We use structural topic modeling to describe the New York Times’ coverage of guns from 1980 to 2019. The analysis reveals that the coverage centers danger and societal responses to it, albeit in different ways over time. Whereas local street violence and criminal punishment dominated coverage during much of the time period, high-profile mass shootings and efforts at federal legislation have become more salient in recent years. In examining depictions of guns in mass media, the paper contributes to a growing body of literature on the cultural life of guns in US society.]]></content:encoded>
-</item>
-<item>
-<title>Review of “Reimagining Aid: Foreign Donors, Women’s Health, and New Paths for Development in Cambodia”</title>
-<link>https://doi.org/10.1093/sf/soag056</link>
-<guid isPermaLink="false">10.1093/sf/soag056</guid>
-<pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tania DoCarmo]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag056</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>Beyond hiring: the dynamics of ethnic disparities in unemployment</title>
 <link>https://doi.org/10.1093/sf/soag121</link>
@@ -309,6 +290,25 @@
 <dc:identifier>doi:10.1093/sf/soag064</dc:identifier>
 <description><![CDATA[Abstract Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others. We posit that these two dimensions—merit of self and merit of others—are distinct, with different implications for redistributive preferences, and varying salience across national contexts. Using data from elite surveys in Brazil and South Africa, we examine whose merit matters for giving income to policies (transfers) versus taking income from policies (taxation). We show that elites are more likely to credit their own success to hard work than to attribute poverty to lack of effort, and that these two dimensions are independent. Perceiving the poor as effortless, rather than elites as hard-working, predict opposition to transfers. In contrast, elites' perceptions of self play a context-dependent role. In Brazil, they are associated with opposition to taxation but are confounded with political identification, while in South Africa, redistributive preferences are structured primarily by racial identification. We interpret these cross-national differences considering distinct trajectories of state-building and inequality.]]></description>
 <content:encoded><![CDATA[Abstract Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others. We posit that these two dimensions—merit of self and merit of others—are distinct, with different implications for redistributive preferences, and varying salience across national contexts. Using data from elite surveys in Brazil and South Africa, we examine whose merit matters for giving income to policies (transfers) versus taking income from policies (taxation). We show that elites are more likely to credit their own success to hard work than to attribute poverty to lack of effort, and that these two dimensions are independent. Perceiving the poor as effortless, rather than elites as hard-working, predict opposition to transfers. In contrast, elites' perceptions of self play a context-dependent role. In Brazil, they are associated with opposition to taxation but are confounded with political identification, while in South Africa, redistributive preferences are structured primarily by racial identification. We interpret these cross-national differences considering distinct trajectories of state-building and inequality.]]></content:encoded>
+</item>
+<item>
+<title>School preferences across countries and social groups: a factorial survey experiment in the United States, Germany and Italy</title>
+<link>https://doi.org/10.1093/sf/soag130</link>
+<guid isPermaLink="false">10.1093/sf/soag130</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Guido Salza; Moris Triventi]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag130</dc:identifier>
+<description><![CDATA[Abstract This paper examines whether evaluations of primary-school characteristics vary across national and social contexts. Using a factorial survey experiment with more than 2500 respondents in the United States, Germany, and Italy, participants evaluated hypothetical schools differing in six attributes. By holding information, cost, and proximity constant, the design isolates stated preferences from several constraints that shape observed school choices. Multilevel models estimate the effects of school attributes on enrolment intention, perceived academic effectiveness, and expected social integration. Two findings stand out. First, respondents with and without university education evaluate school characteristics in remarkably similar ways, providing limited evidence that school preferences are strongly stratified by educational background. Second, although the general pattern of evaluations is broadly similar across countries, the relative effects of particular attributes vary: U.S. respondents are more responsive to school performance levels, Italian respondents to academic growth, and extracurricular activities and parental involvement also differ in salience across contexts. Respondents react significantly to all six school attributes across the three evaluative dimensions, indicating that school preferences are shaped by multiple academic, social, and organizational considerations. Overall, our findings suggest that cross-national and social inequalities in school attendance are unlikely to be explained by preference differences alone.]]></description>
+<content:encoded><![CDATA[Abstract This paper examines whether evaluations of primary-school characteristics vary across national and social contexts. Using a factorial survey experiment with more than 2500 respondents in the United States, Germany, and Italy, participants evaluated hypothetical schools differing in six attributes. By holding information, cost, and proximity constant, the design isolates stated preferences from several constraints that shape observed school choices. Multilevel models estimate the effects of school attributes on enrolment intention, perceived academic effectiveness, and expected social integration. Two findings stand out. First, respondents with and without university education evaluate school characteristics in remarkably similar ways, providing limited evidence that school preferences are strongly stratified by educational background. Second, although the general pattern of evaluations is broadly similar across countries, the relative effects of particular attributes vary: U.S. respondents are more responsive to school performance levels, Italian respondents to academic growth, and extracurricular activities and parental involvement also differ in salience across contexts. Respondents react significantly to all six school attributes across the three evaluative dimensions, indicating that school preferences are shaped by multiple academic, social, and organizational considerations. Overall, our findings suggest that cross-national and social inequalities in school attendance are unlikely to be explained by preference differences alone.]]></content:encoded>
+</item>
+<item>
+<title>Review of “Life After Epidemics: Ebola Survivors and the Social Dimensions of Recovery”</title>
+<link>https://doi.org/10.1093/sf/soag115</link>
+<guid isPermaLink="false">10.1093/sf/soag115</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alexandre White]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag115</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Having a child through medically assisted reproduction: a social stratification perspective</title>

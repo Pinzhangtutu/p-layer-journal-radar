@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 16:16:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:46:32 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -216,6 +216,64 @@
 <guid isPermaLink="false">10.1037/pspi0000525.supp</guid>
 <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000525.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for How Power Shapes Judgments of Culpability: Shield or Liability?</title>
+<link>https://doi.org/10.1037/pspi0000532.supp</link>
+<guid isPermaLink="false">10.1037/pspi0000532.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspi0000532.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Evaluating the predictive model for national life satisfaction from the world happiness report, between and within nations.</title>
+<link>https://doi.org/10.1037/pspp0000621</link>
+<guid isPermaLink="false">10.1037/pspp0000621</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael A. Busseri]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000621</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>“Yeah, it’s biased, but … ”: Recognition versus moral condemnation of bias across party lines.</title>
+<link>https://doi.org/10.1037/pspa0000492</link>
+<guid isPermaLink="false">10.1037/pspa0000492</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hannah B. Waldfogel; Brittany C. Solomon; Matthew E. K. Hall]]></dc:creator>
+<dc:identifier>doi:10.1037/pspa0000492</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
+<link>https://doi.org/10.1037/pspp0000612.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for From People to Prompts: Understanding Susceptibility to Persuasion in Conversations With Artificial Intelligence</title>
+<link>https://doi.org/10.1037/pspi0000531.supp</link>
+<guid isPermaLink="false">10.1037/pspi0000531.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspi0000531.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Equality in the Eye of the Advantaged Beholder: Group Status Shapes Perceptions of Equality as Zero-Sum</title>
+<link>https://doi.org/10.1037/pspi0000535.supp</link>
+<guid isPermaLink="false">10.1037/pspi0000535.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspi0000535.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for When and Why Are Social Categories Overused Relative to Individuating Information? A Bayesian Approach to Identifying Biases in Impression Formation Processes</title>
+<link>https://doi.org/10.1037/pspa0000495.supp</link>
+<guid isPermaLink="false">10.1037/pspa0000495.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspa0000495.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -485,15 +543,6 @@
 <description></description>
 </item>
 <item>
-<title>Genetic and environmental factors underlying the associations between attachment styles and mental and physical health.</title>
-<link>https://doi.org/10.1037/pspi0000518</link>
-<guid isPermaLink="false">10.1037/pspi0000518</guid>
-<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Keely A. Dugan; Jacob J. Kunkel; Stefania V. Vacaru; R. Chris Fraley; Theodore E. A. Waters; Matthew McGue; Robert F. Krueger; Glenn I. Roisman]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000518</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Self-Efficacy Predicts Differential Neuroticism Change in a Smartphone-Based Intervention</title>
 <link>https://doi.org/10.1037/pspp0000610.supp</link>
 <guid isPermaLink="false">10.1037/pspp0000610.supp</guid>
@@ -560,60 +609,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Karl E. Conroy; R. Chris Fraley]]></dc:creator>
 <dc:identifier>doi:10.1037/pspp0000590</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>On the relationship between indirect measures of Black versus White racial attitudes and discriminatory outcomes: An adversarial collaboration using a sample of White Americans.</title>
-<link>https://doi.org/10.1037/pspa0000480</link>
-<guid isPermaLink="false">10.1037/pspa0000480</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jordan R. Axt; Paul Connor; Suzanne Hoogeveen; Cory J. Clark; Michelangelo Vianello; Joanna N. Lahey; Adam Hahn; Jeffrey To; Richard E. Petty; Thomas H. Costello; Gregory Mitchell; Philip E. Tetlock; Eric Luis Uhlmann]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000480</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Conversations about boring topics are more interesting than we think.</title>
-<link>https://doi.org/10.1037/pspi0000521</link>
-<guid isPermaLink="false">10.1037/pspi0000521</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Elizabeth N. Trinh; Nicole Thio; Nadav Klein]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000521</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The environment impressions model.</title>
-<link>https://doi.org/10.1037/pspa0000485</link>
-<guid isPermaLink="false">10.1037/pspa0000485</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Travis Lim; Eric Hehman]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000485</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Face the difference: Metacontrast as an affordance to spontaneous social categorization.</title>
-<link>https://doi.org/10.1037/pspa0000478</link>
-<guid isPermaLink="false">10.1037/pspa0000478</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Verena Heidrich; Felicitas Flade; Roland Imhoff]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000478</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The uniquely powerful impact of explicit, blatant dehumanization on support for intergroup violence.</title>
-<link>https://doi.org/10.1037/pspi0000492</link>
-<guid isPermaLink="false">10.1037/pspi0000492</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alexander P. Landry; Isaias Ghezae; Ramzi Abou-Ismail; Sarah Spooner; River J. August; Charlotte Mair; Anya Ragnhildstveit; Wim Van den Noortgate; Michele J. Gelfand; Paul Seli]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000492</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Transcending embarrassment: On the reputational benefits of laughing at yourself.</title>
-<link>https://doi.org/10.1037/pspa0000477</link>
-<guid isPermaLink="false">10.1037/pspa0000477</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Selin Goksel; Ovul Sezer; Jonathan Z. Berman]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000477</dc:identifier>
 <description></description>
 </item>
 </channel>

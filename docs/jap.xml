@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 16:16:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:46:32 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -215,6 +215,31 @@
 <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dustin Maneethai; Robert Eisenberger; Thomas Rockstuhl; Dongyuan Wu; Blaine A. Lewis]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001389</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Do Interactions Matter? Assessing the Role of Job Characteristics Interactions on Employee Well-Being</title>
+<link>https://doi.org/10.1037/apl0001414.supp</link>
+<guid isPermaLink="false">10.1037/apl0001414.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/apl0001414.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Critical mass theory: An integrative conceptual review.</title>
+<link>https://doi.org/10.1037/apl0001408</link>
+<guid isPermaLink="false">10.1037/apl0001408</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Traci Sitzmann; Rong Su; Zhengyan Kang]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001408</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Adverse Impact, Job Performance, and Diversity Outcomes of Applicant Attraction: A Simulation and Paradox</title>
+<link>https://doi.org/10.1037/apl0001412.supp</link>
+<guid isPermaLink="false">10.1037/apl0001412.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/apl0001412.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -604,15 +629,6 @@
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jaee Cho; Michael W. Morris; Hayley Blunden; Jie (Kassie) Li; Jingzhou Pan]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001340</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>No rest for the weary: Pay uncertainty reduces engagement in recovery.</title>
-<link>https://doi.org/10.1037/apl0001335</link>
-<guid isPermaLink="false">10.1037/apl0001335</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Brice Corgnet; Roberto Hernán-González; Gordon M. Sayre; Simon Gächter]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001335</dc:identifier>
 <description></description>
 </item>
 </channel>

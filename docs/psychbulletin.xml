@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 16:16:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 20:46:32 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -139,38 +139,20 @@
 <description></description>
 </item>
 <item>
-<title>Ignored, dismissed, and minimized: Understanding the harmful consequences of invalidation in health care—A systematic meta-synthesis of qualitative research.</title>
-<link>https://doi.org/10.1037/bul0000473</link>
-<guid isPermaLink="false">10.1037/bul0000473</guid>
-<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Allyson C. Bontempo; John M. Bontempo; Paul R. Duberstein]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000473</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Handedness in mental and neurodevelopmental disorders: A systematic review and second-order meta-analysis.</title>
-<link>https://doi.org/10.1037/bul0000471</link>
-<guid isPermaLink="false">10.1037/bul0000471</guid>
-<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Julian Packheiser; Jette Borawski; Gesa Berretz; Sarah Alina Merklein; Marietta Papadatou-Pastou; Sebastian Ocklenburg]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000471</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Does the Variance of Personality Traits Change Across the Lifespan? A Meta-Analytic Review of Longitudinal Studies</title>
-<link>https://doi.org/10.1037/bul0000523.supp</link>
-<guid isPermaLink="false">10.1037/bul0000523.supp</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/bul0000523.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Do money and time change who you are? A continuous time meta-analysis and review of reciprocal relationships between personality traits and income.</title>
 <link>https://doi.org/10.1037/bul0000526</link>
 <guid isPermaLink="false">10.1037/bul0000526</guid>
 <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Wen-Dong Li; Kaili Yu; Weiwen Yang; Zhen Zhang; Xin Zhang; Christian Dormann; Huanxi Zhang; Yanglei Zheng]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000526</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for A Social Cascades Model of Addiction: Examining Effects of Psychological Interventions on Social and Substance Use Outcomes via Meta-Analytic Review</title>
+<link>https://doi.org/10.1037/bul0000533.supp</link>
+<guid isPermaLink="false">10.1037/bul0000533.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000533.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -210,6 +192,14 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Does the Variance of Personality Traits Change Across the Lifespan? A Meta-Analytic Review of Longitudinal Studies</title>
+<link>https://doi.org/10.1037/bul0000523.supp</link>
+<guid isPermaLink="false">10.1037/bul0000523.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000523.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Interstimulus interval effects on habituation: A systematic review with theoretical implications.</title>
 <link>https://doi.org/10.1037/bul0000511</link>
 <guid isPermaLink="false">10.1037/bul0000511</guid>
@@ -240,6 +230,14 @@
 <guid isPermaLink="false">10.1037/bul0000514.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000514.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Physiological Responses to Acute Psychological Stress as a Biomarker for Depression: A Systematic Review and Meta-Analysis</title>
+<link>https://doi.org/10.1037/bul0000529.supp</link>
+<guid isPermaLink="false">10.1037/bul0000529.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000529.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -322,6 +320,22 @@
 <guid isPermaLink="false">10.1037/bul0000525.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000525.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for The Neural Correlates of Consciousness: A Systematic Review and Meta-Analysis of the Visual Awareness Negativity and P3b</title>
+<link>https://doi.org/10.1037/bul0000521.supp</link>
+<guid isPermaLink="false">10.1037/bul0000521.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000521.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Do Money and Time Change Who You Are? A Continuous Time Meta-Analysis and Review of Reciprocal Relationships Between Personality Traits and Income</title>
+<link>https://doi.org/10.1037/bul0000526.supp</link>
+<guid isPermaLink="false">10.1037/bul0000526.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000526.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -484,23 +498,6 @@
 <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lucy Karwatowska; Francesca Solmi; Jessie R. Baldwin; Sara R. Jaffee; Essi Viding; Jean-Baptiste Pingault; Bianca Lucia De Stavola]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000495</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Social class and prosociality: A meta-analytic review.</title>
-<link>https://doi.org/10.1037/bul0000469</link>
-<guid isPermaLink="false">10.1037/bul0000469</guid>
-<pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Junhui Wu; Daniel Balliet; Mingliang Yuan; Wenqi Li; Yanyan Chen; Shuxian Jin; Shenghua Luan; Paul A. M. Van Lange]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000469</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Do Money and Time Change Who You Are? A Continuous Time Meta-Analysis and Review of Reciprocal Relationships Between Personality Traits and Income</title>
-<link>https://doi.org/10.1037/bul0000526.supp</link>
-<guid isPermaLink="false">10.1037/bul0000526.supp</guid>
-<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/bul0000526.supp</dc:identifier>
 <description></description>
 </item>
 <item>
