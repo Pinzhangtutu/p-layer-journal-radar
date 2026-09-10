@@ -9,7 +9,7 @@
 <description>GOM — SAGE · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/gom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 11:07:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 16:16:27 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -39,15 +39,6 @@
 <pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Peter D. Harms; Bradley J. Brummel]]></dc:creator>
 <dc:identifier>doi:10.1177/10596011251410684</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A Commentary on Percival Carter and Obenauer (2025): Why Some Organizations Are Motivated to Maintain Discriminatory Practices</title>
-<link>https://doi.org/10.1177/10596011251411353</link>
-<guid isPermaLink="false">10.1177/10596011251411353</guid>
-<pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zhanna Lyubykh]]></dc:creator>
-<dc:identifier>doi:10.1177/10596011251411353</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -303,6 +294,16 @@
 <dc:identifier>doi:10.1177/10596011261460498</dc:identifier>
 <description><![CDATA[Digital collaboration tools (DCTs), such as Microsoft Teams and DingTalk, are essential in the functioning of virtual teams. However, existing research on how these technologies influence coordination among virtual team members remains underexplored. This study investigates how DCT-enabled disclosure awareness—the extent to which virtual team members are aware of each other’s personal information via DCTs—influences team functioning. Drawing on adaptive structuration theory, we argue that DCT-enabled disclosure awareness positively affects team coordination and, subsequently, team performance. In addition, we propose that power and status hierarchies moderate this relationship, such that the positive impact of DCT-enabled disclosure awareness is stronger when power hierarchy is low or status hierarchy is high. Our hypotheses are supported by multi-source, multi-wave field survey data from 130 virtual teams. These findings provide new insights into virtual team management in the era of organizational digitalization, specifically highlighting how virtual teams can leverage digital technologies to improve performance.]]></description>
 <content:encoded><![CDATA[Digital collaboration tools (DCTs), such as Microsoft Teams and DingTalk, are essential in the functioning of virtual teams. However, existing research on how these technologies influence coordination among virtual team members remains underexplored. This study investigates how DCT-enabled disclosure awareness—the extent to which virtual team members are aware of each other’s personal information via DCTs—influences team functioning. Drawing on adaptive structuration theory, we argue that DCT-enabled disclosure awareness positively affects team coordination and, subsequently, team performance. In addition, we propose that power and status hierarchies moderate this relationship, such that the positive impact of DCT-enabled disclosure awareness is stronger when power hierarchy is low or status hierarchy is high. Our hypotheses are supported by multi-source, multi-wave field survey data from 130 virtual teams. These findings provide new insights into virtual team management in the era of organizational digitalization, specifically highlighting how virtual teams can leverage digital technologies to improve performance.]]></content:encoded>
+</item>
+<item>
+<title>A Commentary on Perrigino and Raveendhran’s “A Theory of Strategic Boundary Control for Remote Work”: Boundary not Borderless</title>
+<link>https://doi.org/10.1177/10596011261487538</link>
+<guid isPermaLink="false">10.1177/10596011261487538</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[František Sudzina; Michal Jirásek]]></dc:creator>
+<dc:identifier>doi:10.1177/10596011261487538</dc:identifier>
+<description><![CDATA[Perrigino and Raveendhran's (2025) theory of strategic boundary control for remote work offers a strong framework for aligning human resource management (HRM) systems with the design of work-nonwork boundaries. We argue that this theory is fundamentally an ostensive account: it specifies the intended architecture of boundary control configurations but is silent on how these designs are performatively enacted once employees interact with the technologies that implement them. Drawing on routine dynamics and technology-in-practice research, we contend that the effects of any boundary control configuration on organizational performance are mediated by how employees appropriate, adapt, and circumvent the underlying technology. We extend the theory by proposing three boundary conditions, each tied to a distinct performative response. First, behavior-oriented control's benefits are contingent on technology re-adaptability: strict monitoring and connectivity mandates can trigger psychological reactance and technostress that inadvertently enable cyberslacking. Second, output-oriented control's benefits depend on task-technology fit: when monitoring platforms poorly suit employees' actual tasks, autonomy encourages job crafting through unsanctioned tools, eroding the visibility such control requires. Third, technical controls' benefits depend on Shadow IT's accessibility: overly rigid restrictions push employees toward unauthorized applications to sustain collaboration and social connection, undermining the controls meant to focus attention. Together, these boundary conditions show that employee enactment is a critical determinant of whether formal boundary control systems succeed. We conclude that effective HRM design cannot rely solely on top-down specification; it must anticipate the adaptive, performative ways employees enact workplace technology.]]></description>
+<content:encoded><![CDATA[Perrigino and Raveendhran's (2025) theory of strategic boundary control for remote work offers a strong framework for aligning human resource management (HRM) systems with the design of work-nonwork boundaries. We argue that this theory is fundamentally an ostensive account: it specifies the intended architecture of boundary control configurations but is silent on how these designs are performatively enacted once employees interact with the technologies that implement them. Drawing on routine dynamics and technology-in-practice research, we contend that the effects of any boundary control configuration on organizational performance are mediated by how employees appropriate, adapt, and circumvent the underlying technology. We extend the theory by proposing three boundary conditions, each tied to a distinct performative response. First, behavior-oriented control's benefits are contingent on technology re-adaptability: strict monitoring and connectivity mandates can trigger psychological reactance and technostress that inadvertently enable cyberslacking. Second, output-oriented control's benefits depend on task-technology fit: when monitoring platforms poorly suit employees' actual tasks, autonomy encourages job crafting through unsanctioned tools, eroding the visibility such control requires. Third, technical controls' benefits depend on Shadow IT's accessibility: overly rigid restrictions push employees toward unauthorized applications to sustain collaboration and social connection, undermining the controls meant to focus attention. Together, these boundary conditions show that employee enactment is a critical determinant of whether formal boundary control systems succeed. We conclude that effective HRM design cannot rely solely on top-down specification; it must anticipate the adaptive, performative ways employees enact workplace technology.]]></content:encoded>
 </item>
 <item>
 <title>CSR Mirror: A Social Media Analysis of Corporate Social Responsibility Discourse</title>
