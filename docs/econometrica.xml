@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 09 Sep 2026 20:50:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 04:18:29 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -60,16 +60,6 @@
 <content:encoded><![CDATA[The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one‐third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high‐risk and price‐inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre‐CARD‐Act markups was crucial for realizing these surplus gains.]]></content:encoded>
 </item>
 <item>
-<title>A Quest for Knowledge</title>
-<link>https://doi.org/10.3982/ecta22144</link>
-<guid isPermaLink="false">10.3982/ecta22144</guid>
-<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christoph Carnehl; Johannes Schneider]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta22144</dc:identifier>
-<description><![CDATA[Is more novel research always desirable? We develop a model in which knowledge shapes society's policies and guides the search for discoveries. Researchers select a question and how intensely to study it. The novelty of a question determines both the value and difficulty of discovering its answer. We show that the benefits of discoveries are nonmonotone in novelty. Knowledge expands endogenously step‐by‐step over time. Through a dynamic externality, moonshots—research on questions more novel than what is myopically optimal—can improve the evolution of knowledge. Moonshots induce research cycles in which subsequent researchers connect the moonshot to previous knowledge.]]></description>
-<content:encoded><![CDATA[Is more novel research always desirable? We develop a model in which knowledge shapes society's policies and guides the search for discoveries. Researchers select a question and how intensely to study it. The novelty of a question determines both the value and difficulty of discovering its answer. We show that the benefits of discoveries are nonmonotone in novelty. Knowledge expands endogenously step‐by‐step over time. Through a dynamic externality, moonshots—research on questions more novel than what is myopically optimal—can improve the evolution of knowledge. Moonshots induce research cycles in which subsequent researchers connect the moonshot to previous knowledge.]]></content:encoded>
-</item>
-<item>
 <title>Auctioning Control and Cash‐Flow Rights Separately</title>
 <link>https://doi.org/10.3982/ecta21343</link>
 <guid isPermaLink="false">10.3982/ecta21343</guid>
@@ -78,6 +68,16 @@
 <dc:identifier>doi:10.3982/ecta21343</dc:identifier>
 <description><![CDATA[We consider a classical auction setting in which an asset/project is sold to buyers who privately receive signals about expected payoffs, and payoffs are more sensitive to a bidder's signal if he runs the project than if another bidder does. We show that a seller can increase revenues by sometimes allocating cash‐flow rights and control to different bidders, for example, with the highest bidder receiving cash flows and the second‐highest receiving control. Separation reduces a bidder's information rent, which depends on the importance of his private information for the value of his awarded cash flows. As project payoffs are most sensitive to a bidder's information if he controls the project, allocating cash flow to another bidder lowers bidders' informational advantage. As a result, when signals are close, the seller can increase revenues by splitting rights between the top two bidders.]]></description>
 <content:encoded><![CDATA[We consider a classical auction setting in which an asset/project is sold to buyers who privately receive signals about expected payoffs, and payoffs are more sensitive to a bidder's signal if he runs the project than if another bidder does. We show that a seller can increase revenues by sometimes allocating cash‐flow rights and control to different bidders, for example, with the highest bidder receiving cash flows and the second‐highest receiving control. Separation reduces a bidder's information rent, which depends on the importance of his private information for the value of his awarded cash flows. As project payoffs are most sensitive to a bidder's information if he controls the project, allocating cash flow to another bidder lowers bidders' informational advantage. As a result, when signals are close, the seller can increase revenues by splitting rights between the top two bidders.]]></content:encoded>
+</item>
+<item>
+<title>A Quest for Knowledge</title>
+<link>https://doi.org/10.3982/ecta22144</link>
+<guid isPermaLink="false">10.3982/ecta22144</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christoph Carnehl; Johannes Schneider]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22144</dc:identifier>
+<description><![CDATA[Is more novel research always desirable? We develop a model in which knowledge shapes society's policies and guides the search for discoveries. Researchers select a question and how intensely to study it. The novelty of a question determines both the value and difficulty of discovering its answer. We show that the benefits of discoveries are nonmonotone in novelty. Knowledge expands endogenously step‐by‐step over time. Through a dynamic externality, moonshots—research on questions more novel than what is myopically optimal—can improve the evolution of knowledge. Moonshots induce research cycles in which subsequent researchers connect the moonshot to previous knowledge.]]></description>
+<content:encoded><![CDATA[Is more novel research always desirable? We develop a model in which knowledge shapes society's policies and guides the search for discoveries. Researchers select a question and how intensely to study it. The novelty of a question determines both the value and difficulty of discovering its answer. We show that the benefits of discoveries are nonmonotone in novelty. Knowledge expands endogenously step‐by‐step over time. Through a dynamic externality, moonshots—research on questions more novel than what is myopically optimal—can improve the evolution of knowledge. Moonshots induce research cycles in which subsequent researchers connect the moonshot to previous knowledge.]]></content:encoded>
 </item>
 <item>
 <title>Choices and Outcomes in Assignment Mechanisms: The Allocation of Deceased Donor Kidneys</title>

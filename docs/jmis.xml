@@ -9,9 +9,17 @@
 <description>JMIS — Taylor &amp; Francis · Latest in: Online First · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmis.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 09 Sep 2026 20:50:58 +0000</lastBuildDate>
+<lastBuildDate>Thu, 10 Sep 2026 04:18:29 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Correction</title>
+<link>https://doi.org/10.1080/07421222.2026.2714828</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2714828</guid>
+<pubDate>Wed, 09 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1080/07421222.2026.2714828</dc:identifier>
+<description></description>
+</item>
 <item>
 <title>Hate Speech Detection on Online News Platforms: A Deep-Learning Approach Based on Agenda-Setting Theory</title>
 <link>https://doi.org/10.1080/07421222.2025.2520173</link>
@@ -310,15 +318,6 @@
 <description></description>
 </item>
 <item>
-<title>Value Drivers for Metaverse Business Models: A Complementor Perspective</title>
-<link>https://doi.org/10.1080/07421222.2025.2452679</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2452679</guid>
-<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kim Krüger; Jörg Weking; Erwin Fielt; Timo Böttcher; Marek Kowalkiewicz; Helmut Krcmar]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2452679</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Computational Framework for Measuring Strategic Opportunities Based on Structural Hole Theory</title>
 <link>https://doi.org/10.1080/07421222.2026.2692278</link>
 <guid isPermaLink="false">10.1080/07421222.2026.2692278</guid>
@@ -445,21 +444,21 @@
 <description></description>
 </item>
 <item>
-<title>Celebrity-as-a-Service: Trust and Willingness to Use Digital Twins for Customer Service</title>
-<link>https://doi.org/10.1080/07421222.2026.2647472</link>
-<guid isPermaLink="false">10.1080/07421222.2026.2647472</guid>
-<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lingyao (Ivy) Yuan; Antino Kim; Mike Seymour; Alan R. Dennis]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2026.2647472</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When Should a Deep-Tech Product Be Compatible with an Incumbent? Influence of Network Effects</title>
 <link>https://doi.org/10.1080/07421222.2026.2647461</link>
 <guid isPermaLink="false">10.1080/07421222.2026.2647461</guid>
 <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Youhyun Lee; Hsing Kenneth Cheng; Liangfei Qiu]]></dc:creator>
 <dc:identifier>doi:10.1080/07421222.2026.2647461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Celebrity-as-a-Service: Trust and Willingness to Use Digital Twins for Customer Service</title>
+<link>https://doi.org/10.1080/07421222.2026.2647472</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647472</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lingyao (Ivy) Yuan; Antino Kim; Mike Seymour; Alan R. Dennis]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647472</dc:identifier>
 <description></description>
 </item>
 <item>
