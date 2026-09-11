@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 20:46:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 04:17:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -253,15 +253,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Luca Moretti; Giacomo Spinelli]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106606</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A folk taxonomy of magic</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106610</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106610</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gustav Kuhn; Cyril Thomas; Thomas L. Griffiths]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106610</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -541,6 +532,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Suboptimal but intact integration of reward information during perceptual decision-making in autism</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106716</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106716</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JR — Elsevier · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 10 Sep 2026 20:46:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 04:17:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -94,15 +94,6 @@
 <description></description>
 </item>
 <item>
-<title>Fish versus whale: Revenue interaction between restaurants and food delivery platforms</title>
-<link>https://doi.org/10.1016/j.jretai.2026.03.007</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.03.007</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yi-Chun Ou; Sha Zhang; Scott A. Neslin]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.03.007</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When familiar retail experiences feel new: How unfamiliar environments increase enjoyment</title>
 <link>https://doi.org/10.1016/j.jretai.2026.02.001</link>
 <guid isPermaLink="false">10.1016/j.jretai.2026.02.001</guid>
@@ -180,6 +171,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Deniz Lefkeli; Nazli Gurdamar-Okutur; Francisco Villarroel Ordenes]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.01.005</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond installation: How pre-adoption advertising drives post-adoption retail app usage</title>
+<link>https://doi.org/10.1016/j.jretai.2026.08.007</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.08.007</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ammara Mahmood; Stefan F. Bernritter; Caroline Wiertz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.08.007</dc:identifier>
 <description></description>
 </item>
 <item>
