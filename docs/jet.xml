@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 04:17:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:05:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -208,6 +208,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lasse Mononen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106225</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Extreme Points of Mean-Preserving Contractions</title>
+<link>https://doi.org/10.1016/j.jet.2026.106251</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106251</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Andreas Kleiner; Benny Moldovanu; Philipp Strack; Mark Whitmeyer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106251</dc:identifier>
 <description></description>
 </item>
 <item>

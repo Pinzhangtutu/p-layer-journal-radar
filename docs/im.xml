@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 04:17:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:05:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,21 +211,21 @@
 <description></description>
 </item>
 <item>
-<title>Enhancing Market Transparency with AI: A Large Language Model Approach to Decoding Risk Signals from Chinese Comment Letters</title>
-<link>https://doi.org/10.1016/j.im.2026.104435</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104435</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xin Chen; Brian C.W. Kei; Yingyu Zhong; Vincent Y. Zhuang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104435</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Investigating the Effect of Notification Deactivation on Social Media App Usage: A Longitudinal Experiment</title>
 <link>https://doi.org/10.1016/j.im.2026.104432</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Enhancing Market Transparency with AI: A Large Language Model Approach to Decoding Risk Signals from Chinese Comment Letters</title>
+<link>https://doi.org/10.1016/j.im.2026.104435</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104435</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xin Chen; Brian C.W. Kei; Yingyu Zhong; Vincent Y. Zhuang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104435</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -355,21 +355,21 @@
 <description></description>
 </item>
 <item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
 <link>https://doi.org/10.1016/j.im.2026.104411</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JASIST — Wiley · Latest in: Early View · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jasist.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 04:17:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 11:05:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -318,6 +318,16 @@
 <content:encoded><![CDATA[Abstract AI‐generated content (AIGC), a novel information resource, has seen an irreversible growth trend in the information ecosystem. However, most prior AIGC studies focus on technological adoption and static evaluation, while little attention has been paid to the value emergence and value‐added processes of AIGC at the information resource level. This study employed in‐depth, semi‐structured interviews with 22 experienced AIGC users and utilized content analysis to examine the factors influencing users' perceived value of AIGC, identify value‐added processes, and explore the underlying mechanisms. Based on these findings, we propose the AIGC‐Value‐Added Framework, delineating four user‐AIGC interaction phases: value exposure, value forming, value anchoring, and value realization, which collectively enhance the resource value of AIGC. This study introduces an integrative framework for understanding how value emerges and is added to AIGC as an information resource, thereby enriching the Library and Information Science literature on information value‐adding practices in the AIGC context and offering stakeholders practical insights for optimizing AIGC leverage.]]></content:encoded>
 </item>
 <item>
+<title>Critical questions for documenting collections as data: Provocations from developing datasheets for web archives datasets</title>
+<link>https://doi.org/10.1002/asi.70113</link>
+<guid isPermaLink="false">10.1002/asi.70113</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Emily Maemura; Helena Byrne]]></dc:creator>
+<dc:identifier>doi:10.1002/asi.70113</dc:identifier>
+<description><![CDATA[Abstract Scholarship on documentation of datasets is increasingly concerned with capturing the context, socio‐technical processes, and decisions shaping data. “Datasheets for datasets” is a recent approach developed by researchers in machine learning that foregrounds transparency and uncovering bias through data documentation. Recognizing that machine learning documentation is already being applied for cultural heritage collections as data, we assess the effectiveness of applying datasheets to document web archives datasets. Our study involved community workshops to determine priorities for what to include in a datasheet. We then developed three sample datasheets for datasets from the UK Web Archive, observing and recording the process. Our findings identify the resources needed to create a datasheet, outlining the effort required in terms of time, roles and expertise required. Findings also reveal several notable tensions that emerged in the process, locating mismatches between a framework from machine learning and applications in cultural heritage settings. We develop five provocations to prompt critical consideration of assumptions about how datasets are created and used that might be embedded in any documentation framework. We conclude with an agenda for future research engaging with data documentation in web archives, cultural heritage collections, and data curation.]]></description>
+<content:encoded><![CDATA[Abstract Scholarship on documentation of datasets is increasingly concerned with capturing the context, socio‐technical processes, and decisions shaping data. “Datasheets for datasets” is a recent approach developed by researchers in machine learning that foregrounds transparency and uncovering bias through data documentation. Recognizing that machine learning documentation is already being applied for cultural heritage collections as data, we assess the effectiveness of applying datasheets to document web archives datasets. Our study involved community workshops to determine priorities for what to include in a datasheet. We then developed three sample datasheets for datasets from the UK Web Archive, observing and recording the process. Our findings identify the resources needed to create a datasheet, outlining the effort required in terms of time, roles and expertise required. Findings also reveal several notable tensions that emerged in the process, locating mismatches between a framework from machine learning and applications in cultural heritage settings. We develop five provocations to prompt critical consideration of assumptions about how datasets are created and used that might be embedded in any documentation framework. We conclude with an agenda for future research engaging with data documentation in web archives, cultural heritage collections, and data curation.]]></content:encoded>
+</item>
+<item>
 <title>Cover Image</title>
 <link>https://doi.org/10.1002/asi.70072</link>
 <guid isPermaLink="false">10.1002/asi.70072</guid>
@@ -530,14 +540,6 @@
 <dc:identifier>doi:10.1002/asi.70044</dc:identifier>
 <description><![CDATA[Abstract This paper presents findings from a usability evaluation of a virtual reality (VR) training module designed to support library and information science (LIS) graduate students in developing crisis communication and de‐escalation skills. As public libraries increasingly serve patrons experiencing mental health, housing, or substance use crises, there is a growing need to prepare future librarians for these interactions. Despite the potential of VR for immersive and repeatable training, no existing VR programs focus specifically on crisis management in library settings. This interdisciplinary project addresses that gap through a usability study with 21 LIS students who participated in a VR‐based training session using Mozilla Hubs. Participants reported high levels of usability, immersion, and perceived effectiveness, suggesting that VR offers a promising, low‐stakes environment for building communication skills. These findings underscore the value of continued exploration into VR as a scalable and innovative approach for LIS education.]]></description>
 <content:encoded><![CDATA[Abstract This paper presents findings from a usability evaluation of a virtual reality (VR) training module designed to support library and information science (LIS) graduate students in developing crisis communication and de‐escalation skills. As public libraries increasingly serve patrons experiencing mental health, housing, or substance use crises, there is a growing need to prepare future librarians for these interactions. Despite the potential of VR for immersive and repeatable training, no existing VR programs focus specifically on crisis management in library settings. This interdisciplinary project addresses that gap through a usability study with 21 LIS students who participated in a VR‐based training session using Mozilla Hubs. Participants reported high levels of usability, immersion, and perceived effectiveness, suggesting that VR offers a promising, low‐stakes environment for building communication skills. These findings underscore the value of continued exploration into VR as a scalable and innovative approach for LIS education.]]></content:encoded>
-</item>
-<item>
-<title>Cover Image</title>
-<link>https://doi.org/10.1002/asi.70047</link>
-<guid isPermaLink="false">10.1002/asi.70047</guid>
-<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1002/asi.70047</dc:identifier>
-<description></description>
 </item>
 <item>
 <title>Methodological challenges in content‐based citation analysis: Expertise, reliability, and the primacy of citance identification</title>
