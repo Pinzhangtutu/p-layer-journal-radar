@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 16:21:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:52:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -387,6 +387,16 @@
 <dc:identifier>doi:10.1287/mksc.2023.0233</dc:identifier>
 <description><![CDATA[This paper investigates the impact of job stability on the performance of workers, specifically women.]]></description>
 <content:encoded><![CDATA[This paper investigates the impact of job stability on the performance of workers, specifically women.]]></content:encoded>
+</item>
+<item>
+<title>Applying Large Language Models to Sponsored Search Advertising</title>
+<link>https://doi.org/10.1287/mksc.2023.0611</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0611</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Martin Reisenbichler; Thomas Reutterer; David A. Schweidel]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0611</dc:identifier>
+<description><![CDATA[This paper presents a human-in-the-loop LLM framework that boosts search engine ad performance and explores cost trade-offs and boundary conditions.]]></description>
+<content:encoded><![CDATA[This paper presents a human-in-the-loop LLM framework that boosts search engine ad performance and explores cost trade-offs and boundary conditions.]]></content:encoded>
 </item>
 <item>
 <title>Investigating the Impact of Advertising on Smoking Cessation: The Role of Direct-to-Consumer Prescription Drug Advertising</title>

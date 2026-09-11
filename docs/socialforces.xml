@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 16:21:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:52:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -570,16 +570,6 @@
 <content:encoded><![CDATA[Abstract This article investigates how civil society organizations (CSOs) advocate for immigrant access to social assistance in politically charged environments. It explores whether the frame choices of CSOs are shaped by their relationships with government bodies and examines the implications of these narratives for representing a highly diverse group of non-citizens. The article introduces a novel two-dimensional framework that categorizes advocacy frames along two axes: “scope of inclusion” (Targeted Inclusion vs. Universal Inclusion) and “justification for entitlement” (Individual Justification vs. Structural Justification). Findings from document analysis reveal a predominant reliance on frames that call for the inclusion of specific groups basing entitlement on individual characteristics independent of CSOs’ relationship to the state. The most radical frame type (Structural Justification for Universal Inclusion), however, is more frequently used by independent CSOs. Analyses of interviews underscore that CSOs navigate a trade-off: aligning with targeted, individualistic frames can achieve incremental policy gains, but potentially reinforces stratified notions of “deservingness”, contributing to internal hierarchies within immigrant communities. Conversely, advancing structural justification for universal inclusion carries the potential to challenge systemic inequalities yet risks limited immediate resonance within the political mainstream. These insights highlight the tension between short-term policy success and long-term systemic change in CSO advocacy strategies. The empirical findings, alongside theoretical discussions, extend beyond this specific policy field, offering broader insights into civil society strategies in adverse contexts.]]></content:encoded>
 </item>
 <item>
-<title>Organizational status and online-offline mobilization cycles</title>
-<link>https://doi.org/10.1093/sf/soag063</link>
-<guid isPermaLink="false">10.1093/sf/soag063</guid>
-<pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jack G R Wippell]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag063</dc:identifier>
-<description><![CDATA[Abstract Scholars of social movements and culture are increasingly interested in the dynamic relationship between online discourse and offline mobilization. Although prior work typically frames online discourse as a precursor to offline activism, emerging research on right-wing extremist (RWE) mobilization hints at a reciprocal relationship. Recognizing the group-based organizational structure of many contemporary social movements, I put forward a framework for understanding online-offline mobilization cycles by extending status theories of collective action to organizational processes and networks. An analysis of the white supremacist movement White Lives Matter provides preliminary support for the theory, with implications for wider debates in scholarship on social movements, online discourse, and organizational processes.]]></description>
-<content:encoded><![CDATA[Abstract Scholars of social movements and culture are increasingly interested in the dynamic relationship between online discourse and offline mobilization. Although prior work typically frames online discourse as a precursor to offline activism, emerging research on right-wing extremist (RWE) mobilization hints at a reciprocal relationship. Recognizing the group-based organizational structure of many contemporary social movements, I put forward a framework for understanding online-offline mobilization cycles by extending status theories of collective action to organizational processes and networks. An analysis of the white supremacist movement White Lives Matter provides preliminary support for the theory, with implications for wider debates in scholarship on social movements, online discourse, and organizational processes.]]></content:encoded>
-</item>
-<item>
 <title>Review of “Behind the Startup: How Venture Capital Shapes Work, Innovation, and Inequality”</title>
 <link>https://doi.org/10.1093/sf/soag014</link>
 <guid isPermaLink="false">10.1093/sf/soag014</guid>
@@ -595,6 +585,15 @@
 <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Colin Beck]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag079</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Review of “The Story of a Generation: Life Course Pathways of the Class of ‘73”</title>
+<link>https://doi.org/10.1093/sf/soag114</link>
+<guid isPermaLink="false">10.1093/sf/soag114</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Richard Settersten]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag114</dc:identifier>
 <description></description>
 </item>
 <item>

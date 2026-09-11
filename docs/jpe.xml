@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 16:21:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 20:52:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -553,6 +553,42 @@
 <description></description>
 </item>
 <item>
+<title>Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply</title>
+<link>https://doi.org/10.1086/744012</link>
+<guid isPermaLink="false">10.1086/744012</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nick Buchholz; Matthew Shum; Haiqing Xu]]></dc:creator>
+<dc:identifier>doi:10.1086/744012</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Behavioral Attenuation</title>
+<link>https://doi.org/10.1086/744015</link>
+<guid isPermaLink="false">10.1086/744015</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjamin Enke; Thomas Graeber; Ryan Oprea; Jeffrey Yang]]></dc:creator>
+<dc:identifier>doi:10.1086/744015</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Equilibrium in the Market for Public School Teachers: District Wage Strategies and Teacher Comparative Advantage</title>
+<link>https://doi.org/10.1086/744049</link>
+<guid isPermaLink="false">10.1086/744049</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Barbara Biasi; Chao Fu; John Stromme]]></dc:creator>
+<dc:identifier>doi:10.1086/744049</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Timing is Everything: Parental Professional Connections and Labor Market Entry</title>
+<link>https://doi.org/10.1086/744016</link>
+<guid isPermaLink="false">10.1086/744016</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shmuel San]]></dc:creator>
+<dc:identifier>doi:10.1086/744016</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Environmental Consequences of Hydrocarbon Infrastructure Policy</title>
 <link>https://doi.org/10.1086/742713</link>
 <guid isPermaLink="false">10.1086/742713</guid>
@@ -592,42 +628,6 @@
 <guid isPermaLink="false">10.1086/742102</guid>
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1086/742102</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Booms, Busts, and Mismatch in Capital Markets: Evidence from the Offshore Oil and Gas Industry</title>
-<link>https://doi.org/10.1086/739827</link>
-<guid isPermaLink="false">10.1086/739827</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nicholas Vreugdenhil]]></dc:creator>
-<dc:identifier>doi:10.1086/739827</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Causal Effects of Youth Cigarette Addiction and Education</title>
-<link>https://doi.org/10.1086/739828</link>
-<guid isPermaLink="false">10.1086/739828</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rong Hai; James Heckman]]></dc:creator>
-<dc:identifier>doi:10.1086/739828</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Private Private Information</title>
-<link>https://doi.org/10.1086/739833</link>
-<guid isPermaLink="false">10.1086/739833</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kevin He; Fedor Sandomirskiy; Omer Tamuz]]></dc:creator>
-<dc:identifier>doi:10.1086/739833</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>US Public Debt and Safe Asset Market Power</title>
-<link>https://doi.org/10.1086/739824</link>
-<guid isPermaLink="false">10.1086/739824</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jason Choi; Rishabh Kirpalani; Diego J. Perez]]></dc:creator>
-<dc:identifier>doi:10.1086/739824</dc:identifier>
 <description></description>
 </item>
 </channel>
