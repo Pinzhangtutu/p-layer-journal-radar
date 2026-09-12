@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 12 Sep 2026 10:33:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:26:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -256,21 +256,21 @@
 <description></description>
 </item>
 <item>
-<title>Prompting strategies with generative AI during learning from multiple sources</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102435</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102435</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[SeongYeup Kim; Matthew T. McCrudden]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102435</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Enhancing belief change with refutation podcast conversations</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102420</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102420</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jana Asberger; Eva Thomm; Madeleine Müller; Marcus Berger; Johannes Bauer]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Prompting strategies with generative AI during learning from multiple sources</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102435</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102435</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[SeongYeup Kim; Matthew T. McCrudden]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102435</dc:identifier>
 <description></description>
 </item>
 <item>

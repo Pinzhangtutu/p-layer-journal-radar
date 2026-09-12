@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 12 Sep 2026 10:33:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:26:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -184,15 +184,6 @@
 <description></description>
 </item>
 <item>
-<title>Deciphering user preferences: A large language model-based disentangled graph model for explainable review-based recommendation</title>
-<link>https://doi.org/10.1016/j.im.2026.104431</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104431</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dongyang Li; Jianshan Sun; Kun Yuan; Yezheng Liu; Jennifer Shang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104431</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Digital innovation for green transformation: Pressure, practice, and performance of manufacturing SMEs in China</title>
 <link>https://doi.org/10.1016/j.im.2026.104383</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104383</guid>
@@ -301,6 +292,15 @@
 <description></description>
 </item>
 <item>
+<title>Deciphering user preferences: A large language model-based disentangled graph model for explainable review-based recommendation</title>
+<link>https://doi.org/10.1016/j.im.2026.104431</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104431</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dongyang Li; Jianshan Sun; Kun Yuan; Yezheng Liu; Jennifer Shang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104431</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
 <link>https://doi.org/10.1016/j.im.2026.104436</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
@@ -319,21 +319,21 @@
 <description></description>
 </item>
 <item>
-<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
-<link>https://doi.org/10.1016/j.im.2026.104432</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Actualized fitness technology affordances: Conceptualization and validation of a measurement scale</title>
 <link>https://doi.org/10.1016/j.im.2026.104420</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104420</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yafang Li; Michelle Carter; Robert E. Crossler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
+<link>https://doi.org/10.1016/j.im.2026.104432</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>

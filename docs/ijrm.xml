@@ -9,7 +9,7 @@
 <description>IJRM — Elsevier / EMAC · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijrm.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 12 Sep 2026 10:33:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 15:26:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -157,15 +157,6 @@
 <description></description>
 </item>
 <item>
-<title>How scholars build universalist and social authority: uncovering citation outcomes for scholars and research fields</title>
-<link>https://doi.org/10.1016/j.ijresmar.2026.09.004</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2026.09.004</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Radek Karpienko; Vijay Ganesh Hariharan; Thomas Reutterer; Nuno Camacho; Stefan Stremersch]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2026.09.004</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Is the Pareto a principle? A longitudinal exploration of inequality in category-level consumer spending</title>
 <link>https://doi.org/10.1016/j.ijresmar.2026.09.003</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2026.09.003</guid>
@@ -175,12 +166,12 @@
 <description></description>
 </item>
 <item>
-<title>Cute package, sweet taste? The effects of Kindchenschema food packaging on consumers</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.11.001</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.11.001</guid>
+<title>How scholars build universalist and social authority: uncovering citation outcomes for scholars and research fields</title>
+<link>https://doi.org/10.1016/j.ijresmar.2026.09.004</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2026.09.004</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Raphaela E. Bruckdorfer; Oliver B. Büttner]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.11.001</dc:identifier>
+<dc:creator><![CDATA[Radek Karpienko; Vijay Ganesh Hariharan; Thomas Reutterer; Nuno Camacho; Stefan Stremersch]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2026.09.004</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -190,6 +181,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Roland Kassemeier; Sascha Alavi; Johannes Habel]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.10.003</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cute package, sweet taste? The effects of Kindchenschema food packaging on consumers</title>
+<link>https://doi.org/10.1016/j.ijresmar.2025.11.001</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2025.11.001</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Raphaela E. Bruckdorfer; Oliver B. Büttner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2025.11.001</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -517,21 +517,21 @@
 <description></description>
 </item>
 <item>
-<title>Consumer sentiment, monetary expenditure, and time use: perspectives from a panel study</title>
-<link>https://doi.org/10.1016/j.ijresmar.2026.06.001</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2026.06.001</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Botao Yang; Lan Luo; Brian T. Ratchford]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2026.06.001</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Breaking the mold: how visual atypicality shapes brand-generated image virality</title>
 <link>https://doi.org/10.1016/j.ijresmar.2025.07.005</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2025.07.005</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zitian Adam; Zhiyong Yang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.07.005</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Consumer sentiment, monetary expenditure, and time use: perspectives from a panel study</title>
+<link>https://doi.org/10.1016/j.ijresmar.2026.06.001</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2026.06.001</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Botao Yang; Lan Luo; Brian T. Ratchford]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2026.06.001</dc:identifier>
 <description></description>
 </item>
 <item>
