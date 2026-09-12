@@ -9,7 +9,7 @@
 <description>GOM — SAGE · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/gom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 12 Sep 2026 04:17:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 10:33:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -31,15 +31,6 @@
 <dc:identifier>doi:10.1177/10596011261418833</dc:identifier>
 <description><![CDATA[Unexpected job loss can cause psychological distress and financial strain, limiting individuals’ ability to explore new career paths and future selves. While traditional career research has focused primarily on retrospective sensemaking to understand how individuals cope with such career shocks, the future is not a simple extension of the past. This article adopts a prospective sensemaking lens to explore how individuals engage in prospective sensemaking when presented with a simulated career shock. Drawing on data from eight LEGO® SERIOUS PLAY® workshops with 42 participants, we identify four distinct imagined responses that vary along two continuous dimensions: agency (i.e., reflective versus active responses) and optimism (i.e., thriving versus surviving): Receptive Pause, Transformative Redemption, Survival with Sacrifice, and Enduring the Darkness. We further show how individuals envision actively leveraging their nonwork domains when being confronted with a career shock. Specifically, nonwork identities can function as important transitional roles that provide continuity, a sense of agentic direction, and enduring connection. Overall, this exploratory study augments contemporary career theories toward anticipation and future-oriented career agency, demonstrating how imagined futures may shape present-day affect, cognition, and behavior. We conclude the article by offering a set of empirically grounded propositions that can guide future research.]]></description>
 <content:encoded><![CDATA[Unexpected job loss can cause psychological distress and financial strain, limiting individuals’ ability to explore new career paths and future selves. While traditional career research has focused primarily on retrospective sensemaking to understand how individuals cope with such career shocks, the future is not a simple extension of the past. This article adopts a prospective sensemaking lens to explore how individuals engage in prospective sensemaking when presented with a simulated career shock. Drawing on data from eight LEGO® SERIOUS PLAY® workshops with 42 participants, we identify four distinct imagined responses that vary along two continuous dimensions: agency (i.e., reflective versus active responses) and optimism (i.e., thriving versus surviving): Receptive Pause, Transformative Redemption, Survival with Sacrifice, and Enduring the Darkness. We further show how individuals envision actively leveraging their nonwork domains when being confronted with a career shock. Specifically, nonwork identities can function as important transitional roles that provide continuity, a sense of agentic direction, and enduring connection. Overall, this exploratory study augments contemporary career theories toward anticipation and future-oriented career agency, demonstrating how imagined futures may shape present-day affect, cognition, and behavior. We conclude the article by offering a set of empirically grounded propositions that can guide future research.]]></content:encoded>
-</item>
-<item>
-<title>A Commentary on Kiazad et al. (2025): How the Dark Side Can Reveal Not Just the Why for BSing, but Also the when and How</title>
-<link>https://doi.org/10.1177/10596011251410684</link>
-<guid isPermaLink="false">10.1177/10596011251410684</guid>
-<pubDate>Wed, 24 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Peter D. Harms; Bradley J. Brummel]]></dc:creator>
-<dc:identifier>doi:10.1177/10596011251410684</dc:identifier>
-<description></description>
 </item>
 <item>
 <title>A Commentary on Bisbey et al. (2025): The Emotional Infrastructure of Team Resilience</title>
@@ -643,6 +634,16 @@
 <dc:creator><![CDATA[Farzaneh Fouladi]]></dc:creator>
 <dc:identifier>doi:10.1177/10596011261426783</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Juggling Hats and Ladders: A Social Identity and Social Status Framework for Multiple Team Membership</title>
+<link>https://doi.org/10.1177/10596011261486495</link>
+<guid isPermaLink="false">10.1177/10596011261486495</guid>
+<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hendrik J. van de Brake]]></dc:creator>
+<dc:identifier>doi:10.1177/10596011261486495</dc:identifier>
+<description><![CDATA[Employees increasingly belong to more than one team at the same time, yet similar multiple team membership (MTM) profiles can support effectiveness and well-being in some cases and undermine them in others. Team counts and membership variety capture how employees are distributed across teams, but leave open how they experience the particular memberships that make up those profiles. I argue that MTM’s consequences depend on two psychosocial features of each membership: how strongly the team defines the employee’s work identity and how much local member status it grants for the employee’s contribution. I integrate social identity theory and status characteristics theory into a multilevel framework in which these identity and status positions (the hats employees wear and the ladders they climb) shape MTM experiences across levels. Within each membership, identification and local member status give rise to social validation or identity threat. Across an individual’s portfolio, identity variety and status inconsistency create learning opportunity or switching load. Within teams, identification climate and external team status shape external knowledge access or coordination demands. The framework explains why structurally similar MTM profiles generate different resources and demands depending on how employees are positioned within and across their concurrent teams.]]></description>
+<content:encoded><![CDATA[Employees increasingly belong to more than one team at the same time, yet similar multiple team membership (MTM) profiles can support effectiveness and well-being in some cases and undermine them in others. Team counts and membership variety capture how employees are distributed across teams, but leave open how they experience the particular memberships that make up those profiles. I argue that MTM’s consequences depend on two psychosocial features of each membership: how strongly the team defines the employee’s work identity and how much local member status it grants for the employee’s contribution. I integrate social identity theory and status characteristics theory into a multilevel framework in which these identity and status positions (the hats employees wear and the ladders they climb) shape MTM experiences across levels. Within each membership, identification and local member status give rise to social validation or identity threat. Across an individual’s portfolio, identity variety and status inconsistency create learning opportunity or switching load. Within teams, identification climate and external team status shape external knowledge access or coordination demands. The framework explains why structurally similar MTM profiles generate different resources and demands depending on how employees are positioned within and across their concurrent teams.]]></content:encoded>
 </item>
 <item>
 <title>A Commentary on Shepherd, Wincent, and Chase (2025): Moving Past the WEIRD Divide</title>

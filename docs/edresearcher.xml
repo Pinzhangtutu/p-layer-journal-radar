@@ -9,7 +9,7 @@
 <description>EdResearcher — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/edresearcher.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 12 Sep 2026 04:17:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 10:33:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -263,16 +263,6 @@
 <content:encoded><![CDATA[The evolution of machine learning and large language models (commonly referred to as “artificial intelligence” [AI]) presents both opportunities and challenges for teaching and learning across K–12 and higher education contexts globally. Among the most pressing concerns is that these tools can undermine the integrity of student assessment and evaluation systems. This article investigates this timely issue by examining the intersections between AI, academic integrity, and assessment innovations through a cross-national research synthesis, resulting in a novel model for educators, policymakers, and researchers. The proposed model promotes assessment policies and practices that support high integrity, authentic learning, and innovative student assessment in an era of generative AI.]]></content:encoded>
 </item>
 <item>
-<title>2025 Wallace Foundation Distinguished Lecture Education for Flourishing: Building Initiatives and Partnerships for More Just and Sustainable Futures</title>
-<link>https://doi.org/10.3102/0013189x251386404</link>
-<guid isPermaLink="false">10.3102/0013189x251386404</guid>
-<pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[William R. Penuel]]></dc:creator>
-<dc:identifier>doi:10.3102/0013189x251386404</dc:identifier>
-<description><![CDATA[In this article, I develop the idea that education can be organized for flourishing—that is, learning together how to act and engage with the world to create a more just, sustainable future for all. Flourishing is a collective process that involves cultivating care and compassion, engaging in dignity-affirming interactions, and repairing relationships among people, institutions, and subject matter. I share how three initiatives are working to build systems for flourishing: engaging youth in fugitive wellness practices, strengthening families’ meaningful connections to schools, and nurturing compassionate educators. These efforts have been cocreated and sustained within research-practice partnerships that offer models for how we can together create, repair, and sustain relationships with people, lands, and waters in just educational futures.]]></description>
-<content:encoded><![CDATA[In this article, I develop the idea that education can be organized for flourishing—that is, learning together how to act and engage with the world to create a more just, sustainable future for all. Flourishing is a collective process that involves cultivating care and compassion, engaging in dignity-affirming interactions, and repairing relationships among people, institutions, and subject matter. I share how three initiatives are working to build systems for flourishing: engaging youth in fugitive wellness practices, strengthening families’ meaningful connections to schools, and nurturing compassionate educators. These efforts have been cocreated and sustained within research-practice partnerships that offer models for how we can together create, repair, and sustain relationships with people, lands, and waters in just educational futures.]]></content:encoded>
-</item>
-<item>
 <title>Professional Staff Diversity and Student Outcomes: Extending Our Understanding of Race/Ethnicity-Matching Effects in Education</title>
 <link>https://doi.org/10.3102/0013189x261434481</link>
 <guid isPermaLink="false">10.3102/0013189x261434481</guid>
@@ -441,6 +431,16 @@
 <dc:identifier>doi:10.3102/0013189x261424909</dc:identifier>
 <description><![CDATA[STEM deserts, similar to education deserts, are rural, suburban, and urban areas where students have limited access to school-based STEM curriculum and coursework opportunities. Using administrative data from the Houston Independent School District following a state policy change to high school graduation requirements, this study develops measures of STEM deserts and identifies the students most likely to live in them. Findings reveal that Black and Asian/Pacific Islander students, students from non-English-speaking households, and those from lower socioeconomic neighborhoods are disproportionately likely to live in STEM deserts compared to White students, students from English-speaking households, and those from higher socioeconomic neighborhoods.]]></description>
 <content:encoded><![CDATA[STEM deserts, similar to education deserts, are rural, suburban, and urban areas where students have limited access to school-based STEM curriculum and coursework opportunities. Using administrative data from the Houston Independent School District following a state policy change to high school graduation requirements, this study develops measures of STEM deserts and identifies the students most likely to live in them. Findings reveal that Black and Asian/Pacific Islander students, students from non-English-speaking households, and those from lower socioeconomic neighborhoods are disproportionately likely to live in STEM deserts compared to White students, students from English-speaking households, and those from higher socioeconomic neighborhoods.]]></content:encoded>
+</item>
+<item>
+<title>The Effects of Homicides on Childcare Classroom Quality and Child Development</title>
+<link>https://doi.org/10.3102/0013189x261482105</link>
+<guid isPermaLink="false">10.3102/0013189x261482105</guid>
+<pubDate>Sat, 12 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Juan Camilo Cristancho; Carolina Maldonado-Carreño; Drew H. Bailey; Greg J. Duncan; Eduardo Escallón; Ervyn Norza]]></dc:creator>
+<dc:identifier>doi:10.3102/0013189x261482105</dc:identifier>
+<description><![CDATA[Community violence exposure (CVE) can disrupt children’s learning. This study examines how recent homicides near early childhood education providers (ECEPs) affect classroom quality and child outcomes in Colombia. We use data collected from low-income children (age: M = 45.35 months; 45% female) and their classrooms across two waves. Leveraging variation in homicide timing and location relative to assessment dates, we estimate that homicides close in time and distance to ECEPs reduce classroom pedagogical quality ( d = .53 SD ), with effects detectable up to 6 weeks. CVE also lowers child developmental performance in the short term ( d s = –.14 SD to –.35 SD ), particularly in classrooms with fewer baseline resources. Findings underscore young children’s vulnerability to CVE and the importance of educational environments.]]></description>
+<content:encoded><![CDATA[Community violence exposure (CVE) can disrupt children’s learning. This study examines how recent homicides near early childhood education providers (ECEPs) affect classroom quality and child outcomes in Colombia. We use data collected from low-income children (age: M = 45.35 months; 45% female) and their classrooms across two waves. Leveraging variation in homicide timing and location relative to assessment dates, we estimate that homicides close in time and distance to ECEPs reduce classroom pedagogical quality ( d = .53 SD ), with effects detectable up to 6 weeks. CVE also lowers child developmental performance in the short term ( d s = –.14 SD to –.35 SD ), particularly in classrooms with fewer baseline resources. Findings underscore young children’s vulnerability to CVE and the importance of educational environments.]]></content:encoded>
 </item>
 <item>
 <title>Opt-In Supports, Opt-Out Students: Cultural and Familial Dynamics of Educational Participation</title>

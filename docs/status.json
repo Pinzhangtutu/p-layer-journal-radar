@@ -1,13 +1,13 @@
 {
-  "last_run_iso": "2026-09-12T04:17:04.630451+00:00",
+  "last_run_iso": "2026-09-12T10:33:50.002887+00:00",
   "feeds": [
     {
       "id": "jcr",
       "name": "Journal of Consumer Research",
       "status": "ok",
-      "article_count": 68,
+      "article_count": 67,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:16.694316+00:00"
+      "last_success_iso": "2026-09-12T10:32:10.976948+00:00"
     },
     {
       "id": "jams",
@@ -15,7 +15,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:20.446916+00:00"
+      "last_success_iso": "2026-09-12T10:32:14.749601+00:00"
     },
     {
       "id": "jm",
@@ -23,7 +23,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:22.432206+00:00"
+      "last_success_iso": "2026-09-12T10:32:16.076466+00:00"
     },
     {
       "id": "jmr",
@@ -31,7 +31,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:24.042159+00:00"
+      "last_success_iso": "2026-09-12T10:32:16.656283+00:00"
     },
     {
       "id": "jcp",
@@ -39,7 +39,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:25.592029+00:00"
+      "last_success_iso": "2026-09-12T10:32:18.052908+00:00"
     },
     {
       "id": "ijrm",
@@ -47,7 +47,7 @@
       "status": "ok",
       "article_count": 66,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:27.120253+00:00"
+      "last_success_iso": "2026-09-12T10:32:19.012567+00:00"
     },
     {
       "id": "jr",
@@ -55,7 +55,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:28.043207+00:00"
+      "last_success_iso": "2026-09-12T10:32:20.013502+00:00"
     },
     {
       "id": "jsr",
@@ -63,7 +63,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:29.150806+00:00"
+      "last_success_iso": "2026-09-12T10:32:23.074727+00:00"
     },
     {
       "id": "ms",
@@ -71,7 +71,7 @@
       "status": "ok",
       "article_count": 66,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:30.326986+00:00"
+      "last_success_iso": "2026-09-12T10:32:24.702294+00:00"
     },
     {
       "id": "amr",
@@ -79,7 +79,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:31.524771+00:00"
+      "last_success_iso": "2026-09-12T10:32:25.829890+00:00"
     },
     {
       "id": "amj",
@@ -87,7 +87,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:35.225059+00:00"
+      "last_success_iso": "2026-09-12T10:32:26.231975+00:00"
     },
     {
       "id": "asq",
@@ -95,7 +95,7 @@
       "status": "ok",
       "article_count": 63,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:36.728935+00:00"
+      "last_success_iso": "2026-09-12T10:32:29.208681+00:00"
     },
     {
       "id": "os",
@@ -103,7 +103,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:37.331744+00:00"
+      "last_success_iso": "2026-09-12T10:32:32.755589+00:00"
     },
     {
       "id": "smj",
@@ -111,7 +111,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:38.570871+00:00"
+      "last_success_iso": "2026-09-12T10:32:34.217010+00:00"
     },
     {
       "id": "ame",
@@ -119,7 +119,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:40.186029+00:00"
+      "last_success_iso": "2026-09-12T10:32:34.864355+00:00"
     },
     {
       "id": "jbe",
@@ -127,7 +127,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:41.647058+00:00"
+      "last_success_iso": "2026-09-12T10:32:37.697356+00:00"
     },
     {
       "id": "jom",
@@ -135,7 +135,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:43.415734+00:00"
+      "last_success_iso": "2026-09-12T10:32:38.983415+00:00"
     },
     {
       "id": "personnelpsych",
@@ -143,7 +143,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:44.023216+00:00"
+      "last_success_iso": "2026-09-12T10:32:40.228471+00:00"
     },
     {
       "id": "job",
@@ -151,7 +151,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:44.635895+00:00"
+      "last_success_iso": "2026-09-12T10:32:41.254281+00:00"
     },
     {
       "id": "jap",
@@ -159,7 +159,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:45.262473+00:00"
+      "last_success_iso": "2026-09-12T10:32:42.509935+00:00"
     },
     {
       "id": "obhdp",
@@ -167,7 +167,7 @@
       "status": "ok",
       "article_count": 56,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:46.241859+00:00"
+      "last_success_iso": "2026-09-12T10:32:43.207015+00:00"
     },
     {
       "id": "osc",
@@ -175,7 +175,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:47.456809+00:00"
+      "last_success_iso": "2026-09-12T10:32:44.385070+00:00"
     },
     {
       "id": "gom",
@@ -183,7 +183,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:48.492680+00:00"
+      "last_success_iso": "2026-09-12T10:32:45.574647+00:00"
     },
     {
       "id": "arp",
@@ -191,7 +191,7 @@
       "status": "empty",
       "article_count": 0,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:49.071119+00:00"
+      "last_success_iso": "2026-09-12T10:32:46.636612+00:00"
     },
     {
       "id": "psychbulletin",
@@ -199,7 +199,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:52.488623+00:00"
+      "last_success_iso": "2026-09-12T10:32:47.310822+00:00"
     },
     {
       "id": "pr",
@@ -207,7 +207,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:53.355434+00:00"
+      "last_success_iso": "2026-09-12T10:32:48.336763+00:00"
     },
     {
       "id": "jpsp",
@@ -215,7 +215,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:56.582292+00:00"
+      "last_success_iso": "2026-09-12T10:32:48.823301+00:00"
     },
     {
       "id": "jepg",
@@ -223,7 +223,7 @@
       "status": "ok",
       "article_count": 64,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:57.249419+00:00"
+      "last_success_iso": "2026-09-12T10:32:49.393545+00:00"
     },
     {
       "id": "psychsci",
@@ -231,7 +231,7 @@
       "status": "ok",
       "article_count": 67,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:58.496709+00:00"
+      "last_success_iso": "2026-09-12T10:32:50.115412+00:00"
     },
     {
       "id": "cognition",
@@ -239,7 +239,7 @@
       "status": "ok",
       "article_count": 63,
       "error": null,
-      "last_success_iso": "2026-09-12T04:15:59.178940+00:00"
+      "last_success_iso": "2026-09-12T10:32:50.839035+00:00"
     },
     {
       "id": "pspr",
@@ -247,7 +247,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:00.245053+00:00"
+      "last_success_iso": "2026-09-12T10:32:51.680497+00:00"
     },
     {
       "id": "scan",
@@ -255,7 +255,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:01.397898+00:00"
+      "last_success_iso": "2026-09-12T10:32:55.211916+00:00"
     },
     {
       "id": "jpers",
@@ -263,7 +263,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:02.987937+00:00"
+      "last_success_iso": "2026-09-12T10:32:56.450810+00:00"
     },
     {
       "id": "ajs",
@@ -271,7 +271,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:04.380956+00:00"
+      "last_success_iso": "2026-09-12T10:32:57.086381+00:00"
     },
     {
       "id": "asr",
@@ -279,7 +279,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:05.059553+00:00"
+      "last_success_iso": "2026-09-12T10:32:58.072053+00:00"
     },
     {
       "id": "socialforces",
@@ -287,7 +287,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:05.729436+00:00"
+      "last_success_iso": "2026-09-12T10:32:59.208604+00:00"
     },
     {
       "id": "socrev",
@@ -295,7 +295,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:09.771103+00:00"
+      "last_success_iso": "2026-09-12T10:33:00.558165+00:00"
     },
     {
       "id": "jhsb",
@@ -303,7 +303,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:11.169075+00:00"
+      "last_success_iso": "2026-09-12T10:33:01.919020+00:00"
     },
     {
       "id": "socmethods",
@@ -311,7 +311,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:12.185793+00:00"
+      "last_success_iso": "2026-09-12T10:33:04.175460+00:00"
     },
     {
       "id": "spq",
@@ -319,7 +319,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:13.296691+00:00"
+      "last_success_iso": "2026-09-12T10:33:05.157338+00:00"
     },
     {
       "id": "eursocrev",
@@ -327,7 +327,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:15.005493+00:00"
+      "last_success_iso": "2026-09-12T10:33:06.300196+00:00"
     },
     {
       "id": "ca",
@@ -335,7 +335,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:16.679407+00:00"
+      "last_success_iso": "2026-09-12T10:33:07.744289+00:00"
     },
     {
       "id": "aa",
@@ -343,7 +343,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:17.272897+00:00"
+      "last_success_iso": "2026-09-12T10:33:08.353540+00:00"
     },
     {
       "id": "jrai",
@@ -351,7 +351,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:18.697985+00:00"
+      "last_success_iso": "2026-09-12T10:33:09.258714+00:00"
     },
     {
       "id": "ethos",
@@ -359,7 +359,7 @@
       "status": "ok",
       "article_count": 63,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:19.803876+00:00"
+      "last_success_iso": "2026-09-12T10:33:09.919159+00:00"
     },
     {
       "id": "aeethno",
@@ -367,7 +367,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:20.483011+00:00"
+      "last_success_iso": "2026-09-12T10:33:10.819302+00:00"
     },
     {
       "id": "cultanthro",
@@ -375,7 +375,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:23.544458+00:00"
+      "last_success_iso": "2026-09-12T10:33:11.642426+00:00"
     },
     {
       "id": "aer",
@@ -383,7 +383,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:26.741264+00:00"
+      "last_success_iso": "2026-09-12T10:33:12.929921+00:00"
     },
     {
       "id": "qje",
@@ -391,7 +391,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:28.545117+00:00"
+      "last_success_iso": "2026-09-12T10:33:14.372633+00:00"
     },
     {
       "id": "jpe",
@@ -399,7 +399,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:30.444510+00:00"
+      "last_success_iso": "2026-09-12T10:33:15.715657+00:00"
     },
     {
       "id": "econometrica",
@@ -407,7 +407,7 @@
       "status": "ok",
       "article_count": 61,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:31.613807+00:00"
+      "last_success_iso": "2026-09-12T10:33:16.321144+00:00"
     },
     {
       "id": "jeea",
@@ -415,7 +415,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:32.521223+00:00"
+      "last_success_iso": "2026-09-12T10:33:19.656154+00:00"
     },
     {
       "id": "restud",
@@ -423,7 +423,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:32.989914+00:00"
+      "last_success_iso": "2026-09-12T10:33:21.038727+00:00"
     },
     {
       "id": "jet",
@@ -431,7 +431,7 @@
       "status": "ok",
       "article_count": 66,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:33.972785+00:00"
+      "last_success_iso": "2026-09-12T10:33:22.489764+00:00"
     },
     {
       "id": "aejmicro",
@@ -439,7 +439,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:35.248325+00:00"
+      "last_success_iso": "2026-09-12T10:33:23.163569+00:00"
     },
     {
       "id": "joc",
@@ -447,7 +447,7 @@
       "status": "ok",
       "article_count": 66,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:36.456506+00:00"
+      "last_success_iso": "2026-09-12T10:33:24.814057+00:00"
     },
     {
       "id": "cr",
@@ -455,7 +455,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:37.887054+00:00"
+      "last_success_iso": "2026-09-12T10:33:26.651844+00:00"
     },
     {
       "id": "jcmc",
@@ -463,7 +463,7 @@
       "status": "ok",
       "article_count": 66,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:39.227627+00:00"
+      "last_success_iso": "2026-09-12T10:33:27.696338+00:00"
     },
     {
       "id": "nms",
@@ -471,7 +471,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:40.445472+00:00"
+      "last_success_iso": "2026-09-12T10:33:28.889067+00:00"
     },
     {
       "id": "commtheory",
@@ -479,7 +479,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:42.004285+00:00"
+      "last_success_iso": "2026-09-12T10:33:30.543770+00:00"
     },
     {
       "id": "mcs",
@@ -487,7 +487,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:43.004082+00:00"
+      "last_success_iso": "2026-09-12T10:33:32.184539+00:00"
     },
     {
       "id": "jmcq",
@@ -495,7 +495,7 @@
       "status": "ok",
       "article_count": 53,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:43.765542+00:00"
+      "last_success_iso": "2026-09-12T10:33:34.141318+00:00"
     },
     {
       "id": "jasist",
@@ -503,7 +503,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:47.602934+00:00"
+      "last_success_iso": "2026-09-12T10:33:35.068506+00:00"
     },
     {
       "id": "misq",
@@ -511,7 +511,7 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:49.165926+00:00"
+      "last_success_iso": "2026-09-12T10:33:35.779497+00:00"
     },
     {
       "id": "isr",
@@ -519,7 +519,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:50.270781+00:00"
+      "last_success_iso": "2026-09-12T10:33:38.895703+00:00"
     },
     {
       "id": "jmis",
@@ -527,7 +527,7 @@
       "status": "ok",
       "article_count": 64,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:52.011154+00:00"
+      "last_success_iso": "2026-09-12T10:33:40.139968+00:00"
     },
     {
       "id": "im",
@@ -535,7 +535,7 @@
       "status": "ok",
       "article_count": 65,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:53.161445+00:00"
+      "last_success_iso": "2026-09-12T10:33:41.251226+00:00"
     },
     {
       "id": "dss",
@@ -543,7 +543,7 @@
       "status": "ok",
       "article_count": 64,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:53.823653+00:00"
+      "last_success_iso": "2026-09-12T10:33:41.984214+00:00"
     },
     {
       "id": "ijim",
@@ -551,7 +551,7 @@
       "status": "ok",
       "article_count": 64,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:54.728422+00:00"
+      "last_success_iso": "2026-09-12T10:33:44.763805+00:00"
     },
     {
       "id": "aer-ed",
@@ -559,7 +559,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:55.824697+00:00"
+      "last_success_iso": "2026-09-12T10:33:45.296290+00:00"
     },
     {
       "id": "rer",
@@ -567,7 +567,7 @@
       "status": "ok",
       "article_count": 68,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:57.186801+00:00"
+      "last_success_iso": "2026-09-12T10:33:46.375072+00:00"
     },
     {
       "id": "edresearcher",
@@ -575,7 +575,7 @@
       "status": "ok",
       "article_count": 69,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:58.484163+00:00"
+      "last_success_iso": "2026-09-12T10:33:47.631715+00:00"
     },
     {
       "id": "jedpsych",
@@ -583,15 +583,15 @@
       "status": "ok",
       "article_count": 70,
       "error": null,
-      "last_success_iso": "2026-09-12T04:16:59.172408+00:00"
+      "last_success_iso": "2026-09-12T10:33:48.279564+00:00"
     },
     {
       "id": "li",
       "name": "Learning and Instruction",
       "status": "ok",
-      "article_count": 65,
+      "article_count": 64,
       "error": null,
-      "last_success_iso": "2026-09-12T04:17:03.183187+00:00"
+      "last_success_iso": "2026-09-12T10:33:49.241968+00:00"
     },
     {
       "id": "cse",
@@ -599,7 +599,7 @@
       "status": "ok",
       "article_count": 62,
       "error": null,
-      "last_success_iso": "2026-09-12T04:17:04.630342+00:00"
+      "last_success_iso": "2026-09-12T10:33:50.002779+00:00"
     }
   ]
 }
