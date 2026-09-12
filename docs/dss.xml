@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 20:52:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 04:17:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,15 +121,6 @@
 <description></description>
 </item>
 <item>
-<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
-<link>https://doi.org/10.1016/j.dss.2026.114774</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Will your AI turn backers away? Evidence from Kickstarter's AI-use disclosure policy</title>
 <link>https://doi.org/10.1016/j.dss.2026.114773</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114773</guid>
@@ -226,6 +217,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
+<link>https://doi.org/10.1016/j.dss.2026.114774</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
 <description></description>
 </item>
 <item>

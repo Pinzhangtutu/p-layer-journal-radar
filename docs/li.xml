@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 11 Sep 2026 20:52:19 +0000</lastBuildDate>
+<lastBuildDate>Sat, 12 Sep 2026 04:17:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -202,15 +202,6 @@
 <description></description>
 </item>
 <item>
-<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
@@ -226,6 +217,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kester Wong; Sahan Bulathwela; Mutlu Cukurova]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -247,21 +247,21 @@
 <description></description>
 </item>
 <item>
-<title>Prompting strategies with generative AI during learning from multiple sources</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102435</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102435</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[SeongYeup Kim; Matthew T. McCrudden]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102435</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Enhancing belief change with refutation podcast conversations</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102420</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102420</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jana Asberger; Eva Thomm; Madeleine Müller; Marcus Berger; Johannes Bauer]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Prompting strategies with generative AI during learning from multiple sources</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102435</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102435</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[SeongYeup Kim; Matthew T. McCrudden]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102435</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -562,15 +562,6 @@
 <description></description>
 </item>
 <item>
-<title>The differential impacts of primary mathematics teachers’ multimodal behaviors on student engagement: A deep learning-driven relational matrix network analysis</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102354</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102354</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qingtang Liu; Ruyi Jiang; Qi Xu; Xinxin Zheng; Xinyu Jiang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102354</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Can elementary schools compensate for disparities across Europe?</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102458</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102458</guid>
@@ -586,6 +577,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tobias Debatin; Heidrun Stoeger; Albert Ziegler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102471</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>“How can I help you learn?” Incorporating emotions into parents' support of young children's self-regulated learning at home and school during prolonged crisis</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102437</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102437</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lihi Sarfaty; Adar Ben-Eliyahu; Ruth Sharabany]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102437</dc:identifier>
 <description></description>
 </item>
 <item>
