@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 13 Sep 2026 16:05:14 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 20:40:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -416,21 +416,22 @@
 <content:encoded><![CDATA[Abstract Recent advances in word embedding have reinvigorated macro-historical cultural analysis based on empirical data. However, these methods primarily model the semantic structure of language, which can obscure the pragmatic dimension of language use central to sociology. Focusing on a previous study of “unintelligence” words in 20th-century American discourse, I investigate the puzzling finding that these words became more male-aligned over time. I argue there is a one-to-many mapping between low-level distance in the embedding space and high-level cultural meanings, and reconsider the stereotype-based interpretation of the changing gender alignment of “unintelligence” words. While the gender axis reliably measures gendered associations, distance-based associations do not neatly map onto well-defined gender stereotypes. Cross-validating embedding alignments against direct co-occurrence with gender-identity words, I first demonstrate that the masculinization of “unintelligence” is unlikely to be driven by judgments directed at gendered persons. Applying an adapted A La Carte (ALC) approximation of individual context words and sentences, I then characterize the pragmatic register of the influential context words—their tone and stance—through close reading validated against the NRC Emotion Lexicon: the contexts driving masculinization shifted from affiliative ease (“soft” contexts, e.g., “adored,” “wholesome”) toward confrontational intensity (“harsh” contexts, e.g., “sin,” “shout”). Robustness checks across randomly sampled word sublists confirm that this pragmatic register shift, not changing judgments of male intellect, is associated with the masculinization. This study demonstrates the interpretive gap in embedding-based methods and calls for more rigorous approaches to intersubjectively valid interpretation of cultural change.]]></content:encoded>
 </item>
 <item>
+<title>Occupational hazard and political segregation in the US labor market</title>
+<link>https://doi.org/10.1093/sf/soag124</link>
+<guid isPermaLink="false">10.1093/sf/soag124</guid>
+<pubDate>Sun, 13 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ray Tsai Fang]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag124</dc:identifier>
+<description><![CDATA[Abstract The tendency for liberals and conservatives to cluster in different occupations significantly impacts society, yet the factors that contribute to this type of segregation remain incompletely understood. Bridging research from cultural and cognitive psychology, I develop a theory describing how occupational environments can shape people’s political ideologies, thereby contributing to political segregation in the labor market. Specifically, I argue that the more hazardous an occupation is, the more likely it is to have a higher concentration of conservative workers because dangerous work environments can socialize people to prefer order and stability. Using data from the Occupation Information Network, General Social Survey, and Bureau of Labor Statistics, I find that hazardous occupations tend to have higher concentrations of conservative workers, even after controlling for several alternative explanations. Further, using longitudinal data from the Youth-Parent Socialization Panel Study, I find that individuals employed in hazardous occupations tended to become more conservative over time relative to their peers in safer occupations. These findings suggest that liberals and conservatives may not only be sorting into different occupations; rather, certain occupational environments may contribute to political segregation in the labor market by shaping workers’ political views.]]></description>
+<content:encoded><![CDATA[Abstract The tendency for liberals and conservatives to cluster in different occupations significantly impacts society, yet the factors that contribute to this type of segregation remain incompletely understood. Bridging research from cultural and cognitive psychology, I develop a theory describing how occupational environments can shape people’s political ideologies, thereby contributing to political segregation in the labor market. Specifically, I argue that the more hazardous an occupation is, the more likely it is to have a higher concentration of conservative workers because dangerous work environments can socialize people to prefer order and stability. Using data from the Occupation Information Network, General Social Survey, and Bureau of Labor Statistics, I find that hazardous occupations tend to have higher concentrations of conservative workers, even after controlling for several alternative explanations. Further, using longitudinal data from the Youth-Parent Socialization Panel Study, I find that individuals employed in hazardous occupations tended to become more conservative over time relative to their peers in safer occupations. These findings suggest that liberals and conservatives may not only be sorting into different occupations; rather, certain occupational environments may contribute to political segregation in the labor market by shaping workers’ political views.]]></content:encoded>
+</item>
+<item>
 <title>Review of “Shadows of the Enlightenment: The Hidden Politics and Ideology of the Natural and Social Sciences”</title>
 <link>https://doi.org/10.1093/sf/soag052</link>
 <guid isPermaLink="false">10.1093/sf/soag052</guid>
 <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael Roberts]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag052</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Review of “Traders, Speculators, and Captains of Industry: How Capitalist Legitimacy Shaped Foreign Investment Policy in India”</title>
-<link>https://doi.org/10.1093/sf/soag051</link>
-<guid isPermaLink="false">10.1093/sf/soag051</guid>
-<pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Manjusha Nair]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag051</dc:identifier>
 <description></description>
 </item>
 <item>
