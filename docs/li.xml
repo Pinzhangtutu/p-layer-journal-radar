@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 13 Sep 2026 04:29:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 13 Sep 2026 11:36:38 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -112,21 +112,21 @@
 <description></description>
 </item>
 <item>
-<title>A systematic review on the development of self-regulated learning</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102433</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102433</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Charlotte Dignath; Bernadette van Berk; Stella Vosniadou]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102433</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Exploring avatar-mediated learning outcomes and motivation in the metaverse environment for sign language education</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102448</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102448</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yuk Ming Tang; Suet Yi Tse; Ka Yi Lee; G.C.P. Tsui; G.T.S. Ho]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102448</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A systematic review on the development of self-regulated learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102433</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102433</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Charlotte Dignath; Bernadette van Berk; Stella Vosniadou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102433</dc:identifier>
 <description></description>
 </item>
 <item>
