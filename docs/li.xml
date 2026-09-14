@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:45:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -559,6 +559,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Thomas Brüggemann; Ulrich Ludewig; Jakob Schwerter; Nele McElvany; Philipp Doebler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102458</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102462</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102462</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heike Russ; Tino Endres; Leonie Sibley; Salome Flegr; Jochen Kuhn; Vincent Hoogerheide; Katharina Scheiter; Andreas Lachner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102462</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:45:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -516,6 +516,15 @@
 <description></description>
 </item>
 <item>
+<title>Adaptive regulation of confidence following metacognitive conflict: Evidence from behavior and computational modeling.</title>
+<link>https://doi.org/10.1037/xge0001997</link>
+<guid isPermaLink="false">10.1037/xge0001997</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jintao Xing; Stef Herregods; Luc Vermeylen; Kobe Desender]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001997</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Artificial intelligence and machines are capable of harm, but not of experiencing punishment.</title>
 <link>https://doi.org/10.1037/xge0001930</link>
 <guid isPermaLink="false">10.1037/xge0001930</guid>
@@ -566,15 +575,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sara Lo Presti; Angelica Scuderi; Valentina Piga; Silvana Lozito; Mario Pinto; Gabriele Scozia; Stefano Lasaponara; Marco Perugini; Fabrizio Doricchi]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001934</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Visual working memory for real-world objects is resistant to visual but vulnerable to semantic interference.</title>
-<link>https://doi.org/10.1037/xge0001912</link>
-<guid isPermaLink="false">10.1037/xge0001912</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ricardo Morales-Torres; Tobias Egner]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001912</dc:identifier>
 <description></description>
 </item>
 </channel>

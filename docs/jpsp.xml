@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:45:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -236,20 +236,20 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
+<link>https://doi.org/10.1037/pspp0000612.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>“Yeah, it’s biased, but … ”: Recognition versus moral condemnation of bias across party lines.</title>
 <link>https://doi.org/10.1037/pspa0000492</link>
 <guid isPermaLink="false">10.1037/pspa0000492</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hannah B. Waldfogel; Brittany C. Solomon; Matthew E. K. Hall]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000492</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
-<link>https://doi.org/10.1037/pspp0000612.supp</link>
-<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -543,6 +543,33 @@
 <description></description>
 </item>
 <item>
+<title>How power shapes judgments of culpability: Shield or liability?</title>
+<link>https://doi.org/10.1037/pspi0000532</link>
+<guid isPermaLink="false">10.1037/pspi0000532</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gerben A. van Kleef; Seval Gündemir; Rohan L. Dunham; Jordi Quoidbach; Astrid C. Homan]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000532</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From people to prompts: Understanding susceptibility to persuasion in conversations with artificial intelligence.</title>
+<link>https://doi.org/10.1037/pspi0000531</link>
+<guid isPermaLink="false">10.1037/pspi0000531</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Geoff Tomaino; SungJin Jung]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000531</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Equality in the eye of the advantaged beholder: Group status shapes perceptions of equality as zero-sum.</title>
+<link>https://doi.org/10.1037/pspi0000535</link>
+<guid isPermaLink="false">10.1037/pspi0000535</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[N. Derek Brown; Drew S. Jacoby-Senghor]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000535</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Supplemental Material for Self-Efficacy Predicts Differential Neuroticism Change in a Smartphone-Based Intervention</title>
 <link>https://doi.org/10.1037/pspp0000610.supp</link>
 <guid isPermaLink="false">10.1037/pspp0000610.supp</guid>
@@ -582,33 +609,6 @@
 <guid isPermaLink="false">10.1037/pspi0000524.supp</guid>
 <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000524.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How group personality composition affects person and group outcomes: An integrative analysis using the group actor–partner interdependence model.</title>
-<link>https://doi.org/10.1037/pspp0000588</link>
-<guid isPermaLink="false">10.1037/pspp0000588</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Eva Bleckmann; Richard Rau; Oliver Lüdtke; Sascha Krause; Jenny Wagner]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000588</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Are the metatraits fact or artifact? Ruling out alternative explanations for the higher-order factors of the Big Five.</title>
-<link>https://doi.org/10.1037/pspp0000593</link>
-<guid isPermaLink="false">10.1037/pspp0000593</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Colin G. DeYoung; Ming Him Tai; Edward Chou; Boris Mlačić]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000593</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Security priming in everyday life: How do symbols of close others support attachment in adulthood?</title>
-<link>https://doi.org/10.1037/pspp0000590</link>
-<guid isPermaLink="false">10.1037/pspp0000590</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Karl E. Conroy; R. Chris Fraley]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000590</dc:identifier>
 <description></description>
 </item>
 </channel>

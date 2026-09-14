@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:45:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,33 +121,6 @@
 <description></description>
 </item>
 <item>
-<title>Intuitive deontology? A systematic review and multivariate, multilevel meta-analysis of experimental studies on the psychological drivers of moral judgments.</title>
-<link>https://doi.org/10.1037/bul0000472</link>
-<guid isPermaLink="false">10.1037/bul0000472</guid>
-<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alina Fahrenwaldt; Jerome Olsen; Rima-Maria Rahal; Susann Fiedler]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000472</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The predictive power of autobiographical memory in shaping the mental health of young people: An individual participant data meta-analysis.</title>
-<link>https://doi.org/10.1037/bul0000474</link>
-<guid isPermaLink="false">10.1037/bul0000474</guid>
-<pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Uyen Doan; Dou Hong; Leo Mares; Molly Butler; Adrian Dahl Askelund; Charlotte Gutenbrunner; Rachel Hiller; Reginald D. V. Nixon; Vanessa Puetz; Paul E. Jose; Allison Metts; Lauren B. Alloy; Brandon E. Gibb; Alison E. Hipwell; Karen Salmon; Victoria Powell; Naomi Warne; Frances Rice; Caitlin Hitchcock]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000474</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Do money and time change who you are? A continuous time meta-analysis and review of reciprocal relationships between personality traits and income.</title>
-<link>https://doi.org/10.1037/bul0000526</link>
-<guid isPermaLink="false">10.1037/bul0000526</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wen-Dong Li; Kaili Yu; Weiwen Yang; Zhen Zhang; Xin Zhang; Christian Dormann; Huanxi Zhang; Yanglei Zheng]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000526</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for A Social Cascades Model of Addiction: Examining Effects of Psychological Interventions on Social and Substance Use Outcomes via Meta-Analytic Review</title>
 <link>https://doi.org/10.1037/bul0000533.supp</link>
 <guid isPermaLink="false">10.1037/bul0000533.supp</guid>
@@ -180,15 +153,6 @@
 <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Mathias Harrer; Clara Miguel; Wouter van Ballegooijen; Marketa Ciharova; Constantin Yves Plessen; Paula Kuper; Antonia A. Sprenger; Claudia Buntrock; Davide Papola; Ioana A. Cristea; Nino de Ponti; Đorđe Bašić; Darin Pauley; Ellen Driessen; Soledad Quero; Jorge Grimaldos; Sara Fernández Buendía; Cristina Botella; Jessica L. Hamblen; Paula P. Schnurr; Sadie E. Larsen; Rory A. Pfund; Emma Motrico; Irene Gómez-Gómez; Kim Setkowski; Minoo Matbouriahi; Yingying Wang; Josine Rawee; Heleen Riper; Annemieke van Straten; Marit Sijbrandij; Stefan Leucht; Toshi A. Furukawa; Eirini Karyotaki; Pim Cuijpers]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000465</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How physical activity context relates to cognition across the lifespan: A systematic review and meta-analysis.</title>
-<link>https://doi.org/10.1037/bul0000478</link>
-<guid isPermaLink="false">10.1037/bul0000478</guid>
-<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Myrto F. Mavilidi; Spyridoula Vazou; David R. Lubans; Katie Robinson; Andrew J. Woods; Valentin Benzing; Sofia Anzeneder; Katherine B. Owen; Celia Álvarez-Bueno; Levi Wade; Jade Burley; George Thomas; Anthony D. Okely; Caterina Pesce]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000478</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -501,12 +465,12 @@
 <description></description>
 </item>
 <item>
-<title>Does the variance of personality traits change across the lifespan? A meta-analytic review of longitudinal studies.</title>
-<link>https://doi.org/10.1037/bul0000523</link>
-<guid isPermaLink="false">10.1037/bul0000523</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Peter Haehner; Susanne Buecker; Marco J. Altorfer; Vera V. Bocklet; Wiebke Bleidorn]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000523</dc:identifier>
+<title>A social cascades model of addiction: Examining effects of psychological interventions on social and substance use outcomes via meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000533</link>
+<guid isPermaLink="false">10.1037/bul0000533</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiaxu Han; Catharine E. Fairbairn; Camille Lansang]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000533</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -579,6 +543,42 @@
 <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Daniel J. Phipps; Martin S. Hagger; Kyra Hamilton]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000506</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The neural correlates of consciousness: A systematic review and meta-analysis of the visual awareness negativity and P3b.</title>
+<link>https://doi.org/10.1037/bul0000521</link>
+<guid isPermaLink="false">10.1037/bul0000521</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Brendan T. Hutchinson; James E. Pustejovsky; Kavindu Bandara; Hugh McGovern; Jolene Cox; Alexandra Voce; Michael Pitts; Heleen A. Slagter]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000521</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do money and time change who you are? A continuous time meta-analysis and review of reciprocal relationships between personality traits and income.</title>
+<link>https://doi.org/10.1037/bul0000526</link>
+<guid isPermaLink="false">10.1037/bul0000526</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wen-Dong Li; Kaili Yu; Weiwen Yang; Zhen Zhang; Xin Zhang; Christian Dormann; Huanxi Zhang; Yanglei Zheng]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000526</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Physiological responses to acute psychological stress as a biomarker for depression: A systematic review and meta-analysis.</title>
+<link>https://doi.org/10.1037/bul0000529</link>
+<guid isPermaLink="false">10.1037/bul0000529</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alexandra T. Tyra; Siobhán M. Griffin; Sarah-Beth Garner; Orla T. Muldoon; Ryan C. Brindle; Sarah E. Williams; Thomas A. Fergus; Annie T. Ginty]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000529</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does the variance of personality traits change across the lifespan? A meta-analytic review of longitudinal studies.</title>
+<link>https://doi.org/10.1037/bul0000523</link>
+<guid isPermaLink="false">10.1037/bul0000523</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Haehner; Susanne Buecker; Marco J. Altorfer; Vera V. Bocklet; Wiebke Bleidorn]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000523</dc:identifier>
 <description></description>
 </item>
 <item>

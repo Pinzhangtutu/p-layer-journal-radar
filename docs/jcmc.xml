@@ -9,7 +9,7 @@
 <description>JCMC — Oxford · Latest in: Advance · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jcmc.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:45:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -303,16 +303,6 @@
 <content:encoded><![CDATA[Abstract Many major social media companies have claimed that their social feed algorithms were designed to promote relational well-being and enhance social connection. This project tested part of these claims by investigating if algorithmic personalization predicted social connectedness on TikTok, where connecting with identity-relevant media content is prioritized over interpersonal interaction. Drawing from the algorithm responsiveness process, we identified perceived algorithm responsiveness (PAR) and perceived algorithm insensitivity (PAI) as perceptual mechanisms of how algorithmic personalization relates to social connectedness. In two preregistered studies, an online survey and a 2-week daily diary survey, results suggested that the TikTok For You algorithm curating frequent and positively valenced identity-relevant content was associated with higher PAR and less PAI. In turn, higher levels of PAR predicted more social connectedness, but PAI did not. These findings highlight the sociotechnical dynamics of algorithms, suggesting human–algorithm interaction predicted social connectedness not only an algorithm’s code.]]></content:encoded>
 </item>
 <item>
-<title>Learning about climate change with algorithmic news? A two-wave panel study examining the role of “news-finds-me” perception</title>
-<link>https://doi.org/10.1093/jcmc/zmae010</link>
-<guid isPermaLink="false">10.1093/jcmc/zmae010</guid>
-<pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yan Su; Chen Luo; Porismita Borah]]></dc:creator>
-<dc:identifier>doi:10.1093/jcmc/zmae010</dc:identifier>
-<description><![CDATA[Abstract In an ambient news environment, people often believe that they can be well-informed without actively seeking news, resulting in the “news-finds-me” (NFM) perception. Leveraging a two-wave panel survey in China (W1N = 1,465; W2N = 1,015), we examined the impact of the NFM perception on climate change knowledge. Findings showed that NFM did not influence climate change knowledge, while algorithmic news attitude (ANA) played a mediating role. Specifically, NFM was positively associated with ANA, which in turn facilitated knowledge. Furthermore, this relationship was moderated by discussion network heterogeneity. The positive effect of ANA and the positive indirect effect of NFM on climate change knowledge were stronger among those with a more heterogeneous discussion network. Implications are discussed.]]></description>
-<content:encoded><![CDATA[Abstract In an ambient news environment, people often believe that they can be well-informed without actively seeking news, resulting in the “news-finds-me” (NFM) perception. Leveraging a two-wave panel survey in China (W1N = 1,465; W2N = 1,015), we examined the impact of the NFM perception on climate change knowledge. Findings showed that NFM did not influence climate change knowledge, while algorithmic news attitude (ANA) played a mediating role. Specifically, NFM was positively associated with ANA, which in turn facilitated knowledge. Furthermore, this relationship was moderated by discussion network heterogeneity. The positive effect of ANA and the positive indirect effect of NFM on climate change knowledge were stronger among those with a more heterogeneous discussion network. Implications are discussed.]]></content:encoded>
-</item>
-<item>
 <title>Reinvention mediates impacts of skin tone bias in algorithms: implications for technology diffusion</title>
 <link>https://doi.org/10.1093/jcmc/zmae016</link>
 <guid isPermaLink="false">10.1093/jcmc/zmae016</guid>
@@ -321,6 +311,16 @@
 <dc:identifier>doi:10.1093/jcmc/zmae016</dc:identifier>
 <description><![CDATA[Abstract Two studies examine how skin tone bias in image recognition algorithms impacts users’ adoption and usage of image recognition technology. We employed a diffusion of innovations framework to explore perceptions of compatibility, complexity, observability, relative advantage, and reinvention to determine their influence on participants' utilization of image recognition algorithms. Despite being more likely to encounter algorithm bias, individuals with darker skin tones perceived image recognition algorithms as having greater levels of compatibility and relative advantage, being more observable, and less complex and thus used them more extensively compared to those with lighter skin tones. Individuals with darker skin tones also displayed higher levels of reinvention behaviors, suggesting a potential adaptive response to counteract algorithm biases.]]></description>
 <content:encoded><![CDATA[Abstract Two studies examine how skin tone bias in image recognition algorithms impacts users’ adoption and usage of image recognition technology. We employed a diffusion of innovations framework to explore perceptions of compatibility, complexity, observability, relative advantage, and reinvention to determine their influence on participants' utilization of image recognition algorithms. Despite being more likely to encounter algorithm bias, individuals with darker skin tones perceived image recognition algorithms as having greater levels of compatibility and relative advantage, being more observable, and less complex and thus used them more extensively compared to those with lighter skin tones. Individuals with darker skin tones also displayed higher levels of reinvention behaviors, suggesting a potential adaptive response to counteract algorithm biases.]]></content:encoded>
+</item>
+<item>
+<title>Learning about climate change with algorithmic news? A two-wave panel study examining the role of “news-finds-me” perception</title>
+<link>https://doi.org/10.1093/jcmc/zmae010</link>
+<guid isPermaLink="false">10.1093/jcmc/zmae010</guid>
+<pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yan Su; Chen Luo; Porismita Borah]]></dc:creator>
+<dc:identifier>doi:10.1093/jcmc/zmae010</dc:identifier>
+<description><![CDATA[Abstract In an ambient news environment, people often believe that they can be well-informed without actively seeking news, resulting in the “news-finds-me” (NFM) perception. Leveraging a two-wave panel survey in China (W1N = 1,465; W2N = 1,015), we examined the impact of the NFM perception on climate change knowledge. Findings showed that NFM did not influence climate change knowledge, while algorithmic news attitude (ANA) played a mediating role. Specifically, NFM was positively associated with ANA, which in turn facilitated knowledge. Furthermore, this relationship was moderated by discussion network heterogeneity. The positive effect of ANA and the positive indirect effect of NFM on climate change knowledge were stronger among those with a more heterogeneous discussion network. Implications are discussed.]]></description>
+<content:encoded><![CDATA[Abstract In an ambient news environment, people often believe that they can be well-informed without actively seeking news, resulting in the “news-finds-me” (NFM) perception. Leveraging a two-wave panel survey in China (W1N = 1,465; W2N = 1,015), we examined the impact of the NFM perception on climate change knowledge. Findings showed that NFM did not influence climate change knowledge, while algorithmic news attitude (ANA) played a mediating role. Specifically, NFM was positively associated with ANA, which in turn facilitated knowledge. Furthermore, this relationship was moderated by discussion network heterogeneity. The positive effect of ANA and the positive indirect effect of NFM on climate change knowledge were stronger among those with a more heterogeneous discussion network. Implications are discussed.]]></content:encoded>
 </item>
 <item>
 <title>Enabling and constraining factors of remote informal communication: a socio-technical systems perspective</title>

@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:45:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -183,32 +183,6 @@
 <description></description>
 </item>
 <item>
-<title>Reciprocal relationships between personality traits and job satisfaction? A continuous time approach with two investigations.</title>
-<link>https://doi.org/10.1037/apl0001388</link>
-<guid isPermaLink="false">10.1037/apl0001388</guid>
-<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kaili Yu; Wen-Dong Li; Weiwen Yang; Yanglei Zheng; Zhen Zhang; Christian Dormann; Huanxi Zhang; Hannes Zacher]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001388</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Organizations Espousing an Authenticity Ideology Repel Stigmatized Job Seekers</title>
-<link>https://doi.org/10.1037/apl0001392.supp</link>
-<guid isPermaLink="false">10.1037/apl0001392.supp</guid>
-<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/apl0001392.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Bridging a gap in meta-analytical practices: A superior approach for converting standardized beta weights to correlations.</title>
-<link>https://doi.org/10.1037/apl0001379</link>
-<guid isPermaLink="false">10.1037/apl0001379</guid>
-<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Piers Steel; Hadi Fariborzi; Patrick D. Dunlop]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001379</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Transformational leadership in context: A meta-analysis of 40 years of research.</title>
 <link>https://doi.org/10.1037/apl0001389</link>
 <guid isPermaLink="false">10.1037/apl0001389</guid>
@@ -314,21 +288,21 @@
 <description></description>
 </item>
 <item>
-<title>Socializing through the grapevine: A content-based functional perspective on the receipt of workplace gossip during newcomer socialization.</title>
-<link>https://doi.org/10.1037/apl0001423</link>
-<guid isPermaLink="false">10.1037/apl0001423</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rui Zhong; Yingxin Deng; Ryan Tucker]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001423</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Can formative latent variables represent psychological concepts? Replication and extension of MacKenzie et al. (2005).</title>
 <link>https://doi.org/10.1037/apl0001415</link>
 <guid isPermaLink="false">10.1037/apl0001415</guid>
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Miguel Aguirre-Urreta; Reza Yamini; Mikko Rönkkö]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001415</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Socializing through the grapevine: A content-based functional perspective on the receipt of workplace gossip during newcomer socialization.</title>
+<link>https://doi.org/10.1037/apl0001423</link>
+<guid isPermaLink="false">10.1037/apl0001423</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rui Zhong; Yingxin Deng; Ryan Tucker]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001423</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -515,6 +489,49 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Who Do Employees Follow? An Analysis of Contrasting and Compensatory Effects Between Abusive Supervisors in Multiple Team Membership Contexts</title>
+<link>https://doi.org/10.1037/apl0001429.supp</link>
+<guid isPermaLink="false">10.1037/apl0001429.supp</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/apl0001429.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adverse impact, job performance, and diversity outcomes of applicant attraction: A simulation and paradox.</title>
+<link>https://doi.org/10.1037/apl0001412</link>
+<guid isPermaLink="false">10.1037/apl0001412</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matt Cho; Daniel A. Newman; Chen Tang; Leo Alexander]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do interactions matter? Assessing the role of job characteristics interactions on employee well-being.</title>
+<link>https://doi.org/10.1037/apl0001414</link>
+<guid isPermaLink="false">10.1037/apl0001414</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jan Digutsch; Richard N. Landers; Hannah M. Schade; Hans-Joachim Lincke; Matthias Nuebling; Clemens Stachl; Gerhard Rinkenauer; Yannick A. Metzler]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001414</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Breadcrumbs to transformational acts: Enacting implicit leader prototypes to become psychologically empowered as a leader.</title>
+<link>https://doi.org/10.1037/apl0001421</link>
+<guid isPermaLink="false">10.1037/apl0001421</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fadel K. Matta; Charles W. Bennion; Emma L. Frank; Cory M. Eisenhard]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001421</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for A Meta-Analytic Examination of the Criterion-Related Validity and Cognitive Loading Associated With Traditional and New Situational Judgment Test Paradigms</title>
+<link>https://doi.org/10.1037/apl0001420.supp</link>
+<guid isPermaLink="false">10.1037/apl0001420.supp</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/apl0001420.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Daily temporal profiles at work: State-level dynamics in past, present, and future focus.</title>
 <link>https://doi.org/10.1037/apl0001411</link>
 <guid isPermaLink="false">10.1037/apl0001411</guid>
@@ -611,24 +628,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hong Deng; Catherine K. Lam; Yixuan Li; Yanjun Guan; Mo Wang; Russell Johnson]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001337</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Dancing with inactive helpers: Effects of team members’ prosocial motivation profiles on team processes and performance.</title>
-<link>https://doi.org/10.1037/apl0001341</link>
-<guid isPermaLink="false">10.1037/apl0001341</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[An-Chih Wang; Tae-Yeol Kim; Yanyu Chen; Wen Wu]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001341</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Thinking like a chameleon: How diversity ideologies differentially enable cultural accommodation.</title>
-<link>https://doi.org/10.1037/apl0001340</link>
-<guid isPermaLink="false">10.1037/apl0001340</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jaee Cho; Michael W. Morris; Hayley Blunden; Jie (Kassie) Li; Jingzhou Pan]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001340</dc:identifier>
 <description></description>
 </item>
 </channel>

@@ -9,7 +9,7 @@
 <description>AMR — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/amr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 21:45:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -391,15 +391,6 @@
 <description></description>
 </item>
 <item>
-<title>Asymmetric Jeopardy through Dissonant Ties: An Extension of Brands and Kilduff’s “Multiplex Jeopardy”</title>
-<link>https://doi.org/10.5465/amr.2025.0499</link>
-<guid isPermaLink="false">10.5465/amr.2025.0499</guid>
-<pubDate>Tue, 24 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Stefano Tasselli; Julia Brennecke]]></dc:creator>
-<dc:identifier>doi:10.5465/amr.2025.0499</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The Axiology of AI Agents: How Human-AI Interaction Transforms Values from Espoused to Enacted</title>
 <link>https://doi.org/10.5465/amr.2024.0494</link>
 <guid isPermaLink="false">10.5465/amr.2024.0494</guid>
@@ -568,6 +559,15 @@
 <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Natalie Holzaepfel; Olga Hawn; Timothy Werner]]></dc:creator>
 <dc:identifier>doi:10.5465/amr.2024.0426</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Out with the Old, in with the New? A Response to “How AI Reshapes Multimodal Theorization”</title>
+<link>https://doi.org/10.5465/amr.2026.0703</link>
+<guid isPermaLink="false">10.5465/amr.2026.0703</guid>
+<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ines Kuric; Markus A. Höllerer]]></dc:creator>
+<dc:identifier>doi:10.5465/amr.2026.0703</dc:identifier>
 <description></description>
 </item>
 <item>
