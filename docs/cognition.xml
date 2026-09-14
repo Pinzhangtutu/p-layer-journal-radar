@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 14 Sep 2026 04:36:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 12:31:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -217,15 +217,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marta Marecka; Magdalena Wrembel; Alba Casado; Antonella Sorace; Zofia Wodniecka]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106571</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>When arrows behave like eyes: Reversal of spatial stroop interference by visual masking</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106623</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106623</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Renato Ponce; Andrea Marotta; Rafael Román-Caballero; Yoshihiko Tanaka; Şule Akçeşme; Jeanette A. Chacón-Candia; Bruce Milliken; Maria Casagrande; Juan Lupiáñez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106623</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -535,12 +526,30 @@
 <description></description>
 </item>
 <item>
+<title>Music influences the content of spontaneous thought</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Suboptimal but intact integration of reward information during perceptual decision-making in autism</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106716</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106716</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Internal Bayesian precision modulates the neural representation of social attention: Disentangling implicit and explicit components via model-informed multivariate EEG analysis</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106720</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106720</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ziwei Chen; Lingyu Zhao; Chuyu Wang; Yongning Song]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106720</dc:identifier>
 <description></description>
 </item>
 <item>
