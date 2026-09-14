@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 13 Sep 2026 20:40:02 +0000</lastBuildDate>
+<lastBuildDate>Mon, 14 Sep 2026 04:36:13 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -50,16 +50,6 @@
 <description></description>
 </item>
 <item>
-<title>Private Information and Price Regulation in the US Credit Card Market</title>
-<link>https://doi.org/10.3982/ecta18063</link>
-<guid isPermaLink="false">10.3982/ecta18063</guid>
-<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Scott T. Nelson]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta18063</dc:identifier>
-<description><![CDATA[The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one‐third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high‐risk and price‐inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre‐CARD‐Act markups was crucial for realizing these surplus gains.]]></description>
-<content:encoded><![CDATA[The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one‐third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high‐risk and price‐inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre‐CARD‐Act markups was crucial for realizing these surplus gains.]]></content:encoded>
-</item>
-<item>
 <title>Auctioning Control and Cash‐Flow Rights Separately</title>
 <link>https://doi.org/10.3982/ecta21343</link>
 <guid isPermaLink="false">10.3982/ecta21343</guid>
@@ -90,6 +80,16 @@
 <content:encoded><![CDATA[While the mechanism design paradigm emphasizes notions of efficiency based on agent preferences, policymakers often focus on alternative objectives. School districts emphasize educational achievement, and transplantation communities focus on patient survival. It is unclear whether choice‐based mechanisms perform well when assessed based on these outcomes. This paper evaluates the assignment mechanism for allocating deceased donor kidneys on the basis of patient life‐years from transplantation (LYFT). We examine the role of choice in increasing LYFT and compare realized assignments to benchmarks that remove choice. Our model combines choices and outcomes in order to study how selection affects LYFT. We show how to identify and estimate the model using instruments derived from the mechanism. The estimates suggest that the design in use selects patients with better post‐transplant survival prospects and matches them well, resulting in an average LYFT of 9.29, which is 1.75 years more than a random assignment. However, the maximum aggregate LYFT is 14.08. Realizing the majority of the gains requires transplanting relatively healthy patients, who would have longer life expectancies even without a transplant. Therefore, a policymaker faces a dilemma between transplanting patients who are sicker and those for whom life will be extended the longest.]]></content:encoded>
 </item>
 <item>
+<title>Private Information and Price Regulation in the US Credit Card Market</title>
+<link>https://doi.org/10.3982/ecta18063</link>
+<guid isPermaLink="false">10.3982/ecta18063</guid>
+<pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Scott T. Nelson]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta18063</dc:identifier>
+<description><![CDATA[The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one‐third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high‐risk and price‐inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre‐CARD‐Act markups was crucial for realizing these surplus gains.]]></description>
+<content:encoded><![CDATA[The 2009 CARD Act limited credit card lenders' ability to raise borrowers' interest rates on the basis of new information. Pricing became less responsive to public and private signals of borrowers' risk and demand characteristics, and price dispersion fell by one‐third. I estimate the efficiency and distributional effects of this shift toward more pooled pricing. Prices fell for high‐risk and price‐inelastic consumers, but prices rose elsewhere in the market and newly exceeded willingness to pay for over 30% of the safest subprime borrowers. On net, average traded prices fell and consumer surplus rose at all credit scores. Higher consumer surplus was partly driven by a fall in lender profits, and partly by the Act's insurance value to borrowers who could retain favorable pricing after adverse changes to their default risk. The relatively high level of pre‐CARD‐Act markups was crucial for realizing these surplus gains.]]></content:encoded>
+</item>
+<item>
 <title>The Complexity of Multidimensional Learning in Agriculture</title>
 <link>https://doi.org/10.3982/ecta22974</link>
 <guid isPermaLink="false">10.3982/ecta22974</guid>
@@ -118,14 +118,6 @@
 <content:encoded><![CDATA[A buyer and seller bargain in continuous time over a good. Bargainers can be rational or committed to some fixed price. A rational buyer has a private value and outside option. If the set of buyer values and commitment types is rich and the probability of commitment vanishes, outcomes are partially consistent with the Coase conjecture: the seller chooses a price below the maximum of the lowest outside option and half the lowest value; the buyer immediately accepts or takes his outside option.]]></content:encoded>
 </item>
 <item>
-<title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
-<link>https://doi.org/10.3982/ecta944sum</link>
-<guid isPermaLink="false">10.3982/ecta944sum</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.3982/ecta944sum</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Choosing Who Chooses: Selection‐Driven Targeting in Energy Rebate Programs</title>
 <link>https://doi.org/10.3982/ecta21180</link>
 <guid isPermaLink="false">10.3982/ecta21180</guid>
@@ -144,6 +136,14 @@
 <dc:identifier>doi:10.3982/ecta22733</dc:identifier>
 <description><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></description>
 <content:encoded><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></content:encoded>
+</item>
+<item>
+<title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
+<link>https://doi.org/10.3982/ecta944sum</link>
+<guid isPermaLink="false">10.3982/ecta944sum</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.3982/ecta944sum</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Work Hours Mismatch</title>
