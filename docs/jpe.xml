@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 15 Sep 2026 16:48:12 +0000</lastBuildDate>
+<lastBuildDate>Tue, 15 Sep 2026 21:11:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -124,6 +124,15 @@
 <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David A. Green; Ben M. Sand; Iain G. Snoddy; Jeanne Tschopp]]></dc:creator>
 <dc:identifier>doi:10.1086/742712</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Regulatory Competition in the US Life Insurance Industry</title>
+<link>https://doi.org/10.1086/742725</link>
+<guid isPermaLink="false">10.1086/742725</guid>
+<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johnny Tang]]></dc:creator>
+<dc:identifier>doi:10.1086/742725</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -346,15 +355,6 @@
 <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Duncan Webb]]></dc:creator>
 <dc:identifier>doi:10.1086/742724</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Regulatory Competition in the US Life Insurance Industry</title>
-<link>https://doi.org/10.1086/742725</link>
-<guid isPermaLink="false">10.1086/742725</guid>
-<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Johnny Tang]]></dc:creator>
-<dc:identifier>doi:10.1086/742725</dc:identifier>
 <description></description>
 </item>
 <item>
