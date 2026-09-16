@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 16 Sep 2026 16:41:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 21:12:36 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -208,15 +208,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Irini Mavrou; Andrea Révész; Andreas Kyriakou; Sin Manw Sophia Lam]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106600</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Can language attrition be reversed: Evidence from speech perception and production</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106571</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106571</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marta Marecka; Magdalena Wrembel; Alba Casado; Antonella Sorace; Zofia Wodniecka]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106571</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -517,6 +508,15 @@
 <description></description>
 </item>
 <item>
+<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Music influences the content of spontaneous thought</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106722</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
@@ -526,12 +526,12 @@
 <description></description>
 </item>
 <item>
-<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
+<title>Social feedback informs generalisation of control beliefs</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106704</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106704</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
+<dc:creator><![CDATA[Jennifer C. Fielder; Essi Viding; Quentin J.M. Huys; Nikolaus Steinbeis]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106704</dc:identifier>
 <description></description>
 </item>
 <item>
