@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 15 Sep 2026 21:11:16 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 04:31:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -157,15 +157,6 @@
 <description></description>
 </item>
 <item>
-<title>Impacts of CSR Disclosure on Corporate Financial Performance: A Text Mining Approach</title>
-<link>https://doi.org/10.1016/j.im.2026.104438</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104438</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Chia-Yu Lai; Tzu-Ting Cheng; Yi-Hang Tsai; San-Yih Hwang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104438</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Integrating e-commerce and social media metrics in prescriptive multichannel retail store efficiency analysis: A case study in do-it-yourself retailing</title>
 <link>https://doi.org/10.1016/j.im.2026.104381</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104381</guid>
@@ -283,6 +274,15 @@
 <description></description>
 </item>
 <item>
+<title>Impacts of CSR disclosure on corporate financial performance: A text mining approach</title>
+<link>https://doi.org/10.1016/j.im.2026.104438</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104438</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chia-Yu Lai; Tzu-Ting Cheng; Yi-Hang Tsai; San-Yih Hwang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104438</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Security breaches and crypto token valuation: Evidence from blockchain projects</title>
 <link>https://doi.org/10.1016/j.im.2026.104437</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104437</guid>
@@ -364,21 +364,21 @@
 <description></description>
 </item>
 <item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
 <link>https://doi.org/10.1016/j.im.2026.104411</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>
