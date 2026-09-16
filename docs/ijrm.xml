@@ -9,7 +9,7 @@
 <description>IJRM — Elsevier / EMAC · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijrm.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 16 Sep 2026 04:31:57 +0000</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 11:20:55 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,21 +121,21 @@
 <description></description>
 </item>
 <item>
-<title>Unveiling consumer preferences: a theory-based multimodal deep learning architecture for explainable recommendation</title>
-<link>https://doi.org/10.1016/j.ijresmar.2026.01.007</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2026.01.007</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xinyu Liu; Yang Qian; Yezheng Liu; Jennifer Shang; Yuanchun Jiang; Yidong Chai]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2026.01.007</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Forward-looking disclosure of customer metrics in IPO prospectuses: stock market reactions and long-term profitability</title>
 <link>https://doi.org/10.1016/j.ijresmar.2025.10.007</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2025.10.007</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Simeng Han; Emanuel Bayer; Bernd Skiera; Agnish Ghatak]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.10.007</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unveiling consumer preferences: a theory-based multimodal deep learning architecture for explainable recommendation</title>
+<link>https://doi.org/10.1016/j.ijresmar.2026.01.007</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2026.01.007</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xinyu Liu; Yang Qian; Yezheng Liu; Jennifer Shang; Yuanchun Jiang; Yidong Chai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2026.01.007</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -184,15 +184,6 @@
 <description></description>
 </item>
 <item>
-<title>Implementing e-commerce channels in business-to-business selling</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.10.003</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.10.003</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Roland Kassemeier; Sascha Alavi; Johannes Habel]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.10.003</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Cute package, sweet taste? The effects of Kindchenschema food packaging on consumers</title>
 <link>https://doi.org/10.1016/j.ijresmar.2025.11.001</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2025.11.001</guid>
@@ -202,12 +193,12 @@
 <description></description>
 </item>
 <item>
-<title>Art as Revelation: Why AI Art Moves Us Less</title>
-<link>https://doi.org/10.1016/j.ijresmar.2026.09.002</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2026.09.002</guid>
+<title>Implementing e-commerce channels in business-to-business selling</title>
+<link>https://doi.org/10.1016/j.ijresmar.2025.10.003</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2025.10.003</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Baris Erman Depecik; Ezgi Ozgen; Koray Cosguner; J. Jeffrey Inman]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2026.09.002</dc:identifier>
+<dc:creator><![CDATA[Roland Kassemeier; Sascha Alavi; Johannes Habel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2025.10.003</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -217,6 +208,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Aron Darmody; Pierre-Yann Dolbec; Mujde Yuksel; Meera Venkatraman]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.08.001</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Art as Revelation: Why AI Art Moves Us Less</title>
+<link>https://doi.org/10.1016/j.ijresmar.2026.09.002</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2026.09.002</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Baris Erman Depecik; Ezgi Ozgen; Koray Cosguner; J. Jeffrey Inman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2026.09.002</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,21 +436,21 @@
 <description></description>
 </item>
 <item>
-<title>Integrating neuro-psychological habit research into consumer choice models</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.10.002</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.10.002</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ryan Webb; Jessica Fong; Peter Landry; Julia Levine; Alexendra Steiny Wellsjo; Olivia Natan; Asaf Mazar; Clarice Y. Zhao; Phillippa Lally; Sanne de Wit; John P. O’Doherty; Andrew T. Ching; Raphael Thomadsen; Matthew Osborne; Mark E. Bouton; Wendy Wood; Colin F. Camerer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.10.002</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Determining the quality of B2C sales leads from online chats</title>
 <link>https://doi.org/10.1016/j.ijresmar.2025.07.001</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2025.07.001</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Valerie Good; Abhi Bhattacharya; Bryan W. Hochstein; Clay M. Voorhees]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.07.001</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Integrating neuro-psychological habit research into consumer choice models</title>
+<link>https://doi.org/10.1016/j.ijresmar.2025.10.002</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2025.10.002</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ryan Webb; Jessica Fong; Peter Landry; Julia Levine; Alexendra Steiny Wellsjo; Olivia Natan; Asaf Mazar; Clarice Y. Zhao; Phillippa Lally; Sanne de Wit; John P. O’Doherty; Andrew T. Ching; Raphael Thomadsen; Matthew Osborne; Mark E. Bouton; Wendy Wood; Colin F. Camerer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2025.10.002</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -517,21 +517,21 @@
 <description></description>
 </item>
 <item>
-<title>Consumer sentiment, monetary expenditure, and time use: perspectives from a panel study</title>
-<link>https://doi.org/10.1016/j.ijresmar.2026.06.001</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2026.06.001</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Botao Yang; Lan Luo; Brian T. Ratchford]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2026.06.001</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Breaking the mold: how visual atypicality shapes brand-generated image virality</title>
 <link>https://doi.org/10.1016/j.ijresmar.2025.07.005</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2025.07.005</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zitian Adam; Zhiyong Yang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.07.005</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Consumer sentiment, monetary expenditure, and time use: perspectives from a panel study</title>
+<link>https://doi.org/10.1016/j.ijresmar.2026.06.001</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2026.06.001</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Botao Yang; Lan Luo; Brian T. Ratchford]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2026.06.001</dc:identifier>
 <description></description>
 </item>
 <item>
