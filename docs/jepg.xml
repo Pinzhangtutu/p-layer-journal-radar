@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 17 Sep 2026 11:30:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 16:48:45 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -297,6 +297,38 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for What Predicts Expertise in Baduk? Intelligence, Practice, and a Natural Test of the Range Restriction Hypothesis</title>
+<link>https://doi.org/10.1037/xge0001983.supp</link>
+<guid isPermaLink="false">10.1037/xge0001983.supp</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/xge0001983.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Bridging Real-World Summarization and Laboratory-Based Memory Recall</title>
+<link>https://doi.org/10.1037/xge0001994.supp</link>
+<guid isPermaLink="false">10.1037/xge0001994.supp</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/xge0001994.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Equity Rewards the True Self: True-Self Attributions Drive Perceptions of Equity-Based Justice</title>
+<link>https://doi.org/10.1037/xge0001999.supp</link>
+<guid isPermaLink="false">10.1037/xge0001999.supp</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/xge0001999.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for The Moralized Coalitions Model: How Coalitional Thinking and Moralization Shape Social Perception</title>
+<link>https://doi.org/10.1037/xge0001998.supp</link>
+<guid isPermaLink="false">10.1037/xge0001998.supp</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/xge0001998.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Supplemental Material for Political Shocks: Understanding Major Political Events From an Affective Science Lens</title>
 <link>https://doi.org/10.1037/xge0001966.supp</link>
 <guid isPermaLink="false">10.1037/xge0001966.supp</guid>
@@ -327,14 +359,6 @@
 <guid isPermaLink="false">10.1037/xge0001977.supp</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/xge0001977.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Artificial Intelligence and Machines Are Capable of Harm, but Not of Experiencing Punishment</title>
-<link>https://doi.org/10.1037/xge0001930.supp</link>
-<guid isPermaLink="false">10.1037/xge0001930.supp</guid>
-<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001930.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -566,15 +590,6 @@
 <guid isPermaLink="false">10.1037/xge0001936.supp</guid>
 <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/xge0001936.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Does the magnitude of numbers cause lateral shifts of spatial attention (also taking into account directional counting habits and the speed of reaction times)?</title>
-<link>https://doi.org/10.1037/xge0001934</link>
-<guid isPermaLink="false">10.1037/xge0001934</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sara Lo Presti; Angelica Scuderi; Valentina Piga; Silvana Lozito; Mario Pinto; Gabriele Scozia; Stefano Lasaponara; Marco Perugini; Fabrizio Doricchi]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001934</dc:identifier>
 <description></description>
 </item>
 </channel>

@@ -9,7 +9,7 @@
 <description>JEdPsych — APA · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jedpsych.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 17 Sep 2026 11:30:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 16:48:45 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -103,14 +103,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Beyond the Average: The Predictive Dynamics of Component Skills Across the Spectrum of Reading Comprehension and Fluency in Young Adults</title>
-<link>https://doi.org/10.1037/edu0001061.supp</link>
-<guid isPermaLink="false">10.1037/edu0001061.supp</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001061.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Mapping Creativity in the PISA 2022 Student and Context Questionnaires: An Expert Evaluation of Content Validity of the Creativity Self- and Other-Report Scales</title>
 <link>https://doi.org/10.1037/edu0001060.supp</link>
 <guid isPermaLink="false">10.1037/edu0001060.supp</guid>
@@ -119,36 +111,11 @@
 <description></description>
 </item>
 <item>
-<title>When expectancy meets emotional and effort costs: A longitudinal situated expectancy-value theory study regarding conditional indirect effects on mathematics achievement via maladaptive motivational engagement.</title>
-<link>https://doi.org/10.1037/edu0001043</link>
-<guid isPermaLink="false">10.1037/edu0001043</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shu-Ling Peng; Biing-Lin Cherng; Li-Yun Chang]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001043</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Test Boredom While Working on Difficult Versus Easy Tasks: The Same Emotion but Different Effects on Performance</title>
-<link>https://doi.org/10.1037/edu0001045.supp</link>
-<guid isPermaLink="false">10.1037/edu0001045.supp</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001045.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Debunking the Learning Styles Neuromyth: No Effects of Learning Styles on Recognition Accuracy in Primary Education Students</title>
 <link>https://doi.org/10.1037/edu0001056.supp</link>
 <guid isPermaLink="false">10.1037/edu0001056.supp</guid>
 <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001056.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Developmental Trajectories of Motivational Beliefs in Two Academic Domains Throughout Early Secondary School</title>
-<link>https://doi.org/10.1037/edu0001058.supp</link>
-<guid isPermaLink="false">10.1037/edu0001058.supp</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001058.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -165,15 +132,6 @@
 <guid isPermaLink="false">10.1037/edu0001044.supp</guid>
 <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001044.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Patterns of agentic engagement, autonomy support, and extrinsic motivation in middle school science.</title>
-<link>https://doi.org/10.1037/edu0001051</link>
-<guid isPermaLink="false">10.1037/edu0001051</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pei Pei Liu; Gwen C. Marchand; Christopher J. Harris; Jennifer A. Schmidt; Lisa Linnenbrink-Garcia]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001051</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -220,11 +178,11 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for When Expectancy Meets Emotional and Effort Costs: A Longitudinal Situated Expectancy-Value Theory Study Regarding Conditional Indirect Effects on Mathematics Achievement via Maladaptive Motivational Engagement</title>
-<link>https://doi.org/10.1037/edu0001043.supp</link>
-<guid isPermaLink="false">10.1037/edu0001043.supp</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001043.supp</dc:identifier>
+<title>Supplemental Material for Differential Predictions of Mindsets for Task Effort Cost and Emotional Cost Perceptions in Introductory College Chemistry</title>
+<link>https://doi.org/10.1037/edu0001057.supp</link>
+<guid isPermaLink="false">10.1037/edu0001057.supp</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/edu0001057.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -245,21 +203,138 @@
 <description></description>
 </item>
 <item>
-<title>Reading and cognitive predictors of reading anxiety: An 8-year longitudinal study.</title>
-<link>https://doi.org/10.1037/edu0001065</link>
-<guid isPermaLink="false">10.1037/edu0001065</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dacian Dorin Dolean; Daria Khanolainen; Minna Torppa]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001065</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Almighty ChatGPT? Development of gifted secondary school students’ AI (mis)conceptions.</title>
 <link>https://doi.org/10.1037/edu0001063</link>
 <guid isPermaLink="false">10.1037/edu0001063</guid>
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ann-Kathrin Jaggy; Thorben Jansen; Tim Fütterer; Ulrich Trautwein]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001063</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Test boredom while working on difficult versus easy tasks: The same emotion but different effects on performance.</title>
+<link>https://doi.org/10.1037/edu0001045</link>
+<guid isPermaLink="false">10.1037/edu0001045</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Goetz; Sarah Stoll; Caroline A. Adam; Maik Bieleke; Anne C. Frenzel; Jonathan Fries; Lukas Kraiger; Lisa Stempfer; Takuya Yanagida; Reinhard Pekrun]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001045</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Collaborative and individual practice testing lead to different patterns of learning across two variations of the true/false test format.</title>
+<link>https://doi.org/10.1037/edu0001037</link>
+<guid isPermaLink="false">10.1037/edu0001037</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Megan N. Imundo; Vaishali Denton; Jordan A. Brabec; Courtney M. Clark; Elizabeth Ligon Bjork; Robert A. Bjork; Melissa Paquette-Smith]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001037</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Math anxiety, math performance, peer effects, and gender: Evidence from 69 countries.</title>
+<link>https://doi.org/10.1037/edu0001023</link>
+<guid isPermaLink="false">10.1037/edu0001023</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robert Rudolf; Valerie Sotardi]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001023</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Linguistically-driven text formatting improves reading comprehension: Evidence from 4th and 5th graders.</title>
+<link>https://doi.org/10.1037/edu0001054</link>
+<guid isPermaLink="false">10.1037/edu0001054</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Julie A. Van Dyke; Jack Dempsey]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001054</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reading and cognitive predictors of reading anxiety: An 8-year longitudinal study.</title>
+<link>https://doi.org/10.1037/edu0001065</link>
+<guid isPermaLink="false">10.1037/edu0001065</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dacian Dorin Dolean; Daria Khanolainen; Minna Torppa]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001065</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When expectancy meets emotional and effort costs: A longitudinal situated expectancy-value theory study regarding conditional indirect effects on mathematics achievement via maladaptive motivational engagement.</title>
+<link>https://doi.org/10.1037/edu0001043</link>
+<guid isPermaLink="false">10.1037/edu0001043</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shu-Ling Peng; Biing-Lin Cherng; Li-Yun Chang]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001043</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When interleaving feels easier than blocking: Aligning learner goals with the affordances of interleaved sequences reduces perceived effort.</title>
+<link>https://doi.org/10.1037/edu0001028</link>
+<guid isPermaLink="false">10.1037/edu0001028</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roman Abel; Veronica Yan; Erdem Onan; Saskia Giebl; Julian Roelle]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001028</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Patterns of agentic engagement, autonomy support, and extrinsic motivation in middle school science.</title>
+<link>https://doi.org/10.1037/edu0001051</link>
+<guid isPermaLink="false">10.1037/edu0001051</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pei Pei Liu; Gwen C. Marchand; Christopher J. Harris; Jennifer A. Schmidt; Lisa Linnenbrink-Garcia]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001051</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Developmental trajectories of motivational beliefs in two academic domains throughout early secondary school.</title>
+<link>https://doi.org/10.1037/edu0001058</link>
+<guid isPermaLink="false">10.1037/edu0001058</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wendy Symes; Rebecca Lazarides]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001058</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond the average: The predictive dynamics of component skills across the spectrum of reading comprehension and fluency in young adults.</title>
+<link>https://doi.org/10.1037/edu0001061</link>
+<guid isPermaLink="false">10.1037/edu0001061</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yueming Xi; Esther Geva; Victor Kuperman]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001061</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Teaching argumentative writing: A meta-analysis with school-aged students.</title>
+<link>https://doi.org/10.1037/edu0001034</link>
+<guid isPermaLink="false">10.1037/edu0001034</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steve Graham; April Camping; Yucheng Cao; Alyson Collins; Stephen Ciullo]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001034</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The interplay of personal and situational factors in situated expectancy-value theory: Cross-classified analyses of students’ situation-specific motivations in the Math domain.</title>
+<link>https://doi.org/10.1037/edu0001032</link>
+<guid isPermaLink="false">10.1037/edu0001032</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daria K. Benden; Fani Lauermann]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001032</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Engaging Latinx or Hispanic-Identifying families in science education: A longitudinal intervention study.</title>
+<link>https://doi.org/10.1037/edu0001047</link>
+<guid isPermaLink="false">10.1037/edu0001047</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Su Jiang; Anna Woodcock; Kamel Haddad; Paul R. Hernandez]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001047</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Learning from erroneous worked examples: The influence of prompting, scaffolding, and prior knowledge.</title>
+<link>https://doi.org/10.1037/edu0001020</link>
+<guid isPermaLink="false">10.1037/edu0001020</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maik Beege; Felix Krieglstein; Lukas Wesenberg; Katharina Loibl; Sascha Schneider]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001020</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -371,15 +446,6 @@
 <description></description>
 </item>
 <item>
-<title>Test boredom while working on difficult versus easy tasks: The same emotion but different effects on performance.</title>
-<link>https://doi.org/10.1037/edu0001045</link>
-<guid isPermaLink="false">10.1037/edu0001045</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Thomas Goetz; Sarah Stoll; Caroline A. Adam; Maik Bieleke; Anne C. Frenzel; Jonathan Fries; Lukas Kraiger; Lisa Stempfer; Takuya Yanagida; Reinhard Pekrun]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001045</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Hierarchical nature of arithmetic skills: Similarities and differences between arithmetic operations.</title>
 <link>https://doi.org/10.1037/edu0001066</link>
 <guid isPermaLink="false">10.1037/edu0001066</guid>
@@ -389,12 +455,12 @@
 <description></description>
 </item>
 <item>
-<title>Linguistically-driven text formatting improves reading comprehension: Evidence from 4th and 5th graders.</title>
-<link>https://doi.org/10.1037/edu0001054</link>
-<guid isPermaLink="false">10.1037/edu0001054</guid>
+<title>Interpolated prequestioning increases on-task thoughts, dampens off-task thoughts, and facilitates learning during video lectures.</title>
+<link>https://doi.org/10.1037/edu0001055</link>
+<guid isPermaLink="false">10.1037/edu0001055</guid>
 <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Julie A. Van Dyke; Jack Dempsey]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001054</dc:identifier>
+<dc:creator><![CDATA[Steven C. Pan; Elisya Tung; Luke Chiang; Alyssa Indrajaya; Michelle E. Kaku]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001055</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -404,15 +470,6 @@
 <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yucheng Cao; Young-Suk Grace Kim; Yuemeng Wang]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001059</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Interpolated prequestioning increases on-task thoughts, dampens off-task thoughts, and facilitates learning during video lectures.</title>
-<link>https://doi.org/10.1037/edu0001055</link>
-<guid isPermaLink="false">10.1037/edu0001055</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Steven C. Pan; Elisya Tung; Luke Chiang; Alyssa Indrajaya; Michelle E. Kaku]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001055</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -482,39 +539,6 @@
 <guid isPermaLink="false">10.1037/edu0001059.supp</guid>
 <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001059.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Psychological Need Satisfaction and Behavioral Engagement Reciprocally Enhance Each Other—Unless One’s Teacher Is Perceived to Be Highly Controlling</title>
-<link>https://doi.org/10.1037/edu0001048.supp</link>
-<guid isPermaLink="false">10.1037/edu0001048.supp</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001048.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The interplay of personal and situational factors in situated expectancy-value theory: Cross-classified analyses of students’ situation-specific motivations in the Math domain.</title>
-<link>https://doi.org/10.1037/edu0001032</link>
-<guid isPermaLink="false">10.1037/edu0001032</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Daria K. Benden; Fani Lauermann]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001032</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Which School Climate Dimensions Matter for Teachers’ Occupational Well-Being? A Multilevel Cross-Country Analysis Using PISA 2022</title>
-<link>https://doi.org/10.1037/edu0001050.supp</link>
-<guid isPermaLink="false">10.1037/edu0001050.supp</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001050.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Patterns of Agentic Engagement, Autonomy Support, and Extrinsic Motivation in Middle School Science</title>
-<link>https://doi.org/10.1037/edu0001051.supp</link>
-<guid isPermaLink="false">10.1037/edu0001051.supp</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001051.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -591,24 +615,6 @@
 <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marietta Papadatou-Pastou; Anna K. Touloumakos; Efthalia Theotokatou]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001056</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Developmental trajectories of motivational beliefs in two academic domains throughout early secondary school.</title>
-<link>https://doi.org/10.1037/edu0001058</link>
-<guid isPermaLink="false">10.1037/edu0001058</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wendy Symes; Rebecca Lazarides]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001058</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Beyond the average: The predictive dynamics of component skills across the spectrum of reading comprehension and fluency in young adults.</title>
-<link>https://doi.org/10.1037/edu0001061</link>
-<guid isPermaLink="false">10.1037/edu0001061</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yueming Xi; Esther Geva; Victor Kuperman]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001061</dc:identifier>
 <description></description>
 </item>
 <item>

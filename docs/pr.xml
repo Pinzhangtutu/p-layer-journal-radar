@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 17 Sep 2026 11:30:13 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 16:48:45 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -292,6 +292,22 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Dynamics of Variability and Bias in Working Memory</title>
+<link>https://doi.org/10.1037/rev0000645.supp</link>
+<guid isPermaLink="false">10.1037/rev0000645.supp</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000645.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Why Most Stereotypes Are Negative</title>
+<link>https://doi.org/10.1037/rev0000647.supp</link>
+<guid isPermaLink="false">10.1037/rev0000647.supp</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000647.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Supplemental Material for Risk Matters Less When Options Are Apples-to-Oranges: The Translate-and-Accommodate Model</title>
 <link>https://doi.org/10.1037/rev0000633.supp</link>
 <guid isPermaLink="false">10.1037/rev0000633.supp</guid>
@@ -468,15 +484,6 @@
 <description></description>
 </item>
 <item>
-<title>A goal-directed perspective on dampening of positive affect.</title>
-<link>https://doi.org/10.1037/rev0000619</link>
-<guid isPermaLink="false">10.1037/rev0000619</guid>
-<pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Liesbeth Bogaert; Agnes Moors; Filip Raes]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000619</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A reciprocal model of practice and skill: Navigating between dropout and expertise.</title>
 <link>https://doi.org/10.1037/rev0000627</link>
 <guid isPermaLink="false">10.1037/rev0000627</guid>
@@ -519,15 +526,6 @@
 <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Qihan Wu; Jonathan I. Flombaum]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000629</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The statistical physics of psychological networks: Zero matters.</title>
-<link>https://doi.org/10.1037/rev0000611</link>
-<guid isPermaLink="false">10.1037/rev0000611</guid>
-<pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Han L. J. van der Maas; Denny Borsboom; Lourens Waldorp]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000611</dc:identifier>
 <description></description>
 </item>
 <item>
