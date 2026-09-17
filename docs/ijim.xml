@@ -9,7 +9,7 @@
 <description>IJIM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijim.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 17 Sep 2026 16:48:45 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 21:14:29 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -526,15 +526,6 @@
 <description></description>
 </item>
 <item>
-<title>Impression management in chatbots: Balancing competence and warmth through self-presentation strategies</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103050</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103050</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Azza Ezzedine; Hai-hua Hu; Mouna Damak Turki]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103050</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When animated avatars outperform: Leveraging avatar endorsers to enhance consumer adoption of AI-designed products</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103124</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103124</guid>
@@ -568,6 +559,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xiqing Han; Sihong Li; Huawei Liu; Min Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijinfomgt.2026.103122</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Examining the evolutionary patterns of open-source software projects</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103134</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103134</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hossein Mohit; Arash Saghafi; Sven de Waard; Tim van der Heijden]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103134</dc:identifier>
 <description></description>
 </item>
 <item>
