@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 17 Sep 2026 04:38:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 17 Sep 2026 11:30:13 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -199,15 +199,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Samuel Recht; Nick Yeung]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106626</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Eye-tracking emotional responses and moral decisions in bilingual contexts</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106600</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106600</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Irini Mavrou; Andrea Révész; Andreas Kyriakou; Sin Manw Sophia Lam]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106600</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -463,6 +454,15 @@
 <description></description>
 </item>
 <item>
+<title>Belief updating across information ecologies: The trade-off between information gain and noise filtering</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106725</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106725</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ping Xu; YinLin Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106725</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>The cost of “what might have been”: false memories for counterfactual actions</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106701</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106701</guid>
@@ -508,12 +508,12 @@
 <description></description>
 </item>
 <item>
-<title>Music influences the content of spontaneous thought</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
+<title>Phrase-level speech timing preferences predict synchronization in joint reading</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106713</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106713</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
+<dc:creator><![CDATA[M. Wolpert; Y. Chen; N. Ding]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106713</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -523,6 +523,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Music influences the content of spontaneous thought</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
 <description></description>
 </item>
 <item>
