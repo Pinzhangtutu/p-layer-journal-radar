@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 18 Sep 2026 11:03:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:16:21 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -389,26 +389,6 @@
 <content:encoded><![CDATA[This paper investigates the impact of job stability on the performance of workers, specifically women.]]></content:encoded>
 </item>
 <item>
-<title>Applying Large Language Models to Sponsored Search Advertising</title>
-<link>https://doi.org/10.1287/mksc.2023.0611</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0611</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Martin Reisenbichler; Thomas Reutterer; David A. Schweidel]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0611</dc:identifier>
-<description><![CDATA[This paper presents a human-in-the-loop LLM framework that boosts search engine ad performance and explores cost trade-offs and boundary conditions.]]></description>
-<content:encoded><![CDATA[This paper presents a human-in-the-loop LLM framework that boosts search engine ad performance and explores cost trade-offs and boundary conditions.]]></content:encoded>
-</item>
-<item>
-<title>Investigating the Impact of Advertising on Smoking Cessation: The Role of Direct-to-Consumer Prescription Drug Advertising</title>
-<link>https://doi.org/10.1287/mksc.2024.0848</link>
-<guid isPermaLink="false">10.1287/mksc.2024.0848</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Erfan Loghmani; Ali Goli]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2024.0848</dc:identifier>
-<description><![CDATA[This paper measures the effects of direct-to-consumer advertising for smoking cessation prescription drugs and examines how access barriers moderate these effects.]]></description>
-<content:encoded><![CDATA[This paper measures the effects of direct-to-consumer advertising for smoking cessation prescription drugs and examines how access barriers moderate these effects.]]></content:encoded>
-</item>
-<item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
 <link>https://doi.org/10.1287/mksc.2023.0309</link>
 <guid isPermaLink="false">10.1287/mksc.2023.0309</guid>
@@ -531,6 +511,26 @@
 <dc:identifier>doi:10.1287/mksc.2024.0922</dc:identifier>
 <description><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></description>
 <content:encoded><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></content:encoded>
+</item>
+<item>
+<title>Global Product Strategies and Cultural Promotion in the Context of Culture-Commerce Interactions</title>
+<link>https://doi.org/10.1287/mksc.2024.0800</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0800</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuxin Chen; Eden Yin; Wen Zhou]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0800</dc:identifier>
+<description><![CDATA[A global firm can strategically maintain or even leverage cultural distance despite it being costless to reduce because such distance fosters consumer cultural adaptation that boosts long-term profits, whereas cultural promotion, though not directly increasing willingness to pay, indirectly enhances profitability by deepening cultural appreciation, ultimately benefiting both the firm and consumers and suggesting that nonprofit cultural initiatives can align with profit-driven goals in global consumerism.]]></description>
+<content:encoded><![CDATA[A global firm can strategically maintain or even leverage cultural distance despite it being costless to reduce because such distance fosters consumer cultural adaptation that boosts long-term profits, whereas cultural promotion, though not directly increasing willingness to pay, indirectly enhances profitability by deepening cultural appreciation, ultimately benefiting both the firm and consumers and suggesting that nonprofit cultural initiatives can align with profit-driven goals in global consumerism.]]></content:encoded>
+</item>
+<item>
+<title>The Challenges of Deploying an Algorithmic Pricing Tool: Evidence from Airbnb</title>
+<link>https://doi.org/10.1287/mksc.2024.0964</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0964</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mohsen Foroughifar; Nitin Mehta]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0964</dc:identifier>
+<description><![CDATA[This paper examines the challenges of deploying an AI pricing tool developed by Airbnb and explores possible solutions.]]></description>
+<content:encoded><![CDATA[This paper examines the challenges of deploying an AI pricing tool developed by Airbnb and explores possible solutions.]]></content:encoded>
 </item>
 <item>
 <title>When Food Gets Political: How Does News Drive Green Food Offerings?</title>

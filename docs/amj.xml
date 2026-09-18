@@ -9,7 +9,7 @@
 <description>AMJ — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/amj.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 18 Sep 2026 11:03:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:16:21 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -535,21 +535,21 @@
 <description></description>
 </item>
 <item>
-<title>Impact, Interrupted: How and When Thwarted Prosocial Impact Undermines Employee Performance and Retention</title>
-<link>https://doi.org/10.5465/amj.2024.0445</link>
-<guid isPermaLink="false">10.5465/amj.2024.0445</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jordan D. Nielsen; Kinshuk Sharma; Daniel D. Goering]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0445</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Moderately Fast and Furious: A Screening and Behavioral Theory of New CEO Strategic Action Speed</title>
 <link>https://doi.org/10.5465/amj.2024.0829</link>
 <guid isPermaLink="false">10.5465/amj.2024.0829</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[John R. Busenbark; Robert Campbell; Diego Villalpando]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2024.0829</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Impact, Interrupted: How and When Thwarted Prosocial Impact Undermines Employee Performance and Retention</title>
+<link>https://doi.org/10.5465/amj.2024.0445</link>
+<guid isPermaLink="false">10.5465/amj.2024.0445</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jordan D. Nielsen; Kinshuk Sharma; Daniel D. Goering]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0445</dc:identifier>
 <description></description>
 </item>
 <item>

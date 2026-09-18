@@ -9,7 +9,7 @@
 <description>GOM — SAGE · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/gom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 18 Sep 2026 11:03:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:16:21 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -610,6 +610,15 @@
 <description></description>
 </item>
 <item>
+<title>The Organisational Uses of Silence: Commentary on Weiss, M., &amp; Zacher, H. (2025). Still Waters Run Deep: How Employee Silence Affects Instigated Workplace Incivility Over Time. Journal of Business Ethics, 201, 587–604</title>
+<link>https://doi.org/10.1177/10596011261487539</link>
+<guid isPermaLink="false">10.1177/10596011261487539</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[M. Grover]]></dc:creator>
+<dc:identifier>doi:10.1177/10596011261487539</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>A Commentary on Kiazad et al. (2025): Psychological Safety—Not Individual Failings—Drives Workplace Bullshitting</title>
 <link>https://doi.org/10.1177/10596011251409009</link>
 <guid isPermaLink="false">10.1177/10596011251409009</guid>
@@ -664,15 +673,6 @@
 <dc:identifier>doi:10.1177/10596011261487045</dc:identifier>
 <description><![CDATA[Schertler and colleagues (2026) find that remote work intensity is associated with lower belongingness and that leaders’ virtual collaboration behaviors may temper this relationship. We extend their account by framing remote inclusion as a signal-detection problem within the team’s interaction environment. Employees infer whether they belong from cues generated through coworker exchanges, communication technologies, participation norms, and leader-supported routines. Leaders shape this environment, and team members enact it through their everyday interactions. This perspective may explain why stable differences in leaders’ average collaboration behaviors mattered more than within-person fluctuations in those behaviors. We also distinguish belongingness from authenticity and clarify that authenticity should not be treated as equivalent to uniqueness. Remote work may affect these dimensions through difference processes. Future research should examine the interaction routines that make inclusionary cues easier to detect, along with the relational histories and individual differences that shape how those cues are interpreted.]]></description>
 <content:encoded><![CDATA[Schertler and colleagues (2026) find that remote work intensity is associated with lower belongingness and that leaders’ virtual collaboration behaviors may temper this relationship. We extend their account by framing remote inclusion as a signal-detection problem within the team’s interaction environment. Employees infer whether they belong from cues generated through coworker exchanges, communication technologies, participation norms, and leader-supported routines. Leaders shape this environment, and team members enact it through their everyday interactions. This perspective may explain why stable differences in leaders’ average collaboration behaviors mattered more than within-person fluctuations in those behaviors. We also distinguish belongingness from authenticity and clarify that authenticity should not be treated as equivalent to uniqueness. Remote work may affect these dimensions through difference processes. Future research should examine the interaction routines that make inclusionary cues easier to detect, along with the relational histories and individual differences that shape how those cues are interpreted.]]></content:encoded>
-</item>
-<item>
-<title>How to Construct and Report Causal-Loop Diagrams (CLDs) in Organizational Research: A Practical Guide</title>
-<link>https://doi.org/10.1177/10596011251414788</link>
-<guid isPermaLink="false">10.1177/10596011251414788</guid>
-<pubDate>Fri, 02 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jintao Lu; Shiyu Yan; Malin Song]]></dc:creator>
-<dc:identifier>doi:10.1177/10596011251414788</dc:identifier>
-<description></description>
 </item>
 </channel>
 </rss>

@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 18 Sep 2026 11:03:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:16:21 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -181,15 +181,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[C.M. Bates; S. Dias Salgado; M. Von Mohr; I. Konvalinka; A.K. Martin]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106632</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>People make graded judgments about the inconceivable</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106627</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106627</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jennifer Hu; Felix Sosa; Tomer Ullman]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106627</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -604,6 +595,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jonathan Him Nok Lee; Anna Papafragou]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106697</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Intuitions of compromise: Utilitarianism, egalitarianism, contractualism</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106694</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106694</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jared Moore; Yejin Choi; Sydney Levine]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106694</dc:identifier>
 <description></description>
 </item>
 </channel>

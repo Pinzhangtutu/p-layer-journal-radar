@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 18 Sep 2026 11:03:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 16:16:21 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -553,6 +553,33 @@
 <description></description>
 </item>
 <item>
+<title>Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon</title>
+<link>https://doi.org/10.1086/744117</link>
+<guid isPermaLink="false">10.1086/744117</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Juliano Assunção; Lars Peter Hansen; Todd Munson; José A. Scheinkman]]></dc:creator>
+<dc:identifier>doi:10.1086/744117</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Data, Privacy Laws and Firm Production: Evidence from the GDPR</title>
+<link>https://doi.org/10.1086/744118</link>
+<guid isPermaLink="false">10.1086/744118</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mert Demirer; Diego Jiménez-Hernández; Dean Li; Sida Peng]]></dc:creator>
+<dc:identifier>doi:10.1086/744118</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Quantity Commitments in Multiunit Auctions: Evidence from Credit Event Auctions</title>
+<link>https://doi.org/10.1086/744119</link>
+<guid isPermaLink="false">10.1086/744119</guid>
+<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eric Richert]]></dc:creator>
+<dc:identifier>doi:10.1086/744119</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Rethinking Reference Dependence: Wage Dynamics and Optimal Taxi Labor Supply</title>
 <link>https://doi.org/10.1086/744012</link>
 <guid isPermaLink="false">10.1086/744012</guid>
@@ -603,31 +630,6 @@
 <guid isPermaLink="false">10.1086/742103</guid>
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1086/742103</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>JPE Turnaround Times</title>
-<link>https://doi.org/10.1086/741685</link>
-<guid isPermaLink="false">10.1086/741685</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1086/741685</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Algorithm Design: A Fairness-Accuracy Frontier</title>
-<link>https://doi.org/10.1086/739826</link>
-<guid isPermaLink="false">10.1086/739826</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Annie Liang; Jay Lu; Xiaosheng Mu; Kyohei Okumura]]></dc:creator>
-<dc:identifier>doi:10.1086/739826</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Front Matter</title>
-<link>https://doi.org/10.1086/742102</link>
-<guid isPermaLink="false">10.1086/742102</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1086/742102</dc:identifier>
 <description></description>
 </item>
 </channel>
