@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 17 Sep 2026 21:14:29 +0000</lastBuildDate>
+<lastBuildDate>Fri, 18 Sep 2026 04:22:58 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -190,15 +190,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jennifer Hu; Felix Sosa; Tomer Ullman]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106627</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Knowability predicts curiosity and learning</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106626</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106626</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Samuel Recht; Nick Yeung]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106626</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,6 +427,15 @@
 <description></description>
 </item>
 <item>
+<title>Cross-modal social attention differs across emotional categories: Evidence from biological motion and gaze cues</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106721</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106721</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tian Yuan; Jingyi Zhang; Huiling Zhang; Bin Zhan; Li Kong; Antao Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106721</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Predictive processing in sentence reading: Semantic prediction but not phonological facilitation in deaf readers</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106703</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106703</guid>
@@ -460,6 +460,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ping Xu; YinLin Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106725</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The role of pitch in the vocal communication of intentions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106714</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106714</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pauline Larrouy-Maestri; Hanna Ringer; David Poeppel; Daniela Sammler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106714</dc:identifier>
 <description></description>
 </item>
 <item>
