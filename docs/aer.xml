@@ -9,7 +9,7 @@
 <description>AER — AEA · Latest in: Forthcoming · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aer.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 19 Sep 2026 04:19:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 10:45:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -600,16 +600,6 @@
 <content:encoded><![CDATA[How does information transmission change when it requires attracting the attention of receivers? This paper combines an experiment that varies freelance professionals’ incentives to attract attention about scientific findings, with several online experiments that exogenously expose receivers to the content created. Attention incentives lead to significantly less information being transmitted, but not more factually inaccurate content. These incentives increase information demand and the knowledge of interested receivers. However, among the majority of receivers who do not demand more information, attention incentives lower knowledge and increase biases in beliefs, revealing a channel through which misperceptions can arise: missing information. (JEL C91, D83, D91)]]></content:encoded>
 </item>
 <item>
-<title>Production and Financial Networks in Interplay</title>
-<link>https://doi.org/10.1257/aer.20201088</link>
-<guid isPermaLink="false">10.1257/aer.20201088</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kenan Huremović; Gabriel Jiménez; Enrique Moral-Benito; José-Luis Peydró; Fernando Vega-Redondo]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20201088</dc:identifier>
-<description><![CDATA[We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms’ distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms’ direct customers and suppliers. (JEL D22, D85, E23, G01, G21, G32, L14)]]></description>
-<content:encoded><![CDATA[We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms’ distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms’ direct customers and suppliers. (JEL D22, D85, E23, G01, G21, G32, L14)]]></content:encoded>
-</item>
-<item>
 <title>Effects of Parental Death on Labor Market Outcomes</title>
 <link>https://doi.org/10.1257/aer.20240432</link>
 <guid isPermaLink="false">10.1257/aer.20240432</guid>
@@ -618,6 +608,16 @@
 <dc:identifier>doi:10.1257/aer.20240432</dc:identifier>
 <description><![CDATA[We use Danish administrative data to examine the effects of parental death on labor market outcomes. Leveraging the timing of sudden, first parental deaths and a matched-control difference-in-differences strategy, we find that men’s earnings decline by 2 percent, while women’s earnings decline by 3 percent following a parental death. Both women and men experience mental health deterioration, leading to increased use of psychological assistance and prescriptions for mental health conditions and opioids. Women with young children experience a comparatively larger earnings decline (around 4 percent) likely due to the loss of informal childcare. (JEL D91, I12, J13, J16, J31)]]></description>
 <content:encoded><![CDATA[We use Danish administrative data to examine the effects of parental death on labor market outcomes. Leveraging the timing of sudden, first parental deaths and a matched-control difference-in-differences strategy, we find that men’s earnings decline by 2 percent, while women’s earnings decline by 3 percent following a parental death. Both women and men experience mental health deterioration, leading to increased use of psychological assistance and prescriptions for mental health conditions and opioids. Women with young children experience a comparatively larger earnings decline (around 4 percent) likely due to the loss of informal childcare. (JEL D91, I12, J13, J16, J31)]]></content:encoded>
+</item>
+<item>
+<title>Production and Financial Networks in Interplay</title>
+<link>https://doi.org/10.1257/aer.20201088</link>
+<guid isPermaLink="false">10.1257/aer.20201088</guid>
+<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kenan Huremović; Gabriel Jiménez; Enrique Moral-Benito; José-Luis Peydró; Fernando Vega-Redondo]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20201088</dc:identifier>
+<description><![CDATA[We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms’ distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms’ direct customers and suppliers. (JEL D22, D85, E23, G01, G21, G32, L14)]]></description>
+<content:encoded><![CDATA[We show that bank shocks to firms propagate along the production network with stronger upstream than downstream effects. Our identification relies on (i) administrative datasets from Spain covering supplier-customer transactions and bank loans, (ii) bank credit supply shocks from the global financial crisis, and (iii) a general equilibrium model of a production network with financial frictions, estimated structurally. We find network propagation amplifies the impact of bank shocks on GDP growth by nearly 50 percent. Moreover, bank shocks to firms’ distant suppliers and customers contribute similarly to this aggregate effect as bank shocks to firms’ direct customers and suppliers. (JEL D22, D85, E23, G01, G21, G32, L14)]]></content:encoded>
 </item>
 <item>
 <title>Internal versus Institutional Barriers to Gender Equality: Evidence from British Politics</title>
