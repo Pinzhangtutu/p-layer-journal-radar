@@ -9,7 +9,7 @@
 <description>JBE — Springer · Latest in: Online First · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jbe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 19 Sep 2026 15:48:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 20:28:44 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -193,15 +193,6 @@
 <content:encoded><![CDATA[Abstract Although the importance of artificial intelligence (AI) in managerial decision-making has attracted growing attention, understanding of how perceived AI trustworthiness is associated with the adoption of different AI technologies and their perceived impact on decision efficacy (quality, speed, and integrity) remains underexplored. In particular, limited attention has been paid to how ethical conditions are associated with AI adoption and its impact on decision-making. This study examines the relationships among managers’ perceptions of AI trustworthiness, the adoption of predictive AI (PAI) and generative AI (GAI), and perceived decision efficacy. Perceived AI trustworthiness is conceptualized as a multidimensional construct comprising ethics, transparency, and explainability. Using survey data from UK managers analyzed via structural equation modeling, the findings indicate that perceived AI trustworthiness is positively associated with the adoption of both PAI and GAI, which in turn are positively associated with perceived decision efficacy. PAI shows a stronger, more consistent association. Decision complexity weakens the positive association between GAI and perceived decision efficacy but does not moderate the PAI-perceived decision efficacy relationship. To enrich the interpretation, illustrative cases from BYD, Netflix, and HSBC provide contextual insight into how ethical, transparent, and explainable AI practices correspond with managerial AI use and perceived decision-making outcomes. Collectively, the findings suggest that perceived AI trustworthiness is positively associated with responsible AI adoption and higher perceived decision efficacy, while decision complexity is an important boundary condition associated with the perceived efficacy of GAI in managerial decision processes. The findings advance understanding of how perceived AI trustworthiness is associated with the adoption and performance of distinct AI types in managerial decision-making, contributing to debates on responsible AI, managerial accountability, and ethical technology use in organizations.]]></content:encoded>
 </item>
 <item>
-<title>Cooperating Freely: Advancing a Republican Conception of Cooperative Governance</title>
-<link>https://doi.org/10.1007/s10551-026-06397-3</link>
-<guid isPermaLink="false">10.1007/s10551-026-06397-3</guid>
-<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gabriel Monette; Rafael Ziegler; Simon Pek]]></dc:creator>
-<dc:identifier>doi:10.1007/s10551-026-06397-3</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Perceived Unfairness and Supplier Opportunism in International Exchanges: The Moderating Role of Institutional Distance and Supplier Dependence</title>
 <link>https://doi.org/10.1007/s10551-026-06460-z</link>
 <guid isPermaLink="false">10.1007/s10551-026-06460-z</guid>
@@ -351,6 +342,15 @@
 <dc:identifier>doi:10.1007/s10551-026-06449-8</dc:identifier>
 <description><![CDATA[Abstract Unethical consumer behavior, such as deceptive product returns, digital piracy, shoplifting, and falsifying online reviews, is a growing concern with significant economic and ethical implications. However, its psychological antecedents remain underexplored. This research investigates the role of stress as a key driver of unethical consumer behavior, offering a novel perspective on why consumers engage in such conduct. Grounded in conservation of resources theory, we propose that stress heightens perceived threats to personal resources, triggering rumination—repetitive, negative thoughts about potential resource losses—which, in turn, fosters unethical behaviors. Across a field study and five experiments (one reported in the Online Appendix), we provide empirical evidence supporting this mechanism. Moreover, our findings reveal that the effect of stress on unethical consumer behavior is particularly pronounced among individuals with high levels of narcissism. These insights contribute to the broader understanding of consumer ethics and have important implications for marketers, human resource managers, and policymakers seeking to curb unethical consumer practices.]]></description>
 <content:encoded><![CDATA[Abstract Unethical consumer behavior, such as deceptive product returns, digital piracy, shoplifting, and falsifying online reviews, is a growing concern with significant economic and ethical implications. However, its psychological antecedents remain underexplored. This research investigates the role of stress as a key driver of unethical consumer behavior, offering a novel perspective on why consumers engage in such conduct. Grounded in conservation of resources theory, we propose that stress heightens perceived threats to personal resources, triggering rumination—repetitive, negative thoughts about potential resource losses—which, in turn, fosters unethical behaviors. Across a field study and five experiments (one reported in the Online Appendix), we provide empirical evidence supporting this mechanism. Moreover, our findings reveal that the effect of stress on unethical consumer behavior is particularly pronounced among individuals with high levels of narcissism. These insights contribute to the broader understanding of consumer ethics and have important implications for marketers, human resource managers, and policymakers seeking to curb unethical consumer practices.]]></content:encoded>
+</item>
+<item>
+<title>From Sacred Spaces to the Workplace: How Religious Third-Place Participation Fosters Helping Behaviors Through Awe-Based Spillover</title>
+<link>https://doi.org/10.1007/s10551-026-06470-x</link>
+<guid isPermaLink="false">10.1007/s10551-026-06470-x</guid>
+<pubDate>Sat, 19 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhipeng Zhang; Shuxia Zhang; Haoyu Zhang; Fang Lee Cooke; Jun Liu]]></dc:creator>
+<dc:identifier>doi:10.1007/s10551-026-06470-x</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Whither Conservative Business Ethics? Addressing the Puzzling Absence of Conservative Thought in Business Ethics</title>

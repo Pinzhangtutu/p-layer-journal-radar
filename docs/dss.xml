@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 19 Sep 2026 15:48:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 20:28:44 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -55,15 +55,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lionel Z. Wang; Ka Chung Ng; Yiming Ma; Wenqi Fan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114676</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>ORCA: Guiding principles for navigating uncertainty in design research</title>
-<link>https://doi.org/10.1016/j.dss.2026.114677</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114677</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hanna Buyssens; Stijn Viaene; Shirley Gregor; Matti Rossi; Amir Haj-Bolouri]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114677</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -118,6 +109,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Qin Su; Yue Fang; Zhe Zhang; Xin Bao; Raymond Y.K. Lau]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From product sequence to sales: A prediction framework incorporating multi-source social cues in livestream e-commerce</title>
+<link>https://doi.org/10.1016/j.dss.2026.114777</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114777</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junru Xiao; Runyu Chen; Yangyuqi He; Jiayi Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114777</dc:identifier>
 <description></description>
 </item>
 <item>

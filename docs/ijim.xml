@@ -9,7 +9,7 @@
 <description>IJIM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijim.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 19 Sep 2026 15:48:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 19 Sep 2026 20:28:44 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -508,15 +508,6 @@
 <description></description>
 </item>
 <item>
-<title>How algorithmic management enhances team resilience: The role of informal leadership emergence and algorithmic transparency</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103042</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103042</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ping Liu; Ling Yuan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103042</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When animated avatars outperform: Leveraging avatar endorsers to enhance consumer adoption of AI-designed products</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103124</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103124</guid>
@@ -568,6 +559,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hossein Mohit; Arash Saghafi; Sven de Waard; Tim van der Heijden]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijinfomgt.2026.103134</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When culture speaks through E-commerce chatbots: How collectivistic and individualistic persuasive styles shape impulsive buying</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103136</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103136</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jialiang Chen; Siqin Wang; Wenxin Ke; Jian Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103136</dc:identifier>
 <description></description>
 </item>
 <item>
