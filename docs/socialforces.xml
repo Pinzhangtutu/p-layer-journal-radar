@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 20 Sep 2026 11:09:00 +0000</lastBuildDate>
+<lastBuildDate>Sun, 20 Sep 2026 15:55:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -292,16 +292,6 @@
 <description></description>
 </item>
 <item>
-<title>Whose merit, which redistribution? Elites, taxes, and transfers in Brazil and South Africa</title>
-<link>https://doi.org/10.1093/sf/soag064</link>
-<guid isPermaLink="false">10.1093/sf/soag064</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Livio Silva-Muller; Graziella Moraes Silva; Matias López]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag064</dc:identifier>
-<description><![CDATA[Abstract Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others. We posit that these two dimensions—merit of self and merit of others—are distinct, with different implications for redistributive preferences, and varying salience across national contexts. Using data from elite surveys in Brazil and South Africa, we examine whose merit matters for giving income to policies (transfers) versus taking income from policies (taxation). We show that elites are more likely to credit their own success to hard work than to attribute poverty to lack of effort, and that these two dimensions are independent. Perceiving the poor as effortless, rather than elites as hard-working, predict opposition to transfers. In contrast, elites' perceptions of self play a context-dependent role. In Brazil, they are associated with opposition to taxation but are confounded with political identification, while in South Africa, redistributive preferences are structured primarily by racial identification. We interpret these cross-national differences considering distinct trajectories of state-building and inequality.]]></description>
-<content:encoded><![CDATA[Abstract Scholarship often treats two dimensions of meritocracy as interchangeable: if success is due to hard work, poverty must be due to a lack of effort. We contrast elites’ perceptions about their own success with their perceptions about the lack of success of others. We posit that these two dimensions—merit of self and merit of others—are distinct, with different implications for redistributive preferences, and varying salience across national contexts. Using data from elite surveys in Brazil and South Africa, we examine whose merit matters for giving income to policies (transfers) versus taking income from policies (taxation). We show that elites are more likely to credit their own success to hard work than to attribute poverty to lack of effort, and that these two dimensions are independent. Perceiving the poor as effortless, rather than elites as hard-working, predict opposition to transfers. In contrast, elites' perceptions of self play a context-dependent role. In Brazil, they are associated with opposition to taxation but are confounded with political identification, while in South Africa, redistributive preferences are structured primarily by racial identification. We interpret these cross-national differences considering distinct trajectories of state-building and inequality.]]></content:encoded>
-</item>
-<item>
 <title>School preferences across countries and social groups: a factorial survey experiment in the United States, Germany and Italy</title>
 <link>https://doi.org/10.1093/sf/soag130</link>
 <guid isPermaLink="false">10.1093/sf/soag130</guid>
@@ -355,6 +345,15 @@
 <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[William McConnell]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag075</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Review of “Immigration: How the Past Shapes the Present”</title>
+<link>https://doi.org/10.1093/sf/soag134</link>
+<guid isPermaLink="false">10.1093/sf/soag134</guid>
+<pubDate>Sun, 20 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Andrew Le]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag134</dc:identifier>
 <description></description>
 </item>
 <item>
