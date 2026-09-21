@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 21 Sep 2026 12:38:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 21:56:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -449,15 +449,6 @@
 <description></description>
 </item>
 <item>
-<title>Discourse referents in infancy.</title>
-<link>https://doi.org/10.1037/rev0000545</link>
-<guid isPermaLink="false">10.1037/rev0000545</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gabor Brody; Gergely Csibra]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000545</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Modular serial-parallel network for hierarchical facial representations.</title>
 <link>https://doi.org/10.1037/rev0000646</link>
 <guid isPermaLink="false">10.1037/rev0000646</guid>
@@ -499,6 +490,15 @@
 <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Stefano Ghirlanda; Janelle Mendoza]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000626</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sequence learning as Bayesian filtering.</title>
+<link>https://doi.org/10.1037/rev0000639</link>
+<guid isPermaLink="false">10.1037/rev0000639</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dennis Norris; Kristjan Kalm]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000639</dc:identifier>
 <description></description>
 </item>
 <item>

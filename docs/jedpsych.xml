@@ -9,7 +9,7 @@
 <description>JEdPsych — APA · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jedpsych.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 21 Sep 2026 12:38:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 21:56:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -302,21 +302,21 @@
 <description></description>
 </item>
 <item>
-<title>Teaching argumentative writing: A meta-analysis with school-aged students.</title>
-<link>https://doi.org/10.1037/edu0001034</link>
-<guid isPermaLink="false">10.1037/edu0001034</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Steve Graham; April Camping; Yucheng Cao; Alyson Collins; Stephen Ciullo]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001034</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The interplay of personal and situational factors in situated expectancy-value theory: Cross-classified analyses of students’ situation-specific motivations in the Math domain.</title>
 <link>https://doi.org/10.1037/edu0001032</link>
 <guid isPermaLink="false">10.1037/edu0001032</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Daria K. Benden; Fani Lauermann]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001032</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Teaching argumentative writing: A meta-analysis with school-aged students.</title>
+<link>https://doi.org/10.1037/edu0001034</link>
+<guid isPermaLink="false">10.1037/edu0001034</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steve Graham; April Camping; Yucheng Cao; Alyson Collins; Stephen Ciullo]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001034</dc:identifier>
 <description></description>
 </item>
 <item>

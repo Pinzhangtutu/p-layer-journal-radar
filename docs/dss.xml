@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 21 Sep 2026 12:38:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 21:56:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -109,15 +109,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Qin Su; Yue Fang; Zhe Zhang; Xin Bao; Raymond Y.K. Lau]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114716</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From product sequence to sales: A prediction framework incorporating multi-source social cues in livestream e-commerce</title>
-<link>https://doi.org/10.1016/j.dss.2026.114777</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114777</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Junru Xiao; Runyu Chen; Yangyuqi He; Jiayi Li]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114777</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -226,6 +217,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sonika Singhal; Yeongin Kim; Seonjun Kang; Victoria Yoon]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114773</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From product sequence to sales: A prediction framework incorporating multi-source social cues in livestream e-commerce</title>
+<link>https://doi.org/10.1016/j.dss.2026.114777</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114777</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junru Xiao; Runyu Chen; Yangyuqi He; Jiayi Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114777</dc:identifier>
 <description></description>
 </item>
 <item>

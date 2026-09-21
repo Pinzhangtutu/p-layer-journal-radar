@@ -9,7 +9,7 @@
 <description>GOM — SAGE · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/gom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 21 Sep 2026 12:38:01 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 21:56:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -447,15 +447,6 @@
 <description></description>
 </item>
 <item>
-<title>A Reply to Obenauer (2025): On the Empirical Distinctions Between Bullshitting and Lying</title>
-<link>https://doi.org/10.1177/10596011251415209</link>
-<guid isPermaLink="false">10.1177/10596011251415209</guid>
-<pubDate>Sat, 03 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[John V. Petrocelli; Kohyar Kiazad; Simon Lloyd D. Restubog; Fan Xuan (Jordan) Chen]]></dc:creator>
-<dc:identifier>doi:10.1177/10596011251415209</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A Relational Perspective on the Use of Intuition in Recruitment: Exploring Tensions</title>
 <link>https://doi.org/10.1177/10596011261443693</link>
 <guid isPermaLink="false">10.1177/10596011261443693</guid>
@@ -474,6 +465,16 @@
 <dc:identifier>doi:10.1177/10596011261481986</dc:identifier>
 <description><![CDATA[Schertler et al. find that remote work intensity predicts lower belongingness, buffered by leaders' virtual collaboration behaviors, but find no comparable effects for authenticity. This commentary argues that this divergence reflects distinct mechanisms: belongingness depends on interactional density, while authenticity depends on identity discretion. Drawing on hybrid surveillance theory, it contends that virtual collaboration is ambivalent, capable of fostering recognition while also intensifying visibility and control. Remote inclusion should therefore be theorized as the governance of visibility, autonomy, and recognition, not simply the transmission of inclusionary cues.]]></description>
 <content:encoded><![CDATA[Schertler et al. find that remote work intensity predicts lower belongingness, buffered by leaders' virtual collaboration behaviors, but find no comparable effects for authenticity. This commentary argues that this divergence reflects distinct mechanisms: belongingness depends on interactional density, while authenticity depends on identity discretion. Drawing on hybrid surveillance theory, it contends that virtual collaboration is ambivalent, capable of fostering recognition while also intensifying visibility and control. Remote inclusion should therefore be theorized as the governance of visibility, autonomy, and recognition, not simply the transmission of inclusionary cues.]]></content:encoded>
+</item>
+<item>
+<title>Artificial Agents as Leaders and Followers: An Integrative Role-Congruity Review</title>
+<link>https://doi.org/10.1177/10596011261476917</link>
+<guid isPermaLink="false">10.1177/10596011261476917</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christoph Daldrop; Annabelle Ludwig; Claudia Buengeler]]></dc:creator>
+<dc:identifier>doi:10.1177/10596011261476917</dc:identifier>
+<description><![CDATA[Artificial agents such as algorithms, virtual agents, and robots increasingly occupy organizational roles as leaders, followers, and partners. However, evidence on how people evaluate these nonhuman role occupants is mixed. We systematically review 107 empirical studies across management, psychology, engineering, and computer science through a role-congruity lens. A consistent pattern emerges: Artificial agents in leader roles face role incongruity, driven largely by perceived deficits in morality (e.g., fairness, trustworthiness). Agents in follower roles are evaluated as largely congruent with role expectations. Agents in partner and teammate roles show conditional congruity that depends on task context and design-based social cues (e.g., appearance, voice). We integrate these patterns into the Artificial Agent Role Congruity (AARC) model, a conceptual model that extends role congruity theory to artificial agents: perceived role (in)congruity occurs when observers compare role prescriptions with the attributes they ascribe to an agent from its design-based cues along a task dimension (competence, assertiveness) and a social-emotional dimension (warmth, morality). Based on this synthesis, we outline theoretical extensions, an agenda for future research, and guidance for managers and designers deploying artificial agents in organizational roles.]]></description>
+<content:encoded><![CDATA[Artificial agents such as algorithms, virtual agents, and robots increasingly occupy organizational roles as leaders, followers, and partners. However, evidence on how people evaluate these nonhuman role occupants is mixed. We systematically review 107 empirical studies across management, psychology, engineering, and computer science through a role-congruity lens. A consistent pattern emerges: Artificial agents in leader roles face role incongruity, driven largely by perceived deficits in morality (e.g., fairness, trustworthiness). Agents in follower roles are evaluated as largely congruent with role expectations. Agents in partner and teammate roles show conditional congruity that depends on task context and design-based social cues (e.g., appearance, voice). We integrate these patterns into the Artificial Agent Role Congruity (AARC) model, a conceptual model that extends role congruity theory to artificial agents: perceived role (in)congruity occurs when observers compare role prescriptions with the attributes they ascribe to an agent from its design-based cues along a task dimension (competence, assertiveness) and a social-emotional dimension (warmth, morality). Based on this synthesis, we outline theoretical extensions, an agenda for future research, and guidance for managers and designers deploying artificial agents in organizational roles.]]></content:encoded>
 </item>
 <item>
 <title>Commentary on Sackett et al. (2025): The Ontological Fallacy Revisited: Reifying the Surface–Deep Distinction Misleads Diversity Theory</title>
