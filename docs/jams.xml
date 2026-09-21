@@ -9,7 +9,7 @@
 <description>JAMS — Springer Nature · Latest in: Online First · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jams.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 21 Sep 2026 04:37:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 12:38:01 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -205,16 +205,6 @@
 <description></description>
 </item>
 <item>
-<title>The dynamic effects of visual complexity and scene cuts on viewer attention</title>
-<link>https://doi.org/10.1007/s11747-025-01137-x</link>
-<guid isPermaLink="false">10.1007/s11747-025-01137-x</guid>
-<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sammy Wals; Dhruv Grewal; Ines Wilms; Tim Hilken; Alexia Briassouli; Martin Wetzels]]></dc:creator>
-<dc:identifier>doi:10.1007/s11747-025-01137-x</dc:identifier>
-<description><![CDATA[Abstract This research examines the dynamic effects of video advertising features on viewers’ attentional focus. We leverage state-of-the-art computer vision techniques to extract frame-level measures of visual complexity and scene cuts, and we combine these with eye-tracking data that capture attention via moment-to-moment attentional synchrony across viewers. Our findings indicate that short and visually simple scenes elicit higher levels of attentional synchrony. A time-series analysis of 2,520 individual viewing experiences across 42 public service announcements, reveals that visual complexity exerts a delayed, negative effect on attentional synchrony, whereas scene cuts (i.e., shorter scene durations) boost attention. Together, these results demonstrate that short and simple scenes help sustain attentional focus, which subsequently enhances narrative immersion, ad liking, and recognition. Our new analytical framework illustrates how computer vision, time-series modeling, and neuromarketing measures can be effectively integrated to advance video advertising research, while also offering actionable guidance for marketers to optimize viewer attention.]]></description>
-<content:encoded><![CDATA[Abstract This research examines the dynamic effects of video advertising features on viewers’ attentional focus. We leverage state-of-the-art computer vision techniques to extract frame-level measures of visual complexity and scene cuts, and we combine these with eye-tracking data that capture attention via moment-to-moment attentional synchrony across viewers. Our findings indicate that short and visually simple scenes elicit higher levels of attentional synchrony. A time-series analysis of 2,520 individual viewing experiences across 42 public service announcements, reveals that visual complexity exerts a delayed, negative effect on attentional synchrony, whereas scene cuts (i.e., shorter scene durations) boost attention. Together, these results demonstrate that short and simple scenes help sustain attentional focus, which subsequently enhances narrative immersion, ad liking, and recognition. Our new analytical framework illustrates how computer vision, time-series modeling, and neuromarketing measures can be effectively integrated to advance video advertising research, while also offering actionable guidance for marketers to optimize viewer attention.]]></content:encoded>
-</item>
-<item>
 <title>The surcharge donation paradox and the restorative power of choice</title>
 <link>https://doi.org/10.1007/s11747-026-01163-3</link>
 <guid isPermaLink="false">10.1007/s11747-026-01163-3</guid>
@@ -404,6 +394,15 @@
 <dc:identifier>doi:10.1007/s11747-026-01192-y</dc:identifier>
 <description><![CDATA[Abstract Customer language data (e.g., online reviews, call transcripts) is widely available. Yet, research in B2B contexts is still in its early stages of analyzing a full range of customer language features to derive insight. Using an empirics-first approach, this research sequentially identifies robust and parsimonious language features in B2B customer data that are diagnostic of customer experiences and predictive of forthcoming purchasing decisions. The authors examine five categories of how business customers speak: sentiment, temporality, certainty, concreteness, and personal pronouns. Results reveal that sentiment and temporality consistently reflect customer experience and provide incremental predictive value of customer defections within request-for-proposal (RFP) decisions. The authors demonstrate this pattern across customers’ written (Study 1), spoken (Study 2), and pre-RFP (Study 3) language. These studies leverage empirical regularities to advance early-stage theorizing around psychological distance and language-based models of customer defection. Illustrating the managerial relevance of customer language features, findings show that in a customer’s collective communication prior to an RFP decision, a 1% increase in past focus raises the odds of a multimillion-dollar RFP defection by 8.4%. The research also equips practitioners to compute sentiment and temporality in customer language via large-language-model prompts and statistical code, facilitating resource allocation and prioritization of customer accounts.]]></description>
 <content:encoded><![CDATA[Abstract Customer language data (e.g., online reviews, call transcripts) is widely available. Yet, research in B2B contexts is still in its early stages of analyzing a full range of customer language features to derive insight. Using an empirics-first approach, this research sequentially identifies robust and parsimonious language features in B2B customer data that are diagnostic of customer experiences and predictive of forthcoming purchasing decisions. The authors examine five categories of how business customers speak: sentiment, temporality, certainty, concreteness, and personal pronouns. Results reveal that sentiment and temporality consistently reflect customer experience and provide incremental predictive value of customer defections within request-for-proposal (RFP) decisions. The authors demonstrate this pattern across customers’ written (Study 1), spoken (Study 2), and pre-RFP (Study 3) language. These studies leverage empirical regularities to advance early-stage theorizing around psychological distance and language-based models of customer defection. Illustrating the managerial relevance of customer language features, findings show that in a customer’s collective communication prior to an RFP decision, a 1% increase in past focus raises the odds of a multimillion-dollar RFP defection by 8.4%. The research also equips practitioners to compute sentiment and temporality in customer language via large-language-model prompts and statistical code, facilitating resource allocation and prioritization of customer accounts.]]></content:encoded>
+</item>
+<item>
+<title>From liability to asset: How campaign context determines whether body weight helps or hurts online fundraisers</title>
+<link>https://doi.org/10.1007/s11747-026-01204-x</link>
+<guid isPermaLink="false">10.1007/s11747-026-01204-x</guid>
+<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Annette P. Tower; Tongxi Wang; Yufei Zhang; Abhi Bhattacharya; David Mathis; Clay M. Voorhees]]></dc:creator>
+<dc:identifier>doi:10.1007/s11747-026-01204-x</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Pathways to premium: How habits and benefits shape conversion and retention in freemium subscription models</title>
