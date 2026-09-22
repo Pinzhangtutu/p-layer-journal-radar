@@ -9,7 +9,7 @@
 <description>REStud — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/restud.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 22 Sep 2026 04:32:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 11:25:58 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -243,6 +243,16 @@
 <content:encoded><![CDATA[Abstract We study the role of public risk-sharing in markets where firms face substantial cost uncertainty, focusing on public reinsurance in health insurance. We develop a model where insurers internalize cost uncertainty through risk charges that raise effective marginal costs and create a role for reinsurance. Public reinsurance lowers both expected costs and cost volatility, particularly for smaller insurers, reducing prices and enhancing competition. Using an event study of staggered state-level reinsurance programs, we show that public reinsurance leads insurers to lower prices and private reinsurance purchases, benefiting financially constrained insurers the most. Structural estimates indicate that risk charges account for a substantial share of the premium-cost wedge and highlight public reinsurance’s comparative advantage over premium subsidies by providing risk protection and enhancing competition. Our results underscore the importance of accounting for firms’ risk exposure in policy design and provide a general framework for understanding public risk-sharing policies.]]></content:encoded>
 </item>
 <item>
+<title>Markup Estimation using Production and Demand Data: An Application to the US Brewing Industry</title>
+<link>https://doi.org/10.1093/restud/rdag109</link>
+<guid isPermaLink="false">10.1093/restud/rdag109</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jan De Loecker; Paul T Scott]]></dc:creator>
+<dc:identifier>doi:10.1093/restud/rdag109</dc:identifier>
+<description><![CDATA[Abstract We compare and combine two distinct approaches to estimating market power in the US brewing industry—one based on production data, the other on demand. Both methods produce similar estimates of average markups and reveal a recent upward trend. We then combine the two approaches in two ways. First, we replace conventional instruments in demand estimation with a moment involving a production-based markup estimate, yielding similar results. We then evaluate the common (but controversial) assumption that retail markets operate competitively, finding that demand-based markups recovered with the assumption of competitive retail markets align with production-based estimates, as long as downstream costs are accounted for.]]></description>
+<content:encoded><![CDATA[Abstract We compare and combine two distinct approaches to estimating market power in the US brewing industry—one based on production data, the other on demand. Both methods produce similar estimates of average markups and reveal a recent upward trend. We then combine the two approaches in two ways. First, we replace conventional instruments in demand estimation with a moment involving a production-based markup estimate, yielding similar results. We then evaluate the common (but controversial) assumption that retail markets operate competitively, finding that demand-based markups recovered with the assumption of competitive retail markets align with production-based estimates, as long as downstream costs are accounted for.]]></content:encoded>
+</item>
+<item>
 <title>Jackknife Standard Errors for Clustered Regression</title>
 <link>https://doi.org/10.1093/restud/rdag050</link>
 <guid isPermaLink="false">10.1093/restud/rdag050</guid>
@@ -381,16 +391,6 @@
 <dc:identifier>doi:10.1093/restud/rdag046</dc:identifier>
 <description><![CDATA[Abstract This article reconsiders the question of optimal labour income taxes for the very rich in the context of a flexible moral hazard model. In this setting, risk is not exogenous. Rather, each agent can affect the probabilities of all possible income outcomes by allocating a fixed time endowment across a variety of distinct tasks. I prove that the optimal income tax rates on high-end earners and the optimal Pareto tail index of the pre-tax labour income distribution are both endogenously determined by agent preferences. In particular, a society with less risk-averse agents will find it optimal to impose a lower tax rate on the rich, even though its members’ choices give rise to a smaller Pareto right tail index. In contrast, this kind of negative co-movement between inequality and optimal tax rates is a suboptimal response in the classical Mirrlees (1971)–Diamond (1998)–Saez (2001) setup to changes in the exogenous distribution of skills.]]></description>
 <content:encoded><![CDATA[Abstract This article reconsiders the question of optimal labour income taxes for the very rich in the context of a flexible moral hazard model. In this setting, risk is not exogenous. Rather, each agent can affect the probabilities of all possible income outcomes by allocating a fixed time endowment across a variety of distinct tasks. I prove that the optimal income tax rates on high-end earners and the optimal Pareto tail index of the pre-tax labour income distribution are both endogenously determined by agent preferences. In particular, a society with less risk-averse agents will find it optimal to impose a lower tax rate on the rich, even though its members’ choices give rise to a smaller Pareto right tail index. In contrast, this kind of negative co-movement between inequality and optimal tax rates is a suboptimal response in the classical Mirrlees (1971)–Diamond (1998)–Saez (2001) setup to changes in the exogenous distribution of skills.]]></content:encoded>
-</item>
-<item>
-<title>Input Sourcing under Climate Risk: Evidence from U.S. Manufacturing Firms</title>
-<link>https://doi.org/10.1093/restud/rdag031</link>
-<guid isPermaLink="false">10.1093/restud/rdag031</guid>
-<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Joaquin Blaum; Federico Esposito; Sebastian Heise]]></dc:creator>
-<dc:identifier>doi:10.1093/restud/rdag031</dc:identifier>
-<description><![CDATA[Abstract We study the effect of risk on how firms organize their supply chains. We use transaction-level data on U.S. manufacturing imports to construct a novel measure of input sourcing risk based on the historical volatility of ocean shipping times. Our measure isolates the unexpected component of shipping times that is induced by weather conditions along more than 331,000 maritime routes. We first document that unexpected shipping delays significantly reduce importers’ sales, profits, and employment. We then show that firms actively diversify weather risk by using more routes and foreign suppliers, although their import values decline. To rationalize these findings, we introduce shipping time risk into a general equilibrium model of importing with firm heterogeneity. Our quantitative analysis predicts substantial costs for the U.S. economy associated with supply chain risk.]]></description>
-<content:encoded><![CDATA[Abstract We study the effect of risk on how firms organize their supply chains. We use transaction-level data on U.S. manufacturing imports to construct a novel measure of input sourcing risk based on the historical volatility of ocean shipping times. Our measure isolates the unexpected component of shipping times that is induced by weather conditions along more than 331,000 maritime routes. We first document that unexpected shipping delays significantly reduce importers’ sales, profits, and employment. We then show that firms actively diversify weather risk by using more routes and foreign suppliers, although their import values decline. To rationalize these findings, we introduce shipping time risk into a general equilibrium model of importing with firm heterogeneity. Our quantitative analysis predicts substantial costs for the U.S. economy associated with supply chain risk.]]></content:encoded>
 </item>
 <item>
 <title>An Optimal Test for Strategic Interaction in Network Formation Games</title>
