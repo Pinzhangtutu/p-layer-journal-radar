@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 22 Sep 2026 16:46:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:11:40 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -337,21 +337,21 @@
 <description></description>
 </item>
 <item>
-<title>Surrounded by screens: How tablet use during class contributes to distraction and self-reported learning loss</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105676</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105676</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Redefining and measuring student agency in AI-assisted learning: Development and validation of the agentic engagement with AI (AE-AI) scale</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105687</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105687</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yun Dai; Suya Liu; Sihan Zhou; Sichen Lai; Ang Liu; Cher Ping Lim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105687</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Surrounded by screens: How tablet use during class contributes to distraction and self-reported learning loss</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105676</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105676</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
 <description></description>
 </item>
 <item>

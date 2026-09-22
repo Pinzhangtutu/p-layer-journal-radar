@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 22 Sep 2026 16:46:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:11:40 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -124,6 +124,24 @@
 <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David A. Green; Ben M. Sand; Iain G. Snoddy; Jeanne Tschopp]]></dc:creator>
 <dc:identifier>doi:10.1086/742712</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Silence to Solidarity: How Communication about a Minority Affects Discrimination</title>
+<link>https://doi.org/10.1086/742724</link>
+<guid isPermaLink="false">10.1086/742724</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Duncan Webb]]></dc:creator>
+<dc:identifier>doi:10.1086/742724</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics</title>
+<link>https://doi.org/10.1086/744130</link>
+<guid isPermaLink="false">10.1086/744130</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Priit Jeenas]]></dc:creator>
+<dc:identifier>doi:10.1086/744130</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -346,15 +364,6 @@
 <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Daron Acemoglu; Daniel Huttenlocher; Asuman Ozdaglar; James Siderius]]></dc:creator>
 <dc:identifier>doi:10.1086/742715</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Silence to Solidarity: How Communication About a Minority Affects Discrimination</title>
-<link>https://doi.org/10.1086/742724</link>
-<guid isPermaLink="false">10.1086/742724</guid>
-<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Duncan Webb]]></dc:creator>
-<dc:identifier>doi:10.1086/742724</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -622,14 +631,6 @@
 <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Thomas R. Covert; Ryan Kellogg]]></dc:creator>
 <dc:identifier>doi:10.1086/742713</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Recent Referees</title>
-<link>https://doi.org/10.1086/742103</link>
-<guid isPermaLink="false">10.1086/742103</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1086/742103</dc:identifier>
 <description></description>
 </item>
 </channel>

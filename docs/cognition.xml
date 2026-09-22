@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 22 Sep 2026 16:46:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:11:40 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -175,15 +175,6 @@
 <description></description>
 </item>
 <item>
-<title>Blurred lines or clear boundaries? Synchrony and social dominance shape domain-specific self–other processing</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106632</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106632</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[C.M. Bates; S. Dias Salgado; M. Von Mohr; I. Konvalinka; A.K. Martin]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106632</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Multiple motor systems spontaneously track speech structures at distinct levels with individual variability</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106666</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106666</guid>
@@ -238,21 +229,21 @@
 <description></description>
 </item>
 <item>
-<title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106672</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>English-hearing toddlers learn words from consistent and variable labels</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106647</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106647</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kennedy Casey; Casey Lew-Williams]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106647</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106672</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -373,21 +364,21 @@
 <description></description>
 </item>
 <item>
-<title>Individual differences in overconfidence: A common core and its motivational and cognitive correlates</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106665</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106665</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[M. Asher Lawson; Richard P. Larrick; Jack B. Soll]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106665</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Processing negation may demonstrate compositionality in rhesus macaques</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106638</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106638</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Angelle Antoun; Rohini Murugan; Kathleen J. Bostick; Benjamin Wilson]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106638</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Individual differences in overconfidence: A common core and its motivational and cognitive correlates</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106665</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106665</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[M. Asher Lawson; Richard P. Larrick; Jack B. Soll]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106665</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -472,6 +463,15 @@
 <description></description>
 </item>
 <item>
+<title>The objecthood of visual working memory representations influences their interaction with attention</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106727</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Outcome severity increases verbal probabilities used in dyadic communications</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106700</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106700</guid>
@@ -535,21 +535,21 @@
 <description></description>
 </item>
 <item>
-<title>Social feedback informs generalisation of control beliefs</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106704</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106704</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jennifer C. Fielder; Essi Viding; Quentin J.M. Huys; Nikolaus Steinbeis]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106704</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Suboptimal but intact integration of reward information during perceptual decision-making in autism</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106716</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106716</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social feedback informs generalisation of control beliefs</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106704</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106704</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jennifer C. Fielder; Essi Viding; Quentin J.M. Huys; Nikolaus Steinbeis]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106704</dc:identifier>
 <description></description>
 </item>
 <item>

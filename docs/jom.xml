@@ -9,7 +9,7 @@
 <description>JOM — Wiley · Latest in: Early View · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 22 Sep 2026 16:46:21 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 21:11:40 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -204,13 +204,14 @@
 <content:encoded><![CDATA[ABSTRACT To address growing geographical disparities in healthcare access and quality, connected health platforms (CHPs) have emerged as promising solutions. However, rapidly scaling CHPs poses significant challenges, particularly in managing tensions among multiple entities. This study examines the digital scaling process of a CHP through the lens of paradox theory, focusing on tensions and their management in resource‐constrained environments. We conducted a 13‐year longitudinal case study of a CHP encompassing over 300 hospitals in China. Our findings reveal three distinct yet interconnected phases of digital scaling: digital foundation building; system integration and governance; and continuous improvement and innovation. We demonstrate that tensions evolve over time during the scaling process, with one dominant type prevailing in each phase, challenging previous assumptions that different tensions emerge simultaneously across multiple entities. We also identify phase‐specific “both‐and” responses employed by rural hospitals to manage tensions despite experiencing resource constraints. We provide guidance to organizations operating in resource‐constrained environments on the management of paradoxical tensions across a complex digital scaling process.]]></content:encoded>
 </item>
 <item>
-<title>Empirically Grounding Analytics ( &lt;scp&gt;EGA&lt;/scp&gt; ) Research: Approaches, Contributions, and Examples</title>
-<link>https://doi.org/10.1002/joom.1373</link>
-<guid isPermaLink="false">10.1002/joom.1373</guid>
+<title>Strange Dance Partners: Supply Chain Cyberattacks and Chained Vulnerability</title>
+<link>https://doi.org/10.1002/joom.1374</link>
+<guid isPermaLink="false">10.1002/joom.1374</guid>
 <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Arnd Huchzermeier; Panos Kouvelis]]></dc:creator>
-<dc:identifier>doi:10.1002/joom.1373</dc:identifier>
-<description></description>
+<dc:creator><![CDATA[Seongkyoon Jeong; Zac Rogers; Thomas Y. Choi]]></dc:creator>
+<dc:identifier>doi:10.1002/joom.1374</dc:identifier>
+<description><![CDATA[ABSTRACT The concept of “chained vulnerability” addresses the cyberattack risks for organizations through interconnected internal and external actors (e.g., employees and suppliers). As organizational defenses and tactics of antagonistic actors (e.g., hackers) adapt to emerging conditions, certain actors of organizations become compromised as entry points into the targeted organizations. A disruption (i.e., COVID‐19) induces operational changes (i.e., digital transformation), and we study the co‐evolution of attacks and defenses as if the antagonistic actors, organizations, and their internal and external actors are engaged in a dance together. Building on routine activity theory, our study theorizes the adaptive target suitability where the properties of actors, the types of actors involved, and the consequential phases co‐evolve following the disruption. We leverage the COVID‐19 pandemic as the empirical context and use a novel dataset of 3497 publicly reported cyber breaches. Analyses reveal that cyberattacks initially focused on internal actors (i.e., deception‐based attacks on employees) and then shifted to external actors (i.e., system vulnerability‐based attacks on digital infrastructure providers and product suppliers). Semi‐structured interviews with experts (e.g., hackers and cybersecurity managers) and subsequent econometric analyses elucidate how strategic interactions between dance partners lead to disruptions that dynamically reshape the landscape of chained vulnerability.]]></description>
+<content:encoded><![CDATA[ABSTRACT The concept of “chained vulnerability” addresses the cyberattack risks for organizations through interconnected internal and external actors (e.g., employees and suppliers). As organizational defenses and tactics of antagonistic actors (e.g., hackers) adapt to emerging conditions, certain actors of organizations become compromised as entry points into the targeted organizations. A disruption (i.e., COVID‐19) induces operational changes (i.e., digital transformation), and we study the co‐evolution of attacks and defenses as if the antagonistic actors, organizations, and their internal and external actors are engaged in a dance together. Building on routine activity theory, our study theorizes the adaptive target suitability where the properties of actors, the types of actors involved, and the consequential phases co‐evolve following the disruption. We leverage the COVID‐19 pandemic as the empirical context and use a novel dataset of 3497 publicly reported cyber breaches. Analyses reveal that cyberattacks initially focused on internal actors (i.e., deception‐based attacks on employees) and then shifted to external actors (i.e., system vulnerability‐based attacks on digital infrastructure providers and product suppliers). Semi‐structured interviews with experts (e.g., hackers and cybersecurity managers) and subsequent econometric analyses elucidate how strategic interactions between dance partners lead to disruptions that dynamically reshape the landscape of chained vulnerability.]]></content:encoded>
 </item>
 <item>
 <title>How Do Technology Paradigms Influence Configurations of Contract Characteristics for Success of Inter‐Organizational Outsourcing Projects, 1991–2009?</title>
