@@ -9,7 +9,7 @@
 <description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ame.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 22 Sep 2026 11:25:58 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 16:46:21 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -100,6 +100,15 @@
 <pubDate>Tue, 26 Aug 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Niels Selling; Florian Wettstein]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2024.0181</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Avoiding the Golden Cage: How to Capitalize on Governmental Support in SME Internationalization?</title>
+<link>https://doi.org/10.5465/amp.2025.0051</link>
+<guid isPermaLink="false">10.5465/amp.2025.0051</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aleksi Niittymies; Mika Yrjölä; Abdollah Mohammadparast Tabas; Kalle Pajunen]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0051</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -337,21 +346,21 @@
 <description></description>
 </item>
 <item>
-<title>What Is Your AI Strategy? Systematically Integrating Self-Learning Technologies into Your Business Strategy</title>
-<link>https://doi.org/10.5465/amp.2023.0243</link>
-<guid isPermaLink="false">10.5465/amp.2023.0243</guid>
-<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Thomas Hutzschenreuter; Tim Lämmermann]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2023.0243</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>“Please, Hurry Up!” Leveraging Narratives to Speed Up the Mobilization of Resources for Entrepreneurial Ventures</title>
 <link>https://doi.org/10.5465/amp.2023.0224</link>
 <guid isPermaLink="false">10.5465/amp.2023.0224</guid>
 <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David Johnson; Mark Geiger; Peter T. Gianiodis; Adam J. Bock]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2023.0224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What Is Your AI Strategy? Systematically Integrating Self-Learning Technologies into Your Business Strategy</title>
+<link>https://doi.org/10.5465/amp.2023.0243</link>
+<guid isPermaLink="false">10.5465/amp.2023.0243</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Hutzschenreuter; Tim Lämmermann]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0243</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -478,15 +487,6 @@
 <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Neva Bojovic; Rachel Braun Scherl; Padmaja Agrade]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2025.0058</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Certification of Business Practices and Algorithms as a Complementary Approach to Platform Regulation</title>
-<link>https://doi.org/10.5465/amp.2023.0421</link>
-<guid isPermaLink="false">10.5465/amp.2023.0421</guid>
-<pubDate>Fri, 09 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dovev Lavie; Oreste Pollicino; Tommaso Valletti]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2023.0421</dc:identifier>
 <description></description>
 </item>
 <item>
