@@ -9,7 +9,7 @@
 <description>EdResearcher — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/edresearcher.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 22 Sep 2026 21:11:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 04:28:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -101,6 +101,16 @@
 <dc:identifier>doi:10.3102/0013189x261457389</dc:identifier>
 <description><![CDATA[The COVID-19 pandemic has disproportionately affected students in segregated Black and Latine communities, highlighting the need for equitable workload and resources for teachers to support these students effectively. Analyzing the 2020–2021 National Teacher and Principal Survey data and guided by a critical quantitative framework, we found that teachers in predominantly Black and Latine schools had heavier workloads and were given less adequate resources than their counterparts in predominantly White schools, especially when they were teaching hybrid. We also found that teachers with hybrid instruction in predominantly Black and Latine schools who received more adequate resources were less likely to be dissatisfied and express their intention to leave teaching. Policy and leadership implications in times of crisis are discussed.]]></description>
 <content:encoded><![CDATA[The COVID-19 pandemic has disproportionately affected students in segregated Black and Latine communities, highlighting the need for equitable workload and resources for teachers to support these students effectively. Analyzing the 2020–2021 National Teacher and Principal Survey data and guided by a critical quantitative framework, we found that teachers in predominantly Black and Latine schools had heavier workloads and were given less adequate resources than their counterparts in predominantly White schools, especially when they were teaching hybrid. We also found that teachers with hybrid instruction in predominantly Black and Latine schools who received more adequate resources were less likely to be dissatisfied and express their intention to leave teaching. Policy and leadership implications in times of crisis are discussed.]]></content:encoded>
+</item>
+<item>
+<title>Sidewalks for Students: Google Street View Measures of Walkability Around Schools and Chronic Absenteeism Rates</title>
+<link>https://doi.org/10.3102/0013189x261485085</link>
+<guid isPermaLink="false">10.3102/0013189x261485085</guid>
+<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Julia Burdick-Will; Michael D.M. Bader; Quynh C. Nguyen]]></dc:creator>
+<dc:identifier>doi:10.3102/0013189x261485085</dc:identifier>
+<description><![CDATA[This study brings together ideas from education, public health, and urban planning to assess whether the walkability of the built environment around schools is related to their chronic absenteeism rates. We use national data from the 2018–2019 NCES Common Core of Data and the Office of Civil Rights and computer vision-derived estimates of the physical environment captured in Google Street View Images. We compare schools in the same district to one another and find that schools with a higher proportion of images with sidewalks and streetlights within 1 mile of their location tend to have lower chronic absenteeism rates. These findings support the idea that physical infrastructure can be an important structural barrier to attendance.]]></description>
+<content:encoded><![CDATA[This study brings together ideas from education, public health, and urban planning to assess whether the walkability of the built environment around schools is related to their chronic absenteeism rates. We use national data from the 2018–2019 NCES Common Core of Data and the Office of Civil Rights and computer vision-derived estimates of the physical environment captured in Google Street View Images. We compare schools in the same district to one another and find that schools with a higher proportion of images with sidewalks and streetlights within 1 mile of their location tend to have lower chronic absenteeism rates. These findings support the idea that physical infrastructure can be an important structural barrier to attendance.]]></content:encoded>
 </item>
 <item>
 <title>Refusing Educational Technology: Artificial Intelligence, Inequity, and the Problem of Critical Optimism</title>
@@ -251,16 +261,6 @@
 <dc:identifier>doi:10.3102/0013189x251410177</dc:identifier>
 <description><![CDATA[Children’s testimonial learning undergoes a developmental shift from credulity bias to selective trust. Whereas young children tend to accept others’ testimony without question, they gradually learn to evaluate its credibility based on cues, such as the speaker’s accuracy, expertise, and contextual reliability. Drawing on research in developmental psychology, this article challenges the romanticized view of children as autonomous learners, highlighting the crucial role of testimony in learning, and further argues that testimonial learning is also shaped by sociopolitical contexts.]]></description>
 <content:encoded><![CDATA[Children’s testimonial learning undergoes a developmental shift from credulity bias to selective trust. Whereas young children tend to accept others’ testimony without question, they gradually learn to evaluate its credibility based on cues, such as the speaker’s accuracy, expertise, and contextual reliability. Drawing on research in developmental psychology, this article challenges the romanticized view of children as autonomous learners, highlighting the crucial role of testimony in learning, and further argues that testimonial learning is also shaped by sociopolitical contexts.]]></content:encoded>
-</item>
-<item>
-<title>The AI &lt;sup&gt;3&lt;/sup&gt; Model: Future Directions for Artificial Intelligence, Assessment Innovation, and Academic Integrity</title>
-<link>https://doi.org/10.3102/0013189x251385537</link>
-<guid isPermaLink="false">10.3102/0013189x251385537</guid>
-<pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christopher DeLuca; Louis Volante; Michael Holden]]></dc:creator>
-<dc:identifier>doi:10.3102/0013189x251385537</dc:identifier>
-<description><![CDATA[The evolution of machine learning and large language models (commonly referred to as “artificial intelligence” [AI]) presents both opportunities and challenges for teaching and learning across K–12 and higher education contexts globally. Among the most pressing concerns is that these tools can undermine the integrity of student assessment and evaluation systems. This article investigates this timely issue by examining the intersections between AI, academic integrity, and assessment innovations through a cross-national research synthesis, resulting in a novel model for educators, policymakers, and researchers. The proposed model promotes assessment policies and practices that support high integrity, authentic learning, and innovative student assessment in an era of generative AI.]]></description>
-<content:encoded><![CDATA[The evolution of machine learning and large language models (commonly referred to as “artificial intelligence” [AI]) presents both opportunities and challenges for teaching and learning across K–12 and higher education contexts globally. Among the most pressing concerns is that these tools can undermine the integrity of student assessment and evaluation systems. This article investigates this timely issue by examining the intersections between AI, academic integrity, and assessment innovations through a cross-national research synthesis, resulting in a novel model for educators, policymakers, and researchers. The proposed model promotes assessment policies and practices that support high integrity, authentic learning, and innovative student assessment in an era of generative AI.]]></content:encoded>
 </item>
 <item>
 <title>Professional Staff Diversity and Student Outcomes: Extending Our Understanding of Race/Ethnicity-Matching Effects in Education</title>
