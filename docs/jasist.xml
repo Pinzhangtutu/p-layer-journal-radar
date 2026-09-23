@@ -9,7 +9,7 @@
 <description>JASIST — Wiley · Latest in: Early View · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jasist.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 23 Sep 2026 11:22:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:42:34 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -73,6 +73,14 @@
 <content:encoded><![CDATA[Abstract The promises and perils about scientific team diversity are still debated in the scholarly literature, partly because the importance of underrepresented groups is not fully recognized or valued. In this paper, we summarize two perspectives on team diversity in science: horizontal differences and vertical disparity. Horizontal differences refer to variations across individuals on equal levels, such as differences in gender, nationality, and occupation. Vertical disparity reflects broader social and structural inequalities that limit historically marginalized groups. We introduce team hierarchy, defined as the distribution of power and influence among team members, as a moderating mechanism that helps explain the mixed findings surrounding team diversity and performance. Understanding how hierarchical structures shape diversity is not only important to maximize the benefits of diverse teams but also for enhancing the representation and impact of underrepresented voices. By analyzing 64,038 papers from PloS One and 75,260,139 teams from Microsoft Academic Graph (MAG), our comprehensive study underscores the critical role of team hierarchy in significantly affecting team performance. We also investigate how team hierarchy interacts with team diversity along three dimensions: authors' gender, sector, and country. Interestingly, we find that flat team structures are more positively associated with performance in diverse teams than in homogeneous teams, where members share similar identities. This effect is particularly strong in science compared to social science & arts disciplines. Drawing from social identity and social dominance theories, we propose that flat team structures foster conditions for diverse teams to flourish, enabling minority groups to assume significant roles and wield influential power. Our study contributes valuable insights into team diversity within the scientific community, emphasizing the significance of meaningful inclusion beyond mere numerical representation.]]></content:encoded>
 </item>
 <item>
+<title>Issue Information</title>
+<link>https://doi.org/10.1002/asi.70118</link>
+<guid isPermaLink="false">10.1002/asi.70118</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1002/asi.70118</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Conceptualizing algorithmic inequality and future agenda. An annual review of information science and technology (ARIST) paper</title>
 <link>https://doi.org/10.1002/asi.70114</link>
 <guid isPermaLink="false">10.1002/asi.70114</guid>
@@ -81,6 +89,14 @@
 <dc:identifier>doi:10.1002/asi.70114</dc:identifier>
 <description><![CDATA[Abstract The issue of inequality caused by algorithms, termed ‘algorithmic inequality’, has recently attracted scholarly attention in many disciplines due to its profound implications for society. While the body of literature on algorithmic inequality has grown, there remains a lack of comprehensive understanding of its nature, drivers, and impact. This paper conducts a scoping review to understand and conceptualize algorithmic inequality in empirical research and to recommend a future agenda. Specifically, this paper provides a research mapping of how algorithmic inequality is defined, what drives it, and how it impacts key concerns in Library and Information Science (LIS). Furthermore, this paper proposes a thematic, theoretical, and methodological agenda for future research from an LIS perspective, based on these findings. This study contributes to the literature by offering a multidimensional conceptual framework for understanding the nature and drivers of algorithmic inequality. The framework also serves as a foundation for future research, fostering a deeper understanding of algorithmic inequality and its implications for LIS scholarship and practice.]]></description>
 <content:encoded><![CDATA[Abstract The issue of inequality caused by algorithms, termed ‘algorithmic inequality’, has recently attracted scholarly attention in many disciplines due to its profound implications for society. While the body of literature on algorithmic inequality has grown, there remains a lack of comprehensive understanding of its nature, drivers, and impact. This paper conducts a scoping review to understand and conceptualize algorithmic inequality in empirical research and to recommend a future agenda. Specifically, this paper provides a research mapping of how algorithmic inequality is defined, what drives it, and how it impacts key concerns in Library and Information Science (LIS). Furthermore, this paper proposes a thematic, theoretical, and methodological agenda for future research from an LIS perspective, based on these findings. This study contributes to the literature by offering a multidimensional conceptual framework for understanding the nature and drivers of algorithmic inequality. The framework also serves as a foundation for future research, fostering a deeper understanding of algorithmic inequality and its implications for LIS scholarship and practice.]]></content:encoded>
+</item>
+<item>
+<title>Cover Image</title>
+<link>https://doi.org/10.1002/asi.70117</link>
+<guid isPermaLink="false">10.1002/asi.70117</guid>
+<pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1002/asi.70117</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Phantom citations: An empirical study of non‐existent and unverifiable references in scholarly literature</title>
@@ -387,22 +403,6 @@
 <guid isPermaLink="false">10.1002/asi.70077</guid>
 <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1002/asi.70077</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Cover Image</title>
-<link>https://doi.org/10.1002/asi.70051</link>
-<guid isPermaLink="false">10.1002/asi.70051</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1002/asi.70051</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Issue Information</title>
-<link>https://doi.org/10.1002/asi.70050</link>
-<guid isPermaLink="false">10.1002/asi.70050</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1002/asi.70050</dc:identifier>
 <description></description>
 </item>
 <item>

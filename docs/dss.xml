@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 23 Sep 2026 11:22:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 23 Sep 2026 16:42:34 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -37,15 +37,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Nan Feng; Tianshu Huang; Jing Xie; Jiahe Wang; Minqiang Li]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114679</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Improving healthcare accessibility through physician presence in online healthcare communities: A physician-level empirical analysis</title>
-<link>https://doi.org/10.1016/j.dss.2026.114678</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114678</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lu Men; Guanyi Lu; Xinlin Tang; Yuan Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114678</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -109,6 +100,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Qin Su; Yue Fang; Zhe Zhang; Xin Bao; Raymond Y.K. Lau]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>CirrhosisCare: a decision support system enabled by complication-aware deep learning to predict one-year mortality among cirrhotic patients</title>
+<link>https://doi.org/10.1016/j.dss.2026.114772</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114772</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hamid Reza Firoozfar; Da Xu; Paul Jen-Hwa Hu; San-Yih Hwang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114772</dc:identifier>
 <description></description>
 </item>
 <item>
