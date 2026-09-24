@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 23 Sep 2026 21:25:26 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 04:25:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -154,24 +154,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tianjiao Zeng; Holly P. Branigan; Martin J. Pickering]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106607</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The wham-womb sound symbolic effect: English-speaking children and adults link phonemes with arousal</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106603</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106603</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jillian E. Kuo; Ye Li; Christine S.-P. Yu; Michael K. McBeath; Viridiana L. Benitez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106603</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Inhibitory control of disconfirmed predictions during sentence processing in aging</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106602</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106602</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jina Kim; Si On Yoon; Jan R. Wessel; Kristi Hendrickson]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106602</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -328,21 +310,21 @@
 <description></description>
 </item>
 <item>
-<title>Repetition induced rhythm as an alternative account to statistical word segmentation: A model and meta-analysis</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106648</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106648</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Felix Hao Wang; Jason Zevin; John Trueswell; Toben H. Mintz]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106648</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The tiger moving through the tall grass: Spontaneous perception and tracking of change-defined objects from second-order features</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106657</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106657</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dawei Bai; Brian J. Scholl]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106657</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Repetition induced rhythm as an alternative account to statistical word segmentation: A model and meta-analysis</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106648</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106648</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Felix Hao Wang; Jason Zevin; John Trueswell; Toben H. Mintz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106648</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -427,6 +409,15 @@
 <description></description>
 </item>
 <item>
+<title>Contours drive the tilt aftereffect in naturalistic images</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106728</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106728</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Seohee Han; James T. Lochbichler; Dirk B. Walther]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106728</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>What primates know about other minds and how often they use it: A computational approach to comparative theory of mind</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106698</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106698</guid>
@@ -469,6 +460,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106723</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yaxin Liu; Stella F. Lourenco]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106723</dc:identifier>
 <description></description>
 </item>
 <item>
