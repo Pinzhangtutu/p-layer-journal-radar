@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 24 Sep 2026 17:03:43 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 21:26:33 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -71,16 +71,6 @@
 <content:encoded><![CDATA[Macroeconomic outcomes depend on the distribution of markups across firms and over time, making firm‐level markup estimates key for macroeconomic analysis. Methods to obtain these estimates require data on the prices that firms charge. Firm‐level data with wide coverage, however, primarily come from financial statements, which lack information on prices. We use an analytical framework to show that trends in markups over time or the dispersion of markups across firms can still be well‐measured with such data. Measuring the average level of the markup does require pricing data, and we propose a consistent estimator for such settings. We validate the analytical results using simulations of a quantitative macroeconomic model and offer supporting evidence from firm‐level administrative production and pricing data. Our analysis supports the use of financial data to measure trends in aggregate markups.]]></content:encoded>
 </item>
 <item>
-<title>Work Hours Mismatch</title>
-<link>https://doi.org/10.3982/ecta21849</link>
-<guid isPermaLink="false">10.3982/ecta21849</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marta Lachowska; Alexandre Mas; Raffaele Saggio; Stephen A. Woodbury]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta21849</dc:identifier>
-<description><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></description>
-<content:encoded><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></content:encoded>
-</item>
-<item>
 <title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
 <link>https://doi.org/10.3982/ecta944sum</link>
 <guid isPermaLink="false">10.3982/ecta944sum</guid>
@@ -97,6 +87,16 @@
 <dc:identifier>doi:10.3982/ecta21366</dc:identifier>
 <description><![CDATA[This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.]]></description>
 <content:encoded><![CDATA[This paper studies security design by bidders with dispersed information about a common‐value investment opportunity. Among a broad set of securities, bidders offer debt financing—the flattest securities. A first reason is that debt mitigates bidders' exposure to the winner's curse when there are two bidders. Second, the entrepreneur either has an informational advantage initially or gains one by inferring from the bids, and is more likely to select debt offers when optimistic about the project. While a bidder's choice of security also has a signaling effect, this effect is dominated by the winner's curse and informed‐selection effects, and does not affect the equilibrium outcome. These results contrast sharply with security design by a monopolistic investor, as well as with DeMarzo, Kremer, and Skrzypacz's (2005) results under private‐value competition. The entrepreneur's ability to commit to an ordered set of securities does not improve revenue.]]></content:encoded>
+</item>
+<item>
+<title>Work Hours Mismatch</title>
+<link>https://doi.org/10.3982/ecta21849</link>
+<guid isPermaLink="false">10.3982/ecta21849</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marta Lachowska; Alexandre Mas; Raffaele Saggio; Stephen A. Woodbury]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21849</dc:identifier>
+<description><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></description>
+<content:encoded><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></content:encoded>
 </item>
 <item>
 <title>Choosing Who Chooses: Selection‐Driven Targeting in Energy Rebate Programs</title>
