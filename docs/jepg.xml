@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 24 Sep 2026 11:34:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:03:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -118,24 +118,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Moritz Reis; Robert Wirth]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001935</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Calibrating growth mindset about intelligence: Increased blame, effort misperception, and a genes-and-growth solution for blame.</title>
-<link>https://doi.org/10.1037/xge0001944</link>
-<guid isPermaLink="false">10.1037/xge0001944</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Woo-kyoung Ahn; Cheng-Kai Sheu]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001944</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>When a helpful bias is unhelpful: Limitations in reasoning about random and deliberately misleading evidence.</title>
-<link>https://doi.org/10.1037/xge0001939</link>
-<guid isPermaLink="false">10.1037/xge0001939</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Manikya Alister; Keith J. Ransom; Andrew Perfors]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001939</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -260,6 +242,33 @@
 <guid isPermaLink="false">10.1037/xge0001993.supp</guid>
 <pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/xge0001993.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bridging real-world summarization and laboratory-based memory recall.</title>
+<link>https://doi.org/10.1037/xge0001994</link>
+<guid isPermaLink="false">10.1037/xge0001994</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hemali Angne; Snigdha S. Mishra; Guo Lin; Qiong Zhang]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001994</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Scaling vision to the body: Height predicts visual experience and perceptual performance.</title>
+<link>https://doi.org/10.1037/xge0001965</link>
+<guid isPermaLink="false">10.1037/xge0001965</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michelle R. Greene; Benjamin J. Balas]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001965</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The moralized coalitions model: How coalitional thinking and moralization shape social perception.</title>
+<link>https://doi.org/10.1037/xge0001998</link>
+<guid isPermaLink="false">10.1037/xge0001998</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Trystan Loustau; Liane Young]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001998</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -415,21 +424,21 @@
 <description></description>
 </item>
 <item>
-<title>How autobiographical memory serves morality: Prevalence and properties of memories with moral content.</title>
-<link>https://doi.org/10.1037/xge0001954</link>
-<guid isPermaLink="false">10.1037/xge0001954</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dorthe Berntsen; Ana Lucía Cardenas-Egúsquiza; Maria Cristina Buzzo; Svend Brinkmann; Rick H. Hoyle; David C. Rubin]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001954</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Elcos are common, ajajatas are weird: Manner implicatures guide the interpretation of unfamiliar words for French children and for adults in 18 languages.</title>
 <link>https://doi.org/10.1037/xge0001972</link>
 <guid isPermaLink="false">10.1037/xge0001972</guid>
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Olivier Mascaro; Adeline Depierreux; Ninon Peysson; Olivier Morin]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001972</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How autobiographical memory serves morality: Prevalence and properties of memories with moral content.</title>
+<link>https://doi.org/10.1037/xge0001954</link>
+<guid isPermaLink="false">10.1037/xge0001954</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dorthe Berntsen; Ana Lucía Cardenas-Egúsquiza; Maria Cristina Buzzo; Svend Brinkmann; Rick H. Hoyle; David C. Rubin]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001954</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -555,15 +564,6 @@
 <pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jintao Xing; Stef Herregods; Luc Vermeylen; Kobe Desender]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001997</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Artificial intelligence and machines are capable of harm, but not of experiencing punishment.</title>
-<link>https://doi.org/10.1037/xge0001930</link>
-<guid isPermaLink="false">10.1037/xge0001930</guid>
-<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alexander Eng; Kai Chi Yam]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001930</dc:identifier>
 <description></description>
 </item>
 <item>

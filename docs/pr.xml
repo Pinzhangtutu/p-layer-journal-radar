@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 24 Sep 2026 11:34:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:03:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -247,6 +247,15 @@
 <description></description>
 </item>
 <item>
+<title>Dynamics of variability and bias in working memory.</title>
+<link>https://doi.org/10.1037/rev0000645</link>
+<guid isPermaLink="false">10.1037/rev0000645</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ivan Tomić; Sebastian Schneegans; Paul M. Bays]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000645</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Risk matters less when options are apples-to-oranges: The translate-and-accommodate model.</title>
 <link>https://doi.org/10.1037/rev0000633</link>
 <guid isPermaLink="false">10.1037/rev0000633</guid>
@@ -437,15 +446,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Joaquín M. Alfei; Ralph R. Miller; Tomás J. Ryan; Gonzalo P. Urcelay]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000538</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Temporal foreknowledge: Anticipation and prospective correction of timing errors by diffusion.</title>
-<link>https://doi.org/10.1037/rev0000556</link>
-<guid isPermaLink="false">10.1037/rev0000556</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Fuat Balcı; Tutku Öztel]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000556</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 24 Sep 2026 11:34:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:03:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -85,15 +85,6 @@
 <description></description>
 </item>
 <item>
-<title>Finding agreement: Functional magnetic resonance imaging hyperscanning reveals that mental state space exploration facilitates opinion alignment.</title>
-<link>https://doi.org/10.1037/pspa0000484</link>
-<guid isPermaLink="false">10.1037/pspa0000484</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sebastian P. H. Speer; Haran Sened; Laetitia Mwilambwe-Tshilobo; Lily Tsoi; Shannon M. Burns; Emily B. Falk; Diana I. Tamir]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000484</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Fleeting generalization: How unstable belief updating keeps people overly pessimistic about talking to strangers.</title>
 <link>https://doi.org/10.1037/pspa0000483</link>
 <guid isPermaLink="false">10.1037/pspa0000483</guid>
@@ -157,15 +148,6 @@
 <description></description>
 </item>
 <item>
-<title>Virtue trade-offs in everyday life.</title>
-<link>https://doi.org/10.1037/pspp0000608</link>
-<guid isPermaLink="false">10.1037/pspp0000608</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qilin Zhang; Jeremy Jacobson; Benjamin Hardin; Jessie Sun]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000608</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Compassion persists: The effects of repeated exposure to suffering on compassion.</title>
 <link>https://doi.org/10.1037/pspi0000529</link>
 <guid isPermaLink="false">10.1037/pspi0000529</guid>
@@ -175,21 +157,28 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Change Perception at Zero Tolerance: How Protected Values Bias Sensitivity to Social Improvement</title>
+<link>https://doi.org/10.1037/pspa0000497.supp</link>
+<guid isPermaLink="false">10.1037/pspa0000497.supp</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspa0000497.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Contextual Predictors of State Loneliness: The Role of Social Company, Activity, Location, and Duration of Contextual Exposure</title>
+<link>https://doi.org/10.1037/pspp0000619.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000619.supp</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000619.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>How institutional distrust breeds one-sided leadership: A consistency-based account.</title>
 <link>https://doi.org/10.1037/pspi0000527</link>
 <guid isPermaLink="false">10.1037/pspi0000527</guid>
 <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Claire Linares; Anne-Sophie Chaxel]]></dc:creator>
 <dc:identifier>doi:10.1037/pspi0000527</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>When having less elevates more: Benefactor income, moral elevation, and prosocial contagion among observers.</title>
-<link>https://doi.org/10.1037/pspa0000493</link>
-<guid isPermaLink="false">10.1037/pspa0000493</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bingqing Miranda Yin; Jenny G. Olson; Yexin Jessica Li]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000493</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -211,29 +200,12 @@
 <description></description>
 </item>
 <item>
-<title>Does losing your job change your personality? Findings from a 16-year longitudinal study of Mexican-origin adults.</title>
-<link>https://doi.org/10.1037/pspp0000609</link>
-<guid isPermaLink="false">10.1037/pspp0000609</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Guido Alessandri; Lorenzo Filosa; Richard W. Robins]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000609</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The link between self-esteem and aggression: A meta-analysis of longitudinal studies.</title>
 <link>https://doi.org/10.1037/pspp0000613</link>
 <guid isPermaLink="false">10.1037/pspp0000613</guid>
 <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jasmin A. Aebi; Oliver Lüdtke; Max Lustenberger; Ulrich Orth]]></dc:creator>
 <dc:identifier>doi:10.1037/pspp0000613</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Listening Across the Divide: High-Quality Listening Promotes Speakers’ State Well-Being Through Basic Psychological Need Satisfaction During Disagreements</title>
-<link>https://doi.org/10.1037/pspi0000525.supp</link>
-<guid isPermaLink="false">10.1037/pspi0000525.supp</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspi0000525.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -254,20 +226,20 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
-<link>https://doi.org/10.1037/pspp0000612.supp</link>
-<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>“Yeah, it’s biased, but … ”: Recognition versus moral condemnation of bias across party lines.</title>
 <link>https://doi.org/10.1037/pspa0000492</link>
 <guid isPermaLink="false">10.1037/pspa0000492</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hannah B. Waldfogel; Brittany C. Solomon; Matthew E. K. Hall]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000492</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
+<link>https://doi.org/10.1037/pspp0000612.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -292,15 +264,6 @@
 <guid isPermaLink="false">10.1037/pspa0000495.supp</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspa0000495.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Unconscious mental content in implicit evaluation: Evidence from misprediction.</title>
-<link>https://doi.org/10.1037/pspa0000491</link>
-<guid isPermaLink="false">10.1037/pspa0000491</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Benedek Kurdi; David E. Melnikoff; Adam Morris]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000491</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -354,6 +317,87 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Roshni Raveendhran; Trevor A. Foulk]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000494</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The predictive validity of vocational interests for life outcomes across adulthood.</title>
+<link>https://doi.org/10.1037/pspp0000605</link>
+<guid isPermaLink="false">10.1037/pspp0000605</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lena Roemer; Christopher D. Nye; Rong Su; Kevin A. Hoff]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000605</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Virtue trade-offs in everyday life.</title>
+<link>https://doi.org/10.1037/pspp0000608</link>
+<guid isPermaLink="false">10.1037/pspp0000608</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qilin Zhang; Jeremy Jacobson; Benjamin Hardin; Jessie Sun]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000608</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Extended artificial intelligence aversion: People deny humanness to artificial intelligence users.</title>
+<link>https://doi.org/10.1037/pspi0000480</link>
+<guid isPermaLink="false">10.1037/pspi0000480</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jianning Dang; Li Liu]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000480</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Life satisfaction, loneliness, and depressivity in consistently single young adults in Germany and the United Kingdom.</title>
+<link>https://doi.org/10.1037/pspp0000595</link>
+<guid isPermaLink="false">10.1037/pspp0000595</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael D. Krämer; Julia Stern; Laura Buchinger; Geoff MacDonald; Wiebke Bleidorn]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000595</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unconscious mental content in implicit evaluation: Evidence from misprediction.</title>
+<link>https://doi.org/10.1037/pspa0000491</link>
+<guid isPermaLink="false">10.1037/pspa0000491</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benedek Kurdi; David E. Melnikoff; Adam Morris]]></dc:creator>
+<dc:identifier>doi:10.1037/pspa0000491</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Associations of fear, anger, happiness, and hope with risk judgments: Revisiting appraisal-tendency framework with a replication and extensions registered report of Lerner and Keltner (2001).</title>
+<link>https://doi.org/10.1037/pspp0000586</link>
+<guid isPermaLink="false">10.1037/pspp0000586</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sirui Lu; Emir Efendić; Gilad Feldman]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000586</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unstable, indistinct, and cohesive? How group cognitions shape attitudes toward transgender and nonbinary people as a function of gender essentialism.</title>
+<link>https://doi.org/10.1037/pspi0000501</link>
+<guid isPermaLink="false">10.1037/pspi0000501</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Julia Spielmann; Andrea C. Vial]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000501</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When having less elevates more: Benefactor income, moral elevation, and prosocial contagion among observers.</title>
+<link>https://doi.org/10.1037/pspa0000493</link>
+<guid isPermaLink="false">10.1037/pspa0000493</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bingqing Miranda Yin; Jenny G. Olson; Yexin Jessica Li]]></dc:creator>
+<dc:identifier>doi:10.1037/pspa0000493</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does losing your job change your personality? Findings from a 16-year longitudinal study of Mexican-origin adults.</title>
+<link>https://doi.org/10.1037/pspp0000609</link>
+<guid isPermaLink="false">10.1037/pspp0000609</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Guido Alessandri; Lorenzo Filosa; Richard W. Robins]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000609</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -487,15 +531,6 @@
 <description></description>
 </item>
 <item>
-<title>The impact of “relational” Artificial Intelligence on human well-being: A self-determination theory analysis.</title>
-<link>https://doi.org/10.1037/pspi0000528</link>
-<guid isPermaLink="false">10.1037/pspi0000528</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael A. Irias; Norman B. Schmidt; Thomas E. Joiner; James K. McNulty]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000528</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for How Institutional Distrust Breeds One-Sided Leadership: A Consistency-Based Account</title>
 <link>https://doi.org/10.1037/pspi0000527.supp</link>
 <guid isPermaLink="false">10.1037/pspi0000527.supp</guid>
@@ -509,15 +544,6 @@
 <guid isPermaLink="false">10.1037/pspi0000526.supp</guid>
 <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000526.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Listening across the divide: High-quality listening promotes speakers’ state well-being through basic psychological need satisfaction during disagreements.</title>
-<link>https://doi.org/10.1037/pspi0000525</link>
-<guid isPermaLink="false">10.1037/pspi0000525</guid>
-<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dvori Saluk; Guy Itzchakov; Netta Weinstein; Moty Amar]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000525</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -573,47 +599,11 @@
 <description></description>
 </item>
 <item>
-<title>The predictive validity of vocational interests for life outcomes across adulthood.</title>
-<link>https://doi.org/10.1037/pspp0000605</link>
-<guid isPermaLink="false">10.1037/pspp0000605</guid>
-<pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lena Roemer; Christopher D. Nye; Rong Su; Kevin A. Hoff]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000605</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Tightening up Under Threat: Social Class Shapes the Strength of Norms</title>
 <link>https://doi.org/10.1037/pspi0000524.supp</link>
 <guid isPermaLink="false">10.1037/pspi0000524.supp</guid>
 <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000524.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How group personality composition affects person and group outcomes: An integrative analysis using the group actor–partner interdependence model.</title>
-<link>https://doi.org/10.1037/pspp0000588</link>
-<guid isPermaLink="false">10.1037/pspp0000588</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Eva Bleckmann; Richard Rau; Oliver Lüdtke; Sascha Krause; Jenny Wagner]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000588</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Are the metatraits fact or artifact? Ruling out alternative explanations for the higher-order factors of the Big Five.</title>
-<link>https://doi.org/10.1037/pspp0000593</link>
-<guid isPermaLink="false">10.1037/pspp0000593</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Colin G. DeYoung; Ming Him Tai; Edward Chou; Boris Mlačić]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000593</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Security priming in everyday life: How do symbols of close others support attachment in adulthood?</title>
-<link>https://doi.org/10.1037/pspp0000590</link>
-<guid isPermaLink="false">10.1037/pspp0000590</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Karl E. Conroy; R. Chris Fraley]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000590</dc:identifier>
 <description></description>
 </item>
 </channel>

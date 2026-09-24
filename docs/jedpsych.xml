@@ -9,7 +9,7 @@
 <description>JEdPsych — APA · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jedpsych.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 24 Sep 2026 11:34:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:03:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -132,6 +132,23 @@
 <guid isPermaLink="false">10.1037/edu0001044.supp</guid>
 <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001044.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Differential predictions of mindsets for task effort cost and emotional cost perceptions in introductory college chemistry.</title>
+<link>https://doi.org/10.1037/edu0001057</link>
+<guid isPermaLink="false">10.1037/edu0001057</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hyun Ji Lee; Patrick N. Beymer; Elise C. Allen]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001057</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for In the Eye of the Beholder? Disentangling Shared Versus Perspective-Specific Ratings of Instructional Quality by Teachers and Students and Their Links to Teacher Motivation and Student Characteristics</title>
+<link>https://doi.org/10.1037/edu0001067.supp</link>
+<guid isPermaLink="false">10.1037/edu0001067.supp</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/edu0001067.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -523,22 +540,6 @@
 <guid isPermaLink="false">10.1037/edu0001066.supp</guid>
 <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001066.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Interpolated Prequestioning Increases On-Task Thoughts, Dampens Off-Task Thoughts, and Facilitates Learning During Video Lectures</title>
-<link>https://doi.org/10.1037/edu0001055.supp</link>
-<guid isPermaLink="false">10.1037/edu0001055.supp</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001055.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Socioeconomic Status and Literacy Achievement: A Meta-Analysis of Correlations and Disparities in Reading and Writing Skills</title>
-<link>https://doi.org/10.1037/edu0001059.supp</link>
-<guid isPermaLink="false">10.1037/edu0001059.supp</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001059.supp</dc:identifier>
 <description></description>
 </item>
 <item>

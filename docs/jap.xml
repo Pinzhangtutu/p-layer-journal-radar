@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 24 Sep 2026 11:34:32 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 17:03:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -136,6 +136,15 @@
 <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lisa Dragoni; Christina Hymer; Soohyun Yoon; Jeffery A. LePine; Todd Woodruff; Lissa V. Young; Huisi (Jessica) Li]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001405</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When the market moves: How stock market fluctuations shape risk-related behaviors at work.</title>
+<link>https://doi.org/10.1037/apl0001433</link>
+<guid isPermaLink="false">10.1037/apl0001433</guid>
+<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joseph Kichul Kim; Joel Koopman; Kyoung Yong Kim; Ran Ahn; Youngduk Lee]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001433</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -619,15 +628,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Braydon C. Shanklin; Tyler B. Sabey]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001369</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>An integrative conceptual review of gender bias in leader evaluations: An observer-focused motive-driven process model.</title>
-<link>https://doi.org/10.1037/apl0001350</link>
-<guid isPermaLink="false">10.1037/apl0001350</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Soojin Oh; Aparna Joshi; Sridhar Polineni]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001350</dc:identifier>
 <description></description>
 </item>
 </channel>
