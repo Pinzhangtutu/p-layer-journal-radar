@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 11:40:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 17:01:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -31,16 +31,6 @@
 <dc:identifier>doi:10.1093/sf/soag068</dc:identifier>
 <description><![CDATA[Abstract Scholars have identified women’s simultaneous labor force and domestic responsibilities as a “double burden” but have not fully explored how these demands intersect with pursuing higher education. Research consistently shows women’s increasing participation in higher education, with women—especially from low socioeconomic status (SES) backgrounds—outpacing men in bachelor’s degree attainment. Using nationally representative longitudinal surveys and matched educational outcome data, we examine students’ educational trajectories from their early teens through late twenties. Our findings reveal that despite gains in college enrollment and completion, low-SES women experience significantly more interruptions in their educational pursuits after enrolling in college than both low-SES men and high-SES women. Using longitudinal interviews with a matched subsample of 132 participants, we identify the presence of a “triple burden”: the simultaneous expectations of caretaking, work, and college for low-SES women. This concept contributes to the sociologies of gender, social class, domestic labor, and higher education, emphasizing the need for an intersectional understanding of the life course.]]></description>
 <content:encoded><![CDATA[Abstract Scholars have identified women’s simultaneous labor force and domestic responsibilities as a “double burden” but have not fully explored how these demands intersect with pursuing higher education. Research consistently shows women’s increasing participation in higher education, with women—especially from low socioeconomic status (SES) backgrounds—outpacing men in bachelor’s degree attainment. Using nationally representative longitudinal surveys and matched educational outcome data, we examine students’ educational trajectories from their early teens through late twenties. Our findings reveal that despite gains in college enrollment and completion, low-SES women experience significantly more interruptions in their educational pursuits after enrolling in college than both low-SES men and high-SES women. Using longitudinal interviews with a matched subsample of 132 participants, we identify the presence of a “triple burden”: the simultaneous expectations of caretaking, work, and college for low-SES women. This concept contributes to the sociologies of gender, social class, domestic labor, and higher education, emphasizing the need for an intersectional understanding of the life course.]]></content:encoded>
-</item>
-<item>
-<title>Do updates of group-level and individual-level information of ethnic minority applicants mitigate statistical discrimination in hiring?</title>
-<link>https://doi.org/10.1093/sf/soag072</link>
-<guid isPermaLink="false">10.1093/sf/soag072</guid>
-<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Akira Igarashi; Susumu Cato]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag072</dc:identifier>
-<description><![CDATA[Abstract Labor market discrimination against ethnic minority applicants remains persistent despite extensive research and policy interventions. While social scientists have thoroughly examined statistical discrimination—wherein employers rely on group-level information to infer candidates’ future productivity due to limited individual information in resumes—fundamental questions remain unanswered regarding the relative impact of different information types. Specifically, it remains unclear whether employers are more responsive to group-level or individual–level information updates in their hiring decisions. Through a two–stage survey experiment with hiring human resources (HR) professionals at Japanese companies, this study examines how updating different types of information affects hiring discrimination. The experiment randomly updated group-level information about ethnic minority workers’ productivity (specifically, that ethnic majority and minority workers are equally productive) and provided additional individual–level applicant information. Results demonstrate that while additional individual-level information completely eliminates ethnic discrimination, updating group-level information fails to reduce discriminatory practices. Moreover, group-level information updates actually nullify the positive effects of individual-level information. These findings suggest that HR professionals’ initially low expectations of minority applicants can be easily overcome through additional individual information. However, group-level information updates raise baseline expectations and the same individual-level information becomes insufficient to exceed these elevated thresholds.]]></description>
-<content:encoded><![CDATA[Abstract Labor market discrimination against ethnic minority applicants remains persistent despite extensive research and policy interventions. While social scientists have thoroughly examined statistical discrimination—wherein employers rely on group-level information to infer candidates’ future productivity due to limited individual information in resumes—fundamental questions remain unanswered regarding the relative impact of different information types. Specifically, it remains unclear whether employers are more responsive to group-level or individual–level information updates in their hiring decisions. Through a two–stage survey experiment with hiring human resources (HR) professionals at Japanese companies, this study examines how updating different types of information affects hiring discrimination. The experiment randomly updated group-level information about ethnic minority workers’ productivity (specifically, that ethnic majority and minority workers are equally productive) and provided additional individual–level applicant information. Results demonstrate that while additional individual-level information completely eliminates ethnic discrimination, updating group-level information fails to reduce discriminatory practices. Moreover, group-level information updates actually nullify the positive effects of individual-level information. These findings suggest that HR professionals’ initially low expectations of minority applicants can be easily overcome through additional individual information. However, group-level information updates raise baseline expectations and the same individual-level information becomes insufficient to exceed these elevated thresholds.]]></content:encoded>
 </item>
 <item>
 <title>Curricular-credential decoupling: how schools respond to college and career readiness policy</title>
@@ -538,6 +528,15 @@
 <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Colin Beck]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag079</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Review of “Island Time: Theory Groups and the Social Production of Scientific Knowledge”</title>
+<link>https://doi.org/10.1093/sf/soag139</link>
+<guid isPermaLink="false">10.1093/sf/soag139</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Keith Sawyer]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag139</dc:identifier>
 <description></description>
 </item>
 <item>

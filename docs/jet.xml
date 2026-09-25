@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 11:40:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 17:01:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -94,15 +94,6 @@
 <description></description>
 </item>
 <item>
-<title>Matching and Price Competition in Large Markets</title>
-<link>https://doi.org/10.1016/j.jet.2026.106250</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106250</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bingchao Huangfu; Gagan Ghosh; Heng Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106250</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Informational inertia and the Taylor principle</title>
 <link>https://doi.org/10.1016/j.jet.2026.106220</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106220</guid>
@@ -127,6 +118,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rank Dependent Weighted Average Utility Models for decision-making under Objective Ambiguity</title>
+<link>https://doi.org/10.1016/j.jet.2026.106256</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106256</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicolas Gravel; Thierry Marchant]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106256</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -256,6 +256,15 @@
 <description></description>
 </item>
 <item>
+<title>Matching and price competition in large markets</title>
+<link>https://doi.org/10.1016/j.jet.2026.106250</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106250</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bingchao Huangfu; Gagan Ghosh; Heng Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106250</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>When is the trend the cycle?</title>
 <link>https://doi.org/10.1016/j.jet.2026.106228</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106228</guid>
@@ -370,15 +379,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Alexander L. Brown; Huiyi Guo; Hyundam Je]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106151</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Information design for social learning on a recommendation platform</title>
-<link>https://doi.org/10.1016/j.jet.2026.106150</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106150</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Chen Lyu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106150</dc:identifier>
 <description></description>
 </item>
 <item>

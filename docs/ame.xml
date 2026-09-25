@@ -9,7 +9,7 @@
 <description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ame.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 11:40:13 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 17:01:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -346,21 +346,21 @@
 <description></description>
 </item>
 <item>
-<title>What Is Your AI Strategy? Systematically Integrating Self-Learning Technologies into Your Business Strategy</title>
-<link>https://doi.org/10.5465/amp.2023.0243</link>
-<guid isPermaLink="false">10.5465/amp.2023.0243</guid>
-<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Thomas Hutzschenreuter; Tim Lämmermann]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2023.0243</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>“Please, Hurry Up!” Leveraging Narratives to Speed Up the Mobilization of Resources for Entrepreneurial Ventures</title>
 <link>https://doi.org/10.5465/amp.2023.0224</link>
 <guid isPermaLink="false">10.5465/amp.2023.0224</guid>
 <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David Johnson; Mark Geiger; Peter T. Gianiodis; Adam J. Bock]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2023.0224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What Is Your AI Strategy? Systematically Integrating Self-Learning Technologies into Your Business Strategy</title>
+<link>https://doi.org/10.5465/amp.2023.0243</link>
+<guid isPermaLink="false">10.5465/amp.2023.0243</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Hutzschenreuter; Tim Lämmermann]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0243</dc:identifier>
 <description></description>
 </item>
 <item>
