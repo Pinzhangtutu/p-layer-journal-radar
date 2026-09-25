@@ -9,7 +9,7 @@
 <description>JMCQ — SAGE · Latest in: OnlineFirst · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmcq.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 04:37:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 11:40:13 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -501,6 +501,16 @@
 <dc:identifier>doi:10.1177/10776990261479301</dc:identifier>
 <description><![CDATA[Precarity has become a defining feature of the contemporary journalistic labor market worldwide. Drawing on 20 in-depth interviews with journalists in Serbia, we explore the tension between precarity and professional journalistic aspirations. Although participants understood precarious working conditions primarily in economic terms (e.g., low wages and limited job opportunities), their accounts suggest that labor (in)security is distributed according to political rather than market logic. Some respond to these pressures by adopting nondemocratic journalistic practices or by adjusting their professional values, while others embrace precarity as a mark of professional integrity and a condition for practicing journalism in a hybrid regime.]]></description>
 <content:encoded><![CDATA[Precarity has become a defining feature of the contemporary journalistic labor market worldwide. Drawing on 20 in-depth interviews with journalists in Serbia, we explore the tension between precarity and professional journalistic aspirations. Although participants understood precarious working conditions primarily in economic terms (e.g., low wages and limited job opportunities), their accounts suggest that labor (in)security is distributed according to political rather than market logic. Some respond to these pressures by adopting nondemocratic journalistic practices or by adjusting their professional values, while others embrace precarity as a mark of professional integrity and a condition for practicing journalism in a hybrid regime.]]></content:encoded>
+</item>
+<item>
+<title>Explaining Science Knowledge Gaps on Social Media: Basic Science Knowledge and Intentional Versus Incidental Exposure</title>
+<link>https://doi.org/10.1177/10776990261483606</link>
+<guid isPermaLink="false">10.1177/10776990261483606</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wenbo Li; Christine Gilbert; Shan Xu]]></dc:creator>
+<dc:identifier>doi:10.1177/10776990261483606</dc:identifier>
+<description><![CDATA[This study examined whether basic science knowledge helps explain education-based gaps in domain-specific science knowledge and whether intentional and incidental exposure on social media condition those gaps. A national survey of American adults focused on two domains: climate change and algorithms. Results showed that basic science knowledge mediated the relationship between education and domain-specific knowledge across both domains. These indirect relationship were attenuated at higher levels of intentional social media exposure. The findings suggest that strengthening foundational science literacy and encouraging more deliberate engagement with science content on social media may help reduce knowledge disparities.]]></description>
+<content:encoded><![CDATA[This study examined whether basic science knowledge helps explain education-based gaps in domain-specific science knowledge and whether intentional and incidental exposure on social media condition those gaps. A national survey of American adults focused on two domains: climate change and algorithms. Results showed that basic science knowledge mediated the relationship between education and domain-specific knowledge across both domains. These indirect relationship were attenuated at higher levels of intentional social media exposure. The findings suggest that strengthening foundational science literacy and encouraging more deliberate engagement with science content on social media may help reduce knowledge disparities.]]></content:encoded>
 </item>
 <item>
 <title>Newswork in the Age of Generative Artificial Intelligence: Insights from Zimbabwean Newsrooms</title>

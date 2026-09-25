@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 04:37:03 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 11:40:13 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,6 +211,24 @@
 <description></description>
 </item>
 <item>
+<title>Ex Post Strategy-Proofness</title>
+<link>https://doi.org/10.1016/j.jet.2026.106257</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106257</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tangren Feng; Qinggong Wu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106257</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Price Information and Cost Uncertainty in Oligopoly</title>
+<link>https://doi.org/10.1016/j.jet.2026.106258</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106258</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruolong Xiao; César Martinelli]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106258</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>On preference for simplicity and probability weighting</title>
 <link>https://doi.org/10.1016/j.jet.2026.106225</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106225</guid>
@@ -361,24 +379,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Chen Lyu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106150</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Managing the expectations of buyers with reference-dependent preferences</title>
-<link>https://doi.org/10.1016/j.jet.2025.106134</link>
-<guid isPermaLink="false">10.1016/j.jet.2025.106134</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nathan Hancart]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2025.106134</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The shocks matter: Labor mobility and the welfare cost of a currency union</title>
-<link>https://doi.org/10.1016/j.jet.2025.106132</link>
-<guid isPermaLink="false">10.1016/j.jet.2025.106132</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sihao Chen; David Cook; Haichao Fan; Juanyi Xu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2025.106132</dc:identifier>
 <description></description>
 </item>
 <item>
