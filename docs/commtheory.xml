@@ -9,7 +9,7 @@
 <description>CommTheory — Oxford · Latest in: Advance · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/commtheory.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 17:01:54 +0000</lastBuildDate>
+<lastBuildDate>Fri, 25 Sep 2026 21:26:45 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -561,16 +561,6 @@
 <content:encoded><![CDATA[Abstract This study introduces the Dynamic Intermediary Model (D[X]IM) to address how knowledge processes have evolved with digital platforms by shifting from a dyadic to a triadic communication model of content flow with a potential intermediary. This intermediary, which can be a journalist, influencer, artificial agent, or another platform actor, provides services to the source and recipient of a message, thereby transforming traditional direct communication. It aims to better understand information diffusion in the networked public sphere by recognizing the intermediary’s role in altering source-recipient dynamics. The D[X]IM applies across different communication levels (macro, meso, and micro) and is designed for empirical research using diverse methodologies. It focuses on single instances of platform communication to explore the impact of intermediated communication. The article concludes with a research agenda and examples of how D[X]IM can be applied in empirical research.]]></content:encoded>
 </item>
 <item>
-<title>Embodied schema information processing theory: an underlying mechanism of embodied cognition in communication</title>
-<link>https://doi.org/10.1093/ct/qtae010</link>
-<guid isPermaLink="false">10.1093/ct/qtae010</guid>
-<pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[FengYi Yin; Thomas Goller]]></dc:creator>
-<dc:identifier>doi:10.1093/ct/qtae010</dc:identifier>
-<description><![CDATA[Abstract Embodiment has been incorporated in communication studies researching the experiencing self, motivated cognitive information processing, and embodied medium theory. This article highlights another factor—past bodily experiences—as important for understanding the impact of embodiment on communication processes. Expanding schema to a construct spanning multiple levels of the neural hierarchy, we propose embodied schema as a minimal framework to capture the idea that all mental structures are grounded in the body. Based on the function of embodied schemas, we describe an Embodied Schema Information Processing Theory (ESIPT) that includes an embodied dual-process theory, which offers a more coherent account of the automatic cue- or heuristic-based processing mode, and a model that describes the influence of the environment and bodily state on high-level cognitive processing. This article systematically explores the role of past bodily experiences and provides a general account of embodied information processing that can inform a wide range of communication studies.]]></description>
-<content:encoded><![CDATA[Abstract Embodiment has been incorporated in communication studies researching the experiencing self, motivated cognitive information processing, and embodied medium theory. This article highlights another factor—past bodily experiences—as important for understanding the impact of embodiment on communication processes. Expanding schema to a construct spanning multiple levels of the neural hierarchy, we propose embodied schema as a minimal framework to capture the idea that all mental structures are grounded in the body. Based on the function of embodied schemas, we describe an Embodied Schema Information Processing Theory (ESIPT) that includes an embodied dual-process theory, which offers a more coherent account of the automatic cue- or heuristic-based processing mode, and a model that describes the influence of the environment and bodily state on high-level cognitive processing. This article systematically explores the role of past bodily experiences and provides a general account of embodied information processing that can inform a wide range of communication studies.]]></content:encoded>
-</item>
-<item>
 <title>The Communicative Constitution of Organizations: The Four Flows Model by Robert D. McPhee, Karen K. Myers, and Joel O. Iverson</title>
 <link>https://doi.org/10.1093/ct/qtag015</link>
 <guid isPermaLink="false">10.1093/ct/qtag015</guid>
@@ -578,6 +568,16 @@
 <dc:creator><![CDATA[Weston L Wright; Patrice M Buzzanell]]></dc:creator>
 <dc:identifier>doi:10.1093/ct/qtag015</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Post hoc illusion—how the knew-it-all-along effect undermines trust</title>
+<link>https://doi.org/10.1093/ct/qtag019</link>
+<guid isPermaLink="false">10.1093/ct/qtag019</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Drew B Margolin; Mariken van der Velden]]></dc:creator>
+<dc:identifier>doi:10.1093/ct/qtag019</dc:identifier>
+<description><![CDATA[Abstract This article introduces a theory of distrust called the post hoc illusion. The post hoc illusion is a mistaken belief about what others knew in the past. It arises when stakeholders, who have entrusted power to the deciders, infer that the decider “overlooked” facts that were “obvious” and should have been consulted. We show how this effect is a logical consequence of constraints in human abductive processes–the manner in which human minds create and evaluate causal explanations. A research agenda for the post hoc illusion is then proposed, beginning with the identification of key variables that should influence its operation: relevant facts present in the past and theoretical novelty. We then argue that the illusion can be ameliorated through narratives that portray the decider’s state of mind in the past.]]></description>
+<content:encoded><![CDATA[Abstract This article introduces a theory of distrust called the post hoc illusion. The post hoc illusion is a mistaken belief about what others knew in the past. It arises when stakeholders, who have entrusted power to the deciders, infer that the decider “overlooked” facts that were “obvious” and should have been consulted. We show how this effect is a logical consequence of constraints in human abductive processes–the manner in which human minds create and evaluate causal explanations. A research agenda for the post hoc illusion is then proposed, beginning with the identification of key variables that should influence its operation: relevant facts present in the past and theoretical novelty. We then argue that the illusion can be ameliorated through narratives that portray the decider’s state of mind in the past.]]></content:encoded>
 </item>
 <item>
 <title>Understanding news media trust through the lens of phenomenological sociology</title>
