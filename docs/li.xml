@@ -9,18 +9,9 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 26 Sep 2026 16:15:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 20:58:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>THE POWER OF VARYING MORE THAN ONE THING AT A TIME</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102478</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102478</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lucas Lörch; Elizabeth Bonawitz; Garvin Brod]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102478</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>Childhood spatial skills and adolescent STEM achievement in maths and science: The role of visuospatial working memory</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102421</link>
@@ -220,6 +211,15 @@
 <description></description>
 </item>
 <item>
+<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
@@ -235,15 +235,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kester Wong; Sahan Bulathwela; Mutlu Cukurova]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102418</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Facilitating adaptive learning: A QCA study on conditions for learning in simulation games</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102380</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102380</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -586,6 +577,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lena Biele; Anna Volodina; Rebecca Höhr; Birgit Heppt]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102476</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The power of varying more than one thing at a time</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102478</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102478</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lucas Lörch; Elizabeth Bonawitz; Garvin Brod]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102478</dc:identifier>
 <description></description>
 </item>
 <item>

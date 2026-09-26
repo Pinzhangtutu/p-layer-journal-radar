@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 26 Sep 2026 16:15:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 20:58:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -148,15 +148,6 @@
 <description></description>
 </item>
 <item>
-<title>Bilingual representation of multi-word phrases: Evidence from phrase-acceptability judgment in Chinese-English bilinguals</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106607</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106607</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tianjiao Zeng; Holly P. Branigan; Martin J. Pickering]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106607</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Coherence and the memorability of supernatural concepts</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106661</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106661</guid>
@@ -211,21 +202,21 @@
 <description></description>
 </item>
 <item>
-<title>English-hearing toddlers learn words from consistent and variable labels</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106647</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106647</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kennedy Casey; Casey Lew-Williams]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106647</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106672</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>English-hearing toddlers learn words from consistent and variable labels</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106647</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106647</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kennedy Casey; Casey Lew-Williams]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106647</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -517,15 +508,6 @@
 <description></description>
 </item>
 <item>
-<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Music influences the content of spontaneous thought</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106722</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
@@ -535,12 +517,21 @@
 <description></description>
 </item>
 <item>
-<title>Social feedback informs generalisation of control beliefs</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106704</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106704</guid>
+<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jennifer C. Fielder; Essi Viding; Quentin J.M. Huys; Nikolaus Steinbeis]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106704</dc:identifier>
+<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Semantic generation masks value directed remembering in memory but not metamemory: Evidence from truth-telling and lie fabrication</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106730</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106730</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Samet Kaya; Miri Besken]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106730</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -550,6 +541,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social feedback informs generalisation of control beliefs</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106704</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106704</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jennifer C. Fielder; Essi Viding; Quentin J.M. Huys; Nikolaus Steinbeis]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106704</dc:identifier>
 <description></description>
 </item>
 <item>
