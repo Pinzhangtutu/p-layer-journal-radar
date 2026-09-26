@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 21:26:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 04:40:26 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -154,6 +154,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Daniel Neuhann; Michael Sockin]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106226</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Topology-free Constructions of a Universal Type Space as Coherent Belief Hierarchies</title>
+<link>https://doi.org/10.1016/j.jet.2026.106259</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106259</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Satoshi Fukuda]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106259</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -370,15 +379,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tuomas Laiho; Julia Salmi]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2025.106136</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Preferences for the resolution of risk and ambiguity</title>
-<link>https://doi.org/10.1016/j.jet.2026.106151</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106151</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alexander L. Brown; Huiyi Guo; Hyundam Je]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106151</dc:identifier>
 <description></description>
 </item>
 <item>

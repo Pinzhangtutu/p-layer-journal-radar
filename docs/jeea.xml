@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 25 Sep 2026 21:26:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 04:40:26 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -503,16 +503,6 @@
 <content:encoded><![CDATA[Abstract In a controlled experiment, we show that decision-makers in a one-player, dynamic setting often fail to think through their own future actions before making initial decisions. This failure to plan at future contingencies implies a lack of perfect foresight, violating a fundamental assumption in dynamic decision problems. We show that neither experience nor prompting subjects to think about their future actions improve behavior. Instead the problem stems from failing to think through how future actions translate to optimal actions in the first period. We then turn to the question of how to model the foresight of such boundedly rational agents. Using the rich dataset we collect, across the five behavioral models we consider, we find that a model in which subjects expect to make less mistakes when the utility consequences of their future actions are more disparate best fits behavior.]]></content:encoded>
 </item>
 <item>
-<title>A Political Economy of Social Discrimination</title>
-<link>https://doi.org/10.1093/jeea/jvaf060</link>
-<guid isPermaLink="false">10.1093/jeea/jvaf060</guid>
-<pubDate>Mon, 15 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Torun Dewan; Stephane Wolton]]></dc:creator>
-<dc:identifier>doi:10.1093/jeea/jvaf060</dc:identifier>
-<description><![CDATA[Abstract This paper studies the causes and consequences of social discrimination. We consider a labor market in which payoff-irrelevant identity traits can shape hiring decisions. Identity is malleable, and a majority group member can become socially associated with the minority group. Fear of identity contagion can sustain a fully segregated labor market in which workers with minority trait experience higher unemployment and minority-owned firms are less productive than their majority counterparts. When the minority group is poorly integrated economically (consisting of more workers than employers), workers with majority trait obtain better labor market outcomes in an equilibrium with discrimination than without. Office-motivated candidates therefore have electoral incentives to propose symbolic policies targeting the minority to trigger social discrimination in the labor market. As majority-trait workers are better off with social discrimination and the economy shrinks, the implementation of symbolic policies is associated with both lower taxes and less redistribution.]]></description>
-<content:encoded><![CDATA[Abstract This paper studies the causes and consequences of social discrimination. We consider a labor market in which payoff-irrelevant identity traits can shape hiring decisions. Identity is malleable, and a majority group member can become socially associated with the minority group. Fear of identity contagion can sustain a fully segregated labor market in which workers with minority trait experience higher unemployment and minority-owned firms are less productive than their majority counterparts. When the minority group is poorly integrated economically (consisting of more workers than employers), workers with majority trait obtain better labor market outcomes in an equilibrium with discrimination than without. Office-motivated candidates therefore have electoral incentives to propose symbolic policies targeting the minority to trigger social discrimination in the labor market. As majority-trait workers are better off with social discrimination and the economy shrinks, the implementation of symbolic policies is associated with both lower taxes and less redistribution.]]></content:encoded>
-</item>
-<item>
 <title>Going Viral: Protests and Polarization in 1932 Hamburg</title>
 <link>https://doi.org/10.1093/jeea/jvag039</link>
 <guid isPermaLink="false">10.1093/jeea/jvag039</guid>
@@ -601,6 +591,16 @@
 <dc:identifier>doi:10.1093/jeea/jvaf061</dc:identifier>
 <description><![CDATA[Abstract We study the effect of entry on the price distribution in the German retail gasoline market. Exploiting several hundred entries over five years in an event study design, we find that entry causes a persistent first-order stochastic shift in the price distribution for at least three years after entry. Prices at the top of the distribution change moderately or not at all, but prices at the left tail decrease by up to 13% (9%) of stations’ gross margins after entry within a 1 km (2 km) radius. The value of information (VOI) increases by 29% (15%) in 1 km (2 km) markets, suggesting larger savings for consumers with easy access to information.]]></description>
 <content:encoded><![CDATA[Abstract We study the effect of entry on the price distribution in the German retail gasoline market. Exploiting several hundred entries over five years in an event study design, we find that entry causes a persistent first-order stochastic shift in the price distribution for at least three years after entry. Prices at the top of the distribution change moderately or not at all, but prices at the left tail decrease by up to 13% (9%) of stations’ gross margins after entry within a 1 km (2 km) radius. The value of information (VOI) increases by 29% (15%) in 1 km (2 km) markets, suggesting larger savings for consumers with easy access to information.]]></content:encoded>
+</item>
+<item>
+<title>Low-Income Families, Maternal Labor Supply, and Welfare Reform,</title>
+<link>https://doi.org/10.1093/jeea/jvag058</link>
+<guid isPermaLink="false">10.1093/jeea/jvag058</guid>
+<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Viola Garstenauer; Nawid Siassi]]></dc:creator>
+<dc:identifier>doi:10.1093/jeea/jvag058</dc:identifier>
+<description><![CDATA[Abstract In this paper, we study reforms that reduce the large employment disincentives induced by child-related transfers for married mothers. We develop a life-cycle model where married couples face labor market risk and make labor supply and consumption-saving decisions. The evolution of female human capital is endogenous and the model accounts for heterogeneity in child care needs. We calibrate the model to non-college-educated married couples in the U.S., using Current Population Survey data. We show that participation tax rates exceed 25% for most mothers in our sample, and can be as high as 60% when including child care expenses. We then evaluate reforms to existing tax credits for working couples. We find that (i) expanding child care tax credits and (ii) introducing a secondary-earner EITC deduction lead to substantially higher employment rates among married mothers. Both reforms are easily implementable, self-financing, and welfare-improving. A combination of both reforms goes a long way in closing the maternal employment gap.]]></description>
+<content:encoded><![CDATA[Abstract In this paper, we study reforms that reduce the large employment disincentives induced by child-related transfers for married mothers. We develop a life-cycle model where married couples face labor market risk and make labor supply and consumption-saving decisions. The evolution of female human capital is endogenous and the model accounts for heterogeneity in child care needs. We calibrate the model to non-college-educated married couples in the U.S., using Current Population Survey data. We show that participation tax rates exceed 25% for most mothers in our sample, and can be as high as 60% when including child care expenses. We then evaluate reforms to existing tax credits for working couples. We find that (i) expanding child care tax credits and (ii) introducing a secondary-earner EITC deduction lead to substantially higher employment rates among married mothers. Both reforms are easily implementable, self-financing, and welfare-improving. A combination of both reforms goes a long way in closing the maternal employment gap.]]></content:encoded>
 </item>
 <item>
 <title>The Lock-In Effect and the Corporate Payout Puzzle</title>
