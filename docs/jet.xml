@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 26 Sep 2026 20:58:51 +0000</lastBuildDate>
+<lastBuildDate>Sun, 27 Sep 2026 05:00:56 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -82,6 +82,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David Andolfatto; Ed Nosal]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106221</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Competitive Search with Repeated Moral Hazard</title>
+<link>https://doi.org/10.1016/j.jet.2026.106254</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106254</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fei Zhou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106254</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -370,15 +379,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xienan Cheng; Tilman Börgers]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2025.106128</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Coasian dynamics and endogenous learning</title>
-<link>https://doi.org/10.1016/j.jet.2025.106136</link>
-<guid isPermaLink="false">10.1016/j.jet.2025.106136</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tuomas Laiho; Julia Salmi]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2025.106136</dc:identifier>
 <description></description>
 </item>
 <item>
