@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 13:37:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:10:52 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -144,15 +144,6 @@
 <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Roberta Pires Vasconcellos; Taren Sanders; Chris Lonsdale; Philip Parker; James Conigrave; Samantha Tang; Borja del Pozo Cruz; Stuart J. H. Biddle; Rachael Taylor; Christine Innes-Hughes; Katariina Salmela-Aro; Diego Vasconcellos; Katrina Wilhite; Ella Tremaine; Bridget Booker; Michael Noetel]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000468</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How physical activity context relates to cognition across the lifespan: A systematic review and meta-analysis.</title>
-<link>https://doi.org/10.1037/bul0000478</link>
-<guid isPermaLink="false">10.1037/bul0000478</guid>
-<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Myrto F. Mavilidi; Spyridoula Vazou; David R. Lubans; Katie Robinson; Andrew J. Woods; Valentin Benzing; Sofia Anzeneder; Katherine B. Owen; Celia Álvarez-Bueno; Levi Wade; Jade Burley; George Thomas; Anthony D. Okely; Caterina Pesce]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000478</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -462,6 +453,14 @@
 <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lucy Karwatowska; Francesca Solmi; Jessie R. Baldwin; Sara R. Jaffee; Essi Viding; Jean-Baptiste Pingault; Bianca Lucia De Stavola]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000495</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for A Meta-Analytic Review of the Associations Between Patterning and Academic Achievement</title>
+<link>https://doi.org/10.1037/bul0000534.supp</link>
+<guid isPermaLink="false">10.1037/bul0000534.supp</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000534.supp</dc:identifier>
 <description></description>
 </item>
 <item>

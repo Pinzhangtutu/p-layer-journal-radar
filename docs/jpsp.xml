@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 13:37:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:10:52 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -55,33 +55,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Alejandro Díaz-Guerra; Mirko Antino; Rafael Caballero; Alfredo Rodríguez-Muñoz; Alejandro Vásquez-Echeverría]]></dc:creator>
 <dc:identifier>doi:10.1037/pspp0000598</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Do people across the world want to remember positive ingroup histories?</title>
-<link>https://doi.org/10.1037/pspi0000513</link>
-<guid isPermaLink="false">10.1037/pspi0000513</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Fiona Kazarovytska; Katrín Árnadóttir; Silvana D'Ottone; Slieman Halabi; Edward Clarke; Suryodaya Sharma; Verena Heidrich; Roland Imhoff]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000513</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The dispositional basis of selective prosociality.</title>
-<link>https://doi.org/10.1037/pspp0000583</link>
-<guid isPermaLink="false">10.1037/pspp0000583</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Büsra Elif Yelbuz; Isabel Thielmann]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000583</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Belief in a diversity–meritocracy trade-off.</title>
-<link>https://doi.org/10.1037/pspa0000482</link>
-<guid isPermaLink="false">10.1037/pspa0000482</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Evan P. Apfelbaum; Eileen Y. Suh; Yue Wu]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000482</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -226,20 +199,20 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
+<link>https://doi.org/10.1037/pspp0000612.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>“Yeah, it’s biased, but … ”: Recognition versus moral condemnation of bias across party lines.</title>
 <link>https://doi.org/10.1037/pspa0000492</link>
 <guid isPermaLink="false">10.1037/pspa0000492</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hannah B. Waldfogel; Brittany C. Solomon; Matthew E. K. Hall]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000492</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
-<link>https://doi.org/10.1037/pspp0000612.supp</link>
-<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -503,6 +476,32 @@
 <guid isPermaLink="false">10.1037/pspi0000533.supp</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000533.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Contextual predictors of state loneliness: The role of social company, activity, location, and duration of contextual exposure.</title>
+<link>https://doi.org/10.1037/pspp0000619</link>
+<guid isPermaLink="false">10.1037/pspp0000619</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ina Busch; Debora Brickau; Maike Luhmann]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000619</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for The Temporal Dynamics of Narcissism and Aggression: Timescales, Moderators, and Generalizations in Diverse Samples</title>
+<link>https://doi.org/10.1037/pspp0000616.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000616.supp</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000616.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Change perception at zero tolerance: How protected values bias sensitivity to social improvement.</title>
+<link>https://doi.org/10.1037/pspa0000497</link>
+<guid isPermaLink="false">10.1037/pspa0000497</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tobias Vogel; André Mata]]></dc:creator>
+<dc:identifier>doi:10.1037/pspa0000497</dc:identifier>
 <description></description>
 </item>
 <item>

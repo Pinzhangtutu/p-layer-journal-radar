@@ -9,27 +9,9 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 13:37:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:10:52 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>Optimal Tests Following Sequential Experiments</title>
-<link>https://doi.org/10.1086/742418</link>
-<guid isPermaLink="false">10.1086/742418</guid>
-<pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Karun Adusumilli]]></dc:creator>
-<dc:identifier>doi:10.1086/742418</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Mis(sed) Diagnosis: Physician Decision-Making and ADHD</title>
-<link>https://doi.org/10.1086/742421</link>
-<guid isPermaLink="false">10.1086/742421</guid>
-<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kelli Marquardt]]></dc:creator>
-<dc:identifier>doi:10.1086/742421</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo Paga</title>
 <link>https://doi.org/10.1086/740226</link>
@@ -154,21 +136,108 @@
 <description></description>
 </item>
 <item>
-<title>Quota Mechanisms: Finite-Sample Optimality and Robustness</title>
-<link>https://doi.org/10.1086/742716</link>
-<guid isPermaLink="false">10.1086/742716</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ian Ball; Deniz Kattwinkel]]></dc:creator>
-<dc:identifier>doi:10.1086/742716</dc:identifier>
+<title>JPE Turnaround Times</title>
+<link>https://doi.org/10.1086/743929</link>
+<guid isPermaLink="false">10.1086/743929</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/743929</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mis(sed) Diagnosis: Physician Decision-Making and ADHD</title>
+<link>https://doi.org/10.1086/742421</link>
+<guid isPermaLink="false">10.1086/742421</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kelli Marquardt]]></dc:creator>
+<dc:identifier>doi:10.1086/742421</dc:identifier>
 <description></description>
 </item>
 <item>
 <title>From Doubt to Devotion: Trials and Learning-Based Pricing</title>
 <link>https://doi.org/10.1086/742434</link>
 <guid isPermaLink="false">10.1086/742434</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tan Gan; Nicholas Wu]]></dc:creator>
 <dc:identifier>doi:10.1086/742434</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Debiasing and &lt;i&gt;t&lt;/i&gt; -Tests for Synthetic Control Inference on Average Causal Effects</title>
+<link>https://doi.org/10.1086/742424</link>
+<guid isPermaLink="false">10.1086/742424</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Victor Chernozhukov; Kaspar Wüthrich; Yinchu Zhu]]></dc:creator>
+<dc:identifier>doi:10.1086/742424</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Markups: A Search-Theoretic Perspective</title>
+<link>https://doi.org/10.1086/742420</link>
+<guid isPermaLink="false">10.1086/742420</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Guido Menzio]]></dc:creator>
+<dc:identifier>doi:10.1086/742420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Optimal Tests Following Sequential Experiments</title>
+<link>https://doi.org/10.1086/742418</link>
+<guid isPermaLink="false">10.1086/742418</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Karun Adusumilli]]></dc:creator>
+<dc:identifier>doi:10.1086/742418</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Effect of Education Policy on Crime: An Intergenerational Perspective</title>
+<link>https://doi.org/10.1086/742423</link>
+<guid isPermaLink="false">10.1086/742423</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ulrika Ahrsjö; Costas Meghir; Mårten Palme; Marieke Schnabel]]></dc:creator>
+<dc:identifier>doi:10.1086/742423</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/744158</link>
+<guid isPermaLink="false">10.1086/744158</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744158</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recent Referees</title>
+<link>https://doi.org/10.1086/744159</link>
+<guid isPermaLink="false">10.1086/744159</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744159</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Illiquid Lemon Markets and the Macroeconomy</title>
+<link>https://doi.org/10.1086/742435</link>
+<guid isPermaLink="false">10.1086/742435</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aimé Bierdel; Andres Drenik; Juan Herreño; Pablo Ottonello]]></dc:creator>
+<dc:identifier>doi:10.1086/742435</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rent Guarantee Insurance</title>
+<link>https://doi.org/10.1086/742422</link>
+<guid isPermaLink="false">10.1086/742422</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Boaz Abramson; Stijn Van Nieuwerburgh]]></dc:creator>
+<dc:identifier>doi:10.1086/742422</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Quota Mechanisms: Finite-Sample Optimality and Robustness</title>
+<link>https://doi.org/10.1086/742716</link>
+<guid isPermaLink="false">10.1086/742716</guid>
+<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ian Ball; Deniz Kattwinkel]]></dc:creator>
+<dc:identifier>doi:10.1086/742716</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -349,39 +418,12 @@
 <description></description>
 </item>
 <item>
-<title>Illiquid Lemon Markets and the Macroeconomy</title>
-<link>https://doi.org/10.1086/742435</link>
-<guid isPermaLink="false">10.1086/742435</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Aimé Bierdel; Andres Drenik; Juan Herreño; Pablo Ottonello]]></dc:creator>
-<dc:identifier>doi:10.1086/742435</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Online Business Models, Digital Ads, and User Welfare</title>
 <link>https://doi.org/10.1086/742715</link>
 <guid isPermaLink="false">10.1086/742715</guid>
 <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Daron Acemoglu; Daniel Huttenlocher; Asuman Ozdaglar; James Siderius]]></dc:creator>
 <dc:identifier>doi:10.1086/742715</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Effect of Education Policy on Crime: An Intergenerational Perspective</title>
-<link>https://doi.org/10.1086/742423</link>
-<guid isPermaLink="false">10.1086/742423</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ulrika Ahrsjö; Costas Meghir; Mårten Palme; Marieke Schnabel]]></dc:creator>
-<dc:identifier>doi:10.1086/742423</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Rent Guarantee Insurance</title>
-<link>https://doi.org/10.1086/742422</link>
-<guid isPermaLink="false">10.1086/742422</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Boaz Abramson; Stijn Van Nieuwerburgh]]></dc:creator>
-<dc:identifier>doi:10.1086/742422</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,48 +478,12 @@
 <description></description>
 </item>
 <item>
-<title>Health Shocks, Health Insurance, Human Capital, and the Dynamics of Earnings and Health</title>
-<link>https://doi.org/10.1086/739831</link>
-<guid isPermaLink="false">10.1086/739831</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Elena Capatina; Michael Keane]]></dc:creator>
-<dc:identifier>doi:10.1086/739831</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Revolutionary Transition: Inheritance Change and Fertility Decline</title>
-<link>https://doi.org/10.1086/739821</link>
-<guid isPermaLink="false">10.1086/739821</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Victor Gay; Paula E. Gobbi; Marc Goñi]]></dc:creator>
-<dc:identifier>doi:10.1086/739821</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>On the Nature of Entrepreneurship</title>
-<link>https://doi.org/10.1086/739823</link>
-<guid isPermaLink="false">10.1086/739823</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Anmol Bhandari; Tobey Kass; Thomas J. May; Ellen R. McGrattan; Evan Schulz]]></dc:creator>
-<dc:identifier>doi:10.1086/739823</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions</title>
 <link>https://doi.org/10.1086/743331</link>
 <guid isPermaLink="false">10.1086/743331</guid>
 <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Rodrigo Adao; Costas Arkolakis; Sharat Ganapati]]></dc:creator>
 <dc:identifier>doi:10.1086/743331</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Markups: A Search-Theoretic Perspective</title>
-<link>https://doi.org/10.1086/742420</link>
-<guid isPermaLink="false">10.1086/742420</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Guido Menzio]]></dc:creator>
-<dc:identifier>doi:10.1086/742420</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -550,15 +556,6 @@
 <pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Greg Buchak; Gregor Matvos; Tomasz Piskorski; Amit Seru]]></dc:creator>
 <dc:identifier>doi:10.1086/742710</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Debiasing and &lt;i&gt;t&lt;/i&gt; -Tests for Synthetic Control Inference on Average Causal Effects</title>
-<link>https://doi.org/10.1086/742424</link>
-<guid isPermaLink="false">10.1086/742424</guid>
-<pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Victor Chernozhukov; Kaspar Wüthrich; Yinchu Zhu]]></dc:creator>
-<dc:identifier>doi:10.1086/742424</dc:identifier>
 <description></description>
 </item>
 <item>

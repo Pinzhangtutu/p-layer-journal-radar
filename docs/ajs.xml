@@ -9,7 +9,7 @@
 <description>AJS — University of Chicago Press · Latest in: Online First · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ajs.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 13:37:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 23:10:52 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -236,15 +236,6 @@
 <description></description>
 </item>
 <item>
-<title>: &lt;i&gt;Uncertainty: Individual Problems and Public Solutions&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/739284</link>
-<guid isPermaLink="false">10.1086/739284</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Georg Rilinger]]></dc:creator>
-<dc:identifier>doi:10.1086/739284</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>: &lt;i&gt;Urban Power: Democracy and Inequality in São Paulo and Johannesburg&lt;/i&gt;</title>
 <link>https://doi.org/10.1086/740389</link>
 <guid isPermaLink="false">10.1086/740389</guid>
@@ -402,6 +393,15 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Andrew Schrank]]></dc:creator>
 <dc:identifier>doi:10.1086/740387</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Farewell to Public Religion? Retheorizing and Assessing the Public Relevance of Religion</title>
+<link>https://doi.org/10.1086/744185</link>
+<guid isPermaLink="false">10.1086/744185</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Damon Mayrl; Gary J. Adler, Jr.; Jonathan S. Coley; Rebecca Sager; Elise Wolff; John P. Miller]]></dc:creator>
+<dc:identifier>doi:10.1086/744185</dc:identifier>
 <description></description>
 </item>
 <item>
