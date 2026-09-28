@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 05:02:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 13:37:00 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -82,15 +82,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Elisa Pöppel; Alexander Schiller; Lucas Weinfurtner]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114713</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Do matched and mismatched null hypothesis significance testing of mediators matter? An example of fintech continuance and guidelines for the future</title>
-<link>https://doi.org/10.1016/j.dss.2026.114764</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114764</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wen-Lung Shiau; Chia-Hsing Shih; Israr Qureshi; Ye Yuan; Ching-I Teng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114764</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -208,6 +199,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sonika Singhal; Yeongin Kim; Seonjun Kang; Victoria Yoon]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114773</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do matched and mismatched null hypothesis significance testing of mediators matter? An example of fintech continuance and guidelines for the future</title>
+<link>https://doi.org/10.1016/j.dss.2026.114764</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114764</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wen-Lung Shiau; Chia-Hsing Shih; Israr Qureshi; Ye Yuan; Ching-I Teng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114764</dc:identifier>
 <description></description>
 </item>
 <item>

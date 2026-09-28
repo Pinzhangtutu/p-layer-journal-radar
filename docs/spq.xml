@@ -9,7 +9,7 @@
 <description>SPQ — SAGE · Latest in: OnlineFirst · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/spq.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 28 Sep 2026 05:02:18 +0000</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 13:37:00 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -140,16 +140,6 @@
 <dc:identifier>doi:10.1177/01902725231205860</dc:identifier>
 <description><![CDATA[Time work has served as part of the conceptual framework for research that explores the connection between agency and temporal experience. We advance this line of inquiry by asking how temporal agency is refracted through the lens of gender when people use the Tinder dating app. Our analysis is based on 44 semistructured interviews with Tinder users in Romania conducted between 2019 and 2022. Tinder is designed to promote a fast-paced dating dynamic, but our findings show that people customize various dimensions of their temporal experience, including duration, frequency, sequence, timing, allocation, and stealing time. Users strive to develop temporal tactics that suit their dating aims while typically adhering to gendered expectations.]]></description>
 <content:encoded><![CDATA[Time work has served as part of the conceptual framework for research that explores the connection between agency and temporal experience. We advance this line of inquiry by asking how temporal agency is refracted through the lens of gender when people use the Tinder dating app. Our analysis is based on 44 semistructured interviews with Tinder users in Romania conducted between 2019 and 2022. Tinder is designed to promote a fast-paced dating dynamic, but our findings show that people customize various dimensions of their temporal experience, including duration, frequency, sequence, timing, allocation, and stealing time. Users strive to develop temporal tactics that suit their dating aims while typically adhering to gendered expectations.]]></content:encoded>
-</item>
-<item>
-<title>Charlemagne’s Legacy: A Consensus Analysis of Affective Meanings in French and German Culture</title>
-<link>https://doi.org/10.1177/01902725231205855</link>
-<guid isPermaLink="false">10.1177/01902725231205855</guid>
-<pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Diego Dametto; Luc Vieira; Tobias Schröder; Christophe Blaison]]></dc:creator>
-<dc:identifier>doi:10.1177/01902725231205855</dc:identifier>
-<description><![CDATA[We investigate between- and within-country consensus about affective meanings of social identities along the evaluation, potency, and activity dimensions from the affect control theory research tradition. Ratings for 387 (194 male and 193 female) identities were collected from two samples representative of the French (N = 700) and German (N = 700) populations for age, gender, and region. Guided by two preregistered hypotheses based on previous cross-cultural research, our analysis points to considerable cultural consensus between French and Germans who seem to share a common “Carolingian” affective culture; yet some culture-specific patterns concerning the evaluation dimension and evaluation-potency interactions were found to be statistically significant. We interpret these results in terms of known cross-cultural features such as power distance and conceptions of power.]]></description>
-<content:encoded><![CDATA[We investigate between- and within-country consensus about affective meanings of social identities along the evaluation, potency, and activity dimensions from the affect control theory research tradition. Ratings for 387 (194 male and 193 female) identities were collected from two samples representative of the French (N = 700) and German (N = 700) populations for age, gender, and region. Guided by two preregistered hypotheses based on previous cross-cultural research, our analysis points to considerable cultural consensus between French and Germans who seem to share a common “Carolingian” affective culture; yet some culture-specific patterns concerning the evaluation dimension and evaluation-potency interactions were found to be statistically significant. We interpret these results in terms of known cross-cultural features such as power distance and conceptions of power.]]></content:encoded>
 </item>
 <item>
 <title>Working Together: Status Effects of Racial and Gender Identity on Teammate Selection</title>
@@ -515,6 +505,16 @@
 <dc:creator><![CDATA[Jody Clay-Warner]]></dc:creator>
 <dc:identifier>doi:10.1177/01902725241254583</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Who Is Owed? Privilege-Based Guilt and the Allocation of Moral Responsibilities</title>
+<link>https://doi.org/10.1177/01902725261484149</link>
+<guid isPermaLink="false">10.1177/01902725261484149</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ian Rowe-Nicholls]]></dc:creator>
+<dc:identifier>doi:10.1177/01902725261484149</dc:identifier>
+<description><![CDATA[This study explores the role of privilege-based guilt, a moral emotion elicited by the perception of possessing unearned advantages, as a condition that shapes how individuals determine who deserves moral consideration. Using a nationally representative survey of charitable cause preferences, I test its effects across multiple domains of social difference. Across three domains—race, income, and nativity—individuals from structurally advantaged groups who report privilege-based guilt are more likely to prioritize charitable causes that benefit disadvantaged outgroups, while structurally marginalized individuals who report guilt are less likely to prioritize causes that benefit recipients within their own identity group. While individuals typically default to supporting socially proximate ingroups, guilt neutralizes this effect to statistical nonsignificance. The findings suggest privilege-based guilt operates as a stratified moral motivator: It redirects helping behavior in directions that vary by the actor's structural position, functioning as a corrective force against the specific inequalities that privilege them.]]></description>
+<content:encoded><![CDATA[This study explores the role of privilege-based guilt, a moral emotion elicited by the perception of possessing unearned advantages, as a condition that shapes how individuals determine who deserves moral consideration. Using a nationally representative survey of charitable cause preferences, I test its effects across multiple domains of social difference. Across three domains—race, income, and nativity—individuals from structurally advantaged groups who report privilege-based guilt are more likely to prioritize charitable causes that benefit disadvantaged outgroups, while structurally marginalized individuals who report guilt are less likely to prioritize causes that benefit recipients within their own identity group. While individuals typically default to supporting socially proximate ingroups, guilt neutralizes this effect to statistical nonsignificance. The findings suggest privilege-based guilt operates as a stratified moral motivator: It redirects helping behavior in directions that vary by the actor's structural position, functioning as a corrective force against the specific inequalities that privilege them.]]></content:encoded>
 </item>
 <item>
 <title>When Good News Falls Flat: Complications in the Delivery and Reception of Good News in Pediatric Neurology</title>
