@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 29 Sep 2026 12:38:14 +0000</lastBuildDate>
+<lastBuildDate>Tue, 29 Sep 2026 22:09:48 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -438,21 +438,21 @@
 <description></description>
 </item>
 <item>
-<title>The shape of recovery activities: A person-centered study of evening recovery activity profiles, their work antecedents, and outcomes.</title>
-<link>https://doi.org/10.1037/apl0001424</link>
-<guid isPermaLink="false">10.1037/apl0001424</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Khalid M. Alameer; Ute R. Hülsheger; Mo Wang; Sabine Sonnentag; Jan Schepers; Sjir Uitdewilligen]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001424</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A meta-analytic examination of the criterion-related validity and cognitive loading associated with traditional and new situational judgment test paradigms.</title>
 <link>https://doi.org/10.1037/apl0001420</link>
 <guid isPermaLink="false">10.1037/apl0001420</guid>
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Filip Lievens; You Zhou; Jomel Wei Xuan Ng; Liyan Xi; Yixin Tian; Paul R. Sackett; Michelle Martin-Raugh]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The shape of recovery activities: A person-centered study of evening recovery activity profiles, their work antecedents, and outcomes.</title>
+<link>https://doi.org/10.1037/apl0001424</link>
+<guid isPermaLink="false">10.1037/apl0001424</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Khalid M. Alameer; Ute R. Hülsheger; Mo Wang; Sabine Sonnentag; Jan Schepers; Sjir Uitdewilligen]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001424</dc:identifier>
 <description></description>
 </item>
 <item>
