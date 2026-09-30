@@ -9,9 +9,18 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 30 Sep 2026 12:22:52 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 22:09:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Online Business Models, Digital Ads, and User Welfare</title>
+<link>https://doi.org/10.1086/742715</link>
+<guid isPermaLink="false">10.1086/742715</guid>
+<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daron Acemoglu; Daniel Huttenlocher; Asuman Ozdaglar; James Siderius]]></dc:creator>
+<dc:identifier>doi:10.1086/742715</dc:identifier>
+<description></description>
+</item>
 <item>
 <title>Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo Paga</title>
 <link>https://doi.org/10.1086/740226</link>
@@ -415,15 +424,6 @@
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[John Conlon; Malavika Mani; Gautam Rao; Matthew Ridley; Frank Schilbach]]></dc:creator>
 <dc:identifier>doi:10.1086/743914</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Online Business Models, Digital Ads, and User Welfare</title>
-<link>https://doi.org/10.1086/742715</link>
-<guid isPermaLink="false">10.1086/742715</guid>
-<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Daron Acemoglu; Daniel Huttenlocher; Asuman Ozdaglar; James Siderius]]></dc:creator>
-<dc:identifier>doi:10.1086/742715</dc:identifier>
 <description></description>
 </item>
 <item>
