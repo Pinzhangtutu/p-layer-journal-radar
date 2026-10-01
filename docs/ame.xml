@@ -9,7 +9,7 @@
 <description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ame.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 12:58:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,15 +121,6 @@
 <description></description>
 </item>
 <item>
-<title>“Fake It ’Til You Make It”: The Power and Peril of Implied Social Validation in the Entrepreneurial Journey</title>
-<link>https://doi.org/10.5465/amp.2023.0513</link>
-<guid isPermaLink="false">10.5465/amp.2023.0513</guid>
-<pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jeffery S. McMullen]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2023.0513</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Platform Regulation: Beyond Power and Size</title>
 <link>https://doi.org/10.5465/amp.2025.0261</link>
 <guid isPermaLink="false">10.5465/amp.2025.0261</guid>
@@ -208,6 +199,15 @@
 <pubDate>Thu, 02 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Margarethe F. Wiersema; Cynthia E. Clark; Haeyoung Koo]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2024.0170</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Strategic Actions to Reduce Corporate Greenhouse Gas Emissions: Pairing Internal Climate Oversight with Science-Based Targets</title>
+<link>https://doi.org/10.5465/amp.2025.0113</link>
+<guid isPermaLink="false">10.5465/amp.2025.0113</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael R. King; Paul W. Beamish]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0113</dc:identifier>
 <description></description>
 </item>
 <item>

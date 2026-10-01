@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 12:58:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -46,15 +46,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kristin Laurin; Holly R. Engstrom; Toni Schmader; Khai Qing Chua; Nadav Klein; Stéphane Côté]]></dc:creator>
 <dc:identifier>doi:10.1037/pspi0000497</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Exploring the socioeconomic pattern of humans’ future orientation: A multimethod multistudy approach.</title>
-<link>https://doi.org/10.1037/pspp0000598</link>
-<guid isPermaLink="false">10.1037/pspp0000598</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alejandro Díaz-Guerra; Mirko Antino; Rafael Caballero; Alfredo Rodríguez-Muñoz; Alejandro Vásquez-Echeverría]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000598</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -199,20 +190,20 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
-<link>https://doi.org/10.1037/pspp0000612.supp</link>
-<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>“Yeah, it’s biased, but … ”: Recognition versus moral condemnation of bias across party lines.</title>
 <link>https://doi.org/10.1037/pspa0000492</link>
 <guid isPermaLink="false">10.1037/pspa0000492</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hannah B. Waldfogel; Brittany C. Solomon; Matthew E. K. Hall]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000492</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
+<link>https://doi.org/10.1037/pspp0000612.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -344,6 +335,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sirui Lu; Emir Efendić; Gilad Feldman]]></dc:creator>
 <dc:identifier>doi:10.1037/pspp0000586</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The temporal dynamics of narcissism and aggression: Timescales, moderators, and generalizations in diverse samples.</title>
+<link>https://doi.org/10.1037/pspp0000616</link>
+<guid isPermaLink="false">10.1037/pspp0000616</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuping Liu; Tengwei Sun; Bingtao Zhou; Sander Thomaes; Bo Yang; Jaap J. A. Denissen]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000616</dc:identifier>
 <description></description>
 </item>
 <item>

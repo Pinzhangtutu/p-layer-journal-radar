@@ -9,7 +9,7 @@
 <description>AER — AEA · Latest in: Forthcoming · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aer.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 12:58:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -158,106 +158,6 @@
 <content:encoded><![CDATA[We show that, depending on how the impact of omitted variables is measured, it can be substantially easier for omitted variables to flip coefficient signs than to drive them to zero. This behavior occurs with “Oster's delta” (Oster 2019a), a widely reported robustness measure. Consequently, any time this measure is large—suggesting omitted variables may be unimportant—a much smaller value reverses the sign of the parameter of interest. We propose a modified measure of robustness to address this concern. We illustrate our results in four empirical applications and two meta-analyses. We implement our methods in the companion Stata module “regsensitivity.” (JEL C18, C21, C52)]]></content:encoded>
 </item>
 <item>
-<title>Spillovers in State Capacity Building: Evidence from the Digitization of Land Records in Pakistan</title>
-<link>https://doi.org/10.1257/aer.20240880</link>
-<guid isPermaLink="false">10.1257/aer.20240880</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shan Aman-Rana; Clement Minaudier]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20240880</dc:identifier>
-<description><![CDATA[Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)]]></description>
-<content:encoded><![CDATA[Digitization reforms have been hailed as an effective way of strengthening state capacity. However, digitization can also fundamentally reshape the organization of bureaucracies. Using a unique administrative dataset on agricultural taxation and surveys of local bureaucrats from Punjab, Pakistan, we show that digitization reforms can have unintended consequences for state capacity. We exploit the staggered rollout of the digitization of land records in Punjab to show that digitization had a negative effect on tax collection. The fall in taxes was not due to a decrease in the tax base. Instead, digitization affected the bureaucrats’ capacity to collect taxes. (JEL D73, H11, H71, O12, O17)]]></content:encoded>
-</item>
-<item>
-<title>Abundance from Abroad: Migrant Income and Long-Run Economic Development</title>
-<link>https://doi.org/10.1257/aer.20241465</link>
-<guid isPermaLink="false">10.1257/aer.20241465</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gaurav Khanna; Emir Murathanoglu; Caroline Theoharides; Dean Yang]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20241465</dc:identifier>
-<description><![CDATA[We study how international migrant income prospects affect long-run development in origin areas. We leverage the 1997 Asian Financial Crisis exchange rate shocks in a shift-share identification strategy across Philippine provinces. Initial migrant income shocks are magnified six-fold over time, increasing domestic income, education levels, migrant skills, and high-skilled migration. Remarkably, 74.9 percent of long-run income gains come from domestic rather than migrant income. Trade driven impacts of exchange rate shocks are orthogonal to effects via migrant income. A structural model reveals that 19.7 percent of long-run income gains stem from educational investments. International migration fosters broad economic development in origin communities. (JEL F22, F31, G01, J24, J82, O15, O16)]]></description>
-<content:encoded><![CDATA[We study how international migrant income prospects affect long-run development in origin areas. We leverage the 1997 Asian Financial Crisis exchange rate shocks in a shift-share identification strategy across Philippine provinces. Initial migrant income shocks are magnified six-fold over time, increasing domestic income, education levels, migrant skills, and high-skilled migration. Remarkably, 74.9 percent of long-run income gains come from domestic rather than migrant income. Trade driven impacts of exchange rate shocks are orthogonal to effects via migrant income. A structural model reveals that 19.7 percent of long-run income gains stem from educational investments. International migration fosters broad economic development in origin communities. (JEL F22, F31, G01, J24, J82, O15, O16)]]></content:encoded>
-</item>
-<item>
-<title>A Long and a Short Leg Make for a Wobbly Equilibrium</title>
-<link>https://doi.org/10.1257/aer.20211548</link>
-<guid isPermaLink="false">10.1257/aer.20211548</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nicolae Gârleanu; Stavros Panageas; Geoffery Zheng]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20211548</dc:identifier>
-<description><![CDATA[We provide a model to explain how the interaction between the spot and lending markets for stocks can lead to abrupt changes in short selling activity. Furthermore, rational short sellers may choose to abandon the market even as mispricing widens. We document empirically that the dynamics of short selling are fat tailed and subject to abrupt changes, especially for the stocks that the model identifies as susceptible to such dynamics. (JEL G11, G12, G14, G41)]]></description>
-<content:encoded><![CDATA[We provide a model to explain how the interaction between the spot and lending markets for stocks can lead to abrupt changes in short selling activity. Furthermore, rational short sellers may choose to abandon the market even as mispricing widens. We document empirically that the dynamics of short selling are fat tailed and subject to abrupt changes, especially for the stocks that the model identifies as susceptible to such dynamics. (JEL G11, G12, G14, G41)]]></content:encoded>
-</item>
-<item>
-<title>Real Credit Cycles</title>
-<link>https://doi.org/10.1257/aer.20211820</link>
-<guid isPermaLink="false">10.1257/aer.20211820</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pedro Bordalo; Nicola Gennaioli; Andrei Shleifer; Stephen J. Terry]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20211820</dc:identifier>
-<description><![CDATA[We embed diagnostic expectations in a workhorse neoclassical model with heterogeneous firms and risky debt. A realistic degree of overreaction estimated from US firms’ earnings forecasts generates realistic credit cycles. Good times produce economic and financial fragility, predicting future disappointment of expectations, low bond returns, and investment declines. To generate the size of spread increases observed during 2007–2009, the model requires only moderate negative shocks. Diagnostic expectations offer a realistic, parsimonious way to produce financial reversals in business cycle models. (JEL D84, E13, E22, E32, E44, G12, G32)]]></description>
-<content:encoded><![CDATA[We embed diagnostic expectations in a workhorse neoclassical model with heterogeneous firms and risky debt. A realistic degree of overreaction estimated from US firms’ earnings forecasts generates realistic credit cycles. Good times produce economic and financial fragility, predicting future disappointment of expectations, low bond returns, and investment declines. To generate the size of spread increases observed during 2007–2009, the model requires only moderate negative shocks. Diagnostic expectations offer a realistic, parsimonious way to produce financial reversals in business cycle models. (JEL D84, E13, E22, E32, E44, G12, G32)]]></content:encoded>
-</item>
-<item>
-<title>Robust Misspecified Models</title>
-<link>https://doi.org/10.1257/aer.20240246</link>
-<guid isPermaLink="false">10.1257/aer.20240246</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Cuimin Ba]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20240246</dc:identifier>
-<description><![CDATA[This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: The model’s asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model—including the true model—despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models. (JEL C11, C52, D11, L82)]]></description>
-<content:encoded><![CDATA[This paper studies which misspecified models are likely to persist when decision-makers compare them with competing models. The main result characterizes such models based on two features that can be derived from primitives: The model’s asymptotic accuracy in predicting the equilibrium distribution of observed outcomes and the “tightness” of the prior around such equilibria. Misspecified models can be robust, persisting against any arbitrary competing model—including the true model—despite decision-makers observing an infinite amount of data. Moreover, simple misspecified models equipped with entrenched priors can be more robust than complex correctly specified models. (JEL C11, C52, D11, L82)]]></content:encoded>
-</item>
-<item>
-<title>Making Bricks from Straw: Resources and Productivity in Health Care</title>
-<link>https://doi.org/10.1257/aer.20241459</link>
-<guid isPermaLink="false">10.1257/aer.20241459</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Edward N. Okeke]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20241459</dc:identifier>
-<description><![CDATA[Why do health facilities in developing countries do so poorly? This paper examines the role of financial constraints. I describe an experiment in which we surprised health workers in randomly selected public health clinics in Nigeria with a ₦600,000 grant paid out in installments over one year. Its administration was left entirely to health workers. The award led to large productivity gains. Using expenditure data combined with novel textual data, I provide an explanation for these effects. I show the award increased investments in physical and human capital, led to lower prices for patients, and inspired health workers to do better. (JEL D24, G31, H75, I11, J24, J31, O15)]]></description>
-<content:encoded><![CDATA[Why do health facilities in developing countries do so poorly? This paper examines the role of financial constraints. I describe an experiment in which we surprised health workers in randomly selected public health clinics in Nigeria with a ₦600,000 grant paid out in installments over one year. Its administration was left entirely to health workers. The award led to large productivity gains. Using expenditure data combined with novel textual data, I provide an explanation for these effects. I show the award increased investments in physical and human capital, led to lower prices for patients, and inspired health workers to do better. (JEL D24, G31, H75, I11, J24, J31, O15)]]></content:encoded>
-</item>
-<item>
-<title>Games on Multiplex Networks</title>
-<link>https://doi.org/10.1257/aer.20240763</link>
-<guid isPermaLink="false">10.1257/aer.20240763</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yves Zenou; Junjie Zhou]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20240763</dc:identifier>
-<description><![CDATA[We develop a simple multilayer network model in which agents allocate effort across layers with heterogeneous structures, subject to an aggregate effort constraint. Incentives are shaped by agents’ network positions within each layer, and equilibrium behavior reflects both within- and cross-layer interactions. We analyze how shocks propagate through the network and characterize optimal targeting interventions. Our results show that effective policy design must account for effort allocation across layers. We also demonstrate that predictions from monolayer models can diverge sharply from those of multilayer models, underscoring the importance of accounting for network complexity in both empirical and policy analyses. (JEL C70, D78, D82, D85, H41, Z13)]]></description>
-<content:encoded><![CDATA[We develop a simple multilayer network model in which agents allocate effort across layers with heterogeneous structures, subject to an aggregate effort constraint. Incentives are shaped by agents’ network positions within each layer, and equilibrium behavior reflects both within- and cross-layer interactions. We analyze how shocks propagate through the network and characterize optimal targeting interventions. Our results show that effective policy design must account for effort allocation across layers. We also demonstrate that predictions from monolayer models can diverge sharply from those of multilayer models, underscoring the importance of accounting for network complexity in both empirical and policy analyses. (JEL C70, D78, D82, D85, H41, Z13)]]></content:encoded>
-</item>
-<item>
-<title>Similarity of Information and Collective Action</title>
-<link>https://doi.org/10.1257/aer.20241056</link>
-<guid isPermaLink="false">10.1257/aer.20241056</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Deepal Basak; Joyee Deb; Aditya Kuvalekar]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20241056</dc:identifier>
-<description><![CDATA[We study a canonical collective action game with incomplete information. Individuals attempt to coordinate to achieve a shared goal, while also facing a temptation to free-ride. More similar information can help them coordinate, but it can also exacerbate free-riding. Our main result shows that more similar information facilitates (impedes) achieving the common goal when it is sufficiently challenging (easy). We apply this insight to show why less powerful authoritarian governments may face larger protests if they restrict press freedom, when committee diversity is beneficial in costly voting, and when a more diverse community contributes more to public good provision. (JEL C71, D71, D72, D81, D82, D83, H41)]]></description>
-<content:encoded><![CDATA[We study a canonical collective action game with incomplete information. Individuals attempt to coordinate to achieve a shared goal, while also facing a temptation to free-ride. More similar information can help them coordinate, but it can also exacerbate free-riding. Our main result shows that more similar information facilitates (impedes) achieving the common goal when it is sufficiently challenging (easy). We apply this insight to show why less powerful authoritarian governments may face larger protests if they restrict press freedom, when committee diversity is beneficial in costly voting, and when a more diverse community contributes more to public good provision. (JEL C71, D71, D72, D81, D82, D83, H41)]]></content:encoded>
-</item>
-<item>
-<title>Negative Control Falsification Tests for Instrumental Variable Designs</title>
-<link>https://doi.org/10.1257/aer.20240636</link>
-<guid isPermaLink="false">10.1257/aer.20240636</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Oren Danieli; Daniel Nevo; Itai Walk; Bar Weinstein; Dan Zeltzer]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20240636</dc:identifier>
-<description><![CDATA[The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)]]></description>
-<content:encoded><![CDATA[The validity of instrumental variable (IV) designs is typically tested using two types of falsification tests. We characterize these tests as conditional independence tests between negative control variables—proxies for unobserved variables posing a threat to the identification—and the IV or the outcome. We describe the conditions variables must satisfy in order to serve as negative controls. We show these falsification tests examine not only independence and the exclusion restriction but also functional form assumptions. Our analysis reveals conventional applications of these tests may flag problems even in valid IV designs. We offer implementation guidance to address these issues. (JEL C12, C18, C26, C52)]]></content:encoded>
-</item>
-<item>
-<title>Market Power and Capital Constraints</title>
-<link>https://doi.org/10.1257/aer.20231202</link>
-<guid isPermaLink="false">10.1257/aer.20231202</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Milena Wittwer; Jason Allen]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20231202</dc:identifier>
-<description><![CDATA[We explore how traders’ equity capitalization influences asset prices in a framework that accounts for market power. In our model, traders with capital constraints engage in transactions in an imperfectly competitive market. We demonstrate that looser capital constraints elevate both asset prices and price impact, the latter diminishing market liquidity. Using Canadian Treasury auction data, we illustrate how to apply our model to quantify these effects. We estimate the shadow costs of capital constraints by leveraging a temporary policy exemption during 2020–2021. We show that while these constraints are only infrequently binding, their relative impact when activated can be sizable. (JEL E63, G12, G14, G23, G41, L13)]]></description>
-<content:encoded><![CDATA[We explore how traders’ equity capitalization influences asset prices in a framework that accounts for market power. In our model, traders with capital constraints engage in transactions in an imperfectly competitive market. We demonstrate that looser capital constraints elevate both asset prices and price impact, the latter diminishing market liquidity. Using Canadian Treasury auction data, we illustrate how to apply our model to quantify these effects. We estimate the shadow costs of capital constraints by leveraging a temporary policy exemption during 2020–2021. We show that while these constraints are only infrequently binding, their relative impact when activated can be sizable. (JEL E63, G12, G14, G23, G41, L13)]]></content:encoded>
-</item>
-<item>
 <title>Manipulation-Robust Prediction</title>
 <link>https://doi.org/10.1257/aer.20241087</link>
 <guid isPermaLink="false">10.1257/aer.20241087</guid>
@@ -364,6 +264,104 @@
 <dc:identifier>doi:10.1257/aer.20241404</dc:identifier>
 <description><![CDATA[We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)]]></description>
 <content:encoded><![CDATA[We study cultural integration as an equilibrium outcome of marital matching along cultural and education lines and intrahousehold investment decisions regarding fertility and cultural socialization. Our model allows us to identify cultural-ethnic-group-specific investment parameters and spousal preferences for marital matching. Structural estimates reveal a strong demand to preserve cultural identity on the part of immigrants and limited acceptance of the immigrants' cultural diversity on the part of natives. Furthermore, these estimates reveal a substantial heterogeneity of the parental value of children's education across cultures. Nonetheless, our estimates simulate substantial—though heterogeneous—cultural integration rates across immigrant groups. (JEL D13, J12, J13, J15, Z13)]]></content:encoded>
+</item>
+<item>
+<title>A Model of the Attention Economy: Data, Platforms, and Discovery</title>
+<link>https://doi.org/10.1257/aer.20240651</link>
+<guid isPermaLink="false">10.1257/aer.20240651</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel Chen]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20240651</dc:identifier>
+<description><![CDATA[This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)]]></description>
+<content:encoded><![CDATA[This paper develops a dynamic model of the attention economy featuring two interlinked markets: a product market, where consumers have limited awareness of firms, and an attention market, where platforms attract attention by investing in free services (e.g., social media, streaming, podcasts) and sell targeted ads using data on consumer preferences. The model provides a tractable framework in which platform investment, ad-driven discovery, product demand, and ad revenue are jointly determined. The effects of data and interoperability policies can reverse over time, platform quality may be inefficiently high or low, and the rise of data-rich digital advertising can coincide with a declining ad revenue-to-GDP ratio. (JEL D43, D44, D58, D83, L86, M37)]]></content:encoded>
+</item>
+<item>
+<title>Taxing Top Wealth: Migration Responses and Their Aggregate Economic Implications</title>
+<link>https://doi.org/10.1257/aer.20241596</link>
+<guid isPermaLink="false">10.1257/aer.20241596</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Katrine Jakobsen; Henrik Kleven; Jonas Kolsrud; Camille Landais; Mathilde Munoz]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20241596</dc:identifier>
+<description><![CDATA[Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A large fraction of the wealthy are business owners, and their businesses are negatively affected by owner out-migration. The aggregate effects are nevertheless modest: The migration responses to a 1 percentage point increase in the top wealth tax rate reduce employment by 0.02 percent, investments by 0.07 percent, and value added by 0.10 percent. (JEL D31, E22, E24, F22, H24, L26, K34)]]></description>
+<content:encoded><![CDATA[Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic implications. We find significant migration responses among the wealthy: A 1 percentage point increase in the top wealth tax rate decreases the stock of wealthy taxpayers by about 2 percent. A large fraction of the wealthy are business owners, and their businesses are negatively affected by owner out-migration. The aggregate effects are nevertheless modest: The migration responses to a 1 percentage point increase in the top wealth tax rate reduce employment by 0.02 percent, investments by 0.07 percent, and value added by 0.10 percent. (JEL D31, E22, E24, F22, H24, L26, K34)]]></content:encoded>
+</item>
+<item>
+<title>Who Marries Whom? The Role of Segregation by Race and Class</title>
+<link>https://doi.org/10.1257/aer.20250115</link>
+<guid isPermaLink="false">10.1257/aer.20250115</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjamin Goldman; Jamie Gracie; Sonya R. Porter]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20250115</dc:identifier>
+<description><![CDATA[Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)]]></description>
+<content:encoded><![CDATA[Americans rarely marry outside their race or class group, a pattern with well-documented implications for inequality and intergenerational mobility. Limited exposure may partly explain these low intergroup marriage rates. We instrument for exposure using variation in childhood neighborhoods based on whether other race and class groups had more opposite-sex children of similar age. Exposure increases interclass (high- and low-parent income) marriage but has no detectable effect on interracial (White and Black) marriage. A spatial marriage model predicts that residential segregation—one of many forms of exposure—accounts for more than one-third of marital sorting by class but less than 5 percent by race. (JEL J12, J15, J62, R23)]]></content:encoded>
+</item>
+<item>
+<title>Racial Promotion Gaps</title>
+<link>https://doi.org/10.1257/aer.20231368</link>
+<guid isPermaLink="false">10.1257/aer.20231368</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Deepak Hegde; Alexander Ljungqvist; Manav Raj]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20231368</dc:identifier>
+<description><![CDATA[We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)]]></description>
+<content:encoded><![CDATA[We study racial disparities in promotions in a setting in which promotions are formulaic: the US patent office. Using detailed administrative data that allow us to observe who is eligible for promotion when, we document that Black patent examiners experience delays in promotions they are entitled to, slowing their climb to the top of the career ladder by a year and reducing career earnings by 2.5 percent. Institutional features rule out statistical discrimination with accurate priors. Slow promotions even under Black supervisors argue against taste-based animus. Instead, the patterns fit models of belief-based discrimination. (JEL J15, J41, J71, M12, M51, O34)]]></content:encoded>
+</item>
+<item>
+<title>Fighting for Growth: Labor Scarcity and Technological Progress during the British Industrial Revolution</title>
+<link>https://doi.org/10.1257/aer.20240393</link>
+<guid isPermaLink="false">10.1257/aer.20240393</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hans-Joachim Voth; Bruno Caprettini; Alex Trew]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20240393</dc:identifier>
+<description><![CDATA[We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)]]></description>
+<content:encoded><![CDATA[We establish a link between labor scarcity and the adoption of laborsaving technology in industrializing England. During the Napoleonic Wars, more than 10 percent of the male population served in the armed forces. Where recruitment was heavy, more machines economizing on labor were adopted. Naval recruitment, instrumented by warships' coastal access, provides exogenous variation in labor scarcity and suggests that the link between labor shortages and adoption is causal. Where mechanical skills were abundant, the impact of labor scarcity on adoption appears to be larger. (JEL J24, N13, N43, N63, N73, O14, O31)]]></content:encoded>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1257/aer.116.10.i</link>
+<guid isPermaLink="false">10.1257/aer.116.10.i</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1257/aer.116.10.i</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Knowledge Spillovers, Competition, and Individual Careers</title>
+<link>https://doi.org/10.1257/aer.20230714</link>
+<guid isPermaLink="false">10.1257/aer.20230714</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Cornelissen; Christian Dustmann; Uta Schönberg]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20230714</dc:identifier>
+<description><![CDATA[Exposure to better peers in the workplace can influence career trajectories through two opposing channels: positively, via knowledge spillovers, and negatively, through competition for advancement. We disentangle these effects by studying untrained labor market entrants and distinguishing between coworkers in the same occupation with whom they are likely to compete versus those with whom they are unlikely to compete. We find robust evidence of persistent knowledge spillovers but also identify countervailing competition effects of comparable magnitude. Both effects are more pronounced for men than for women. (JEL D83, J16, J24, M53, M54, O33)]]></description>
+<content:encoded><![CDATA[Exposure to better peers in the workplace can influence career trajectories through two opposing channels: positively, via knowledge spillovers, and negatively, through competition for advancement. We disentangle these effects by studying untrained labor market entrants and distinguishing between coworkers in the same occupation with whom they are likely to compete versus those with whom they are unlikely to compete. We find robust evidence of persistent knowledge spillovers but also identify countervailing competition effects of comparable magnitude. Both effects are more pronounced for men than for women. (JEL D83, J16, J24, M53, M54, O33)]]></content:encoded>
+</item>
+<item>
+<title>Truth Elicitation in a Nonstrategic Environment</title>
+<link>https://doi.org/10.1257/aer.20251879</link>
+<guid isPermaLink="false">10.1257/aer.20251879</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jacob Glazer; Ariel Rubinstein]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20251879</dc:identifier>
+<description><![CDATA[A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)]]></description>
+<content:encoded><![CDATA[A principal decides which party deserves a prize. Only the parties observe the state that determines who is deserving. The principal gives each party a text describing the conditions under which that party deserves the prize and asks each to report the state. The parties are nonstrategic. Each activates a known cheating procedure whose outcome depends on the state and on the text. Implementation is achieved if, whenever the parties disagree, the liar is identified by the “one-way cheating principle”: The truthful party is the unique party who could not have produced his story had the rival's story been true. (JEL D82, D91)]]></content:encoded>
+</item>
+<item>
+<title>Social Push and the Direction of Innovation</title>
+<link>https://doi.org/10.1257/aer.20231417</link>
+<guid isPermaLink="false">10.1257/aer.20231417</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elias Einiö; Josh Feng; Xavier Jaravel]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20231417</dc:identifier>
+<description><![CDATA[What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)]]></description>
+<content:encoded><![CDATA[What are the implications of unequal access to innovation careers for the direction of innovation and inequality? Leveraging novel linked datasets in the United States and Finland, we document that innovators create products more likely to be purchased by consumers like them in terms of gender, socioeconomic status, and age. Homophily exists both within narrow product categories and across industries and has been stable in recent decades. Incorporating this “social push” channel into a growth model, we estimate that unequal access to innovation careers has a large effect on cost of living inequality and long-run growth. (JEL D63, J16, L26, M13, O31, O33, O47)]]></content:encoded>
+</item>
+<item>
+<title>Screening and Segmenting: A Consumer Surplus Perspective</title>
+<link>https://doi.org/10.1257/aer.20250206</link>
+<guid isPermaLink="false">10.1257/aer.20250206</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dirk Bergemann; Tibor Heumann; Michael C. Wang]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20250206</dc:identifier>
+<description><![CDATA[We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)]]></description>
+<content:encoded><![CDATA[We analyze consumer surplus when a monopolist can adjust both prices and product qualities across segments, engaging in secondand third-degree price discrimination simultaneously. We characterize the consumer-optimal segmentation and show that it has a striking structure: Consumers with the same value receive the same quality in every segment, though prices differ. Under mild conditions, any segmentation harms consumers if and only if demand is sufficiently more elastic than supply. Hence, potential benefits for consumers depend critically on demand and supply elasticities. These findings have implications for regulatory policy regarding price discrimination and market segmentation. (JEL D42, D83, K21, L12, L15)]]></content:encoded>
 </item>
 <item>
 <title>Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions</title>

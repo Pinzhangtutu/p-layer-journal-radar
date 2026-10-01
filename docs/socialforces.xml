@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 12:58:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -191,15 +191,6 @@
 <content:encoded><![CDATA[Abstract Individuals’ socio-economic trajectories are shaped by both persistence and change in their residential environments, making it essential to examine how the socio-spatial dynamics of context disadvantage and residential mobility interact over the life course. While prior research has often studied these factors separately and within specific life stages, less is known about their compound effects and their interrelatedness across childhood and adulthood. This study addresses this gap by investigating how exposure to residential contexts and residential mobility from birth influences socio-economic outcomes in early adulthood. Using Swedish longitudinal register data, we analyze residential trajectories and their association with economic and occupational (dis) advantage among individuals born between 1990 and 1993. Our findings show that mobility magnifies the associations between context exposure and socio-economic outcomes. Prolonged exposure to disadvantaged areas is most harmful when it coincides with moving, consistent with a compound penalty of instability and resource-poor environments. Second, moves in childhood are generally detrimental, while adult moves are opportunity-enhancing unless they occur in disadvantaged contexts, where the mobility premium levels off. Third, exiting disadvantaged contexts is associated with higher attainment than remaining persistently exposed, indicating that later socio-spatial trajectories can attenuate earlier disadvantage. These findings underscore the importance of considering both residential context and mobility across the life course for understanding—and interrupting—the reproduction of socio-economic inequality.]]></content:encoded>
 </item>
 <item>
-<title>Review of “What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future”</title>
-<link>https://doi.org/10.1093/sf/soag073</link>
-<guid isPermaLink="false">10.1093/sf/soag073</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kristen Karlberg]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag073</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Review of "Governing the Excluded: Rural Livelihoods Beyond Coca in Colombia's Peace Laboratory"</title>
 <link>https://doi.org/10.1093/sf/soag090</link>
 <guid isPermaLink="false">10.1093/sf/soag090</guid>
@@ -328,6 +319,25 @@
 <dc:creator><![CDATA[William McConnell]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag075</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Review of “Privileged Brotherhoods: Becoming Men at Elite All-Boys Schools”</title>
+<link>https://doi.org/10.1093/sf/soag129</link>
+<guid isPermaLink="false">10.1093/sf/soag129</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tristan Bridges]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag129</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Neighborhood change and Black-White segregation: 2000–2020</title>
+<link>https://doi.org/10.1093/sf/soag146</link>
+<guid isPermaLink="false">10.1093/sf/soag146</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[John R Logan; Liangdi Xu]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag146</dc:identifier>
+<description><![CDATA[Abstract This study examines the relationship between neighborhood racial change and metropolitan segregation in 2000–2020. The most surprising finding is that the principal source of declining Black-White segregation has not been Black growth in White neighborhoods. Instead, it is a phenomenon that has not been noticed up to now—a substantial Black exodus from Black neighborhoods. The same kinds of neighborhoods where Black newcomers were increasingly concentrated in older, poorer sections of central cities in the 1920–1970 decades are now hollowing out, as residents find new opportunities elsewhere. We show that White exit from predominantly White neighborhoods is also an important source of segregation decline. At the same time, however, many predominantly Black neighborhoods have growing Black populations, pushing segregation upwards. This pattern was described as “succession” in early studies of central cities, but it is now likely to be found in suburban neighborhoods with newer housing, a smaller Black population share, and higher socioeconomic status compared to other Black neighborhoods. These and other findings shed new light on why segregation is declining and also why it is so persistent.]]></description>
+<content:encoded><![CDATA[Abstract This study examines the relationship between neighborhood racial change and metropolitan segregation in 2000–2020. The most surprising finding is that the principal source of declining Black-White segregation has not been Black growth in White neighborhoods. Instead, it is a phenomenon that has not been noticed up to now—a substantial Black exodus from Black neighborhoods. The same kinds of neighborhoods where Black newcomers were increasingly concentrated in older, poorer sections of central cities in the 1920–1970 decades are now hollowing out, as residents find new opportunities elsewhere. We show that White exit from predominantly White neighborhoods is also an important source of segregation decline. At the same time, however, many predominantly Black neighborhoods have growing Black populations, pushing segregation upwards. This pattern was described as “succession” in early studies of central cities, but it is now likely to be found in suburban neighborhoods with newer housing, a smaller Black population share, and higher socioeconomic status compared to other Black neighborhoods. These and other findings shed new light on why segregation is declining and also why it is so persistent.]]></content:encoded>
 </item>
 <item>
 <title>Review of “Immigration: How the Past Shapes the Present”</title>
@@ -521,15 +531,6 @@
 <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Alexandrea J Ravenelle]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag014</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Review of “Labor Unions and Democratic Unrest in North Africa: Protest and Resistance in Tunisia and Morocco”</title>
-<link>https://doi.org/10.1093/sf/soag079</link>
-<guid isPermaLink="false">10.1093/sf/soag079</guid>
-<pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Colin Beck]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag079</dc:identifier>
 <description></description>
 </item>
 <item>

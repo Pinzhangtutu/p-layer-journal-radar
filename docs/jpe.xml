@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 12:58:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -435,21 +435,21 @@
 <description></description>
 </item>
 <item>
-<title>Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing Valuable Skilling Opportunities</title>
-<link>https://doi.org/10.1086/739830</link>
-<guid isPermaLink="false">10.1086/739830</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ali Cheema; Asim I. Khwaja; M. Farooq Naseer; Jacob N. Shapiro]]></dc:creator>
-<dc:identifier>doi:10.1086/739830</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Ever since Allais</title>
 <link>https://doi.org/10.1086/739829</link>
 <guid isPermaLink="false">10.1086/739829</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Aluma Dembo; Shachar Kariv; Matthew Polisson; John K.-H. Quah]]></dc:creator>
 <dc:identifier>doi:10.1086/739829</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Glass Walls: Experimental Evidence on Constraints Faced by Women in Accessing Valuable Skilling Opportunities</title>
+<link>https://doi.org/10.1086/739830</link>
+<guid isPermaLink="false">10.1086/739830</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ali Cheema; Asim I. Khwaja; M. Farooq Naseer; Jacob N. Shapiro]]></dc:creator>
+<dc:identifier>doi:10.1086/739830</dc:identifier>
 <description></description>
 </item>
 <item>

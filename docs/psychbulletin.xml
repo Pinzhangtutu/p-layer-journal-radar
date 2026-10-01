@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 12:58:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -129,29 +129,19 @@
 <description></description>
 </item>
 <item>
-<title>AI aversion or appreciation? A capability–personalization framework and a meta-analytic review.</title>
-<link>https://doi.org/10.1037/bul0000477</link>
-<guid isPermaLink="false">10.1037/bul0000477</guid>
-<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xin Qin; Xiang Zhou; Chen Chen; Dongyuan Wu; Hansen Zhou; Xiaowei Dong; Limei Cao; Jackson G. Lu]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000477</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Electronic screen use and children’s socioemotional problems: A systematic review and meta-analysis of longitudinal studies.</title>
-<link>https://doi.org/10.1037/bul0000468</link>
-<guid isPermaLink="false">10.1037/bul0000468</guid>
-<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Roberta Pires Vasconcellos; Taren Sanders; Chris Lonsdale; Philip Parker; James Conigrave; Samantha Tang; Borja del Pozo Cruz; Stuart J. H. Biddle; Rachael Taylor; Christine Innes-Hughes; Katariina Salmela-Aro; Diego Vasconcellos; Katrina Wilhite; Ella Tremaine; Bridget Booker; Michael Noetel]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000468</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Does the Variance of Personality Traits Change Across the Lifespan? A Meta-Analytic Review of Longitudinal Studies</title>
 <link>https://doi.org/10.1037/bul0000523.supp</link>
 <guid isPermaLink="false">10.1037/bul0000523.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000523.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Childhood Emotional Abuse and Adult Psychopathology: A Multilevel Meta-Analytic Review</title>
+<link>https://doi.org/10.1037/bul0000530.supp</link>
+<guid isPermaLink="false">10.1037/bul0000530.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000530.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -177,6 +167,22 @@
 <guid isPermaLink="false">10.1037/bul0000509.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000509.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for A Systematic Review and Meta-Analysis of Partial Correlations Between Caregiver Cognitive Stimulation in Early Childhood and Child Development</title>
+<link>https://doi.org/10.1037/bul0000532.supp</link>
+<guid isPermaLink="false">10.1037/bul0000532.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000532.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Toward a Unified Process Model of Situational Frustration, Need Deprivation, and Behavioral Compensation: A Meta-Analytic Review</title>
+<link>https://doi.org/10.1037/bul0000528.supp</link>
+<guid isPermaLink="false">10.1037/bul0000528.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000528.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -226,6 +232,14 @@
 <guid isPermaLink="false">10.1037/bul0000516.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000516.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Contributions of the General Factor of Intelligence to Cognitive Performance Across Ability Levels and Age: An Individual Participant Data Meta-Analysis of Child and Adolescent Norming Data</title>
+<link>https://doi.org/10.1037/bul0000531.supp</link>
+<guid isPermaLink="false">10.1037/bul0000531.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000531.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -354,24 +368,6 @@
 <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael P. Wilmot; Brenton M. Wiernik; Deniz S. Ones]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000476</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Procedural skill retention and decay: A meta-analytic review.</title>
-<link>https://doi.org/10.1037/bul0000481</link>
-<guid isPermaLink="false">10.1037/bul0000481</guid>
-<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Corey E. Tatel; Phillip L. Ackerman]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000481</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Trust and subjective well-being across the lifespan: A multilevel meta-analysis of cross-sectional and longitudinal associations.</title>
-<link>https://doi.org/10.1037/bul0000480</link>
-<guid isPermaLink="false">10.1037/bul0000480</guid>
-<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shanshan Bi; Marlies Maes; Gonneke W. J. M. Stevens; Coriena de Heer; Jian-Bin Li; Yue Sun; Catrin Finkenauer]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000480</dc:identifier>
 <description></description>
 </item>
 <item>
