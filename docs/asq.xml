@@ -9,7 +9,7 @@
 <description>ASQ — SAGE · Latest in: OnlineFirst · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/asq.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 05:29:57 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 12:58:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -272,6 +272,16 @@
 <description></description>
 </item>
 <item>
+<title>In Pursuit of Ideal Data: Epistemic Enchantment and the Unintended Consequences of Datafying for Artificial Intelligence</title>
+<link>https://doi.org/10.1177/00018392261484887</link>
+<guid isPermaLink="false">10.1177/00018392261484887</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Elmira van den Broek; Natalia Levina]]></dc:creator>
+<dc:identifier>doi:10.1177/00018392261484887</dc:identifier>
+<description><![CDATA[The increasing datafication of work has become a pervasive theme within organizations, particularly with the rise of artificial intelligence (AI) technologies that rely on data and machine learning to generate insights and decisions. Prior research has shown that datafication practices aimed at administrative control and accountability can transform organizations in profound and often unintended ways. Our research moves beyond investigating datafication for administrative purposes to explore how it unfolds when actors intend to extract knowledge through AI predictive modeling. Drawing on a three-year ethnography of a human resources (HR) department introducing AI for candidate screening, we find that datafication expanded far beyond the technology’s initially envisioned scope. We explain this scope expansion by introducing the concept of epistemic enchantment : a collective process through which organizational members become captivated and mobilized by AI’s promise to generate predictive, objective, and continuously improving insights from data, while overlooking the costs and risks involved. Our study reveals how datafication practices can expand endlessly as organizational members, enchanted by AI’s epistemic promises, pursue the notion of ideal data as an ever-desired but never reachable goal.]]></description>
+<content:encoded><![CDATA[The increasing datafication of work has become a pervasive theme within organizations, particularly with the rise of artificial intelligence (AI) technologies that rely on data and machine learning to generate insights and decisions. Prior research has shown that datafication practices aimed at administrative control and accountability can transform organizations in profound and often unintended ways. Our research moves beyond investigating datafication for administrative purposes to explore how it unfolds when actors intend to extract knowledge through AI predictive modeling. Drawing on a three-year ethnography of a human resources (HR) department introducing AI for candidate screening, we find that datafication expanded far beyond the technology’s initially envisioned scope. We explain this scope expansion by introducing the concept of epistemic enchantment : a collective process through which organizational members become captivated and mobilized by AI’s promise to generate predictive, objective, and continuously improving insights from data, while overlooking the costs and risks involved. Our study reveals how datafication practices can expand endlessly as organizational members, enchanted by AI’s epistemic promises, pursue the notion of ideal data as an ever-desired but never reachable goal.]]></content:encoded>
+</item>
+<item>
 <title>How Activists Collaboratively Divide the Labor of Making Change: The Case of LGBT Rights</title>
 <link>https://doi.org/10.1177/00018392251371000</link>
 <guid isPermaLink="false">10.1177/00018392251371000</guid>
@@ -477,15 +487,6 @@
 <pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Claus Rerup]]></dc:creator>
 <dc:identifier>doi:10.1177/00018392261433965</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Kara Swisher. Burn Book: A Tech Love Story SwisherKara. Burn Book: A Tech Love Story. Simon &amp; Schuster, 2024. 320 pp. $30, hardcover.</title>
-<link>https://doi.org/10.1177/00018392251349812</link>
-<guid isPermaLink="false">10.1177/00018392251349812</guid>
-<pubDate>Mon, 16 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[M. Diane Burton]]></dc:creator>
-<dc:identifier>doi:10.1177/00018392251349812</dc:identifier>
 <description></description>
 </item>
 <item>
