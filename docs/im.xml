@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:17:34 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -355,6 +355,15 @@
 <description></description>
 </item>
 <item>
+<title>Between the Lines or Behind the Lens? Examining the Content and Helpfulness of Airline Reviews</title>
+<link>https://doi.org/10.1016/j.im.2026.104440</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104440</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Masoud Shayganmehr; Indranil Bose]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104440</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Elucidating the bifurcated effects of artificial intelligence technostress on customer satisfaction: The role of affective reactions and voluntariness of use</title>
 <link>https://doi.org/10.1016/j.im.2026.104419</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104419</guid>
@@ -364,21 +373,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -595,15 +604,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ankita Srivastava; Chenzhang Bao; Dursun Delen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104319</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Detecting fake news on social media: a novel uncertainty-aware machine-crowd hybrid-intelligence-based method</title>
-<link>https://doi.org/10.1016/j.im.2026.104348</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104348</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kangwei Shi; Yidong Chai; Lujuan Zhou; Jiaheng Xie; Chunli Liu; Yuanchun Jiang; Yezheng Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104348</dc:identifier>
 <description></description>
 </item>
 </channel>

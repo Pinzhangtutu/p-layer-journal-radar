@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 01 Oct 2026 22:36:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:17:34 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -193,6 +193,15 @@
 <description></description>
 </item>
 <item>
+<title>Agency and Adaptation in Human–Technology Configurations: A Fifty-Year Analysis of Computers &amp; Education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105757</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105757</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuan-Hsuan Lee; Candace Walkington; Jiun-Yu Wu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105757</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Print versus digital reading in an era of digital immersion: Eye-tracking evidence from pre- and post-pandemic cohorts</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105669</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105669</guid>
@@ -271,15 +280,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kozlova Zoya; Edelsbrunner Peter A.; Warkentin Max; Hoyer Christoph; Küchemann Stefan; Kuhn Jochen; Hofer Sarah I.]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105658</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Robot-assisted speaking practice (RASP): Learner affection, engagement, outcomes, and their interplay</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105635</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105635</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruofei Zhang; Di Zou; Haoran Xie; Gary Cheng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105635</dc:identifier>
 <description></description>
 </item>
 <item>
