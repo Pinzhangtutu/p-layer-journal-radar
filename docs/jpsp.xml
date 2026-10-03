@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 02 Oct 2026 22:05:42 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 05:00:39 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -311,21 +311,21 @@
 <description></description>
 </item>
 <item>
-<title>Life satisfaction, loneliness, and depressivity in consistently single young adults in Germany and the United Kingdom.</title>
-<link>https://doi.org/10.1037/pspp0000595</link>
-<guid isPermaLink="false">10.1037/pspp0000595</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael D. Krämer; Julia Stern; Laura Buchinger; Geoff MacDonald; Wiebke Bleidorn]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000595</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Unconscious mental content in implicit evaluation: Evidence from misprediction.</title>
 <link>https://doi.org/10.1037/pspa0000491</link>
 <guid isPermaLink="false">10.1037/pspa0000491</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Benedek Kurdi; David E. Melnikoff; Adam Morris]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000491</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Life satisfaction, loneliness, and depressivity in consistently single young adults in Germany and the United Kingdom.</title>
+<link>https://doi.org/10.1037/pspp0000595</link>
+<guid isPermaLink="false">10.1037/pspp0000595</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael D. Krämer; Julia Stern; Laura Buchinger; Geoff MacDonald; Wiebke Bleidorn]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000595</dc:identifier>
 <description></description>
 </item>
 <item>
