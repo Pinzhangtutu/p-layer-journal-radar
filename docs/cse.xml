@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 03 Oct 2026 05:00:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 11:30:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -208,6 +208,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yu-Cin Jian; Yi-Jye Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105669</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Online Learner Engagement and Academic Support in the Age of Generative AI</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105763</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105763</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jered Borup; Charles R. Graham; Leanna Archambault; Lauren Woo; Michael K. Barbour; Joan Kang Shin; Anya Evmenova]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105763</dc:identifier>
 <description></description>
 </item>
 <item>

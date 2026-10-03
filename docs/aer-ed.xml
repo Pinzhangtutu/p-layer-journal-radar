@@ -9,7 +9,7 @@
 <description>AER-Ed — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aer-ed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 03 Oct 2026 05:00:39 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 11:30:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -159,16 +159,6 @@
 <dc:identifier>doi:10.3102/00028312261468353</dc:identifier>
 <description><![CDATA[This article uses hermeneutic phenomenology and in-depth interviews to explore how 17 Black graduate men develop and use agency to subvert (or undermine) hegemonic masculine thinking and being. Findings highlight the ways family members (e.g., mothers, fathers, and grandfathers) are influential in developing students’ manhood through agency. In addition, findings offer three typologies of subverting hegemonic masculinities: (a) rejection, (b) response, and (c) responsibility.]]></description>
 <content:encoded><![CDATA[This article uses hermeneutic phenomenology and in-depth interviews to explore how 17 Black graduate men develop and use agency to subvert (or undermine) hegemonic masculine thinking and being. Findings highlight the ways family members (e.g., mothers, fathers, and grandfathers) are influential in developing students’ manhood through agency. In addition, findings offer three typologies of subverting hegemonic masculinities: (a) rejection, (b) response, and (c) responsibility.]]></content:encoded>
-</item>
-<item>
-<title>Variability in the Grades Teachers Give: Teacher Grade Value-Add, Mismatch, and Long-Term Effects</title>
-<link>https://doi.org/10.3102/00028312251345094</link>
-<guid isPermaLink="false">10.3102/00028312251345094</guid>
-<pubDate>Tue, 24 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Roy McKenzie; Elaine Allensworth]]></dc:creator>
-<dc:identifier>doi:10.3102/00028312251345094</dc:identifier>
-<description><![CDATA[We identify systematic differences in ninth-grade teachers’ effects on students’ course grades in their class (ninth-grade grade value-add), their persistent effects on students’ grades in the same subject of the next grade (tenth-grade grade value-add, representing effectiveness at academic preparation), and mismatch between the grades they give and students’ subsequent performance (representing inaccurate measurement). Persistent effects and mismatch contribute to observed variation in grades. Teacher effects are stable across years, and their effects are predictive of students’ long-term outcomes, including eleventh-grade ACT scores, graduating GPA, and high school graduation. Persistent effects show consistent long-term benefits, while the relationship of grading mismatch with academic outcomes is nuanced.]]></description>
-<content:encoded><![CDATA[We identify systematic differences in ninth-grade teachers’ effects on students’ course grades in their class (ninth-grade grade value-add), their persistent effects on students’ grades in the same subject of the next grade (tenth-grade grade value-add, representing effectiveness at academic preparation), and mismatch between the grades they give and students’ subsequent performance (representing inaccurate measurement). Persistent effects and mismatch contribute to observed variation in grades. Teacher effects are stable across years, and their effects are predictive of students’ long-term outcomes, including eleventh-grade ACT scores, graduating GPA, and high school graduation. Persistent effects show consistent long-term benefits, while the relationship of grading mismatch with academic outcomes is nuanced.]]></content:encoded>
 </item>
 <item>
 <title>Frames, Policies and Politics: The Shifting Discourse of School Choice</title>
@@ -689,6 +679,16 @@
 <dc:identifier>doi:10.3102/00028312261476642</dc:identifier>
 <description><![CDATA[The first Trump administration opposed race-conscious federal educational policies to redress state-sponsored discrimination and related racial inequality. Drawing on extensive qualitative data, we analyzed the mechanisms, collaborations, and strategies used to resist Trump’s first-term civil rights rollbacks for students. Resistance included (a) civil rights oversight and guidance from nongovernment groups, (b) unified messaging to counter attacks on public education, (c) congressional oversight of the Department of Education as well as preservation of its civil rights funding, and (d) litigation on procedural and novel grounds. This study probes how elected officials, intermediary organizations, and civil rights lawyers developed effective strategies and how they might persist today given revitalized federal efforts to abolish race-conscious education policies and constrain students’ civil rights.]]></description>
 <content:encoded><![CDATA[The first Trump administration opposed race-conscious federal educational policies to redress state-sponsored discrimination and related racial inequality. Drawing on extensive qualitative data, we analyzed the mechanisms, collaborations, and strategies used to resist Trump’s first-term civil rights rollbacks for students. Resistance included (a) civil rights oversight and guidance from nongovernment groups, (b) unified messaging to counter attacks on public education, (c) congressional oversight of the Department of Education as well as preservation of its civil rights funding, and (d) litigation on procedural and novel grounds. This study probes how elected officials, intermediary organizations, and civil rights lawyers developed effective strategies and how they might persist today given revitalized federal efforts to abolish race-conscious education policies and constrain students’ civil rights.]]></content:encoded>
+</item>
+<item>
+<title>Education and Climate Change: Synthesizing the Evidence to Guide Future Research</title>
+<link>https://doi.org/10.3102/00028312261478064</link>
+<guid isPermaLink="false">10.3102/00028312261478064</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matthew A. Kraft; Sohil Malik; Grace T. Falken]]></dc:creator>
+<dc:identifier>doi:10.3102/00028312261478064</dc:identifier>
+<description><![CDATA[Schools are both vulnerable to climate change and uniquely positioned to be part of the solution. We conduct an integrative review of interdisciplinary research and data to better understand the bidirectional relationship between education systems and our changing climate. We identify and describe the challenges, opportunities, and areas for future research for five interrelated dimensions: (a) the effects of climate change on school infrastructure, budgets, and operations; (b) the effects of climate and environmental pressures on child development and students’ success in school; (c) the effects of education systems on the environment; (d) teaching climate science, nature-based education, traditional ecological knowledge, and career and technical education for jobs that advance sustainable practices; and (e) the role of schools in advancing community-wide efforts for resilience and sustainability.]]></description>
+<content:encoded><![CDATA[Schools are both vulnerable to climate change and uniquely positioned to be part of the solution. We conduct an integrative review of interdisciplinary research and data to better understand the bidirectional relationship between education systems and our changing climate. We identify and describe the challenges, opportunities, and areas for future research for five interrelated dimensions: (a) the effects of climate change on school infrastructure, budgets, and operations; (b) the effects of climate and environmental pressures on child development and students’ success in school; (c) the effects of education systems on the environment; (d) teaching climate science, nature-based education, traditional ecological knowledge, and career and technical education for jobs that advance sustainable practices; and (e) the role of schools in advancing community-wide efforts for resilience and sustainability.]]></content:encoded>
 </item>
 </channel>
 </rss>
