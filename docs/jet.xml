@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 03 Oct 2026 11:30:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 03 Oct 2026 16:06:48 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -55,15 +55,6 @@
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hongseok Choi]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106147</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Culture and communication</title>
-<link>https://doi.org/10.1016/j.jet.2026.106152</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106152</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rajiv Sethi; Muhamet Yildiz]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106152</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -352,6 +343,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Gregorio Curello; Ludvig Sinander; Mark Whitmeyer]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106231</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Optimal Tax under Dispersed and Distorted Beliefs</title>
+<link>https://doi.org/10.1016/j.jet.2026.106266</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106266</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Deepal Basak; Yunhui Zhao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106266</dc:identifier>
 <description></description>
 </item>
 <item>
