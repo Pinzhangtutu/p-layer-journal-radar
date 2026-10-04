@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 03 Oct 2026 20:56:53 +0000</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 05:33:30 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -355,6 +355,15 @@
 <description></description>
 </item>
 <item>
+<title>Was I Scammed? Understanding Consumer Scam Reporting Behavior Through Cognitive Appraisal</title>
+<link>https://doi.org/10.1016/j.im.2026.104442</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104442</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruochen Liao; H. Raghav Rao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104442</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Between the Lines or Behind the Lens? Examining the Content and Helpfulness of Airline Reviews</title>
 <link>https://doi.org/10.1016/j.im.2026.104440</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104440</guid>
@@ -595,15 +604,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yu-chen Yang; Hsing Kenneth Cheng; Liangfei Qiu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104338</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Leveraging spillover effects of ambulatory electronic health records to manage inpatient costs at hospitals: The role of health information sharing</title>
-<link>https://doi.org/10.1016/j.im.2026.104319</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104319</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ankita Srivastava; Chenzhang Bao; Dursun Delen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104319</dc:identifier>
 <description></description>
 </item>
 </channel>
