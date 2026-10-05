@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 14:21:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 23:58:52 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -371,16 +371,6 @@
 <content:encoded><![CDATA[This paper examines how the East-West Poverty Alleviation Partnership, which pairs rich cities in East China with economically disadvantaged cities in West China, affects e-commerce trade.]]></content:encoded>
 </item>
 <item>
-<title>Bad Apples on Rotten Tomatoes: Critics, Crowds, and Gender Bias in Product Ratings</title>
-<link>https://doi.org/10.1287/mksc.2023.0236</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0236</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Luis Aguiar]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0236</dc:identifier>
-<description><![CDATA[This paper shows that movie crowd reviewers provide evaluations that are biased against movies with a stronger female presence relative to professional critics.]]></description>
-<content:encoded><![CDATA[This paper shows that movie crowd reviewers provide evaluations that are biased against movies with a stronger female presence relative to professional critics.]]></content:encoded>
-</item>
-<item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
 <link>https://doi.org/10.1287/mksc.2023.0309</link>
 <guid isPermaLink="false">10.1287/mksc.2023.0309</guid>
@@ -503,6 +493,16 @@
 <dc:identifier>doi:10.1287/mksc.2024.0922</dc:identifier>
 <description><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></description>
 <content:encoded><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></content:encoded>
+</item>
+<item>
+<title>Visual Plant Imagery and Property Valuation: A Descriptive Analysis</title>
+<link>https://doi.org/10.1287/mksc.2025.0145</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0145</guid>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuqian Chang; Nathan Fong; Ning Ye; Maureen (Mimi) Morrin]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0145</dc:identifier>
+<description><![CDATA[Online home profiles with more plant imagery are associated with higher property valuations, even after accounting for extensive property, neighborhood, listing, and market factors.]]></description>
+<content:encoded><![CDATA[Online home profiles with more plant imagery are associated with higher property valuations, even after accounting for extensive property, neighborhood, listing, and market factors.]]></content:encoded>
 </item>
 <item>
 <title>Thank You, Now What? How Donors Respond to Calls to Action</title>
