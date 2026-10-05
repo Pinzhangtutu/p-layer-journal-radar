@@ -9,7 +9,7 @@
 <description>JEdPsych — APA · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jedpsych.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 05:16:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:21:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -103,27 +103,19 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Mapping Creativity in the PISA 2022 Student and Context Questionnaires: An Expert Evaluation of Content Validity of the Creativity Self- and Other-Report Scales</title>
-<link>https://doi.org/10.1037/edu0001060.supp</link>
-<guid isPermaLink="false">10.1037/edu0001060.supp</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001060.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Debunking the Learning Styles Neuromyth: No Effects of Learning Styles on Recognition Accuracy in Primary Education Students</title>
-<link>https://doi.org/10.1037/edu0001056.supp</link>
-<guid isPermaLink="false">10.1037/edu0001056.supp</guid>
-<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/edu0001056.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Validating the Not-So-Simple View of Writing Model in Spanish: A Longitudinal Panel Design Study</title>
 <link>https://doi.org/10.1037/edu0001041.supp</link>
 <guid isPermaLink="false">10.1037/edu0001041.supp</guid>
 <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001041.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Effects of Student Groups on Teachers’ and Students’ Perceptions of Teaching Quality</title>
+<link>https://doi.org/10.1037/edu0001044.supp</link>
+<guid isPermaLink="false">10.1037/edu0001044.supp</guid>
+<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/edu0001044.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -464,21 +456,21 @@
 <description></description>
 </item>
 <item>
-<title>Socioeconomic status and literacy achievement: A meta-analysis of correlations and disparities in reading and writing skills.</title>
-<link>https://doi.org/10.1037/edu0001059</link>
-<guid isPermaLink="false">10.1037/edu0001059</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yucheng Cao; Young-Suk Grace Kim; Yuemeng Wang]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001059</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Interpolated prequestioning increases on-task thoughts, dampens off-task thoughts, and facilitates learning during video lectures.</title>
 <link>https://doi.org/10.1037/edu0001055</link>
 <guid isPermaLink="false">10.1037/edu0001055</guid>
 <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Steven C. Pan; Elisya Tung; Luke Chiang; Alyssa Indrajaya; Michelle E. Kaku]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001055</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Socioeconomic status and literacy achievement: A meta-analysis of correlations and disparities in reading and writing skills.</title>
+<link>https://doi.org/10.1037/edu0001059</link>
+<guid isPermaLink="false">10.1037/edu0001059</guid>
+<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yucheng Cao; Young-Suk Grace Kim; Yuemeng Wang]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001059</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -618,6 +610,14 @@
 <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marietta Papadatou-Pastou; Anna K. Touloumakos; Efthalia Theotokatou]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001056</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Class Composition Effects in Achievement and Interest and the Role of the Learning Environment Revisited: A Conceptual Replication and Extension of Lavrijsen et al. (2022)</title>
+<link>https://doi.org/10.1037/edu0001072.supp</link>
+<guid isPermaLink="false">10.1037/edu0001072.supp</guid>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/edu0001072.supp</dc:identifier>
 <description></description>
 </item>
 <item>

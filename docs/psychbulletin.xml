@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 05:16:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:21:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -46,6 +46,42 @@
 <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Thorben Jansen; Lucas W. Liebenow; Ute Mertens; Fabian T. C. Schmidt; Julian F. Lohmann; Johanna Fleckenstein; Jennifer Meyer]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000501</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A systematic review and meta-analysis of partial correlations between caregiver cognitive stimulation in early childhood and child development.</title>
+<link>https://doi.org/10.1037/bul0000532</link>
+<guid isPermaLink="false">10.1037/bul0000532</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarah F. Hatch; Noelle M. Suntheimer; Abigail W. Otwell; Laura Tang; Dana C. McCoy; Sharon Wolf]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000532</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Toward a unified process model of situational frustration, need deprivation, and behavioral compensation: A meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000528</link>
+<guid isPermaLink="false">10.1037/bul0000528</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maximilian Agostini; N. Pontus Leander; Jannis Kreienkamp; Justin König; Catharina Gerigk; Russell Spears]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000528</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Childhood emotional abuse and adult psychopathology: A multilevel meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000530</link>
+<guid isPermaLink="false">10.1037/bul0000530</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Noga Miron; Wendy M. D'Andrea; Eran Barzilai; Shoshana Krohner; Ellen H. Yates; Samuel G. Conner Self; E. Samuel Winer; Ashley M. Doukas; Joseph Spinazzola]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000530</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Contributions of the general factor of intelligence to cognitive performance across ability levels and age: An individual participant data meta-analysis of child and adolescent norming data.</title>
+<link>https://doi.org/10.1037/bul0000531</link>
+<guid isPermaLink="false">10.1037/bul0000531</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Moritz Breit; Martin Brunner; Julian Preuß; Monika Daseking; Günter Esser; Alexander Grob; Jan-Philipp Freudenstein; Ulf Kieschke; Ludwig Kreuzpointner; Franz Pauls; Christoph Perleth; Gabriele Ricken; Stefan Schipolowski; Ulrich Schroeders; Franziska Walter; Oliver Wilhelm; Anne Wyschkon; Franzis Preckel]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000531</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -100,24 +136,6 @@
 <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael J. Wilson; Amelia J. Scott; Vita Pilkington; Jacqui A. Macdonald; Simon M. Rice; John L. Oliffe; Zac E. Seidler]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000482</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Do immediate judgments of learning alter memory performance? A meta-analytical review.</title>
-<link>https://doi.org/10.1037/bul0000487</link>
-<guid isPermaLink="false">10.1037/bul0000487</guid>
-<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Franziska Ingendahl; Vered Halamish; Monika Undorf]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000487</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A meta-analytic reassessment of the vicious cycle of psychopathology and stressful life events: Commentary on Rnic et al. (2023).</title>
-<link>https://doi.org/10.1037/bul0000475</link>
-<guid isPermaLink="false">10.1037/bul0000475</guid>
-<pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Junhua Dang; Shanshan Xiao]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000475</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -350,24 +368,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Brooke N. Macnamara]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000519</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Acoustic exaggeration of vowels in infant-directed speech: A multimethod meta-analytic review.</title>
-<link>https://doi.org/10.1037/bul0000479</link>
-<guid isPermaLink="false">10.1037/bul0000479</guid>
-<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Irena Lovčević; Titia Benders; Sho Tsuji; Riccardo Fusaroli]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000479</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Mapping domains of life success: Insights from meta-analytic criterion profile analysis.</title>
-<link>https://doi.org/10.1037/bul0000476</link>
-<guid isPermaLink="false">10.1037/bul0000476</guid>
-<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael P. Wilmot; Brenton M. Wiernik; Deniz S. Ones]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000476</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 05:16:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:21:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -454,15 +454,6 @@
 <description></description>
 </item>
 <item>
-<title>Implementing multimodal learning analytics in authentic settings: A roadmap for ecological impact</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102341</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102341</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bertrand Schneider; Roberto Martínez-Maldonado; Marcelo Worsley; Gautam Biswas]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102341</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Prolonged participation AI-based mindfulness school programme in primary education: Implications for AI practices, schools and developers</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102481</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102481</guid>
@@ -595,6 +586,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Nerea Gómez-Fernández; Mauro Mediavilla; Rubén Baeza-Cabrera]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102485</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From faux flipped to gamified flipped classrooms: scaffolding and cognitive load management</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102487</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102487</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zamzami Zainuddin; Tianchong Wang; Riyan Hidayat; Madziatul Churiyah]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102487</dc:identifier>
 <description></description>
 </item>
 <item>

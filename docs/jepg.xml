@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 05:16:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 05 Oct 2026 14:21:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -85,6 +85,60 @@
 <description></description>
 </item>
 <item>
+<title>Group-related network schema guides the learning of social networks.</title>
+<link>https://doi.org/10.1037/xge0001953</link>
+<guid isPermaLink="false">10.1037/xge0001953</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yi Zhang; Ting Zhao; Xingyuan Zhang; Yuqing Liu; Wenxi Jin; Jipeng Duan; Jun Yin]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001953</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Noisy variability does not benefit face learning.</title>
+<link>https://doi.org/10.1037/xge0001948</link>
+<guid isPermaLink="false">10.1037/xge0001948</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Truong H. A. Nguyen; Kristen A. Baker; Molly A. L. Nullmeyer; Kaitlyn L. Damaso; Catherine J. Mondloch]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001948</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Testing a sensory preactivation account of attention guidance from visual working memory.</title>
+<link>https://doi.org/10.1037/xge0001947</link>
+<guid isPermaLink="false">10.1037/xge0001947</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zexuan Niu; Andrew Hollingworth]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001947</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Affective evaluation of self-produced action–effect episodes.</title>
+<link>https://doi.org/10.1037/xge0001935</link>
+<guid isPermaLink="false">10.1037/xge0001935</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Moritz Reis; Robert Wirth]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001935</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Calibrating growth mindset about intelligence: Increased blame, effort misperception, and a genes-and-growth solution for blame.</title>
+<link>https://doi.org/10.1037/xge0001944</link>
+<guid isPermaLink="false">10.1037/xge0001944</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Woo-kyoung Ahn; Cheng-Kai Sheu]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001944</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When a helpful bias is unhelpful: Limitations in reasoning about random and deliberately misleading evidence.</title>
+<link>https://doi.org/10.1037/xge0001939</link>
+<guid isPermaLink="false">10.1037/xge0001939</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Manikya Alister; Keith J. Ransom; Andrew Perfors]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001939</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>A two-dimensional framework for prior knowledge in goal-directed navigation.</title>
 <link>https://doi.org/10.1037/xge0001950</link>
 <guid isPermaLink="false">10.1037/xge0001950</guid>
@@ -121,21 +175,21 @@
 <description></description>
 </item>
 <item>
-<title>Generalizing perception–action coupling depends on context: Spatial updating is nonobligatory in virtual but not mixed reality.</title>
-<link>https://doi.org/10.1037/xge0001968</link>
-<guid isPermaLink="false">10.1037/xge0001968</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zijian Zhang; Weimin Mou]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001968</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Complex and beautiful: Distinct black history knowledge types drive interpretative similarity of, and emotional responses to, modern and historical racism among black people.</title>
 <link>https://doi.org/10.1037/xge0001958</link>
 <guid isPermaLink="false">10.1037/xge0001958</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Leezet M. Matos; Jordan E. Parker; Patrick A. Wilson; A. Janet Tomiyama; Gerald D. Higginbotham]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001958</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Generalizing perception–action coupling depends on context: Spatial updating is nonobligatory in virtual but not mixed reality.</title>
+<link>https://doi.org/10.1037/xge0001968</link>
+<guid isPermaLink="false">10.1037/xge0001968</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zijian Zhang; Weimin Mou]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001968</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -193,14 +247,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Needing Others to Know You’re Good: Narcissists’ Pride in Success Is Contingent on Peer Reactions</title>
-<link>https://doi.org/10.1037/xge0001974.supp</link>
-<guid isPermaLink="false">10.1037/xge0001974.supp</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001974.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for The (Anti-)Conformity Strategy Space: How Flexible Is Social Learning When Group Membership and Incentive Alignment Vary?</title>
 <link>https://doi.org/10.1037/xge0001993.supp</link>
 <guid isPermaLink="false">10.1037/xge0001993.supp</guid>
@@ -245,28 +291,12 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Asking Open-Ended Questions Promotes Personal Goal Attainment in Integrative Negotiations</title>
-<link>https://doi.org/10.1037/xge0001990.supp</link>
-<guid isPermaLink="false">10.1037/xge0001990.supp</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001990.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Dyadic division of labor: Effects of individual effectivities, task difficulty, and communicative abilities.</title>
 <link>https://doi.org/10.1037/xge0001956</link>
 <guid isPermaLink="false">10.1037/xge0001956</guid>
 <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Megan Chiovaro; Alexandra Paxton]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001956</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Children’s Understanding of COVID-19 and the Flu in Three Demographically Distinct U.S. Communities</title>
-<link>https://doi.org/10.1037/xge0001987.supp</link>
-<guid isPermaLink="false">10.1037/xge0001987.supp</guid>
-<pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001987.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -299,14 +329,6 @@
 <guid isPermaLink="false">10.1037/xge0001998.supp</guid>
 <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/xge0001998.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Political Shocks: Understanding Major Political Events From an Affective Science Lens</title>
-<link>https://doi.org/10.1037/xge0001966.supp</link>
-<guid isPermaLink="false">10.1037/xge0001966.supp</guid>
-<pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001966.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -388,21 +410,21 @@
 <description></description>
 </item>
 <item>
-<title>Elcos are common, ajajatas are weird: Manner implicatures guide the interpretation of unfamiliar words for French children and for adults in 18 languages.</title>
-<link>https://doi.org/10.1037/xge0001972</link>
-<guid isPermaLink="false">10.1037/xge0001972</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Olivier Mascaro; Adeline Depierreux; Ninon Peysson; Olivier Morin]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001972</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>How autobiographical memory serves morality: Prevalence and properties of memories with moral content.</title>
 <link>https://doi.org/10.1037/xge0001954</link>
 <guid isPermaLink="false">10.1037/xge0001954</guid>
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dorthe Berntsen; Ana Lucía Cardenas-Egúsquiza; Maria Cristina Buzzo; Svend Brinkmann; Rick H. Hoyle; David C. Rubin]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001954</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Elcos are common, ajajatas are weird: Manner implicatures guide the interpretation of unfamiliar words for French children and for adults in 18 languages.</title>
+<link>https://doi.org/10.1037/xge0001972</link>
+<guid isPermaLink="false">10.1037/xge0001972</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Olivier Mascaro; Adeline Depierreux; Ninon Peysson; Olivier Morin]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001972</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -550,14 +572,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for How Leaders Shape Well-Being and Retention: Dominant Leaders Undermine and Prestigious Leaders Enhance Follower Psychological Need Satisfaction</title>
-<link>https://doi.org/10.1037/xge0001992.supp</link>
-<guid isPermaLink="false">10.1037/xge0001992.supp</guid>
-<pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001992.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Adaptive regulation of confidence following metacognitive conflict: Evidence from behavior and computational modeling.</title>
 <link>https://doi.org/10.1037/xge0001997</link>
 <guid isPermaLink="false">10.1037/xge0001997</guid>
@@ -582,14 +596,6 @@
 <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Eric J. Mercadante; Jessica L. Tracy]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001974</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Balancing Act: Investigating Modulators and Mechanisms of Cognitive Stability and Flexibility</title>
-<link>https://doi.org/10.1037/xge0001936.supp</link>
-<guid isPermaLink="false">10.1037/xge0001936.supp</guid>
-<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001936.supp</dc:identifier>
 <description></description>
 </item>
 </channel>
