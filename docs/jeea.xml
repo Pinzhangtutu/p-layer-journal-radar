@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 05 Oct 2026 23:58:52 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 06:10:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -353,16 +353,6 @@
 <content:encoded><![CDATA[Abstract We provide a nonanthropocentric rationale for implementing a levy on meat consumption due to animal-welfare considerations. It operates as a Pigouvian tax and addresses externalities on farmed animals. Under total utilitarianism, the levy is a subsidy when an animal’s life is worth living, and a tax when it is not. The levy varies under alternative normative settings, illustrating the importance of population-ethics issues for the pricing of externalities in this context. Even under conservative assumptions, calibrated tax levels are substantial and would make most intensive animal farms unprofitable. Taxes are significantly higher for chickens and pigs than for cows, in contrast to the taxation of other meat externalities.]]></content:encoded>
 </item>
 <item>
-<title>Nation-Building through Military Service</title>
-<link>https://doi.org/10.1093/jeea/jvaf064</link>
-<guid isPermaLink="false">10.1093/jeea/jvaf064</guid>
-<pubDate>Thu, 18 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Juan Pedro Ronconi; Diego Ramos-Toro]]></dc:creator>
-<dc:identifier>doi:10.1093/jeea/jvaf064</dc:identifier>
-<description><![CDATA[Abstract This paper studies conscription’s role in durably shaping attitudes and beliefs consistent with nation-building. We pair original survey data covering 29 cohorts of conscripts in Argentina with random variation in service emerging from a lottery. We find that serving in the military leads to a stronger national identity and social integration several decades after serving but does not affect civic behaviors such as voting or paying taxes. Value inculcation during service helps explain the baseline patterns, while exposure to and interaction with diverse peers reinforce but do not drive the results.]]></description>
-<content:encoded><![CDATA[Abstract This paper studies conscription’s role in durably shaping attitudes and beliefs consistent with nation-building. We pair original survey data covering 29 cohorts of conscripts in Argentina with random variation in service emerging from a lottery. We find that serving in the military leads to a stronger national identity and social integration several decades after serving but does not affect civic behaviors such as voting or paying taxes. Value inculcation during service helps explain the baseline patterns, while exposure to and interaction with diverse peers reinforce but do not drive the results.]]></content:encoded>
-</item>
-<item>
 <title>Mining for Peace</title>
 <link>https://doi.org/10.1093/jeea/jvag031</link>
 <guid isPermaLink="false">10.1093/jeea/jvag031</guid>
@@ -541,6 +531,16 @@
 <dc:identifier>doi:10.1093/jeea/jvag056</dc:identifier>
 <description><![CDATA[Abstract The Renaissance era in Western Europe was marked by a flourishing of economic and cultural life that gave rise to numerous discoveries and inventions. This paper studies the role played by Greek knowledge in this process. Using a newly constructed dataset on Greek migrants in Europe after the fall of Constantinople in 1453, I show that a Greek presence in the second half of the fifteenth century increased city growth in the sixteenth century. In terms of mechanisms, I find that a Greek presence increased the available knowledge stock in astronomy, mathematics, medicine, and humanistic subjects – fields in which ancient Greek and Byzantine knowledge was especially advanced. Finally, I document an increase in upper-tail human capital and inventions in these cities. My findings thus show the important role played by Greek migrants in disseminating knowledge and the positive impact that Greek knowledge exerted on city growth in the early modern period.]]></description>
 <content:encoded><![CDATA[Abstract The Renaissance era in Western Europe was marked by a flourishing of economic and cultural life that gave rise to numerous discoveries and inventions. This paper studies the role played by Greek knowledge in this process. Using a newly constructed dataset on Greek migrants in Europe after the fall of Constantinople in 1453, I show that a Greek presence in the second half of the fifteenth century increased city growth in the sixteenth century. In terms of mechanisms, I find that a Greek presence increased the available knowledge stock in astronomy, mathematics, medicine, and humanistic subjects – fields in which ancient Greek and Byzantine knowledge was especially advanced. Finally, I document an increase in upper-tail human capital and inventions in these cities. My findings thus show the important role played by Greek migrants in disseminating knowledge and the positive impact that Greek knowledge exerted on city growth in the early modern period.]]></content:encoded>
+</item>
+<item>
+<title>Macroeconomic Implications of Executive Pay Caps,</title>
+<link>https://doi.org/10.1093/jeea/jvag061</link>
+<guid isPermaLink="false">10.1093/jeea/jvag061</guid>
+<pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Francesco Caselli]]></dc:creator>
+<dc:identifier>doi:10.1093/jeea/jvag061</dc:identifier>
+<description><![CDATA[Abstract I study the introduction of statutory caps on executive pay ratios (pay caps) in a span-of-control economy with heterogeneous managerial talent. Managers hire fewer workers than they would in the absence of pay caps, and the marginal product of labour is not equalized among firms. The ability of the marginal manager declines. Inequality between managers and workers, and among managers, declines, but inequality among workers increases. Quantitatively, overall inequality decreases substantially, especially via a reduction in top income shares, but the GDP losses are also significant. In addition, the redistribution favours the “middle” deciles between 50 and 90, rather than the bottom 50% of the income distribution. Future work will build on this “first pass” to analyse the effect of pay caps in economies distorted by monopsony power, non-pecuniary benefits of control, and managerial rent extraction.]]></description>
+<content:encoded><![CDATA[Abstract I study the introduction of statutory caps on executive pay ratios (pay caps) in a span-of-control economy with heterogeneous managerial talent. Managers hire fewer workers than they would in the absence of pay caps, and the marginal product of labour is not equalized among firms. The ability of the marginal manager declines. Inequality between managers and workers, and among managers, declines, but inequality among workers increases. Quantitatively, overall inequality decreases substantially, especially via a reduction in top income shares, but the GDP losses are also significant. In addition, the redistribution favours the “middle” deciles between 50 and 90, rather than the bottom 50% of the income distribution. Future work will build on this “first pass” to analyse the effect of pay caps in economies distorted by monopsony power, non-pecuniary benefits of control, and managerial rent extraction.]]></content:encoded>
 </item>
 <item>
 <title>How do Households Respond to Expected Inflation? An Investigation of Transmission Mechanisms</title>
