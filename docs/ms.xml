@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 07 Oct 2026 13:08:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 23:00:44 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -51,6 +51,16 @@
 <dc:identifier>doi:10.1287/mksc.2024.1138</dc:identifier>
 <description><![CDATA[This paper examines how coalition loyalty programs enhance firms’ ability to price discriminate and shows why the optimal program size depends on market composition.]]></description>
 <content:encoded><![CDATA[This paper examines how coalition loyalty programs enhance firms’ ability to price discriminate and shows why the optimal program size depends on market composition.]]></content:encoded>
+</item>
+<item>
+<title>From Live to Recording: Consumer Demand and Response to Price Across the Livestreaming Lifecycle</title>
+<link>https://doi.org/10.1287/mksc.2024.1281</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1281</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ziwei Cong; Jia Liu; Puneet Manchanda]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1281</dc:identifier>
+<description><![CDATA[Using data from a knowledge-sharing platform that sells recorded versions of paid livestreams, this paper finds that demand is surprisingly more price sensitive before the event than after, which is explained partly by consumer self-selection and the lower quality uncertainty once the livestream ends.]]></description>
+<content:encoded><![CDATA[Using data from a knowledge-sharing platform that sells recorded versions of paid livestreams, this paper finds that demand is surprisingly more price sensitive before the event than after, which is explained partly by consumer self-selection and the lower quality uncertainty once the livestream ends.]]></content:encoded>
 </item>
 <item>
 <title>The Design of Centralized Matching Systems on Two-Sided Platforms: Evidence from the Ride-Hailing Market</title>
@@ -359,16 +369,6 @@
 <dc:identifier>doi:10.1287/mksc.2024.0948</dc:identifier>
 <description><![CDATA[Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.]]></description>
 <content:encoded><![CDATA[Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.]]></content:encoded>
-</item>
-<item>
-<title>Regional Poverty Alleviation Partnership and E-Commerce Trade</title>
-<link>https://doi.org/10.1287/mksc.2023.0214</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0214</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zemin (Zachary) Zhong; Wenyu Zhou; Jiewei Li; Peng Li]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0214</dc:identifier>
-<description><![CDATA[This paper examines how the East-West Poverty Alleviation Partnership, which pairs rich cities in East China with economically disadvantaged cities in West China, affects e-commerce trade.]]></description>
-<content:encoded><![CDATA[This paper examines how the East-West Poverty Alleviation Partnership, which pairs rich cities in East China with economically disadvantaged cities in West China, affects e-commerce trade.]]></content:encoded>
 </item>
 <item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>

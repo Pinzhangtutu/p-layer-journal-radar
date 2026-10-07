@@ -9,18 +9,9 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 07 Oct 2026 13:08:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 23:00:44 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>Time matters: Examining the influence of online food delivery on restaurant survival</title>
-<link>https://doi.org/10.1016/j.dss.2026.114667</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114667</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tingting Tong; Jizhou Lu; Nina Yan; Weiquan Wang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114667</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>Distinguishing good from bad in federated learning: A novel data fraud detection method using prototype learning and variational autoencoder</title>
 <link>https://doi.org/10.1016/j.dss.2026.114703</link>
@@ -46,15 +37,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xingpeng Xu; Xiapu Liu; Qingfeng Zeng; Songqiao Han; Weiguo Fan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114719</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Too alike to thrive? Personality and functionality similarity in virtual teams</title>
-<link>https://doi.org/10.1016/j.dss.2026.114775</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114775</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jingzhao An; Yanxin Wang; Xi Zhao]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114775</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -148,6 +130,15 @@
 <description></description>
 </item>
 <item>
+<title>Too alike to thrive? Personality and functionality similarity in virtual teams</title>
+<link>https://doi.org/10.1016/j.dss.2026.114775</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114775</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jingzhao An; Yanxin Wang; Xi Zhao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114775</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Exploring the involuntary and excessive use of mobile instant messaging for work-related purposes: A triangulated mixed-methods investigation</title>
 <link>https://doi.org/10.1016/j.dss.2026.114758</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114758</guid>
@@ -202,21 +193,21 @@
 <description></description>
 </item>
 <item>
-<title>From product sequence to sales: A prediction framework incorporating multi-source social cues in livestream e-commerce</title>
-<link>https://doi.org/10.1016/j.dss.2026.114777</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114777</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Junru Xiao; Runyu Chen; Yangyuqi He; Jiayi Li]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114777</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>CirrhosisCare: a decision support system enabled by complication-aware deep learning to predict one-year mortality among cirrhotic patients</title>
 <link>https://doi.org/10.1016/j.dss.2026.114772</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114772</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hamid Reza Firoozfar; Da Xu; Paul Jen-Hwa Hu; San-Yih Hwang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114772</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From product sequence to sales: A prediction framework incorporating multi-source social cues in livestream e-commerce</title>
+<link>https://doi.org/10.1016/j.dss.2026.114777</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114777</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junru Xiao; Runyu Chen; Yangyuqi He; Jiayi Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114777</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -379,6 +370,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tizian Matschak; Ilja Nastjuk; Simon Trang; Jose Benitez]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114721</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Network-based decision support for cold-start user prioritization in P2P platforms: The value of entry-community information</title>
+<link>https://doi.org/10.1016/j.dss.2026.114780</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114780</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pantelis Loupos; Moran Cerf]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114780</dc:identifier>
 <description></description>
 </item>
 <item>
