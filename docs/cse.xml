@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 13:16:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -229,12 +229,12 @@
 <description></description>
 </item>
 <item>
-<title>Topic landscapes and cross-period semantic connections in Computers &amp; Education</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105758</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105758</guid>
+<title>Instructional Approaches and Content Knowledge in Teaching Computational Thinking: A Large-Scale Study</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105759</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105759</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xieling Chen; Di Zou; Haoran Xie; S. Joe Qin]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105758</dc:identifier>
+<dc:creator><![CDATA[Sara Monteyne; Charlotte Struyve; Johan van Braak; Koen Aesaert]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105759</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -244,6 +244,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zicong Song; Chun Lai; Xianhan Huang; Chin-Hsi Lin]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105654</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Topic landscapes and cross-period semantic connections in Computers &amp; Education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105758</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105758</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xieling Chen; Di Zou; Haoran Xie; S. Joe Qin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105758</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -280,15 +289,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Markus Lörz; Birgit Becker; Jan Niemann; Kerstin Drossel; Birgit Eickelmann]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105637</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Socioeconomic inequalities in digital practices and outcomes: Evidence from OECD countries</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105660</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105660</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Seong Won Han]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105660</dc:identifier>
 <description></description>
 </item>
 <item>

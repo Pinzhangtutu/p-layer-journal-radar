@@ -9,27 +9,9 @@
 <description>CA — University of Chicago Press · Latest in: Online First · Subfield: anthropology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ca.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 13:16:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>The Diaspora of Pre-Columbian Objects from Atacama into a Global Network of Goods, Collectors, and Museums between 1850 and 1950</title>
-<link>https://doi.org/10.1086/742991</link>
-<guid isPermaLink="false">10.1086/742991</guid>
-<pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Benjamín Ballester]]></dc:creator>
-<dc:identifier>doi:10.1086/742991</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>“One of Us or One of Them”</title>
-<link>https://doi.org/10.1086/743006</link>
-<guid isPermaLink="false">10.1086/743006</guid>
-<pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jaymelee Kim; Lucia Elgerud]]></dc:creator>
-<dc:identifier>doi:10.1086/743006</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>How the Churches Serve the State</title>
 <link>https://doi.org/10.1086/739210</link>
@@ -289,10 +271,81 @@
 <description></description>
 </item>
 <item>
+<title>The Diaspora of Pre-Columbian Objects from Atacama into a Global Network of Goods, Collectors, and Museums between 1850 and 1950</title>
+<link>https://doi.org/10.1086/742991</link>
+<guid isPermaLink="false">10.1086/742991</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjamín Ballester]]></dc:creator>
+<dc:identifier>doi:10.1086/742991</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Negotiating Gender and Justice</title>
+<link>https://doi.org/10.1086/743067</link>
+<guid isPermaLink="false">10.1086/743067</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruşen Bingül]]></dc:creator>
+<dc:identifier>doi:10.1086/743067</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Moving to the Center of the Earth</title>
+<link>https://doi.org/10.1086/742929</link>
+<guid isPermaLink="false">10.1086/742929</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nurit Stadler]]></dc:creator>
+<dc:identifier>doi:10.1086/742929</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Interracial Publics</title>
+<link>https://doi.org/10.1086/742629</link>
+<guid isPermaLink="false">10.1086/742629</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sebastian Jackson]]></dc:creator>
+<dc:identifier>doi:10.1086/742629</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Judeo-Arabic Debates</title>
+<link>https://doi.org/10.1086/742736</link>
+<guid isPermaLink="false">10.1086/742736</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jonathan Glasser]]></dc:creator>
+<dc:identifier>doi:10.1086/742736</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Blurring Islam</title>
+<link>https://doi.org/10.1086/743068</link>
+<guid isPermaLink="false">10.1086/743068</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Waseem Naser]]></dc:creator>
+<dc:identifier>doi:10.1086/743068</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/744383</link>
+<guid isPermaLink="false">10.1086/744383</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744383</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>“One of Us or One of Them”</title>
+<link>https://doi.org/10.1086/743006</link>
+<guid isPermaLink="false">10.1086/743006</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jaymelee Kim; Lucia Elgerud]]></dc:creator>
+<dc:identifier>doi:10.1086/743006</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>An Archaeology of Redress</title>
 <link>https://doi.org/10.1086/742838</link>
 <guid isPermaLink="false">10.1086/742838</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Justin Dunnavant; Ayana Omilade Flewellen]]></dc:creator>
 <dc:identifier>doi:10.1086/742838</dc:identifier>
 <description></description>
@@ -301,27 +354,17 @@
 <title>Queer Muslim Subjectivity</title>
 <link>https://doi.org/10.1086/742728</link>
 <guid isPermaLink="false">10.1086/742728</guid>
-<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Viola Thimm]]></dc:creator>
 <dc:identifier>doi:10.1086/742728</dc:identifier>
 <description></description>
 </item>
 <item>
-<title>Moving to the Center of the Earth</title>
-<link>https://doi.org/10.1086/742929</link>
-<guid isPermaLink="false">10.1086/742929</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nurit Stadler]]></dc:creator>
-<dc:identifier>doi:10.1086/742929</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Blurring Islam</title>
-<link>https://doi.org/10.1086/743068</link>
-<guid isPermaLink="false">10.1086/743068</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Waseem Naser]]></dc:creator>
-<dc:identifier>doi:10.1086/743068</dc:identifier>
+<title>Front Cover</title>
+<link>https://doi.org/10.1086/744382</link>
+<guid isPermaLink="false">10.1086/744382</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744382</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -357,24 +400,6 @@
 <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Naor Ben-Yehoyada]]></dc:creator>
 <dc:identifier>doi:10.1086/739814</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A Comment on Alvi and Werth 2024</title>
-<link>https://doi.org/10.1086/739952</link>
-<guid isPermaLink="false">10.1086/739952</guid>
-<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Guido Sprenger]]></dc:creator>
-<dc:identifier>doi:10.1086/739952</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Plantation Liberalism</title>
-<link>https://doi.org/10.1086/739995</link>
-<guid isPermaLink="false">10.1086/739995</guid>
-<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alyssa Paredes]]></dc:creator>
-<dc:identifier>doi:10.1086/739995</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -596,33 +621,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Helena Zeweri]]></dc:creator>
 <dc:identifier>doi:10.1086/741095</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Judeo-Arabic Debates</title>
-<link>https://doi.org/10.1086/742736</link>
-<guid isPermaLink="false">10.1086/742736</guid>
-<pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jonathan Glasser]]></dc:creator>
-<dc:identifier>doi:10.1086/742736</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Negotiating Gender and Justice</title>
-<link>https://doi.org/10.1086/743067</link>
-<guid isPermaLink="false">10.1086/743067</guid>
-<pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruşen Bingül]]></dc:creator>
-<dc:identifier>doi:10.1086/743067</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Interracial Publics</title>
-<link>https://doi.org/10.1086/742629</link>
-<guid isPermaLink="false">10.1086/742629</guid>
-<pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sebastian Jackson]]></dc:creator>
-<dc:identifier>doi:10.1086/742629</dc:identifier>
 <description></description>
 </item>
 </channel>

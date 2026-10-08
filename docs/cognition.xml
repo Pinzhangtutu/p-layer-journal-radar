@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 13:16:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -319,15 +319,6 @@
 <description></description>
 </item>
 <item>
-<title>Silent coach: The role of inner speech in learning and performing new chunked actions</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106649</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106649</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Angelo Mattia Gervasi; Claudia Mazzuca; Anna M. Borghi; Claudio Brozzoli]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106649</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Cross-modal social attention differs across emotional categories: Evidence from biological motion and gaze cues</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106721</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106721</guid>
@@ -559,6 +550,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ziwei Chen; Lingyu Zhao; Chuyu Wang; Yongning Song]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106720</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Postural configurations as micro-ecological constraints: How embodied arrangements shape the emergence of bodily-visual communication</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106736</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106736</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marek Placiński; Jonas Nölle; Marta Sibierska; Bartłomiej Kiljanek; Klaudia Karkowska; Przemysław Żywiczyński]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106736</dc:identifier>
 <description></description>
 </item>
 <item>

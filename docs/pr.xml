@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 13:16:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -229,15 +229,6 @@
 <description></description>
 </item>
 <item>
-<title>Learning from generic language.</title>
-<link>https://doi.org/10.1037/rev0000632</link>
-<guid isPermaLink="false">10.1037/rev0000632</guid>
-<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael Henry Tessler; Noah D. Goodman]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000632</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Perception and action as one: Re-integrating research on human action through event files.</title>
 <link>https://doi.org/10.1037/rev0000634</link>
 <guid isPermaLink="false">10.1037/rev0000634</guid>
@@ -253,15 +244,6 @@
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ivan Tomić; Sebastian Schneegans; Paul M. Bays]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000645</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Risk matters less when options are apples-to-oranges: The translate-and-accommodate model.</title>
-<link>https://doi.org/10.1037/rev0000633</link>
-<guid isPermaLink="false">10.1037/rev0000633</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Evan Weingarten; Yuval Rottenstreich; George Wu]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000633</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -317,14 +299,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Risk Matters Less When Options Are Apples-to-Oranges: The Translate-and-Accommodate Model</title>
-<link>https://doi.org/10.1037/rev0000633.supp</link>
-<guid isPermaLink="false">10.1037/rev0000633.supp</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/rev0000633.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Talking the Talk, Not Walking the Walk: The Coevolution of Overconfidence and Loss Aversion</title>
 <link>https://doi.org/10.1037/rev0000644.supp</link>
 <guid isPermaLink="false">10.1037/rev0000644.supp</guid>
@@ -368,12 +342,93 @@
 <description></description>
 </item>
 <item>
+<title>Is visual perception WEIRD? The Müller-Lyer illusion and the cultural byproduct hypothesis.</title>
+<link>https://doi.org/10.1037/rev0000549</link>
+<guid isPermaLink="false">10.1037/rev0000549</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dorsa Amir; Chaz Firestone]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000549</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Attentional dynamics explain the elusive nature of context effects.</title>
+<link>https://doi.org/10.1037/rev0000606</link>
+<guid isPermaLink="false">10.1037/rev0000606</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jennifer S. Trueblood; Yanjun Liu; Matthew Murrow; William M. Hayes; William R. Holmes]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000606</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A diffusion-based framework for modeling systematic, time-varying cognitive processes.</title>
+<link>https://doi.org/10.1037/rev0000609</link>
+<guid isPermaLink="false">10.1037/rev0000609</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Manikya Alister; Nathan J. Evans]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000609</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Why learners privilege word-order over case-marking: A cross-linguistic meta-analysis, new data from Estonian, Finnish and Polish, and a discriminative learning model.</title>
+<link>https://doi.org/10.1037/rev0000560</link>
+<guid isPermaLink="false">10.1037/rev0000560</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joanna Kolak; Virve Vihman; Felix Engelmann; Sonia Granlund; Anna Theakston; Elena V. M. Lieven; Julian M. Pine; Judit Fazekas; Ben Ambridge]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000560</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Referential retrieval and integration in language comprehension: An electrophysiological perspective.</title>
+<link>https://doi.org/10.1037/rev0000530</link>
+<guid isPermaLink="false">10.1037/rev0000530</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Noortje J. Venhuizen; Harm Brouwer]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000530</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Associative learning explains “intuitive statistics” in animals.</title>
+<link>https://doi.org/10.1037/rev0000626</link>
+<guid isPermaLink="false">10.1037/rev0000626</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stefano Ghirlanda; Janelle Mendoza]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000626</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Risk matters less when options are apples-to-oranges: The translate-and-accommodate model.</title>
+<link>https://doi.org/10.1037/rev0000633</link>
+<guid isPermaLink="false">10.1037/rev0000633</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Evan Weingarten; Yuval Rottenstreich; George Wu]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000633</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Learning from generic language.</title>
+<link>https://doi.org/10.1037/rev0000632</link>
+<guid isPermaLink="false">10.1037/rev0000632</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michael Henry Tessler; Noah D. Goodman]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000632</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Carving stories at their natural joints.</title>
 <link>https://doi.org/10.1037/rev0000648</link>
 <guid isPermaLink="false">10.1037/rev0000648</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Edgar Dubourg; Valentin Thouzeau; Thomas Beuchot; Constant Bonard; Pascal Boyer; Coralie Chevallier; Mathias Clasen; Mélusine Boon-Falleur; Grégory Fiorio; Léo Fitouchi; Maryanne L. Fisher; Ana Gantman; Ania Grant; Marc Hye-Knudsen; Tanay Katiyar; Jens Kjeldgaard-Christiansen; Marius Mercier; Hugo Mercier; Olivier Morin; Catherine Salmon; Thom Scott-Phillips; Coltan Scrivner; Amine Sijilmassi; Manvir Singh; Murray Smith; Oleg Sobchuk; Joseph M. Stubbersfield; Michael E. W. Varnum; Valerie van Mulukom; Jan Verpooten; Jordan Wylie; Ying Zhong; Nicolas Baumard]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000648</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Breaking the chains: Toward a neural-level account of episodic memory.</title>
+<link>https://doi.org/10.1037/rev0000571</link>
+<guid isPermaLink="false">10.1037/rev0000571</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Andrej Bicanski]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000571</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -386,66 +441,21 @@
 <description></description>
 </item>
 <item>
+<title>Reconceptualizing co-rumination: A novel theoretical and multidisciplinary perspective.</title>
+<link>https://doi.org/10.1037/rev0000601</link>
+<guid isPermaLink="false">10.1037/rev0000601</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ana M. DiGiovanni; Ashley Tudder; Brett J. Peters]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000601</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Beliefs about perception shape perceptual inference: An ideal observer model of detection.</title>
 <link>https://doi.org/10.1037/rev0000552</link>
 <guid isPermaLink="false">10.1037/rev0000552</guid>
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Matan Mazor; Rani Moran; Clare Press]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000552</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Cognitive network enrichment, not degradation, explains the aging mental lexicon and links fluid and crystallized intelligence.</title>
-<link>https://doi.org/10.1037/rev0000557</link>
-<guid isPermaLink="false">10.1037/rev0000557</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Thomas T. Hills]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000557</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>In defense of the double empathy problem hypothesis: An urgently needed alternative to fallacies and injustices in mainstream autism research.</title>
-<link>https://doi.org/10.1037/rev0000605</link>
-<guid isPermaLink="false">10.1037/rev0000605</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Caroline Bollen; Janna van Grunsven]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000605</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A cascading effects model of early sensory development in autism.</title>
-<link>https://doi.org/10.1037/rev0000558</link>
-<guid isPermaLink="false">10.1037/rev0000558</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Natalie Russo; Autism Sensory Research Consortium; Carissa J. Cascio; Grace T. Baranek; Tiffany G. Woynaroski; Zachary J. Williams; Shulamite A. Green; Roseann Schaaf]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000558</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The enchronic envelope.</title>
-<link>https://doi.org/10.1037/rev0000553</link>
-<guid isPermaLink="false">10.1037/rev0000553</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[N. J. Enfield]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000553</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Do bilingual advantages in domain-general executive functioning occur in everyday life and/or when performance-based measures have excellent psychometric properties?</title>
-<link>https://doi.org/10.1037/rev0000537</link>
-<guid isPermaLink="false">10.1037/rev0000537</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kenneth R. Paap; John Majoubi; Regina T. Anders-Jefferson; Rin Iosilevsky; Charlotte Ursula Tate]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000537</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Causation, meaning, and communication.</title>
-<link>https://doi.org/10.1037/rev0000548</link>
-<guid isPermaLink="false">10.1037/rev0000548</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ari Beller; Tobias Gerstenberg]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000548</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -481,15 +491,6 @@
 <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Pritam Laskar; Raoul P. P. P. Grasman; Maartje E. J. Raijmakers; Ale Jan Homburg; Brenda R. J. Jansen; Han L. J. van der Maas]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000627</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Associative learning explains “intuitive statistics” in animals.</title>
-<link>https://doi.org/10.1037/rev0000626</link>
-<guid isPermaLink="false">10.1037/rev0000626</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Stefano Ghirlanda; Janelle Mendoza]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000626</dc:identifier>
 <description></description>
 </item>
 <item>

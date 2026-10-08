@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 13:16:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -281,6 +281,16 @@
 <content:encoded><![CDATA[Using AI-generated headshots that vary only in femininity, a field experiment finds that consumers discriminate against femininity independently of gender identity.]]></content:encoded>
 </item>
 <item>
+<title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
+<link>https://doi.org/10.1287/mksc.2024.1280</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1280</guid>
+<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xinyao Kong; Jean-Pierre Dubé; Vaness Alwan]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1280</dc:identifier>
+<description><![CDATA[We study the identification of the discount factor for dynamic discrete-choice (DDC) models of demand with stockpiling of a storable good. We show that the DDC has built-in exclusion restrictions that set-identify the discount factor without requiring any auxiliary assumptions. We compare this approach to previous work that assumes auxiliary structure on the storage cost function, clarifying how such structure generates exclusion restrictions and the corresponding data moments used for identification. Our key results show that these auxiliary restrictions are not necessary for identification; but that they are testable and can be included to achieve point identification and improve statistical efficiency. Using a case study of laundry detergent from earlier published work, we find a mean discount factor estimate of $0.957$, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerably higher incremental sales compared to a standard discrete-choice model, which predicts that promotional discounts mainly cause substitution between brands. These results contribute to the long-standing discussion about the effectiveness of price promotions.]]></description>
+<content:encoded><![CDATA[We study the identification of the discount factor for dynamic discrete-choice (DDC) models of demand with stockpiling of a storable good. We show that the DDC has built-in exclusion restrictions that set-identify the discount factor without requiring any auxiliary assumptions. We compare this approach to previous work that assumes auxiliary structure on the storage cost function, clarifying how such structure generates exclusion restrictions and the corresponding data moments used for identification. Our key results show that these auxiliary restrictions are not necessary for identification; but that they are testable and can be included to achieve point identification and improve statistical efficiency. Using a case study of laundry detergent from earlier published work, we find a mean discount factor estimate of $0.957$, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerably higher incremental sales compared to a standard discrete-choice model, which predicts that promotional discounts mainly cause substitution between brands. These results contribute to the long-standing discussion about the effectiveness of price promotions.]]></content:encoded>
+</item>
+<item>
 <title>Does Premium Version Adoption in mHealth Improve User Engagement and Health-Related Outcomes?</title>
 <link>https://doi.org/10.1287/mksc.2022.0437</link>
 <guid isPermaLink="false">10.1287/mksc.2022.0437</guid>
@@ -359,16 +369,6 @@
 <dc:identifier>doi:10.1287/mksc.2023.0106</dc:identifier>
 <description><![CDATA[A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.]]></description>
 <content:encoded><![CDATA[A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.]]></content:encoded>
-</item>
-<item>
-<title>Shrinkflation and Consumer Demand</title>
-<link>https://doi.org/10.1287/mksc.2024.0948</link>
-<guid isPermaLink="false">10.1287/mksc.2024.0948</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Aljoscha Janssen; Johannes Kasinger]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2024.0948</dc:identifier>
-<description><![CDATA[Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.]]></description>
-<content:encoded><![CDATA[Using decade-long U.S. grocery scanner data, we quantify shrinkflation’s prevalence and show consumers scarcely adjust demand despite higher per-ounce prices.]]></content:encoded>
 </item>
 <item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>

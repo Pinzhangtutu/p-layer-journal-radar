@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 13:16:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -256,6 +256,15 @@
 <description></description>
 </item>
 <item>
+<title>Optimal tax under dispersed and distorted beliefs</title>
+<link>https://doi.org/10.1016/j.jet.2026.106266</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106266</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Deepal Basak; Yunhui Zhao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106266</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Ex post strategy-proofness</title>
 <link>https://doi.org/10.1016/j.jet.2026.106257</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106257</guid>
@@ -343,15 +352,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Gregorio Curello; Ludvig Sinander; Mark Whitmeyer]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106231</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Optimal Tax under Dispersed and Distorted Beliefs</title>
-<link>https://doi.org/10.1016/j.jet.2026.106266</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106266</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Deepal Basak; Yunhui Zhao]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106266</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 13:16:12 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -46,6 +46,51 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kristin Laurin; Holly R. Engstrom; Toni Schmader; Khai Qing Chua; Nadav Klein; Stéphane Côté]]></dc:creator>
 <dc:identifier>doi:10.1037/pspi0000497</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Exploring the socioeconomic pattern of humans’ future orientation: A multimethod multistudy approach.</title>
+<link>https://doi.org/10.1037/pspp0000598</link>
+<guid isPermaLink="false">10.1037/pspp0000598</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alejandro Díaz-Guerra; Mirko Antino; Rafael Caballero; Alfredo Rodríguez-Muñoz; Alejandro Vásquez-Echeverría]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000598</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Do people across the world want to remember positive ingroup histories?</title>
+<link>https://doi.org/10.1037/pspi0000513</link>
+<guid isPermaLink="false">10.1037/pspi0000513</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fiona Kazarovytska; Katrín Árnadóttir; Silvana D'Ottone; Slieman Halabi; Edward Clarke; Suryodaya Sharma; Verena Heidrich; Roland Imhoff]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000513</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The dispositional basis of selective prosociality.</title>
+<link>https://doi.org/10.1037/pspp0000583</link>
+<guid isPermaLink="false">10.1037/pspp0000583</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Büsra Elif Yelbuz; Isabel Thielmann]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000583</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Belief in a diversity–meritocracy trade-off.</title>
+<link>https://doi.org/10.1037/pspa0000482</link>
+<guid isPermaLink="false">10.1037/pspa0000482</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Evan P. Apfelbaum; Eileen Y. Suh; Yue Wu]]></dc:creator>
+<dc:identifier>doi:10.1037/pspa0000482</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Finding agreement: Functional magnetic resonance imaging hyperscanning reveals that mental state space exploration facilitates opinion alignment.</title>
+<link>https://doi.org/10.1037/pspa0000484</link>
+<guid isPermaLink="false">10.1037/pspa0000484</guid>
+<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sebastian P. H. Speer; Haran Sened; Laetitia Mwilambwe-Tshilobo; Lily Tsoi; Shannon M. Burns; Emily B. Falk; Diana I. Tamir]]></dc:creator>
+<dc:identifier>doi:10.1037/pspa0000484</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -190,20 +235,20 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
-<link>https://doi.org/10.1037/pspp0000612.supp</link>
-<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>“Yeah, it’s biased, but … ”: Recognition versus moral condemnation of bias across party lines.</title>
 <link>https://doi.org/10.1037/pspa0000492</link>
 <guid isPermaLink="false">10.1037/pspa0000492</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hannah B. Waldfogel; Brittany C. Solomon; Matthew E. K. Hall]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000492</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Dynamic Processes in Narcissism and Affect Across Chinese and American Individuals: A Registered Report</title>
+<link>https://doi.org/10.1037/pspp0000612.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000612.supp</guid>
+<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000612.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -220,14 +265,6 @@
 <guid isPermaLink="false">10.1037/pspi0000535.supp</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000535.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for When and Why Are Social Categories Overused Relative to Individuating Information? A Bayesian Approach to Identifying Biases in Impression Formation Processes</title>
-<link>https://doi.org/10.1037/pspa0000495.supp</link>
-<guid isPermaLink="false">10.1037/pspa0000495.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspa0000495.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -455,22 +492,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Judged by Humans, Comforted by Machines: How Psychological Expectations Shape Experiences and Perceptions of AI Support</title>
-<link>https://doi.org/10.1037/pspa0000494.supp</link>
-<guid isPermaLink="false">10.1037/pspa0000494.supp</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspa0000494.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for The Family Environment in Late Childhood and Early Adolescence as a Predictor of Narcissism in Emerging Adulthood: Findings From a 17-Year Longitudinal Study of Mexican-Origin Youth</title>
-<link>https://doi.org/10.1037/pspp0000614.supp</link>
-<guid isPermaLink="false">10.1037/pspp0000614.supp</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspp0000614.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for The Perceived Whiteness of Artificial Intelligence</title>
 <link>https://doi.org/10.1037/pspi0000533.supp</link>
 <guid isPermaLink="false">10.1037/pspi0000533.supp</guid>
@@ -510,14 +531,6 @@
 <guid isPermaLink="false">10.1037/pspi0000529.supp</guid>
 <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000529.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for “Yeah, It’s Biased, But … ”: Recognition Versus Moral Condemnation of Bias Across Party Lines</title>
-<link>https://doi.org/10.1037/pspa0000492.supp</link>
-<guid isPermaLink="false">10.1037/pspa0000492.supp</guid>
-<pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspa0000492.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -587,14 +600,6 @@
 <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael D. Krämer; Amanda J. Wright; Peter Haehner; Johannes Zimmermann; Christoph Flückiger; Christopher J. Hopwood; Wiebke Bleidorn]]></dc:creator>
 <dc:identifier>doi:10.1037/pspp0000610</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for The Link Between Self-Esteem and Aggression: A Meta-Analysis of Longitudinal Studies</title>
-<link>https://doi.org/10.1037/pspp0000613.supp</link>
-<guid isPermaLink="false">10.1037/pspp0000613.supp</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspp0000613.supp</dc:identifier>
 <description></description>
 </item>
 <item>
