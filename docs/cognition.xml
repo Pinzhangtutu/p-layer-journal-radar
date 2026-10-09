@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 09 Oct 2026 13:02:48 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 22:32:53 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -112,21 +112,21 @@
 <description></description>
 </item>
 <item>
-<title>Coherence and the memorability of supernatural concepts</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106661</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106661</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Joseph Sommer; Julien Musolino; Pernille Hemmer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106661</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Multiple motor systems spontaneously track speech structures at distinct levels with individual variability</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106666</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106666</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lu Luo; Xiaoyu Zhang; Lingxi Lu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106666</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Coherence and the memorability of supernatural concepts</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106661</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106661</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joseph Sommer; Julien Musolino; Pernille Hemmer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106661</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -166,21 +166,21 @@
 <description></description>
 </item>
 <item>
-<title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106672</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>English-hearing toddlers learn words from consistent and variable labels</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106647</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106647</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kennedy Casey; Casey Lew-Williams]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106647</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106672</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -301,15 +301,6 @@
 <description></description>
 </item>
 <item>
-<title>Individual differences in overconfidence: A common core and its motivational and cognitive correlates</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106665</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106665</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[M. Asher Lawson; Richard P. Larrick; Jack B. Soll]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106665</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Processing negation may demonstrate compositionality in rhesus macaques</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106638</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106638</guid>
@@ -373,6 +364,15 @@
 <description></description>
 </item>
 <item>
+<title>Aversive learning retroactively modulates neutral episodic memories structured by prior knowledge of predictive sequences</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106731</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106731</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Blazej M. Baczkowski; Arno Villringer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106731</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>The role of pitch in the vocal communication of intentions</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106714</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106714</guid>
@@ -391,21 +391,21 @@
 <description></description>
 </item>
 <item>
-<title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106723</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yaxin Liu; Stella F. Lourenco]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106723</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The objecthood of visual working memory representations influences their interaction with attention</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106727</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106723</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yaxin Liu; Stella F. Lourenco]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106723</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,21 +436,21 @@
 <description></description>
 </item>
 <item>
-<title>AI is not as conscious as humans: Essentialism in mental state attributions to artificial systems</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106733</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106733</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Louis Longin; Jurgis Karpus; Nadine Meertens; Bahador Bahrami; Ophelia Deroy]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106733</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Joint processing of arrow direction and number magnitude strengthens Spatial-Numerical Associations: evidence from a modified flanker task</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106719</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106719</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Valter Prpic; Stefano Pileggi; Federico D'Atri; Mauro Murgia; Carlo Fantoni; Dražen Domijan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106719</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>AI is not as conscious as humans: Essentialism in mental state attributions to artificial systems</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106733</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106733</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Louis Longin; Jurgis Karpus; Nadine Meertens; Bahador Bahrami; Ophelia Deroy]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106733</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -490,21 +490,21 @@
 <description></description>
 </item>
 <item>
-<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Semantic generation masks value directed remembering in memory but not metamemory: Evidence from truth-telling and lie fabrication</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106730</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106730</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Samet Kaya; Miri Besken]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106730</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -526,21 +526,21 @@
 <description></description>
 </item>
 <item>
-<title>Suboptimal but intact integration of reward information during perceptual decision-making in autism</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106716</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106716</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Social feedback informs generalisation of control beliefs</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106704</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106704</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jennifer C. Fielder; Essi Viding; Quentin J.M. Huys; Nikolaus Steinbeis]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106704</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Suboptimal but intact integration of reward information during perceptual decision-making in autism</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106716</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106716</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
 <description></description>
 </item>
 <item>
