@@ -9,7 +9,7 @@
 <description>AEJMicro — AEA · Latest in: Forthcoming · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aejmicro.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 05:48:26 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -257,16 +257,6 @@
 <content:encoded><![CDATA[We study the role of information in Bertrand competition with differentiated goods and heterogeneous production costs. When producers know their costs and consumers know their values, consumer surplus and total surplus are aligned, in the sense that the information and equilibrium that maximize consumer surplus also maximize total surplus. Alignment may fail if consumers do not know their values: Partial information about values makes purchases less efficient but intensifies price competition. We illustrate this within a Hotelling duopoly framework. (JEL D11, D43, D82, D83)]]></content:encoded>
 </item>
 <item>
-<title>Heterogeneous Noise and Stable Miscoordination</title>
-<link>https://doi.org/10.1257/mic.20240109</link>
-<guid isPermaLink="false">10.1257/mic.20240109</guid>
-<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Srinivas Arigapudi; Yuval Heller; Amnon Schreiber]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20240109</dc:identifier>
-<description><![CDATA[Coordination games feature two types of equilibria: pure equilibria, where players successfully coordinate their actions, and mixed equilibria, where players frequently experience miscoordination. We investigate learning dynamics where agents observe the actions of a random sample of their opponents. First, we show that when all agents have the same sample size, whether it is small or large, their behavior converges to one of the pure coordinated equilibria. By contrast, our main results show that stable miscoordination often persists when some agents make decisions based on small samples while others rely on large samples. (JEL C72, C73, C78)]]></description>
-<content:encoded><![CDATA[Coordination games feature two types of equilibria: pure equilibria, where players successfully coordinate their actions, and mixed equilibria, where players frequently experience miscoordination. We investigate learning dynamics where agents observe the actions of a random sample of their opponents. First, we show that when all agents have the same sample size, whether it is small or large, their behavior converges to one of the pure coordinated equilibria. By contrast, our main results show that stable miscoordination often persists when some agents make decisions based on small samples while others rely on large samples. (JEL C72, C73, C78)]]></content:encoded>
-</item>
-<item>
 <title>Common Ownership and Market Entry: Evidence from the Pharmaceutical Industry</title>
 <link>https://doi.org/10.1257/mic.20220220</link>
 <guid isPermaLink="false">10.1257/mic.20220220</guid>
@@ -275,6 +265,16 @@
 <dc:identifier>doi:10.1257/mic.20220220</dc:identifier>
 <description><![CDATA[Common ownership—where several firms are (partially) owned by the same investors—and its impact on product market competition has recently drawn much attention. This paper focuses on its implications for market entry. We consider the entry decisions of generic pharmaceutical firms into drug markets that are opened up by the end of regulatory protection and which were previously dominated by a single firm selling the brand name drug. We find robust evidence that an increase in common ownership leads to a significant reduction in generic entry. (JEL D22, G32, L13, L51, L65, M31)]]></description>
 <content:encoded><![CDATA[Common ownership—where several firms are (partially) owned by the same investors—and its impact on product market competition has recently drawn much attention. This paper focuses on its implications for market entry. We consider the entry decisions of generic pharmaceutical firms into drug markets that are opened up by the end of regulatory protection and which were previously dominated by a single firm selling the brand name drug. We find robust evidence that an increase in common ownership leads to a significant reduction in generic entry. (JEL D22, G32, L13, L51, L65, M31)]]></content:encoded>
+</item>
+<item>
+<title>Heterogeneous Noise and Stable Miscoordination</title>
+<link>https://doi.org/10.1257/mic.20240109</link>
+<guid isPermaLink="false">10.1257/mic.20240109</guid>
+<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Srinivas Arigapudi; Yuval Heller; Amnon Schreiber]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240109</dc:identifier>
+<description><![CDATA[Coordination games feature two types of equilibria: pure equilibria, where players successfully coordinate their actions, and mixed equilibria, where players frequently experience miscoordination. We investigate learning dynamics where agents observe the actions of a random sample of their opponents. First, we show that when all agents have the same sample size, whether it is small or large, their behavior converges to one of the pure coordinated equilibria. By contrast, our main results show that stable miscoordination often persists when some agents make decisions based on small samples while others rely on large samples. (JEL C72, C73, C78)]]></description>
+<content:encoded><![CDATA[Coordination games feature two types of equilibria: pure equilibria, where players successfully coordinate their actions, and mixed equilibria, where players frequently experience miscoordination. We investigate learning dynamics where agents observe the actions of a random sample of their opponents. First, we show that when all agents have the same sample size, whether it is small or large, their behavior converges to one of the pure coordinated equilibria. By contrast, our main results show that stable miscoordination often persists when some agents make decisions based on small samples while others rely on large samples. (JEL C72, C73, C78)]]></content:encoded>
 </item>
 <item>
 <title>Front Matter</title>

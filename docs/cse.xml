@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 08 Oct 2026 23:14:31 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 05:48:26 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -220,15 +220,6 @@
 <description></description>
 </item>
 <item>
-<title>Technology-enhanced second language learning in Computers &amp; Education: A 50-year review of outcomes, technical affordances, theoretical frameworks, and their connections</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105762</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105762</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruofei Zhang; Di Zou; Sangmin-Michelle Lee]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105762</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Instructional Approaches and Content Knowledge in Teaching Computational Thinking: A Large-Scale Study</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105759</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105759</guid>
@@ -238,12 +229,12 @@
 <description></description>
 </item>
 <item>
-<title>What teachers discuss and how they perceive and feel: Topic modeling and sentiment analysis of a generative artificial intelligence learning group on facebook</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105654</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105654</guid>
+<title>Technology-enhanced second language learning in Computers &amp; Education: A 50-year review of outcomes, technical affordances, theoretical frameworks, and their connections</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105762</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105762</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zicong Song; Chun Lai; Xianhan Huang; Chin-Hsi Lin]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105654</dc:identifier>
+<dc:creator><![CDATA[Ruofei Zhang; Di Zou; Sangmin-Michelle Lee]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105762</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -253,6 +244,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xieling Chen; Di Zou; Haoran Xie; S. Joe Qin]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105758</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What teachers discuss and how they perceive and feel: Topic modeling and sentiment analysis of a generative artificial intelligence learning group on facebook</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105654</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105654</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zicong Song; Chun Lai; Xianhan Huang; Chin-Hsi Lin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105654</dc:identifier>
 <description></description>
 </item>
 <item>
