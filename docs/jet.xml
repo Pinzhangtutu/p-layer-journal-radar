@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 10 Oct 2026 12:19:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 21:30:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -37,15 +37,6 @@
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Joel Sobel]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106148</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Stochastic sorting</title>
-<link>https://doi.org/10.1016/j.jet.2026.106146</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106146</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hector Chade; Jan Eeckhout]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106146</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -361,6 +352,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jiabin Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106233</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Buyer Verification and Endogenous Quality</title>
+<link>https://doi.org/10.1016/j.jet.2026.106267</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
 <description></description>
 </item>
 <item>

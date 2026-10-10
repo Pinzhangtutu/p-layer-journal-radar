@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 10 Oct 2026 12:19:37 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 21:30:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -427,24 +427,6 @@
 <description></description>
 </item>
 <item>
-<title>Sense of belonging and professional identity in first year students’ peer networks</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102426</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102426</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pieter M. van Lamoen; Marieke Meeuwisse; Annemarie M.F. Hiemstra; Lidia R. Arends; Sabine E. Severiens; Jasperina Brouwer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102426</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Driving theories along the developmental path toward improved learning and instruction: A road less traveled</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102430</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102430</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Patricia A. Alexander]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102430</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Teachers' attitudes toward students' mistakes and students’ mathematical creativity: The mediating role of diagnostic skills in a multi-level model based on organizational creative theory</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102488</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102488</guid>
@@ -463,21 +445,21 @@
 <description></description>
 </item>
 <item>
-<title>Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102462</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102462</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heike Russ; Tino Endres; Leonie Sibley; Salome Flegr; Jochen Kuhn; Vincent Hoogerheide; Katharina Scheiter; Andreas Lachner]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102462</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Can elementary schools compensate for disparities across Europe?</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102458</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102458</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Thomas Brüggemann; Ulrich Ludewig; Jakob Schwerter; Nele McElvany; Philipp Doebler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102458</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102462</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102462</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heike Russ; Tino Endres; Leonie Sibley; Salome Flegr; Jochen Kuhn; Vincent Hoogerheide; Katharina Scheiter; Andreas Lachner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102462</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -505,6 +487,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Anthony J. Onwuegbuzie]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102486</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From revision to learning transfer: Self- and socially shared-regulated pathways in AI-assisted feedback</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102489</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102489</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shijun (Cindy) Chen; Conrad Borchers; Christian D. Schunn]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102489</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -541,6 +532,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Claire Ballot; Pascal Zesiger]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102483</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Rethinking cultural awareness in think-aloud research</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102491</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102491</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jingjing Hu; Xuesong Gao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102491</dc:identifier>
 <description></description>
 </item>
 <item>
