@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 10 Oct 2026 05:31:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 12:19:37 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -301,12 +301,12 @@
 <description></description>
 </item>
 <item>
-<title>Processing negation may demonstrate compositionality in rhesus macaques</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106638</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106638</guid>
+<title>Individual differences in overconfidence: A common core and its motivational and cognitive correlates</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106665</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106665</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Angelle Antoun; Rohini Murugan; Kathleen J. Bostick; Benjamin Wilson]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106638</dc:identifier>
+<dc:creator><![CDATA[M. Asher Lawson; Richard P. Larrick; Jack B. Soll]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106665</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,21 +436,21 @@
 <description></description>
 </item>
 <item>
-<title>Joint processing of arrow direction and number magnitude strengthens Spatial-Numerical Associations: evidence from a modified flanker task</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106719</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106719</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Valter Prpic; Stefano Pileggi; Federico D'Atri; Mauro Murgia; Carlo Fantoni; Dražen Domijan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106719</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>AI is not as conscious as humans: Essentialism in mental state attributions to artificial systems</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106733</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106733</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Louis Longin; Jurgis Karpus; Nadine Meertens; Bahador Bahrami; Ophelia Deroy]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106733</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Joint processing of arrow direction and number magnitude strengthens Spatial-Numerical Associations: evidence from a modified flanker task</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106719</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106719</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Valter Prpic; Stefano Pileggi; Federico D'Atri; Mauro Murgia; Carlo Fantoni; Dražen Domijan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106719</dc:identifier>
 <description></description>
 </item>
 <item>

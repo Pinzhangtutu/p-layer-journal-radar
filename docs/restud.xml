@@ -9,7 +9,7 @@
 <description>REStud — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/restud.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 10 Oct 2026 05:31:40 +0000</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 12:19:37 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -523,6 +523,16 @@
 <content:encoded><![CDATA[Abstract Racial covenants in housing deeds were widely used in the United States during the early 20th century to segregate neighbourhoods. In 1948, the Supreme Court decision in Shelley v. Kraemer made racial covenants unenforceable in court, stopping short of prohibiting them entirely. We surmise that even after losing their judicial enforceability, such covenants could have shaped segregation if they served as a focal point for coordination on an initial equilibrium in neighbourhood formation, a context characterised by investment durability and path dependency. To test this hypothesis, we assemble novel parcel-level data on racial covenants and develop a quasi-experimental design that exploits delays between covenant execution and housing construction to isolate exposure to enforceable covenants at the time neighbourhoods were built. Covenant enforceability indeed affected early-stage neighbourhood formation in terms of housing characteristics, public infrastructure placement, and the composition of initial residents. These early differences proved durable: A one standard deviation increase in neighborhood exposure to enforceable covenants accounts for 6%–24% of the observed neighbourhood racial segregation from 1980 to 2020 and 3.1%–4.4% of housing price differentials in the 21st century. We conclude that by coordinating beliefs and decisions during neighbourhood formation, the law generated spatial inequality that has long outlived racial covenants themselves.]]></content:encoded>
 </item>
 <item>
+<title>Quality Regulation and Competition: Evidence from Pharmaceutical Markets</title>
+<link>https://doi.org/10.1093/restud/rdag113</link>
+<guid isPermaLink="false">10.1093/restud/rdag113</guid>
+<pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Juan Pablo Atal; José Ignacio Cuesta; Morten Sæthre]]></dc:creator>
+<dc:identifier>doi:10.1093/restud/rdag113</dc:identifier>
+<description><![CDATA[Abstract Quality regulation seeks to ensure quality and foster competition by reducing vertical differentiation, but it may also have adverse effects on market structure. We study this trade-off in the context of pharmaceutical bioequivalence, which is the primary quality standard for generic drugs. By exploiting the introduction of bioequivalence in Chile, we find that stronger regulation reduced the number of drugs in the market by 18% and increased average paid prices by 13%. We estimate a model of drug entry, certification, and demand to study how drug quality, aversion to generics, and certification costs shape the equilibrium effects of quality regulation. We find that quality regulation increased demand for generic drugs by resolving asymmetric information and reducing aversion to unbranded generics, which induced the entry of high-quality drugs in place of low-quality drugs. Consumer welfare increased despite higher prices and a lower number of firms. We compare minimum quality standards with alternative designs of quality regulation, including quality disclosure.]]></description>
+<content:encoded><![CDATA[Abstract Quality regulation seeks to ensure quality and foster competition by reducing vertical differentiation, but it may also have adverse effects on market structure. We study this trade-off in the context of pharmaceutical bioequivalence, which is the primary quality standard for generic drugs. By exploiting the introduction of bioequivalence in Chile, we find that stronger regulation reduced the number of drugs in the market by 18% and increased average paid prices by 13%. We estimate a model of drug entry, certification, and demand to study how drug quality, aversion to generics, and certification costs shape the equilibrium effects of quality regulation. We find that quality regulation increased demand for generic drugs by resolving asymmetric information and reducing aversion to unbranded generics, which induced the entry of high-quality drugs in place of low-quality drugs. Consumer welfare increased despite higher prices and a lower number of firms. We compare minimum quality standards with alternative designs of quality regulation, including quality disclosure.]]></content:encoded>
+</item>
+<item>
 <title>When is Separate Sales Optimal?</title>
 <link>https://doi.org/10.1093/restud/rdag073</link>
 <guid isPermaLink="false">10.1093/restud/rdag073</guid>
@@ -651,16 +661,6 @@
 <dc:identifier>doi:10.1093/restud/rdag065</dc:identifier>
 <description><![CDATA[Abstract I develop a unified theoretical framework with schools and residential choices to study the welfare consequences of public schools’ switching from the traditional neighbourhood assignment to the deferred acceptance mechanism. I find that when families receive higher priorities at neighbourhood schools, the deferred acceptance mechanism creates higher aggregate or utilitarian welfare than neighbourhood assignment. Under a common school ranking assumption, I also show that the deferred acceptance creates higher aggregate welfare with neighbourhood priorities than without them.]]></description>
 <content:encoded><![CDATA[Abstract I develop a unified theoretical framework with schools and residential choices to study the welfare consequences of public schools’ switching from the traditional neighbourhood assignment to the deferred acceptance mechanism. I find that when families receive higher priorities at neighbourhood schools, the deferred acceptance mechanism creates higher aggregate or utilitarian welfare than neighbourhood assignment. Under a common school ranking assumption, I also show that the deferred acceptance creates higher aggregate welfare with neighbourhood priorities than without them.]]></content:encoded>
-</item>
-<item>
-<title>Monetary Policy and Endogenous Financial Crises</title>
-<link>https://doi.org/10.1093/restud/rdag042</link>
-<guid isPermaLink="false">10.1093/restud/rdag042</guid>
-<pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[F Boissay; F Collard; J Galí; C Manea]]></dc:creator>
-<dc:identifier>doi:10.1093/restud/rdag042</dc:identifier>
-<description><![CDATA[Abstract What are the channels through which monetary policy affects financial stability? Can (and should) central banks prevent financial crises by deviating from price stability? To what extent may monetary policy itself unintentionally breed financial vulnerabilities? We answer these questions using a New Keynesian model with capital accumulation and endogenous financial crises due to adverse selection and moral hazard in credit markets. Our findings are threefold. First, monetary policy affects the probability of a crisis both in the short run (via aggregate demand) and in the medium run (via capital accumulation). Second, the central bank can reduce the incidence of crises in the medium run by tolerating higher inflation volatility in the short run. Third, prolonged periods of loose monetary policy followed by a sharp tightening can lead to financial crises.]]></description>
-<content:encoded><![CDATA[Abstract What are the channels through which monetary policy affects financial stability? Can (and should) central banks prevent financial crises by deviating from price stability? To what extent may monetary policy itself unintentionally breed financial vulnerabilities? We answer these questions using a New Keynesian model with capital accumulation and endogenous financial crises due to adverse selection and moral hazard in credit markets. Our findings are threefold. First, monetary policy affects the probability of a crisis both in the short run (via aggregate demand) and in the medium run (via capital accumulation). Second, the central bank can reduce the incidence of crises in the medium run by tolerating higher inflation volatility in the short run. Third, prolonged periods of loose monetary policy followed by a sharp tightening can lead to financial crises.]]></content:encoded>
 </item>
 <item>
 <title>Company Wage Policy in a Low-Wage Labour Market</title>
