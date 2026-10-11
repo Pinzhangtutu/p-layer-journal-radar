@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 11 Oct 2026 12:36:13 +0000</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 21:46:38 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -379,6 +379,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tizian Matschak; Ilja Nastjuk; Simon Trang; Jose Benitez]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114721</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Helpfulness of AI-generated review summaries: A cognitive-affective perspective</title>
+<link>https://doi.org/10.1016/j.dss.2026.114782</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114782</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fei Wang; Liyi Yang; Zhecheng Liu; Fang Wang; Shan Wang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114782</dc:identifier>
 <description></description>
 </item>
 <item>
