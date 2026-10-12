@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 12 Oct 2026 05:37:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 15:08:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -364,15 +364,6 @@
 <description></description>
 </item>
 <item>
-<title>Between the Lines or Behind the Lens? Examining the Content and Helpfulness of Airline Reviews</title>
-<link>https://doi.org/10.1016/j.im.2026.104440</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104440</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Masoud Shayganmehr; Indranil Bose]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104440</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>User Roles and Attention Cues: Exploring the Popularity of Ideas in Open Innovation Communities</title>
 <link>https://doi.org/10.1016/j.im.2026.104449</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104449</guid>
@@ -400,21 +391,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -604,6 +595,15 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Miriam Klöpper; Frantz Rowe]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104346</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Between the lines or behind the lens? Examining the content and helpfulness of airline reviews</title>
+<link>https://doi.org/10.1016/j.im.2026.104440</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104440</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Masoud Shayganmehr; Indranil Bose]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104440</dc:identifier>
 <description></description>
 </item>
 </channel>

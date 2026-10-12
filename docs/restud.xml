@@ -9,7 +9,7 @@
 <description>REStud — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/restud.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 12 Oct 2026 05:37:39 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 15:08:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -573,16 +573,6 @@
 <content:encoded><![CDATA[Abstract We study the impact of large, successful manufacturing plants on other local producers in China, focusing on “Million-Rouble Plants” built in the 1950s during a brief alliance with the U.S.S.R. The ephemeral geopolitical situation and the locations of allied and enemy airbases provide exogenous variation in plant siting. We find a boom-and-bust pattern: Counties hosting these plants were 80% more productive than control counties in 1982 but 20% less productive by 2010. This decline reflects the performance of local establishments, which exhibit low productivity, limited innovation, and high markup. Specialization hindered spillovers, preventing the emergence of new clusters and local entrepreneurship.]]></content:encoded>
 </item>
 <item>
-<title>Catastrophes, Delays, and Learning</title>
-<link>https://doi.org/10.1093/restud/rdag025</link>
-<guid isPermaLink="false">10.1093/restud/rdag025</guid>
-<pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Matti Liski; François Salanié]]></dc:creator>
-<dc:identifier>doi:10.1093/restud/rdag025</dc:identifier>
-<description><![CDATA[Abstract We propose a simple and general model of experimentation in which reaching untried levels of a stock variable may, after a stochastic delay, lead to a catastrophe. Hence, at any point in time a catastrophe might well be under way, due to past experiments. We show how to measure this legacy of the past from prior beliefs and the chronicle of stock levels. We characterize the optimal policy as a function of the legacy and show that it leads to a new protocol for planning that applies to a general class of problems, encompassing the study of pandemics or climate change. Several original policy predictions follow, e.g. experimentation can stop but resume later.]]></description>
-<content:encoded><![CDATA[Abstract We propose a simple and general model of experimentation in which reaching untried levels of a stock variable may, after a stochastic delay, lead to a catastrophe. Hence, at any point in time a catastrophe might well be under way, due to past experiments. We show how to measure this legacy of the past from prior beliefs and the chronicle of stock levels. We characterize the optimal policy as a function of the legacy and show that it leads to a new protocol for planning that applies to a general class of problems, encompassing the study of pandemics or climate change. Several original policy predictions follow, e.g. experimentation can stop but resume later.]]></content:encoded>
-</item>
-<item>
 <title>Peer Effects in Consideration and Preferences</title>
 <link>https://doi.org/10.1093/restud/rdag059</link>
 <guid isPermaLink="false">10.1093/restud/rdag059</guid>
@@ -591,6 +581,16 @@
 <dc:identifier>doi:10.1093/restud/rdag059</dc:identifier>
 <description><![CDATA[Abstract We develop a general model of discrete choice that incorporates peer effects in preferences and consideration sets. We characterize the equilibrium behaviour and establish conditions under which all parts of the model can be recovered from a sequence of choices. We allow peers to affect preferences, consideration, or both. We show that these peer-effect mechanisms have different behavioural implications in the data. This allows us to recover the set and the type of connections between the agents in the network. We then use this information to recover each agent’s preferences and consideration mechanisms. These nonparametric identification results allow for general forms of heterogeneity across agents and do not rely on the variation of either exogenous covariates or the set of available options (menus). We apply our results to model expansion decisions by tea chains and find evidence of limited consideration. We simulate counterfactual predictions and show how limited consideration slows market penetration and competition.]]></description>
 <content:encoded><![CDATA[Abstract We develop a general model of discrete choice that incorporates peer effects in preferences and consideration sets. We characterize the equilibrium behaviour and establish conditions under which all parts of the model can be recovered from a sequence of choices. We allow peers to affect preferences, consideration, or both. We show that these peer-effect mechanisms have different behavioural implications in the data. This allows us to recover the set and the type of connections between the agents in the network. We then use this information to recover each agent’s preferences and consideration mechanisms. These nonparametric identification results allow for general forms of heterogeneity across agents and do not rely on the variation of either exogenous covariates or the set of available options (menus). We apply our results to model expansion decisions by tea chains and find evidence of limited consideration. We simulate counterfactual predictions and show how limited consideration slows market penetration and competition.]]></content:encoded>
+</item>
+<item>
+<title>The Direct and Indirect Effects of Online Job Search Advice</title>
+<link>https://doi.org/10.1093/restud/rdag112</link>
+<guid isPermaLink="false">10.1093/restud/rdag112</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steffen Altmann; Anita M Glenny; Robert Mahlstedt; Alexander Sebald]]></dc:creator>
+<dc:identifier>doi:10.1093/restud/rdag112</dc:identifier>
+<description><![CDATA[Abstract We study how online job search advice affects job search behavior and labor market outcomes of unemployed workers. In a large-scale field experiment embedded in the online platform of the Danish public employment service, we provide job seekers with vacancy information and occupational recommendations. Using a two-stage randomized design with regionally varying treatment intensities, we examine both direct effects of advice and treatment spillovers. We find that advice significantly increases employment and earnings when provided to a limited share of job seekers. As treatment intensity rises, these effects diminish and eventually disappear. The decline is driven by negative spillovers among treated job seekers, consistent with increased congestion in the occupations toward which job seekers redirect their search. Spillover effects on untreated job seekers are heterogeneous and depend on how advice alters occupation-specific competition in local labor markets.]]></description>
+<content:encoded><![CDATA[Abstract We study how online job search advice affects job search behavior and labor market outcomes of unemployed workers. In a large-scale field experiment embedded in the online platform of the Danish public employment service, we provide job seekers with vacancy information and occupational recommendations. Using a two-stage randomized design with regionally varying treatment intensities, we examine both direct effects of advice and treatment spillovers. We find that advice significantly increases employment and earnings when provided to a limited share of job seekers. As treatment intensity rises, these effects diminish and eventually disappear. The decline is driven by negative spillovers among treated job seekers, consistent with increased congestion in the occupations toward which job seekers redirect their search. Spillover effects on untreated job seekers are heterogeneous and depend on how advice alters occupation-specific competition in local labor markets.]]></content:encoded>
 </item>
 <item>
 <title>How You Pay Drives What You Choose: Mental Accounting in Health Insurance Plan Choice</title>
