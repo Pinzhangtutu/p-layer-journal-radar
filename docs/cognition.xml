@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 13 Oct 2026 14:02:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 22:34:53 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -256,15 +256,6 @@
 <description></description>
 </item>
 <item>
-<title>Towards an attentional theory of second-language speech perception: Evidence from cue ecology</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106671</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106671</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Annie Tremblay; Taehong Cho; Mirjam Broersma; Hyoju Kim; Quentin Zhen Qin; Jiayu Liang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106671</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Cross-modal social attention differs across emotional categories: Evidence from biological motion and gaze cues</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106721</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106721</guid>
@@ -289,6 +280,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[E. Gutierrez-Sigut; M. Perea; M. Vergara-Martinez; M. MacSweeney; K. Rowley; I. Saenz]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106703</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Apathy is associated with lower perceptual curiosity</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106742</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106742</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Leon Tay; Patrick Cooper; Emily Colton; Jocelyn A. Halim; Stefan Bode; Trevor T.-J. Chong]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106742</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -364,21 +364,21 @@
 <description></description>
 </item>
 <item>
-<title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106723</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yaxin Liu; Stella F. Lourenco]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106723</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The objecthood of visual working memory representations influences their interaction with attention</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106727</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106723</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yaxin Liu; Stella F. Lourenco]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106723</dc:identifier>
 <description></description>
 </item>
 <item>

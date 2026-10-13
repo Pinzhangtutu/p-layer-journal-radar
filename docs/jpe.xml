@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 13 Oct 2026 14:02:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 22:34:53 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -142,6 +142,33 @@
 <pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Johnny Tang]]></dc:creator>
 <dc:identifier>doi:10.1086/742725</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Firm Heterogeneity and the Impact of Immigration: Evidence from German Establishments</title>
+<link>https://doi.org/10.1086/744485</link>
+<guid isPermaLink="false">10.1086/744485</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Agostina Brinatti; Nicolas Morales]]></dc:creator>
+<dc:identifier>doi:10.1086/744485</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Buying Data from Consumers: The Impact of Monitoring in U.S. Auto Insurance</title>
+<link>https://doi.org/10.1086/744482</link>
+<guid isPermaLink="false">10.1086/744482</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yizhou Jin; Shoshana Vasserman]]></dc:creator>
+<dc:identifier>doi:10.1086/744482</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Demand for Mobility: Evidence from an Experiment with Uber Riders</title>
+<link>https://doi.org/10.1086/743387</link>
+<guid isPermaLink="false">10.1086/743387</guid>
+<pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Christensen; Gustavo Nino; Adam Osman]]></dc:creator>
+<dc:identifier>doi:10.1086/743387</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -461,23 +488,6 @@
 <description></description>
 </item>
 <item>
-<title>Linking Social and Personal Preferences: Theory and Experiment</title>
-<link>https://doi.org/10.1086/739832</link>
-<guid isPermaLink="false">10.1086/739832</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[William R. Zame; Bertil Tungodden; Erik Ø. Sørensen; Shachar Kariv; Alexander W. Cappelen]]></dc:creator>
-<dc:identifier>doi:10.1086/739832</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Recent Referees</title>
-<link>https://doi.org/10.1086/742400</link>
-<guid isPermaLink="false">10.1086/742400</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1086/742400</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions</title>
 <link>https://doi.org/10.1086/743331</link>
 <guid isPermaLink="false">10.1086/743331</guid>
@@ -529,15 +539,6 @@
 <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David Card; Eric Chyn; Laura Giuliano]]></dc:creator>
 <dc:identifier>doi:10.1086/743389</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Demand for Mobility: Evidence From an Experiment With Uber Riders</title>
-<link>https://doi.org/10.1086/743387</link>
-<guid isPermaLink="false">10.1086/743387</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Peter Christensen; Gustavo Nino; Adam Osman]]></dc:creator>
-<dc:identifier>doi:10.1086/743387</dc:identifier>
 <description></description>
 </item>
 <item>

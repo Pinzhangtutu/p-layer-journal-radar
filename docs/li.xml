@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 13 Oct 2026 14:02:31 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 22:34:53 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -409,15 +409,6 @@
 <description></description>
 </item>
 <item>
-<title>Using board games as a protective tool: Effects on cognitive, social, emotional, behavioural outcomes, and learning</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102415</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102415</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Elena Cravet; Maria Carmen Usai]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102415</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Teachers' attitudes toward students' mistakes and students’ mathematical creativity: The mediating role of diagnostic skills in a multi-level model based on organizational creative theory</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102488</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102488</guid>
@@ -469,6 +460,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tobias Debatin; Heidrun Stoeger; Albert Ziegler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102471</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>An integrated cognitive-affective spatial system for geometry</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102492</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102492</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kelsey E. Schenck; Mitchell J. Nathan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102492</dc:identifier>
 <description></description>
 </item>
 <item>
