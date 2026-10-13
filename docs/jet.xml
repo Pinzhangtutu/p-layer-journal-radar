@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 12 Oct 2026 15:08:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 00:30:39 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -28,15 +28,6 @@
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Pedram Heydari]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106153</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>On the relationship between damage and deception</title>
-<link>https://doi.org/10.1016/j.jet.2026.106148</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106148</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Joel Sobel]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106148</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -307,6 +298,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hiroto Sato; Konan Shimizu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106232</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Information Design in Repeated Interaction</title>
+<link>https://doi.org/10.1016/j.jet.2026.106269</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106269</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[João Correia-da-Silva; Takuro Yamashita]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106269</dc:identifier>
 <description></description>
 </item>
 <item>

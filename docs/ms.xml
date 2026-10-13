@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 12 Oct 2026 15:08:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 00:30:39 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -351,26 +351,6 @@
 <content:encoded><![CDATA[We analyze the ecoimpact of different types of durable goods innovations under rising consumer ecosensitivity based on a dynamic two-period framework.]]></content:encoded>
 </item>
 <item>
-<title>Gender-Based Pricing in Consumer Packaged Goods: A Pink Tax?</title>
-<link>https://doi.org/10.1287/mksc.2023.1452</link>
-<guid isPermaLink="false">10.1287/mksc.2023.1452</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sarah Moshary; Anna Tuchman; Natasha Vajravelu]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.1452</dc:identifier>
-<description><![CDATA[This paper studies the extent to which firms segment, differentiate, and price discriminate on the basis of gender in the personal care category.]]></description>
-<content:encoded><![CDATA[This paper studies the extent to which firms segment, differentiate, and price discriminate on the basis of gender in the personal care category.]]></content:encoded>
-</item>
-<item>
-<title>When Less Is More: Content Strategies for Subscription Video on Demand</title>
-<link>https://doi.org/10.1287/mksc.2023.0106</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0106</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Miguel Godinho de Matos; Samir Mamadehussene; Pedro Ferreira]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0106</dc:identifier>
-<description><![CDATA[A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.]]></description>
-<content:encoded><![CDATA[A field experiment shows that gradual content release boosts engagement and retention more than binge release on a streaming platform.]]></content:encoded>
-</item>
-<item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
 <link>https://doi.org/10.1287/mksc.2023.0309</link>
 <guid isPermaLink="false">10.1287/mksc.2023.0309</guid>
@@ -493,6 +473,26 @@
 <dc:identifier>doi:10.1287/mksc.2024.0922</dc:identifier>
 <description><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></description>
 <content:encoded><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></content:encoded>
+</item>
+<item>
+<title>Can Facebook Ads Prevent Malaria? Two Field Experiments in India</title>
+<link>https://doi.org/10.1287/mksc.2024.0929</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0929</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dante Donati; Nandan Rao; Victor Orozco-Olvera; Ana Maria Muñoz Boudet]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0929</dc:identifier>
+<description><![CDATA[Two field experiments evaluate a nationwide Facebook malaria prevention campaign in India, finding effects concentrated in urban, more advantaged populations.]]></description>
+<content:encoded><![CDATA[Two field experiments evaluate a nationwide Facebook malaria prevention campaign in India, finding effects concentrated in urban, more advantaged populations.]]></content:encoded>
+</item>
+<item>
+<title>From Data to Decisions: Marketing Analytics, Mental Performance, and Firm Growth in an Emerging Market</title>
+<link>https://doi.org/10.1287/mksc.2025.0292</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0292</guid>
+<pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stephen J. Anderson; Pradeep K. Chintagunta; Rupali Kaul; Naufel J. Vilcassim]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0292</dc:identifier>
+<description><![CDATA[Using a field experiment with 550 Rwandan firms, we show marketing analytics causally enhances entrepreneurs’ cognition and raises firm sales and profits.]]></description>
+<content:encoded><![CDATA[Using a field experiment with 550 Rwandan firms, we show marketing analytics causally enhances entrepreneurs’ cognition and raises firm sales and profits.]]></content:encoded>
 </item>
 <item>
 <title>Visual Plant Imagery and Property Valuation: A Descriptive Analysis</title>
