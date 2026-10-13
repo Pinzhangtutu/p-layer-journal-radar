@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 13 Oct 2026 00:30:39 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 14:02:31 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -166,24 +166,6 @@
 <description></description>
 </item>
 <item>
-<title>A profile analysis of leader interpersonal emotion management strategies.</title>
-<link>https://doi.org/10.1037/apl0001382</link>
-<guid isPermaLink="false">10.1037/apl0001382</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Fenghao (Andrew) Wang; Xiaofei Hu; Chu-Ding Ling; Wu Liu]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001382</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Scoring employment interviews with large language models: Evaluation design components, validity investigations, and best practice recommendations.</title>
-<link>https://doi.org/10.1037/apl0001396</link>
-<guid isPermaLink="false">10.1037/apl0001396</guid>
-<pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kayden Stockdale; Louis Hickman; Siyi Liu]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001396</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Who do employees follow? An analysis of contrasting and compensatory effects between abusive supervisors in multiple team membership contexts.</title>
 <link>https://doi.org/10.1037/apl0001429</link>
 <guid isPermaLink="false">10.1037/apl0001429</guid>
@@ -217,15 +199,6 @@
 <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jake T. Harrison; Emily D. Campion; Chad H. Van Iddekinge; Michael A. Campion; Carter Gibson; Andrew Barsa]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001428</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Transformational leadership in context: A meta-analysis of 40 years of research.</title>
-<link>https://doi.org/10.1037/apl0001389</link>
-<guid isPermaLink="false">10.1037/apl0001389</guid>
-<pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dustin Maneethai; Robert Eisenberger; Thomas Rockstuhl; Dongyuan Wu; Blaine A. Lewis]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001389</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -269,14 +242,6 @@
 <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Glen E. Kreiner; Dane Cannon; Devin J. Rapp; Trent A. Williams; Jennifer Wiseman]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001400</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Transformational Leadership in Context: A Meta-Analysis of 40 Years of Research</title>
-<link>https://doi.org/10.1037/apl0001389.supp</link>
-<guid isPermaLink="false">10.1037/apl0001389.supp</guid>
-<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/apl0001389.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -340,6 +305,96 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Rui Zhong; Yingxin Deng; Ryan Tucker]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001423</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How policy implementation impacts employee suffering at work: An exploration of medical leaves of absence.</title>
+<link>https://doi.org/10.1037/apl0001383</link>
+<guid isPermaLink="false">10.1037/apl0001383</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Liza Y. Barnes; Christina N. Lacerenza; Ashley E. Hardin]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001383</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unemployment in later life: The effects of a job search skills training intervention and development orientations on job search and reemployment of older job seekers.</title>
+<link>https://doi.org/10.1037/apl0001323</link>
+<guid isPermaLink="false">10.1037/apl0001323</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarah M. van den Hee; Edwin A. J. van Hooft; Greet Van Hoye; Barbara Nevicka]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001323</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Offering paid sick and family leave is not enough: Leave supportive supervisor behavior training improves policy use, health, and work outcomes.</title>
+<link>https://doi.org/10.1037/apl0001395</link>
+<guid isPermaLink="false">10.1037/apl0001395</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ellen Ernst Kossek; Shalene J. Allen; Katie M. Lawson; Leslie B. Hammer; Todd Bodner; Jiayun Xu; Courtney L. Holladay; Amanda Woods Herron; Katelyn J. Cavanaugh; MacKenna Perry]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001395</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of food insecurity on work outcomes.</title>
+<link>https://doi.org/10.1037/apl0001361</link>
+<guid isPermaLink="false">10.1037/apl0001361</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jason H. Moy; Ussama Ahmad Khan; Wei Jee Ong; Christopher M. Barnes]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001361</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Family socioeconomic status and job search: Pathways to job quality improvement for young adults without college degrees.</title>
+<link>https://doi.org/10.1037/apl0001362</link>
+<guid isPermaLink="false">10.1037/apl0001362</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Le Zhou; Borbala Csillag; Connie R. Wanberg; Xuan Liu; Abdifatah A. Ali]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001362</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The cost of coping with infertility: Extending theory on stressor appraisal.</title>
+<link>https://doi.org/10.1037/apl0001363</link>
+<guid isPermaLink="false">10.1037/apl0001363</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Natasha Poularikas; Alexiss Jeffers; Seoin Yoon; Joel Koopman; Nikolaos Dimotakis]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001363</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Roadblocks: Evaluating the impact of fines-related driver’s license suspension on work-related outcomes for socioeconomically disadvantaged workers.</title>
+<link>https://doi.org/10.1037/apl0001357</link>
+<guid isPermaLink="false">10.1037/apl0001357</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maura J. Mills; Matthew J. Dolliver; Russell A. Matthews; Leah Nelson; Peter A. Jones; Marshall L. White]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001357</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>(Re)Entering the workforce after imprisonment: A new perspective on voluntary disclosure of criminal history and job-search assistance.</title>
+<link>https://doi.org/10.1037/apl0001338</link>
+<guid isPermaLink="false">10.1037/apl0001338</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lawrence Houston; Brett H. Neely; Timothy G. Kundro; Horatio D. Traylor]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001338</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The importance of not looking the other way: Prehire on- and off-the-job misbehavior predicts subsequent police misconduct.</title>
+<link>https://doi.org/10.1037/apl0001322</link>
+<guid isPermaLink="false">10.1037/apl0001322</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stephan Dilchert; Brittany K. Mercado; Deniz S. Ones]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001322</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Industrial-organizational science that matters: Social impact and policy implications in the Journal of Applied Psychology.</title>
+<link>https://doi.org/10.1037/apl0001425</link>
+<guid isPermaLink="false">10.1037/apl0001425</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wendy J. Casper; Stephanie Brooke Escudero; Lillian T. Eby; Tianjun Sun; Talya N. Bauer; Bryan D. Edwards; Allison S. Gabriel; Jia Jasmine Hu]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001425</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -448,24 +503,6 @@
 <description></description>
 </item>
 <item>
-<title>Grateful leaders and attentive followers: How grateful attention transmits the cascade of gratitude expressions to strengthen coworker relationships.</title>
-<link>https://doi.org/10.1037/apl0001398</link>
-<guid isPermaLink="false">10.1037/apl0001398</guid>
-<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lauren R. Locklear; Meghan E. Kane; Mark G. Ehrhart]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001398</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Offering paid sick and family leave is not enough: Leave supportive supervisor behavior training improves policy use, health, and work outcomes.</title>
-<link>https://doi.org/10.1037/apl0001395</link>
-<guid isPermaLink="false">10.1037/apl0001395</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ellen Ernst Kossek; Shalene J. Allen; Katie M. Lawson; Leslie B. Hammer; Todd Bodner; Jiayun Xu; Courtney L. Holladay; Amanda Woods Herron; Katelyn J. Cavanaugh; MacKenna Perry]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001395</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.</title>
 <link>https://doi.org/10.1037/apl0001402</link>
 <guid isPermaLink="false">10.1037/apl0001402</guid>
@@ -497,23 +534,6 @@
 <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Prithviraj Chattopadhyay; Daan van Knippenberg; Elizabeth George]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001403</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Scoring Employment Interviews With Large Language Models: Evaluation Design Components, Validity Investigations, and Best Practice Recommendations</title>
-<link>https://doi.org/10.1037/apl0001396.supp</link>
-<guid isPermaLink="false">10.1037/apl0001396.supp</guid>
-<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/apl0001396.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A choice architecture intervention to increase diversity: Diverse defaults can counteract hiring discrimination.</title>
-<link>https://doi.org/10.1037/apl0001393</link>
-<guid isPermaLink="false">10.1037/apl0001393</guid>
-<pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zhiyu Feng; Fangzhou Liu; Priscilla Lok-Chee Shum; Rui Ling Lee; Dawei Wang; Krishna Savani]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001393</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -611,24 +631,6 @@
 <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Emma L. Frank; Fadel K. Matta; Olympia M. Nakos; Jessica B. Rodell]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001401</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Translating human capital amid varying intentions to stay: An integrative conceptual review of the immigrant employment attainment process.</title>
-<link>https://doi.org/10.1037/apl0001343</link>
-<guid isPermaLink="false">10.1037/apl0001343</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Snehal Hora; Emily D. Campion; Sima Sajjadiani; Diana Lee]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001343</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Resolving the complexity–flexibility dilemma in multi-issue negotiations: Nested bracketing as a strategy to enhance negotiation outcomes.</title>
-<link>https://doi.org/10.1037/apl0001332</link>
-<guid isPermaLink="false">10.1037/apl0001332</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hong Zhang; Johann M. Majer; Marco Warsitzka; Roman Trötschel]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001332</dc:identifier>
 <description></description>
 </item>
 </channel>
