@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 13 Oct 2026 22:34:53 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 04:35:21 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -175,21 +175,21 @@
 <description></description>
 </item>
 <item>
-<title>Longitudinal and differential effects of differentiated instruction on academic achievement and subjective well-being in inclusive secondary education</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102431</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102431</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Carmen L.A. Zurbriggen; Marcela Pozas; Karin Gehrer; Lena Nusser]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102431</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Competitive school environments and socioeconomic achievement inequality: A preregistered analysis of data from 69 countries</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102414</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102414</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Nathalie Aerts; Thijs Bol; Eddie Brummelman]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102414</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Longitudinal and differential effects of differentiated instruction on academic achievement and subjective well-being in inclusive secondary education</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102431</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102431</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Carmen L.A. Zurbriggen; Marcela Pozas; Karin Gehrer; Lena Nusser]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102431</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -413,7 +413,7 @@
 <link>https://doi.org/10.1016/j.learninstruc.2026.102488</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102488</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qing Zhao; Xiaopeng Wu; Lin Luo; Yi Zhang]]></dc:creator>
+<dc:creator><![CDATA[Qian Zhao; Xiaopeng Wu; Lin Luo; Yi Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102488</dc:identifier>
 <description></description>
 </item>
