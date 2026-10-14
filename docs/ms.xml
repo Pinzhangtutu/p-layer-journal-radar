@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 14 Oct 2026 11:39:51 +0000</lastBuildDate>
+<lastBuildDate>Wed, 14 Oct 2026 17:01:25 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -51,6 +51,16 @@
 <dc:identifier>doi:10.1287/mksc.2024.1138</dc:identifier>
 <description><![CDATA[This paper examines how coalition loyalty programs enhance firms’ ability to price discriminate and shows why the optimal program size depends on market composition.]]></description>
 <content:encoded><![CDATA[This paper examines how coalition loyalty programs enhance firms’ ability to price discriminate and shows why the optimal program size depends on market composition.]]></content:encoded>
+</item>
+<item>
+<title>Music Marketing with Generative AI</title>
+<link>https://doi.org/10.1287/mksc.2025.0150</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0150</guid>
+<pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benedikt Roder; Jochen Hartmann]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0150</dc:identifier>
+<description><![CDATA[The multibillion-dollar music industry faces severe content creation bottlenecks, making multimedia marketing assets prohibitively costly for smaller artists. This practice paper introduces a Marketing Asset Generation Engine (MAGE) that can produce over 700 million video ad variations reflecting each artist’s visual identity using only a music track’s audio and album cover as inputs. Collaborating with one of the world’s largest music labels, we conduct four preregistered field studies with over 11 million impressions across 75 campaigns for 33 music tracks on TikTok and Meta to validate MAGE. First, pooled across studies, MAGE-generated ads significantly outperform human-designed ads on TikTok with on average 26% higher click-through rates and 10% higher engagement, while we do not detect statistically significant performance differences on Meta, all at 98% lower production cost. Second, neither marketing professionals nor laypeople can reliably identify winning ads such that random sampling of MAGE’s outputs performs as well as human-curated selections. In contrast, an AI-in-the-loop system trained on past performance data can predict pre-launch which MAGE-generated ads will perform best for specific audience segments. These findings demonstrate that generative AI democratizes music marketing by making effective, on-brand video ads accessible at scale.]]></description>
+<content:encoded><![CDATA[The multibillion-dollar music industry faces severe content creation bottlenecks, making multimedia marketing assets prohibitively costly for smaller artists. This practice paper introduces a Marketing Asset Generation Engine (MAGE) that can produce over 700 million video ad variations reflecting each artist’s visual identity using only a music track’s audio and album cover as inputs. Collaborating with one of the world’s largest music labels, we conduct four preregistered field studies with over 11 million impressions across 75 campaigns for 33 music tracks on TikTok and Meta to validate MAGE. First, pooled across studies, MAGE-generated ads significantly outperform human-designed ads on TikTok with on average 26% higher click-through rates and 10% higher engagement, while we do not detect statistically significant performance differences on Meta, all at 98% lower production cost. Second, neither marketing professionals nor laypeople can reliably identify winning ads such that random sampling of MAGE’s outputs performs as well as human-curated selections. In contrast, an AI-in-the-loop system trained on past performance data can predict pre-launch which MAGE-generated ads will perform best for specific audience segments. These findings demonstrate that generative AI democratizes music marketing by making effective, on-brand video ads accessible at scale.]]></content:encoded>
 </item>
 <item>
 <title>From Live to Recording: Consumer Demand and Response to Price Across the Livestreaming Lifecycle</title>
@@ -339,16 +349,6 @@
 <dc:identifier>doi:10.1287/mksc.2022.0402</dc:identifier>
 <description><![CDATA[We investigate how a platform decides on the provision and pricing of its infrastructure for vertically differentiated vendors when facing vendors’ strategic reactions.]]></description>
 <content:encoded><![CDATA[We investigate how a platform decides on the provision and pricing of its infrastructure for vertically differentiated vendors when facing vendors’ strategic reactions.]]></content:encoded>
-</item>
-<item>
-<title>Can Rising Eco-sensitivity Hurt Sustainability? Eco-impact of Durable Goods Innovations</title>
-<link>https://doi.org/10.1287/mksc.2022.0304</link>
-<guid isPermaLink="false">10.1287/mksc.2022.0304</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[K. Sudhir; Ramesh Shankar; Yuan Jin]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2022.0304</dc:identifier>
-<description><![CDATA[We analyze the ecoimpact of different types of durable goods innovations under rising consumer ecosensitivity based on a dynamic two-period framework.]]></description>
-<content:encoded><![CDATA[We analyze the ecoimpact of different types of durable goods innovations under rising consumer ecosensitivity based on a dynamic two-period framework.]]></content:encoded>
 </item>
 <item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
