@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 04:17:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 11:17:47 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -220,21 +220,21 @@
 <description></description>
 </item>
 <item>
-<title>Online learner engagement and academic support in the age of generative AI</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105763</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105763</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jered Borup; Charles R. Graham; Leanna Archambault; Lauren Woo; Michael K. Barbour; Joan Kang Shin; Anya S. Evmenova]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105763</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Technology-enhanced second language learning in Computers &amp; Education: A 50-year review of outcomes, technical affordances, theoretical frameworks, and their connections</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105762</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105762</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ruofei Zhang; Di Zou; Sangmin-Michelle Lee]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105762</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Online learner engagement and academic support in the age of generative AI</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105763</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105763</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jered Borup; Charles R. Graham; Leanna Archambault; Lauren Woo; Michael K. Barbour; Joan Kang Shin; Anya S. Evmenova]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105763</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -262,15 +262,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xieling Chen; Di Zou; Haoran Xie; S. Joe Qin]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105758</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Automated scoring of young learners’ student-generated questioning in elementary reading: A machine-learning approach</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105674</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105674</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hajung Kim; Angelie Ignacio; Eunice Eunhee Jang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105674</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -478,6 +469,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ari Kim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105764</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Disengaged conversational behaviors and learning in student-AI dialogues for mathematical problem solving</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105766</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105766</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jihyun Rho; Rui Guo; Hai Li; Chenglu Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105766</dc:identifier>
 <description></description>
 </item>
 <item>

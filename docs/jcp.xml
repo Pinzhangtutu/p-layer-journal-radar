@@ -9,7 +9,7 @@
 <description>JCP — Wiley / SCP · Latest in: Early View · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jcp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 04:17:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 11:17:47 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -314,14 +314,6 @@
 </item>
 <item>
 <title>Issue Information</title>
-<link>https://doi.org/10.1002/jcpy.1363</link>
-<guid isPermaLink="false">10.1002/jcpy.1363</guid>
-<pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1002/jcpy.1363</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Issue Information</title>
 <link>https://doi.org/10.1002/jcpy.1423</link>
 <guid isPermaLink="false">10.1002/jcpy.1423</guid>
 <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
@@ -395,6 +387,16 @@
 <dc:identifier>doi:10.1002/jcpy.70025</dc:identifier>
 <description><![CDATA[Abstract As the use of interactive artificial intelligence (AI) expands exponentially, it will permeate into many aspects of consumers' lives, including decision‐making and consumption. As marketers, it is important to understand how consumers currently use interactive AI and how this usage will evolve. We propose that the increased functionality of interactive AI will encourage consumers to view many interactive AI products as long‐term partners, instead of as static tools for finite tasks. Consequently, the future uses of interactive AI will be determined not only by the advancement of the underlying technology but also by consumer responses to repeated interactions with AI technology. We propose a taxonomy of human–AI partnerships (i.e., AI Assistants, AI Agents, AI Companions), provide a profile for each type of AI partner, anticipate how AI partnerships will evolve over time, and discuss how this evolution will influence AI usage. Finally, we provide an extensive agenda for future research.]]></description>
 <content:encoded><![CDATA[Abstract As the use of interactive artificial intelligence (AI) expands exponentially, it will permeate into many aspects of consumers' lives, including decision‐making and consumption. As marketers, it is important to understand how consumers currently use interactive AI and how this usage will evolve. We propose that the increased functionality of interactive AI will encourage consumers to view many interactive AI products as long‐term partners, instead of as static tools for finite tasks. Consequently, the future uses of interactive AI will be determined not only by the advancement of the underlying technology but also by consumer responses to repeated interactions with AI technology. We propose a taxonomy of human–AI partnerships (i.e., AI Assistants, AI Agents, AI Companions), provide a profile for each type of AI partner, anticipate how AI partnerships will evolve over time, and discuss how this evolution will influence AI usage. Finally, we provide an extensive agenda for future research.]]></content:encoded>
+</item>
+<item>
+<title>Marketing misinformation in the age of &lt;scp&gt;AI&lt;/scp&gt;</title>
+<link>https://doi.org/10.1002/jcpy.70043</link>
+<guid isPermaLink="false">10.1002/jcpy.70043</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gita Venkataramani Johar; Amna Kirmani]]></dc:creator>
+<dc:identifier>doi:10.1002/jcpy.70043</dc:identifier>
+<description><![CDATA[Abstract We shine a spotlight on marketing misinformation—claims about products and brands that contradict or distort verifiable facts. Misinformation may be created unintentionally or intentionally by companies, competitors, customers, or third parties seeking to harm companies or consumers. We focus on the role of AI in creating, obfuscating, and disseminating misinformation in the form of text, audio, images, and videos generated using large language models. This type of information can pose a substantial risk for brand safety. Consumers may be aware that AI can generate misinformation but may lack the ability to guard against it. We discuss how different stakeholders in the information ecosystem can help in the prevention and correction of misinformation and propose a future research agenda in this critical and fast‐growing area.]]></description>
+<content:encoded><![CDATA[Abstract We shine a spotlight on marketing misinformation—claims about products and brands that contradict or distort verifiable facts. Misinformation may be created unintentionally or intentionally by companies, competitors, customers, or third parties seeking to harm companies or consumers. We focus on the role of AI in creating, obfuscating, and disseminating misinformation in the form of text, audio, images, and videos generated using large language models. This type of information can pose a substantial risk for brand safety. Consumers may be aware that AI can generate misinformation but may lack the ability to guard against it. We discuss how different stakeholders in the information ecosystem can help in the prevention and correction of misinformation and propose a future research agenda in this critical and fast‐growing area.]]></content:encoded>
 </item>
 <item>
 <title>Advice taking across social class: Why (and when) high‐ &lt;scp&gt;SES&lt;/scp&gt; consumers are more likely to take advice from marketplace agents</title>

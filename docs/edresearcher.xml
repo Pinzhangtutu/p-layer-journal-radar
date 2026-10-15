@@ -9,7 +9,7 @@
 <description>EdResearcher — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/edresearcher.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 04:17:23 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 11:17:47 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -203,16 +203,6 @@
 <content:encoded><![CDATA[This address begins by acknowledging contemporary social problems plaguing the United States: mass deportations and the separation of immigrant families, school shootings, police murders of unarmed Black Americans, and violence against transgender, Jewish, Muslim, and Asian American people, to name a few. Also presented are several examples of “educational evils”—curricular, testing, and experiential harms that diverse students, educators, and families too often experience in K–12 and postsecondary contexts. A study of 14 education schools is used to highlight the insufficient preparation of practitioners and scholars to address racial problems in classrooms and elsewhere on campuses. Also, a social and digital media campaign emerging from a class project aimed at raising consciousness about workplace sexual harassment is presented as an example of how faculty members can assume greater responsibility for preparing students to disrupt harm. The address concludes with an articulation of who citizen-scholars are and the presentation of some specific actions they take.]]></content:encoded>
 </item>
 <item>
-<title>College Students’ Instructor Mindset Perceptions and First-Semester Development</title>
-<link>https://doi.org/10.3102/0013189x251393687</link>
-<guid isPermaLink="false">10.3102/0013189x251393687</guid>
-<pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gregory C. Wolniak; Matthew M. Gregory; Juyoung Kim]]></dc:creator>
-<dc:identifier>doi:10.3102/0013189x251393687</dc:identifier>
-<description><![CDATA[Extending the literature on growth mindsets, the study examines how students’ perceptions of instructor growth mindset beliefs influence development during the first semester of college. Using pretest-posttest data from 25 public 4-year institutions in Georgia, findings indicate that students perceiving stronger instructor growth mindsets report gains in academic self-efficacy. However, these perceptions appeared negatively associated with value beliefs toward English and math content, suggesting increased confidence may not align with subject-specific motivation. Also explored is how these effects vary by institutional admissions profile. Overall, the findings highlight promising directions for research on instructor mindset perceptions and student development across contexts.]]></description>
-<content:encoded><![CDATA[Extending the literature on growth mindsets, the study examines how students’ perceptions of instructor growth mindset beliefs influence development during the first semester of college. Using pretest-posttest data from 25 public 4-year institutions in Georgia, findings indicate that students perceiving stronger instructor growth mindsets report gains in academic self-efficacy. However, these perceptions appeared negatively associated with value beliefs toward English and math content, suggesting increased confidence may not align with subject-specific motivation. Also explored is how these effects vary by institutional admissions profile. Overall, the findings highlight promising directions for research on instructor mindset perceptions and student development across contexts.]]></content:encoded>
-</item>
-<item>
 <title>What Explains Support for Race-Related Topics in the Curriculum? Evidence From the Understanding America Study</title>
 <link>https://doi.org/10.3102/0013189x261481780</link>
 <guid isPermaLink="false">10.3102/0013189x261481780</guid>
@@ -321,6 +311,16 @@
 <dc:identifier>doi:10.3102/0013189x261427002</dc:identifier>
 <description><![CDATA[Fenwick asserts that the failure to integrate Black principals and teachers into desegregating public schools remains the unfulfilled promise of Brown and has resulted in four traumas that continue to stymie the nation’s progress toward the conjoined goals of racial justice and educational equity. Brown was not intended to simply mean that African American and White students were to be educated side by side in order to achieve integrated schools. Often overlooked, many legal decisions subsequent to Brown asserted that the criterion for knowing that integration was achieved was the racial integration of district and school leadership and the teaching force.]]></description>
 <content:encoded><![CDATA[Fenwick asserts that the failure to integrate Black principals and teachers into desegregating public schools remains the unfulfilled promise of Brown and has resulted in four traumas that continue to stymie the nation’s progress toward the conjoined goals of racial justice and educational equity. Brown was not intended to simply mean that African American and White students were to be educated side by side in order to achieve integrated schools. Often overlooked, many legal decisions subsequent to Brown asserted that the criterion for knowing that integration was achieved was the racial integration of district and school leadership and the teaching force.]]></content:encoded>
+</item>
+<item>
+<title>How Should We Communicate Research Findings to Teachers? No Difference in Teachers’ Intentions to Use Evidence Across 512 Versions of a Research Summary</title>
+<link>https://doi.org/10.3102/0013189x261494093</link>
+<guid isPermaLink="false">10.3102/0013189x261494093</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Samuel Sims; Bethany Woollacott; Hugues Lortie-Forgues; Matthew Inglis; Colin Foster]]></dc:creator>
+<dc:identifier>doi:10.3102/0013189x261494093</dc:identifier>
+<description><![CDATA[Education research is increasingly generating evidence that can inform teachers’ practice. This raises the question: how should researchers communicate research to increase the likelihood of teachers putting the findings into practice? We conducted a vignette survey experiment in which 3,000 teachers were given a summary of a research project. We randomly varied the presence of nine components of the research summary suggested by the expectancy-value-cost model of motivation. Despite generating 512 different versions of the summary, we found no relationship between how it was designed and teachers’ intention to use the focal teaching practice. The findings suggest that improving written research communications may be insufficient to affect teachers’ intentions, let alone their practice.]]></description>
+<content:encoded><![CDATA[Education research is increasingly generating evidence that can inform teachers’ practice. This raises the question: how should researchers communicate research to increase the likelihood of teachers putting the findings into practice? We conducted a vignette survey experiment in which 3,000 teachers were given a summary of a research project. We randomly varied the presence of nine components of the research summary suggested by the expectancy-value-cost model of motivation. Despite generating 512 different versions of the summary, we found no relationship between how it was designed and teachers’ intention to use the focal teaching practice. The findings suggest that improving written research communications may be insufficient to affect teachers’ intentions, let alone their practice.]]></content:encoded>
 </item>
 <item>
 <title>Impact of Removing Exit Exams on Graduation Rates</title>
