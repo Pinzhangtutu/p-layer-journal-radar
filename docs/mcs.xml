@@ -9,7 +9,7 @@
 <description>MCS — Taylor &amp; Francis · Latest in: Online First · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/mcs.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 11:17:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:48:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -373,6 +373,15 @@
 <description></description>
 </item>
 <item>
+<title>Academic Publishing is Broken. We’re All to Blame</title>
+<link>https://doi.org/10.1080/15205436.2026.2732436</link>
+<guid isPermaLink="false">10.1080/15205436.2026.2732436</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mike Schmierbach]]></dc:creator>
+<dc:identifier>doi:10.1080/15205436.2026.2732436</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Who Speaks Out, Why, and How? The Influence of Hostile Media Perception, Attitude Extremity, and Political Efficacy on Social Media Outspokenness</title>
 <link>https://doi.org/10.1080/15205436.2026.2669505</link>
 <guid isPermaLink="false">10.1080/15205436.2026.2669505</guid>
@@ -631,15 +640,6 @@
 <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zhuo Chen; Shengchun Huang; Cheng-Jun Wang]]></dc:creator>
 <dc:identifier>doi:10.1080/15205436.2026.2731920</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Relationship Between Social Media Use and Cosmetic Surgery Consideration: A Systematic Review and Three-Level Meta-Analysis</title>
-<link>https://doi.org/10.1080/15205436.2026.2620702</link>
-<guid isPermaLink="false">10.1080/15205436.2026.2620702</guid>
-<pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ting Liu; Yu Zhang; Miao Chao]]></dc:creator>
-<dc:identifier>doi:10.1080/15205436.2026.2620702</dc:identifier>
 <description></description>
 </item>
 </channel>

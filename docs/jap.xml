@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 11:17:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:48:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -477,14 +477,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Unveiling the Hidden Hazards: Exploring the Unintended Consequences of Legal Changes on Employee Injuries</title>
-<link>https://doi.org/10.1037/apl0001387.supp</link>
-<guid isPermaLink="false">10.1037/apl0001387.supp</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/apl0001387.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The shape of recovery activities: A person-centered study of evening recovery activity profiles, their work antecedents, and outcomes.</title>
 <link>https://doi.org/10.1037/apl0001424</link>
 <guid isPermaLink="false">10.1037/apl0001424</guid>
@@ -500,6 +492,15 @@
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Filip Lievens; You Zhou; Jomel Wei Xuan Ng; Liyan Xi; Yixin Tian; Paul R. Sackett; Michelle Martin-Raugh]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Grateful leaders and attentive followers: How grateful attention transmits the cascade of gratitude expressions to strengthen coworker relationships.</title>
+<link>https://doi.org/10.1037/apl0001398</link>
+<guid isPermaLink="false">10.1037/apl0001398</guid>
+<pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lauren R. Locklear; Meghan E. Kane; Mark G. Ehrhart]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001398</dc:identifier>
 <description></description>
 </item>
 <item>

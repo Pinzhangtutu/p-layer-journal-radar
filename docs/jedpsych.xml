@@ -9,7 +9,7 @@
 <description>JEdPsych — APA · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jedpsych.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 11:17:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:48:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -81,12 +81,84 @@
 <description></description>
 </item>
 <item>
-<title>Effects of student groups on teachers’ and students’ perceptions of teaching quality.</title>
-<link>https://doi.org/10.1037/edu0001044</link>
-<guid isPermaLink="false">10.1037/edu0001044</guid>
-<pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alexander J. Jung; Kou Murayama; Ann-Kathrin Jaekel; Richard Göllner]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001044</dc:identifier>
+<title>Strategically regulating motivation toward success: How motivation regulation profiles relate to achievement, will, and self-regulation of cognitive learning processes.</title>
+<link>https://doi.org/10.1037/edu0001081</link>
+<guid isPermaLink="false">10.1037/edu0001081</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yang-Hsin Fan; Luke Rutten; Tiffany Whittaker; Patricia Chen]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001081</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The association between socioeconomic status and students’ achievement motivation in secondary school: An individual participant data meta-analysis spanning two decades of PISA data.</title>
+<link>https://doi.org/10.1037/edu0001083</link>
+<guid isPermaLink="false">10.1037/edu0001083</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarah Grünthal; Lena Keller; Julia Kretschmann; Hanna Dumont; Martin Brunner]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001083</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Writing sentences: A randomized control trial of a first-grade, sentence-writing curriculum.</title>
+<link>https://doi.org/10.1037/edu0001071</link>
+<guid isPermaLink="false">10.1037/edu0001071</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David L. Coker; Kristen D. Ritchey; Sam Van Horne; Henry May; Man Jiang]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001071</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unveiling patterns: Understanding the relations between profiles of the home literacy environment, family background characteristics, and preschool children’s literacy development.</title>
+<link>https://doi.org/10.1037/edu0001078</link>
+<guid isPermaLink="false">10.1037/edu0001078</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[María Valcárcel Jiménez; Peter Edelsbrunner; Tina Schiele; Öykü Camligüney; Frank Niklas]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001078</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Early caregiver–child interaction predicts need for cognition: Pathway via preschool verbal self-concept.</title>
+<link>https://doi.org/10.1037/edu0001088</link>
+<guid isPermaLink="false">10.1037/edu0001088</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Samuel Essler; Markus Paulus]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001088</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adolescents’ threat-type stress responses predict avoidance of difficult mathematics coursework.</title>
+<link>https://doi.org/10.1037/edu0001089</link>
+<guid isPermaLink="false">10.1037/edu0001089</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eunjin Seo; Jeremy P. Jamieson; So Yeon Lee; Jamie M. Carroll; Jenny Buontempo; Rebecca Boylan; Joseph O'Brien; David S. Yeager]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001089</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Disentangling the effects of tracking and peer-group composition on academic and motivational development: A structural modeling approach.</title>
+<link>https://doi.org/10.1037/edu0001079</link>
+<guid isPermaLink="false">10.1037/edu0001079</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jürgen Baumert; Michael Becker; Oliver Lüdtke; Olaf Köller; Cordula Artelt]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001079</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Promoting children’s pro-environmental behaviors with cooperative learning: A large-scale year-long experimental field intervention with fifth and sixth graders.</title>
+<link>https://doi.org/10.1037/edu0001101</link>
+<guid isPermaLink="false">10.1037/edu0001101</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Fantine Lisa Surret; Wojciech Świątkowski; Céline Buchs; Emilio Paolo Visintin; Fabrizio Butera]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001101</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Timing of assignment deadlines and examinations relates to sleep, well-being, and academic performance.</title>
+<link>https://doi.org/10.1037/edu0001099</link>
+<guid isPermaLink="false">10.1037/edu0001099</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ju Lynn Ong; Yashmit Lepcha; Xin Yu Chua; Chun Siong Soon; Shuo Qin; Stijn A. A. Massar; Michael W. L. Chee]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001099</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -95,15 +167,6 @@
 <guid isPermaLink="false">10.1037/edu0001070.supp</guid>
 <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001070.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Almighty ChatGPT? Development of gifted secondary school students’ AI (mis)conceptions.</title>
-<link>https://doi.org/10.1037/edu0001063</link>
-<guid isPermaLink="false">10.1037/edu0001063</guid>
-<pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ann-Kathrin Jaggy; Thorben Jansen; Tim Fütterer; Ulrich Trautwein]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001063</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -331,21 +394,21 @@
 <description></description>
 </item>
 <item>
-<title>Mapping creativity in the PISA 2022 student and context questionnaires: An expert evaluation of content validity of the creativity self- and other-report scales.</title>
-<link>https://doi.org/10.1037/edu0001060</link>
-<guid isPermaLink="false">10.1037/edu0001060</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Selina Weiss; Boris Forthmann; Hansika Kapoor; Aleksandra Zielińska; Benjamin Goecke; Denis Dumas; Sameh Said-Metwaly; Jean Urbaniak; Zorana Ivcevic; Maciej Karwowski; James C. Kaufman; Baptiste Barbot]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001060</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Cognitive and foundational predictors of prealgebra competence among students with versus without mathematics learning difficulties.</title>
 <link>https://doi.org/10.1037/edu0001024</link>
 <guid isPermaLink="false">10.1037/edu0001024</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jessica Namkung; Peng Peng; Natalie Koziol; Dan Osgood; Wendy Smith]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001024</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mapping creativity in the PISA 2022 student and context questionnaires: An expert evaluation of content validity of the creativity self- and other-report scales.</title>
+<link>https://doi.org/10.1037/edu0001060</link>
+<guid isPermaLink="false">10.1037/edu0001060</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Selina Weiss; Boris Forthmann; Hansika Kapoor; Aleksandra Zielińska; Benjamin Goecke; Denis Dumas; Sameh Said-Metwaly; Jean Urbaniak; Zorana Ivcevic; Maciej Karwowski; James C. Kaufman; Baptiste Barbot]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001060</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -400,69 +463,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Rebecca Lazarides; Jonas Frenkel; Martin Daumiller; Markus Dresel; Uroš Petković; Olaf Hellwich; Richard Göllner]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0000999</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Comparing cognitive and emotional-motivational interventions to enhance word problem-solving skills in primary school: A randomized controlled study.</title>
-<link>https://doi.org/10.1037/edu0000994</link>
-<guid isPermaLink="false">10.1037/edu0000994</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Eleonora Doz; Alessandro Cuder; Sandra Pellizzoni; Maria Chiara Passolunghi]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0000994</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Testing teacher judgments comprehensively: Accuracy, halo, frame of reference, strategy, and personality effects in holistic and analytic assessments of student essays.</title>
-<link>https://doi.org/10.1037/edu0000969</link>
-<guid isPermaLink="false">10.1037/edu0000969</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Julian F. Lohmann; Flavio Lötscher; Fynn Junge; Stefan Keller; Thorben Jansen; Johanna Fleckenstein; Jens Möller]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0000969</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The decline in learning enjoyment and learning effort over primary and secondary schools: Do gender, migration background, and socioeconomic status matter?</title>
-<link>https://doi.org/10.1037/edu0000976</link>
-<guid isPermaLink="false">10.1037/edu0000976</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Anna Hawrot; Markus D. Feuchter; Ilka Wolter]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0000976</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Evidence of the effects of a practice-based reading comprehension professional development on teachers’ knowledge of reading comprehension.</title>
-<link>https://doi.org/10.1037/edu0001018</link>
-<guid isPermaLink="false">10.1037/edu0001018</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ashley M. Stack; Kausalai Wijekumar; Marianne Rice; Debra McKeown; Hope Gerde; Wen Luo; Pui-Wa Lei]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001018</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Domain-specific career aspirations, motivation, and achievement in math and reading across adolescence.</title>
-<link>https://doi.org/10.1037/edu0001003</link>
-<guid isPermaLink="false">10.1037/edu0001003</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Elisabeth Graf; Joerg-Tobias Kuhn; Nele McElvany]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001003</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Benefits and boundaries of learner-generated explanations and drawings.</title>
-<link>https://doi.org/10.1037/edu0000995</link>
-<guid isPermaLink="false">10.1037/edu0000995</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Logan Fiorella; Alexis Capobianco; Allison J. Jaeger]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0000995</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Strength-based learning groups support educators to create equitable learning environments for economically marginalized students.</title>
-<link>https://doi.org/10.1037/edu0000993</link>
-<guid isPermaLink="false">10.1037/edu0000993</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[David M. Silverman; Mesmin Destin; Tamara D. Hamilton; Zuzana Zajickova; Stephanie Bingham; Karen A. Callaghan]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0000993</dc:identifier>
 <description></description>
 </item>
 <item>

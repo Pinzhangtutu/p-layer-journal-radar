@@ -9,7 +9,7 @@
 <description>JMCQ — SAGE · Latest in: OnlineFirst · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmcq.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 11:17:47 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 16:48:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -281,6 +281,16 @@
 <dc:identifier>doi:10.1177/10776990261464203</dc:identifier>
 <description><![CDATA[In the digital age, peripheral journalistic actors increasingly contribute to information and views and increasingly impact the journalistic field depending on their transformative aims. To better understand their transformative intentions across all of journalism, we need to expand our focus to diverse journalistic beats. This study examines 192 Austrian peripheral websites and social media pages, spanning a broad spectrum of topics in politics, economics, lifestyle, and sports. Findings indicate that transformational intentions are not limited to antagonism or agonism but that the field’s periphery also includes actors who do not take an explicit stance in changing journalism.]]></description>
 <content:encoded><![CDATA[In the digital age, peripheral journalistic actors increasingly contribute to information and views and increasingly impact the journalistic field depending on their transformative aims. To better understand their transformative intentions across all of journalism, we need to expand our focus to diverse journalistic beats. This study examines 192 Austrian peripheral websites and social media pages, spanning a broad spectrum of topics in politics, economics, lifestyle, and sports. Findings indicate that transformational intentions are not limited to antagonism or agonism but that the field’s periphery also includes actors who do not take an explicit stance in changing journalism.]]></content:encoded>
+</item>
+<item>
+<title>What Makes Child Harm Newsworthy? Event Characteristics, Victim Characteristics, and Media Attention</title>
+<link>https://doi.org/10.1177/10776990261490389</link>
+<guid isPermaLink="false">10.1177/10776990261490389</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nikolay Ternov; Kuralay Mukhambetova; Zeinep Abetova]]></dc:creator>
+<dc:identifier>doi:10.1177/10776990261490389</dc:identifier>
+<description><![CDATA[Media coverage shapes public understanding of social problems, yet harmful events receive uneven attention even when they involve children. This study examines factors shaping media visibility of child harm in Kazakhstan. Using a corpus of more than 230,000 Telegram news posts (2020–2025), we identify 1,571 incidents involving harm to children and estimate negative binomial regression models to test explanations derived from news values and ideal victim theory. Results show that event characteristics predict media attention more strongly than victim characteristics. Fatal interpersonal violence receives more coverage, while systemic failures receive less. Victim age and gender are not significant predictors.]]></description>
+<content:encoded><![CDATA[Media coverage shapes public understanding of social problems, yet harmful events receive uneven attention even when they involve children. This study examines factors shaping media visibility of child harm in Kazakhstan. Using a corpus of more than 230,000 Telegram news posts (2020–2025), we identify 1,571 incidents involving harm to children and estimate negative binomial regression models to test explanations derived from news values and ideal victim theory. Results show that event characteristics predict media attention more strongly than victim characteristics. Fatal interpersonal violence receives more coverage, while systemic failures receive less. Victim age and gender are not significant predictors.]]></content:encoded>
 </item>
 <item>
 <title>Are Organizational Resources Always Protective? Journalists’ Job Burnout and Life Satisfaction under Collectivistic Contexts</title>
