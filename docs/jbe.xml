@@ -9,7 +9,7 @@
 <description>JBE — Springer · Latest in: Online First · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jbe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 16:48:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 21:14:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -38,26 +38,6 @@
 <dc:creator><![CDATA[Sara Ravn Jespersen]]></dc:creator>
 <dc:identifier>doi:10.1007/s10551-026-06401-w</dc:identifier>
 <description></description>
-</item>
-<item>
-<title>Gender Inequality and Social Capital in Academic Finance Networks</title>
-<link>https://doi.org/10.1007/s10551-026-06422-5</link>
-<guid isPermaLink="false">10.1007/s10551-026-06422-5</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jacquelyn E. Humphrey; Anna H. von Reibnitz; Ju Li Ng; Saphira A. C. Rekker; Harrison Layton; Kathleen D. Walsh]]></dc:creator>
-<dc:identifier>doi:10.1007/s10551-026-06422-5</dc:identifier>
-<description><![CDATA[Abstract Finance academia remains heavily male dominated, yet the mechanisms driving women’s underrepresentation are not fully understood. This study examines how co-authorship networks shape gendered access to and mobilisation of social capital by integrating Social Capital Theory with Social Network Analysis. Using a hand-collected global dataset of finance publications spanning 25 years, we examine gender differences in collaboration networks across distinct structural dimensions. We find that women occupy significantly weaker positions in both connectedness and brokerage within the broader network, despite comparable ties to highly central authors and journal editors. This combination reveals a systematic decoupling between access to influential actors and the capacity to occupy structurally advantageous positions through which social capital is effectively mobilised. We contribute to Social Capital Theory by identifying conditions under which access does not translate into advantage. The results show how network structures reproduce gender inequality in academic knowledge production, raising ethical concerns regarding equity, inclusion, and the legitimacy of ostensibly meritocratic systems.]]></description>
-<content:encoded><![CDATA[Abstract Finance academia remains heavily male dominated, yet the mechanisms driving women’s underrepresentation are not fully understood. This study examines how co-authorship networks shape gendered access to and mobilisation of social capital by integrating Social Capital Theory with Social Network Analysis. Using a hand-collected global dataset of finance publications spanning 25 years, we examine gender differences in collaboration networks across distinct structural dimensions. We find that women occupy significantly weaker positions in both connectedness and brokerage within the broader network, despite comparable ties to highly central authors and journal editors. This combination reveals a systematic decoupling between access to influential actors and the capacity to occupy structurally advantageous positions through which social capital is effectively mobilised. We contribute to Social Capital Theory by identifying conditions under which access does not translate into advantage. The results show how network structures reproduce gender inequality in academic knowledge production, raising ethical concerns regarding equity, inclusion, and the legitimacy of ostensibly meritocratic systems.]]></content:encoded>
-</item>
-<item>
-<title>Deliberation Without Romance (or Cynicism): The Role of Corporations in Deliberative Democracy</title>
-<link>https://doi.org/10.1007/s10551-026-06430-5</link>
-<guid isPermaLink="false">10.1007/s10551-026-06430-5</guid>
-<pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Adrian Gombert]]></dc:creator>
-<dc:identifier>doi:10.1007/s10551-026-06430-5</dc:identifier>
-<description><![CDATA[Abstract With scholars heralding free and open discourses between corporations and their stakeholders as a governance panacea, deliberative democracy has come to the forefront of business ethics research. Critics, however, have called into question whether corporations are, at all, viable entities to engage in such deliberative discourses due to their embeddedness in competition and their subsequent reliance on self-interest. In this paper, I argue that this objection is not only based on a questionable interpretation of the works of Jürgen Habermas that underpin deliberative democracy, particularly an overestimation of the demand for benevolence in his theory; it also overlooks the important similarities between corporate actors and their counterparts in politics and civil society. Building on this idea, I develop more nuanced criteria for assessing the discourse viability of corporations and other governance actors: first, the criterion of whether acting responsibly gives the organization an advantage in its respective competition; and second, the criterion of whether there are credible signs of a benevolent orientation in the organization. Ultimately, the paper contends that the categorical dismissal of corporations from deliberative discourses is not only unjustified on a theoretical level; weakening their role could also lead to their diminished participation in multi-stakeholder initiatives (MSIs), possibly even to their exclusion, creating far-reaching consequences for the numerous initiatives worldwide that are supported or even established by corporations.]]></description>
-<content:encoded><![CDATA[Abstract With scholars heralding free and open discourses between corporations and their stakeholders as a governance panacea, deliberative democracy has come to the forefront of business ethics research. Critics, however, have called into question whether corporations are, at all, viable entities to engage in such deliberative discourses due to their embeddedness in competition and their subsequent reliance on self-interest. In this paper, I argue that this objection is not only based on a questionable interpretation of the works of Jürgen Habermas that underpin deliberative democracy, particularly an overestimation of the demand for benevolence in his theory; it also overlooks the important similarities between corporate actors and their counterparts in politics and civil society. Building on this idea, I develop more nuanced criteria for assessing the discourse viability of corporations and other governance actors: first, the criterion of whether acting responsibly gives the organization an advantage in its respective competition; and second, the criterion of whether there are credible signs of a benevolent orientation in the organization. Ultimately, the paper contends that the categorical dismissal of corporations from deliberative discourses is not only unjustified on a theoretical level; weakening their role could also lead to their diminished participation in multi-stakeholder initiatives (MSIs), possibly even to their exclusion, creating far-reaching consequences for the numerous initiatives worldwide that are supported or even established by corporations.]]></content:encoded>
 </item>
 <item>
 <title>Beyond Greenwashing: Governing Sustainable AI for the Common Good Through a Virtue Ethics and Human-Centered AI Framework</title>
@@ -169,6 +149,25 @@
 <dc:creator><![CDATA[Hui Lin; Haiyan Jiang; Gary Tian; Jiaxing You]]></dc:creator>
 <dc:identifier>doi:10.1007/s10551-026-06469-4</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Media-Manager Sentiment Gap and Stock Returns: Evidence from China</title>
+<link>https://doi.org/10.1007/s10551-026-06488-1</link>
+<guid isPermaLink="false">10.1007/s10551-026-06488-1</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Can Yang; Jie Kang; Wei Ning; Fuwei Jiang]]></dc:creator>
+<dc:identifier>doi:10.1007/s10551-026-06488-1</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Economic Inequality Reduces Sustainable Consumption: Cross-National and Experimental Evidence and Psychological Mechanisms</title>
+<link>https://doi.org/10.1007/s10551-026-06437-y</link>
+<guid isPermaLink="false">10.1007/s10551-026-06437-y</guid>
+<pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steven A. Brieger; Jacob Hörisch; Xinyu Zhang]]></dc:creator>
+<dc:identifier>doi:10.1007/s10551-026-06437-y</dc:identifier>
+<description><![CDATA[Abstract This research investigates the relationship between economic inequality and sustainable consumption, highlighting how socioeconomic disparities shape consumer behavior. Across three studies—using secondary data from 20 countries, a vignette experiment, and UK survey data—we provide empirical evidence that individuals report lower levels of sustainable consumption when inequality levels are objectively high, perceived as high, or experimentally manipulated as high. This effect can be explained through norm activation theory: As inequality rises, consumers feel less responsible for environmental damage and are less aware of the environmental impact of their consumption choices. These dynamics weaken sustainability-oriented personal norms and, in turn, reduce sustainable consumption. Our findings suggest that reducing economic inequality can significantly enhance sustainable consumption.]]></description>
+<content:encoded><![CDATA[Abstract This research investigates the relationship between economic inequality and sustainable consumption, highlighting how socioeconomic disparities shape consumer behavior. Across three studies—using secondary data from 20 countries, a vignette experiment, and UK survey data—we provide empirical evidence that individuals report lower levels of sustainable consumption when inequality levels are objectively high, perceived as high, or experimentally manipulated as high. This effect can be explained through norm activation theory: As inequality rises, consumers feel less responsible for environmental damage and are less aware of the environmental impact of their consumption choices. These dynamics weaken sustainability-oriented personal norms and, in turn, reduce sustainable consumption. Our findings suggest that reducing economic inequality can significantly enhance sustainable consumption.]]></content:encoded>
 </item>
 <item>
 <title>To Be Good, Feel Good, or Look Good? A Theoretical Model of Moral Advice Seeking and Taking</title>

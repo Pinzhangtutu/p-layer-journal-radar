@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 16:48:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 21:14:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -391,16 +391,6 @@
 <content:encoded><![CDATA[Governments use their countries' economic strength from financial and trade relationships to achieve geopolitical and economic goals. We provide a model of the sources of geoeconomic power and how it is wielded. The source of this power is the ability of a hegemonic country to coordinate threats across disparate economic relationships as a means of enforcement on foreign entities. The hegemon wields this power to demand costly actions out of the targeted entities, including mark‐ups, import restrictions, tariffs, and political concessions. The hegemon uses its power to change targeted entities' activities to manipulate the global equilibrium in its favor and increase its power. A sector is strategic either in helping the hegemon form threats or in manipulating the world equilibrium via input‐output amplification. The hegemon acts a global enforcer, thus adding value to the world economy, but destroys value by distorting the equilibrium in its favor.]]></content:encoded>
 </item>
 <item>
-<title>Empirical Bayes When Estimation Precision Predicts Parameters</title>
-<link>https://doi.org/10.3982/ecta22935</link>
-<guid isPermaLink="false">10.3982/ecta22935</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jiafeng Chen]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta22935</dc:identifier>
-<description><![CDATA[Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location‐scale family of distributions, leading to a family of methods that we call close . The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high‐mobility Census tracts.]]></description>
-<content:encoded><![CDATA[Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location‐scale family of distributions, leading to a family of methods that we call close . The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high‐mobility Census tracts.]]></content:encoded>
-</item>
-<item>
 <title>Trade and Domestic Distortions: The Case of Informality</title>
 <link>https://doi.org/10.3982/ecta19378</link>
 <guid isPermaLink="false">10.3982/ecta19378</guid>
@@ -411,13 +401,14 @@
 <content:encoded><![CDATA[We examine the effects of international trade in the presence of a set of domestic distortions giving rise to informality, a prevalent phenomenon in developing countries. In our quantitative model, the informal sector arises from burdensome taxes and regulations that are imperfectly enforced by the government. In equilibrium, smaller, less productive firms face fewer distortions than larger, more productive ones, potentially leading to substantial misallocation. We show that in settings with a large informal sector, the gains from trade are significantly amplified, as reductions in trade barriers imply a reallocation of resources from initially less distorted to more distorted firms. We confirm findings from earlier reduced‐form studies that the informal sector mitigates the impact of negative labor demand shocks on unemployment. Nonetheless, the informal sector can exacerbate the adverse real income effects of economic downturns, amplifying misallocation. Last, our research sheds light on the relationship between trade openness and cross‐firm wage inequality.]]></content:encoded>
 </item>
 <item>
-<title>Comment on &lt;i&gt;‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee&lt;/i&gt;</title>
-<link>https://doi.org/10.3982/ecta23938</link>
-<guid isPermaLink="false">10.3982/ecta23938</guid>
+<title>Empirical Bayes When Estimation Precision Predicts Parameters</title>
+<link>https://doi.org/10.3982/ecta22935</link>
+<guid isPermaLink="false">10.3982/ecta22935</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sylvia Hristakeva]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta23938</dc:identifier>
-<description></description>
+<dc:creator><![CDATA[Jiafeng Chen]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta22935</dc:identifier>
+<description><![CDATA[Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location‐scale family of distributions, leading to a family of methods that we call close . The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high‐mobility Census tracts.]]></description>
+<content:encoded><![CDATA[Gaussian empirical Bayes methods usually maintain a precision independence assumption: The unknown parameters of interest are independent from the known standard errors of the estimates. This assumption is often theoretically questionable and empirically rejected. This paper proposes to model the conditional distribution of the parameter given the standard errors as a flexibly parameterized location‐scale family of distributions, leading to a family of methods that we call close . The close framework unifies and generalizes several proposals under precision dependence. We argue that the most flexible member of the close family is a minimalist and computationally efficient default for accounting for precision dependence. We analyze this method and show that it is competitive in terms of the regret of subsequent decision rules. Empirically, using close leads to sizable gains for selecting high‐mobility Census tracts.]]></content:encoded>
 </item>
 <item>
 <title>Double Robustness of Local Projections and Some Unpleasant VARithmetic</title>
@@ -428,6 +419,15 @@
 <dc:identifier>doi:10.3982/ecta23345</dc:identifier>
 <description><![CDATA[We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a “double robustness” property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short‐to‐moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.]]></description>
 <content:encoded><![CDATA[We consider impulse response inference in a locally misspecified vector autoregression (VAR) model. The conventional local projection (LP) confidence interval has correct coverage even when the misspecification is so large that it can be detected with probability approaching 1. This result follows from a “double robustness” property analogous to that of popular partially linear regression estimators. By contrast, the conventional VAR confidence interval with short‐to‐moderate lag length can severely undercover for misspecification that is small, difficult to detect statistically, and cannot be ruled out based on economic theory. The VAR confidence interval has robust coverage if, and only if, the lag length is so large that the interval is as wide as the LP interval.]]></content:encoded>
+</item>
+<item>
+<title>Comment on &lt;i&gt;‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin S. Lee&lt;/i&gt;</title>
+<link>https://doi.org/10.3982/ecta23938</link>
+<guid isPermaLink="false">10.3982/ecta23938</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sylvia Hristakeva]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23938</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>The Econometric Society Annual Reports Report of the Treasurer</title>

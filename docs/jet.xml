@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 15 Oct 2026 16:48:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 21:14:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -67,21 +67,21 @@
 <description></description>
 </item>
 <item>
-<title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
-<link>https://doi.org/10.1016/j.jet.2026.106217</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Recursive preferences and ambiguity attitudes</title>
 <link>https://doi.org/10.1016/j.jet.2026.106224</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
+<link>https://doi.org/10.1016/j.jet.2026.106217</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -229,6 +229,15 @@
 <description></description>
 </item>
 <item>
+<title>Spatial protection spillovers and the equilibrium of crime and policing</title>
+<link>https://doi.org/10.1016/j.jet.2026.106270</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106270</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eduardo Ferraz; Lucas Finamor]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106270</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Optimal tax under dispersed and distorted beliefs</title>
 <link>https://doi.org/10.1016/j.jet.2026.106266</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106266</guid>
@@ -343,15 +352,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Gregorio Curello; Ludvig Sinander; Mark Whitmeyer]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106231</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Spatial Protection Spillovers and the Equilibrium of Crime and Policing</title>
-<link>https://doi.org/10.1016/j.jet.2026.106270</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106270</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Eduardo Ferraz; Lucas Finamor]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106270</dc:identifier>
 <description></description>
 </item>
 <item>
