@@ -9,7 +9,7 @@
 <description>AMJ — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/amj.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 14 Oct 2026 21:33:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:17:23 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -55,15 +55,6 @@
 <pubDate>Wed, 08 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Chen Zhang; Ning Li; Xilan Zhang; Yi-An Deng; Laijie Yang]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2024.0522</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Understanding Why and When Coworkers Undermine Employees Who Have Friends in High Places</title>
-<link>https://doi.org/10.5465/amj.2022.1306</link>
-<guid isPermaLink="false">10.5465/amj.2022.1306</guid>
-<pubDate>Wed, 04 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruolian Fang; Daniel J. McAllister; Zhen Zhang; Michelle K. Duffy; Lin Wang]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2022.1306</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -184,15 +175,6 @@
 <description></description>
 </item>
 <item>
-<title>Knowledge Bridging: How Acquirers Leverage the Knowledge of Their Targets’ Prior Alliance Partners</title>
-<link>https://doi.org/10.5465/amj.2024.1203</link>
-<guid isPermaLink="false">10.5465/amj.2024.1203</guid>
-<pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jens-Christian Friedmann; Korcan Kavusan]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.1203</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Ambiguity as Opportunity: A Theoretical Model of Conspiracy Entrepreneurship</title>
 <link>https://doi.org/10.5465/amj.2025.0640</link>
 <guid isPermaLink="false">10.5465/amj.2025.0640</guid>
@@ -256,15 +238,6 @@
 <description></description>
 </item>
 <item>
-<title>Hostile Frame Takeover: Co-opting the Security Frame in the Nuclear Energy Debate</title>
-<link>https://doi.org/10.5465/amj.2024.0656</link>
-<guid isPermaLink="false">10.5465/amj.2024.0656</guid>
-<pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Stephan Bohn; Nora Lohmeyer; Harsh Kumar Jha; Juliane Reinecke]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0656</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Back to the Beginning: Rediscovering a Beginner’s Mind Enhances Advice Provision to Novices</title>
 <link>https://doi.org/10.5465/amj.2023.0816</link>
 <guid isPermaLink="false">10.5465/amj.2023.0816</guid>
@@ -289,15 +262,6 @@
 <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Deniz Öztürk; John M. Amis]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2022.1042</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>To Be or Not To Be (Aligned with Elites): Navigating Systemic Power within Informal Institutions</title>
-<link>https://doi.org/10.5465/amj.2023.0515</link>
-<guid isPermaLink="false">10.5465/amj.2023.0515</guid>
-<pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christopher Sutter; Babita Bhatt; Israr Qureshi]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2023.0515</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -343,6 +307,87 @@
 <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Madeline Toubiana; Jennifer E. Jennings]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2024.1435</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Tied In or Tied Up? The Contrasting Effects of Social Ties on Employee Turnover</title>
+<link>https://doi.org/10.5465/amj.2024.0641</link>
+<guid isPermaLink="false">10.5465/amj.2024.0641</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alessandro Iorio; Shad Morris]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0641</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Hostile Frame Takeover: Co-Opting the Security Frame in the Nuclear Energy Debate</title>
+<link>https://doi.org/10.5465/amj.2024.0656</link>
+<guid isPermaLink="false">10.5465/amj.2024.0656</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Stephan Bohn; Nora Lohmeyer; Harsh Kumar Jha; Juliane Reinecke]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0656</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Women Stick Together: Network Dynamics and Shared Resources Following Disruptive Events</title>
+<link>https://doi.org/10.5465/amj.2024.0199</link>
+<guid isPermaLink="false">10.5465/amj.2024.0199</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yiftach Yarmar; Tiantian Yang; Marissa D. King]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0199</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>To Be or Not to Be (Aligned with Elites): Navigating Systemic Power within Informal Institutions</title>
+<link>https://doi.org/10.5465/amj.2023.0515</link>
+<guid isPermaLink="false">10.5465/amj.2023.0515</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christopher Sutter; Babita Bhatt; Israr Qureshi]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0515</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Care-Full Reviewing at &lt;i&gt;Academy of Management Journal&lt;/i&gt; : Celebrating Our Reviewers and Putting Care Front and Center in the Review Process</title>
+<link>https://doi.org/10.5465/amj.2026.4005</link>
+<guid isPermaLink="false">10.5465/amj.2026.4005</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Madeline Toubiana; Fadel K. Matta; Jamie J. Ladge; Tine Köhler; David Kryscynski; Charlotte Cloutier; Benjamin M. Cole]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2026.4005</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Political Segregation in the Labor Market and the Persistence of Pay Gaps</title>
+<link>https://doi.org/10.5465/amj.2023.0371</link>
+<guid isPermaLink="false">10.5465/amj.2023.0371</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ray Tsai Fang; Felice B. Klein; Chi Nguyen; Jeff Lingwall; Alexander Lewis]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.0371</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Mega-Threats Influence Workplace Cooperation: Effect of #BlackLivesMatter Salience on Cooperation among and between Black and White Coworkers</title>
+<link>https://doi.org/10.5465/amj.2024.0457</link>
+<guid isPermaLink="false">10.5465/amj.2024.0457</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steffen Keck; Christian Schumacher; Abhinav Gupta; Keith Leavitt]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0457</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Who’s Behind the Red Suit? Exploring Role Prototypicality within Calling Enactment among Professional Santas</title>
+<link>https://doi.org/10.5465/amj.2023.1161</link>
+<guid isPermaLink="false">10.5465/amj.2023.1161</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christina B. Hymer; Bethany S. Cockburn; Borbala Csillag]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2023.1161</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Are You Looking at Me? Orchestrating Voyeuristic Events to Add Value for Those Being Observed</title>
+<link>https://doi.org/10.5465/amj.2024.1385</link>
+<guid isPermaLink="false">10.5465/amj.2024.1385</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dean A. Shepherd; Vinit Parida; Sarah Chase; Joakim Wincent]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.1385</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -442,42 +487,6 @@
 <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shiko M. Ben-Menahem; Vivianna F. He; Georg Von Krogh; Christian Wedl]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2024.0722</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How Mega-threats Influence Workplace Cooperation: Effect of #BlackLivesMatter Salience on Cooperation among and between Black and White Coworkers</title>
-<link>https://doi.org/10.5465/amj.2024.0457</link>
-<guid isPermaLink="false">10.5465/amj.2024.0457</guid>
-<pubDate>Mon, 16 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Steffen Keck; Christian Schumacher; Abhinav Gupta; Keith Leavitt]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0457</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Spacing Bodies: The Interplay between Focal and Subsidiary Coordinating</title>
-<link>https://doi.org/10.5465/amj.2024.0300</link>
-<guid isPermaLink="false">10.5465/amj.2024.0300</guid>
-<pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Samer Faraj; Karla Sayegh]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0300</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Tied in or Tied Up? The Contrasting Effects of Social Ties on Employee Turnover</title>
-<link>https://doi.org/10.5465/amj.2024.0641</link>
-<guid isPermaLink="false">10.5465/amj.2024.0641</guid>
-<pubDate>Mon, 09 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alessandro Iorio; Shad Morris]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0641</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Pipelines and Sprinkler Systems: Documenting the Speed–Flexibility Tradeoff in How Jobs Shape Promotion</title>
-<link>https://doi.org/10.5465/amj.2024.0582</link>
-<guid isPermaLink="false">10.5465/amj.2024.0582</guid>
-<pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shun Yiu; Matthew Bidwell; JR Keller]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0582</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -586,15 +595,6 @@
 <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Stefan Berger; Hendrik J. Van de Brake; Heike Bruch; Gerben S. Van der Vegt]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2023.0869</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>They Saw It Coming: Executive Experience and Foresight in Competitor Identification</title>
-<link>https://doi.org/10.5465/amj.2024.0463</link>
-<guid isPermaLink="false">10.5465/amj.2024.0463</guid>
-<pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sruthi Thatchenkery]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0463</dc:identifier>
 <description></description>
 </item>
 <item>

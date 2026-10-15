@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 14 Oct 2026 21:33:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:17:23 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -229,21 +229,21 @@
 <description></description>
 </item>
 <item>
-<title>Instructional Approaches and Content Knowledge in Teaching Computational Thinking: A Large-Scale Study</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105759</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105759</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sara Monteyne; Charlotte Struyve; Johan van Braak; Koen Aesaert]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105759</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Technology-enhanced second language learning in Computers &amp; Education: A 50-year review of outcomes, technical affordances, theoretical frameworks, and their connections</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105762</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105762</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ruofei Zhang; Di Zou; Sangmin-Michelle Lee]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105762</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Instructional Approaches and Content Knowledge in Teaching Computational Thinking: A Large-Scale Study</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105759</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105759</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sara Monteyne; Charlotte Struyve; Johan van Braak; Koen Aesaert]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105759</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -271,15 +271,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hajung Kim; Angelie Ignacio; Eunice Eunhee Jang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105674</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Cognitive process grouping on students’ mathematical creative problem solving: Evidence from clustering analysis, lag sequence analysis, and hidden Markov model</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105657</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105657</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yuting Tan; Tao Yang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105657</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -478,6 +469,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Wenjun Zhong; Jianghua Luo; Shuhui Yu; Ya Lyu; Jiang Guo]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105768</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Designing a pipeline linking professional development to AI-supported instructional practice</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105764</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105764</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ari Kim]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105764</dc:identifier>
 <description></description>
 </item>
 <item>

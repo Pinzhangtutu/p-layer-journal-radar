@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 14 Oct 2026 21:33:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 15 Oct 2026 04:17:23 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -355,21 +355,21 @@
 <description></description>
 </item>
 <item>
-<title>Was I Scammed? Understanding Consumer Scam Reporting Behavior Through Cognitive Appraisal</title>
-<link>https://doi.org/10.1016/j.im.2026.104442</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104442</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruochen Liao; H. Raghav Rao]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104442</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Explaining Value Creation in Mental Health IT Configurations: An Integrated Framework</title>
 <link>https://doi.org/10.1016/j.im.2026.104451</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104451</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[William Olivera; Lars Mathiassen; Aaron Baird; Yusen Xia]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104451</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond Integration to Validation: The Differential Impact of Physicians’ Knowledge Collaboration Behaviors on Online Medical Team Performance</title>
+<link>https://doi.org/10.1016/j.im.2026.104452</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -400,21 +400,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -580,12 +580,12 @@
 <description></description>
 </item>
 <item>
-<title>Shining a light on firm behavior: Payment strategies under the Physician Payment Sunshine Act</title>
-<link>https://doi.org/10.1016/j.im.2026.104342</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104342</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sherri Cheng; Wenjing Duan; Wenqi Zhou]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104342</dc:identifier>
+<title>Was I scammed? Understanding consumer scam reporting behavior through cognitive appraisal</title>
+<link>https://doi.org/10.1016/j.im.2026.104442</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104442</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruochen Liao; H. Raghav Rao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104442</dc:identifier>
 <description></description>
 </item>
 <item>
