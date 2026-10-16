@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 16 Oct 2026 16:30:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 20:53:15 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -408,15 +408,6 @@
 <description></description>
 </item>
 <item>
-<title>Review of “Moved by Modernity: How Development Shapes Migration in Rural Ethiopia”</title>
-<link>https://doi.org/10.1093/sf/soag081</link>
-<guid isPermaLink="false">10.1093/sf/soag081</guid>
-<pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kassahun Kebede]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag081</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Reproduction, rejection, or adoption of indigeneity? Intergenerational patterns of ethnic classification in contemporary Mexico</title>
 <link>https://doi.org/10.1093/sf/soag117</link>
 <guid isPermaLink="false">10.1093/sf/soag117</guid>
@@ -577,6 +568,16 @@
 <dc:creator><![CDATA[Rebecca Hanson]]></dc:creator>
 <dc:identifier>doi:10.1093/sf/soag137</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Nonstandard work, nonstandard lives? Temporary employment, unemployment, and family transitions</title>
+<link>https://doi.org/10.1093/sf/soag149</link>
+<guid isPermaLink="false">10.1093/sf/soag149</guid>
+<pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hande Inanc]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag149</dc:identifier>
+<description><![CDATA[Abstract It is well documented that unemployment is closely associated with family outcomes, affecting the occurrence, timing, and sequencing of key family transitions. Individuals with unemployment experience are more likely to postpone marriage, enter cohabiting unions, transition into parenthood outside marriage, and experience partnership dissolution. Temporary employment is often regarded as a better alternative because it provides income, opportunities for skill accumulation, and continued attachment to the labor market. In reality, however, temporary jobs are characterized by substantial insecurity and strain, which may have important consequences for family lives. Applying discrete-time event history analysis to nationally representative longitudinal data from the British household panel study, I show that temporary employment constitutes a meaningful source of uncertainty with substantial consequences for family formation and stability. The consequences of employment insecurity vary by educational attainment, gender, and union type. Educational differences strongly condition men’s family responses to employment insecurity, while for women education primarily structures exposure rather than buffering its consequences. Cohabitation functions as an adaptive response to unemployment but not to temporary employment, which is instead associated with greater instability of cohabiting unions. Together, these findings highlight the importance not only of employment, but of stable employment, for family formation and stability.]]></description>
+<content:encoded><![CDATA[Abstract It is well documented that unemployment is closely associated with family outcomes, affecting the occurrence, timing, and sequencing of key family transitions. Individuals with unemployment experience are more likely to postpone marriage, enter cohabiting unions, transition into parenthood outside marriage, and experience partnership dissolution. Temporary employment is often regarded as a better alternative because it provides income, opportunities for skill accumulation, and continued attachment to the labor market. In reality, however, temporary jobs are characterized by substantial insecurity and strain, which may have important consequences for family lives. Applying discrete-time event history analysis to nationally representative longitudinal data from the British household panel study, I show that temporary employment constitutes a meaningful source of uncertainty with substantial consequences for family formation and stability. The consequences of employment insecurity vary by educational attainment, gender, and union type. Educational differences strongly condition men’s family responses to employment insecurity, while for women education primarily structures exposure rather than buffering its consequences. Cohabitation functions as an adaptive response to unemployment but not to temporary employment, which is instead associated with greater instability of cohabiting unions. Together, these findings highlight the importance not only of employment, but of stable employment, for family formation and stability.]]></content:encoded>
 </item>
 <item>
 <title>Review of “The Story of a Generation: Life Course Pathways of the Class of ‘73”</title>

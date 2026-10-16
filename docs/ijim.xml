@@ -9,7 +9,7 @@
 <description>IJIM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijim.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 16 Oct 2026 16:30:33 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 20:53:15 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -436,15 +436,6 @@
 <description></description>
 </item>
 <item>
-<title>Architecting knowledge through AI-enhanced observability: A design science approach to enterprise architecture as a knowledge discipline</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103070</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103070</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Aïssa Toumi; Samuel Fosso Wamba; Mouaad Hafsi]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103070</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When animated avatars outperform: Leveraging avatar endorsers to enhance consumer adoption of AI-designed products</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103124</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103124</guid>
@@ -586,6 +577,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Irma Dupuis Day; Jamie Carlson; Lisa Toohey; Berit Follong; Tamara Bucher]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijinfomgt.2026.103135</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Affordances and paradoxical engagement in virtual immersive learning platforms: A configurational analysis across demographic groups</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103144</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103144</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhongyun Zhou; Yake Yang; Xiao-Ling Jin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103144</dc:identifier>
 <description></description>
 </item>
 </channel>
