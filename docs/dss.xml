@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 17 Oct 2026 15:25:09 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 20:27:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -157,21 +157,21 @@
 <description></description>
 </item>
 <item>
-<title>Advancing personalized healthcare for elderly individuals through AI-enhanced preventive disease risk stratification decision</title>
-<link>https://doi.org/10.1016/j.dss.2026.114771</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114771</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
 <link>https://doi.org/10.1016/j.dss.2026.114774</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Advancing personalized healthcare for elderly individuals through AI-enhanced preventive disease risk stratification decision</title>
+<link>https://doi.org/10.1016/j.dss.2026.114771</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114771</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -301,6 +301,15 @@
 <description></description>
 </item>
 <item>
+<title>Human-led or AI-led? How AI role configuration influences human engagement on knowledge-intensive gig platforms</title>
+<link>https://doi.org/10.1016/j.dss.2026.114781</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114781</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xicheng Yin; Jiachen Wang; Guoyin Jiang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114781</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Immersive systems across extended reality: From technology categories to mechanism-centered explanation</title>
 <link>https://doi.org/10.1016/j.dss.2026.114722</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114722</guid>
@@ -406,6 +415,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jin Xu; Xin Chen; Huiqi Zhao; Xin Li]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114738</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>MarketToM: A Theory of Mind framework for modeling latent mental states in stock trend prediction</title>
+<link>https://doi.org/10.1016/j.dss.2026.114784</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114784</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuyu Chen; Haowen Deng; Weiguo Fan; Shang Gao; Tao Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114784</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -586,24 +604,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Pavankumar Mulgund; Shannon Colville; Sandeep Purao; Nadine Ostern; Wasana Bandara; Lavlin Agrawal; Raj Sharman; Sophie Coulon; Joana Gaia; Catherine Haslam]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114697</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Looking at and feeling the Metaverse: How spatial priming influences trust in collaborative virtual environments through situated cognition</title>
-<link>https://doi.org/10.1016/j.dss.2026.114685</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114685</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xusen Cheng; Lu Gao; Xin (Robert) Luo; Siyu Lei]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114685</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The responsible worker in the age of generative AI: How human-AI co-creation shapes experienced responsibility for work outcomes</title>
-<link>https://doi.org/10.1016/j.dss.2026.114699</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114699</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Richard Henkenjohann; Manuel Trenz]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114699</dc:identifier>
 <description></description>
 </item>
 </channel>
