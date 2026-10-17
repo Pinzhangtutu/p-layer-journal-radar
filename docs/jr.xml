@@ -9,7 +9,7 @@
 <description>JR — Elsevier · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 17 Oct 2026 10:30:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 15:25:09 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -165,21 +165,21 @@
 <description></description>
 </item>
 <item>
-<title>Promotion elasticities of national and store brands: The effect of price level and brand type on promotion elasticity</title>
-<link>https://doi.org/10.1016/j.jretai.2026.01.001</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.01.001</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kristopher O. Keller; Raj Sethuraman]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.01.001</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Too much of a good thing: Promotional visuals and their effect on buying intentions of experiences</title>
 <link>https://doi.org/10.1016/j.jretai.2026.09.002</link>
 <guid isPermaLink="false">10.1016/j.jretai.2026.09.002</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Anouk Festjens; Caroline Goukens; Kimberley van der Heijden; David Gal]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.09.002</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Promotion elasticities of national and store brands: The effect of price level and brand type on promotion elasticity</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.001</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.001</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kristopher O. Keller; Raj Sethuraman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.001</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -243,6 +243,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Joep van der Plas; Inge Geyskens; Marnik G. Dekimpe]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.09.007</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Planning better over buying cheaper: How households adjust grocery shopping to inflation across income groups</title>
+<link>https://doi.org/10.1016/j.jretai.2026.10.002</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.10.002</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sarah Gelper; Lien Lamey; Els Breugelmans]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.10.002</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -451,21 +460,21 @@
 <description></description>
 </item>
 <item>
-<title>Location still matters: How geographic proximity between customers shapes repeat purchase behavior in online food delivery services</title>
-<link>https://doi.org/10.1016/j.jretai.2025.12.002</link>
-<guid isPermaLink="false">10.1016/j.jretai.2025.12.002</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruichen Ge; Evert de Haan; Peter C. Verhoef; Sha Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2025.12.002</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Quality disclosure of luxury product under non-deceptive copycat competition</title>
 <link>https://doi.org/10.1016/j.jretai.2026.06.002</link>
 <guid isPermaLink="false">10.1016/j.jretai.2026.06.002</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Long Ding; Peng Liu; Jianqiang Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.06.002</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Location still matters: How geographic proximity between customers shapes repeat purchase behavior in online food delivery services</title>
+<link>https://doi.org/10.1016/j.jretai.2025.12.002</link>
+<guid isPermaLink="false">10.1016/j.jretai.2025.12.002</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruichen Ge; Evert de Haan; Peter C. Verhoef; Sha Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2025.12.002</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -619,15 +628,6 @@
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Erik Maier]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.05.001</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Brand collaborations: Spillover effects of a broadened mind</title>
-<link>https://doi.org/10.1016/j.jretai.2026.04.004</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.04.004</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jin K. Han; Yong Seok Sohn; Bernd H. Schmitt]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.04.004</dc:identifier>
 <description></description>
 </item>
 </channel>
