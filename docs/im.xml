@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 17 Oct 2026 04:03:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 10:30:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -373,6 +373,15 @@
 <description></description>
 </item>
 <item>
+<title>Asymmetric Trust Production in Human–AI Augmentation: The Structural Vulnerability of Affected Groups</title>
+<link>https://doi.org/10.1016/j.im.2026.104454</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Elucidating the bifurcated effects of artificial intelligence technostress on customer satisfaction: The role of affective reactions and voluntariness of use</title>
 <link>https://doi.org/10.1016/j.im.2026.104419</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104419</guid>
@@ -382,21 +391,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -550,15 +559,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>AI-powered personalization in online fashion stores: Exploring the impact on shoppers’ perceived risk and intention to buy and recommend</title>
-<link>https://doi.org/10.1016/j.im.2026.104347</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104347</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[K.Mohamed Jasim; Venu Bhaskar Puthineedi; Ashish Kumar Jha]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104347</dc:identifier>
 <description></description>
 </item>
 <item>

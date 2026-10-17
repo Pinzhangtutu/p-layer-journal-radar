@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 17 Oct 2026 04:03:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 10:30:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -184,6 +184,15 @@
 <description></description>
 </item>
 <item>
+<title>Fifty Years of Computers &amp; Education: Continuities, Transformations, and Diversification in Educational Technology Research</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105770</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105770</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miguel Nussbaum]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105770</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>What task to offload to GenAI in the writing feedback process? – Effects of task-offloading approaches on EFL learners’ writing skill development</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105675</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105675</guid>
@@ -244,24 +253,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ruofei Zhang; Di Zou; Sangmin-Michelle Lee]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105762</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Instructional Approaches and Content Knowledge in Teaching Computational Thinking: A Large-Scale Study</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105759</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105759</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sara Monteyne; Charlotte Struyve; Johan van Braak; Koen Aesaert]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105759</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Topic landscapes and cross-period semantic connections in Computers &amp; Education</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105758</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105758</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xieling Chen; Di Zou; Haoran Xie; S. Joe Qin]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105758</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -451,6 +442,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Charles R. Graham; Jered Borup; Tserenchimed Purevsuren; Ganbat Danaa; Tsooj Shambaljamts; Batbold Bukhchuluun; Ross Larsen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105672</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Instructional approaches and content knowledge in teaching computational thinking: A large-scale study</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105759</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105759</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sara Monteyne; Charlotte Struyve; Johan van Braak; Koen Aesaert]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105759</dc:identifier>
 <description></description>
 </item>
 <item>
