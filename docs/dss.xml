@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 17 Oct 2026 20:27:17 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 04:11:46 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -328,6 +328,15 @@
 <description></description>
 </item>
 <item>
+<title>Expected default risk and abnormal returns: Evidence from textual disclosures in earnings conference calls</title>
+<link>https://doi.org/10.1016/j.dss.2026.114783</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114783</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yi-Mien Lin; Li-Yu Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114783</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Socializing online knowledge platforms: How social post features influence user knowledge contribution and mitigate the adverse impact of generative AI</title>
 <link>https://doi.org/10.1016/j.dss.2026.114731</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114731</guid>
@@ -595,15 +604,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yuqiu Wang; Eric W.T. Ngai]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114688</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Problem space exploration for wicked psychosocial problems: Insights from two cases</title>
-<link>https://doi.org/10.1016/j.dss.2026.114697</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114697</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pavankumar Mulgund; Shannon Colville; Sandeep Purao; Nadine Ostern; Wasana Bandara; Lavlin Agrawal; Raj Sharman; Sophie Coulon; Joana Gaia; Catherine Haslam]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114697</dc:identifier>
 <description></description>
 </item>
 </channel>
