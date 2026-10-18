@@ -9,7 +9,7 @@
 <description>JRAI — Wiley · Latest in: Early View · Subfield: anthropology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jrai.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 18 Oct 2026 10:50:41 +0000</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 15:46:05 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -141,21 +141,21 @@
 <description></description>
 </item>
 <item>
-<title>Borisova, Elena. Paradoxes of migration in Tajikistan: locating the good life. 244 pp., illus., bibliogr. London: UCL Press, 2024. £30.00 (paper)</title>
-<link>https://doi.org/10.1111/1467-9655.70226</link>
-<guid isPermaLink="false">10.1111/1467-9655.70226</guid>
-<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kaiyan Wang]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70226</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Niekerk, Carl. Enlightenment anthropology: defining humanity in an era of colonialism. xi, 257 pp., bibliogr. University Park: Pennsylvania State University Press, 2024. $39.99 (paper)</title>
 <link>https://doi.org/10.1111/1467-9655.70238</link>
 <guid isPermaLink="false">10.1111/1467-9655.70238</guid>
 <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Han F. Vermeulen]]></dc:creator>
 <dc:identifier>doi:10.1111/1467-9655.70238</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Borisova, Elena. Paradoxes of migration in Tajikistan: locating the good life. 244 pp., illus., bibliogr. London: UCL Press, 2024. £30.00 (paper)</title>
+<link>https://doi.org/10.1111/1467-9655.70226</link>
+<guid isPermaLink="false">10.1111/1467-9655.70226</guid>
+<pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kaiyan Wang]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70226</dc:identifier>
 <description></description>
 </item>
 <item>
