@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 19 Oct 2026 12:54:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 22:15:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -166,21 +166,21 @@
 <description></description>
 </item>
 <item>
-<title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106672</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>English-hearing toddlers learn words from consistent and variable labels</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106647</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106647</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kennedy Casey; Casey Lew-Williams]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106647</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Aha-related surprise tracks violated expectations at multiple levels in perceptual insight</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106672</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106672</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paola Gega; Teuta Dzaferi; Maxi Becker]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106672</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -202,12 +202,12 @@
 <description></description>
 </item>
 <item>
-<title>Directional asymmetry in event schema activation</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106669</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106669</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shu Hu; Joseph P. Magliano; Sashank Varma]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106669</dc:identifier>
+<title>Successful modal reasoning depends on WHAT went WHERE</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106751</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106751</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Mazalik; Justin Halberda]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106751</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -526,21 +526,21 @@
 <description></description>
 </item>
 <item>
-<title>Internal Bayesian precision modulates the neural representation of social attention: Disentangling implicit and explicit components via model-informed multivariate EEG analysis</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106720</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106720</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ziwei Chen; Lingyu Zhao; Chuyu Wang; Yongning Song]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106720</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Postural configurations as micro-ecological constraints: How embodied arrangements shape the emergence of bodily-visual communication</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106736</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106736</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marek Placiński; Jonas Nölle; Marta Sibierska; Bartłomiej Kiljanek; Klaudia Karkowska; Przemysław Żywiczyński]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106736</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Internal Bayesian precision modulates the neural representation of social attention: Disentangling implicit and explicit components via model-informed multivariate EEG analysis</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106720</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106720</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ziwei Chen; Lingyu Zhao; Chuyu Wang; Yongning Song]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106720</dc:identifier>
 <description></description>
 </item>
 <item>

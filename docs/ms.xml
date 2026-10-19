@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 19 Oct 2026 12:54:08 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 22:15:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -331,26 +331,6 @@
 <content:encoded><![CDATA[The paper analyzes various fairness policies for ensuring fairness in ad-auctions.]]></content:encoded>
 </item>
 <item>
-<title>Estimating Position and Social Influence Effects in Online Search</title>
-<link>https://doi.org/10.1287/mksc.2023.0392</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0392</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ata Jameei Osgouei; Andrew T. Ching; Brian T. Ratchford; Shervin Shahrokhi Tehrani]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0392</dc:identifier>
-<description><![CDATA[This paper estimates position and social influence effects in online search using a structural model and field experiment data.]]></description>
-<content:encoded><![CDATA[This paper estimates position and social influence effects in online search using a structural model and field experiment data.]]></content:encoded>
-</item>
-<item>
-<title>Vertical Competition on a Common Platform</title>
-<link>https://doi.org/10.1287/mksc.2022.0402</link>
-<guid isPermaLink="false">10.1287/mksc.2022.0402</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xiaojuan Puyang; Zheyin (Jane) Gu; Rachel R. Chen; Juan Li]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2022.0402</dc:identifier>
-<description><![CDATA[We investigate how a platform decides on the provision and pricing of its infrastructure for vertically differentiated vendors when facing vendors’ strategic reactions.]]></description>
-<content:encoded><![CDATA[We investigate how a platform decides on the provision and pricing of its infrastructure for vertically differentiated vendors when facing vendors’ strategic reactions.]]></content:encoded>
-</item>
-<item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
 <link>https://doi.org/10.1287/mksc.2023.0309</link>
 <guid isPermaLink="false">10.1287/mksc.2023.0309</guid>
@@ -473,6 +453,26 @@
 <dc:identifier>doi:10.1287/mksc.2024.0922</dc:identifier>
 <description><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></description>
 <content:encoded><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></content:encoded>
+</item>
+<item>
+<title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>
+<link>https://doi.org/10.1287/mksc.2024.1051</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1051</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Doug J. Chung; Dongkyu Chang]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1051</dc:identifier>
+<description><![CDATA[This study examines how aspirational-goal communications influence sales agents’ performance and information-seeking behavior. In a field experiment across 100 stores in Sweden, agents in the treatment group received daily personalized text messages with aspirational sales goals tailored to their prior performance. Results show that these communications increase sales performance, particularly among low-performing agents, primarily through higher unit sales. At the same time, they reduce agents’ willingness to monitor within-day sales progress—reflecting the ostrich effect—which can adversely affect performance. Information acquisition, in the form of sales-progress monitoring, typically aids effort provision, but aspirational-goal communications suppress such behavior, complicating performance management. These findings highlight the dual effects of aspirational-goal communications: while they enhance motivation, they may also prompt information avoidance. The study contributes to research on goal setting and sales management by clarifying the trade-offs in designing effective motivational and communication strategies.]]></description>
+<content:encoded><![CDATA[This study examines how aspirational-goal communications influence sales agents’ performance and information-seeking behavior. In a field experiment across 100 stores in Sweden, agents in the treatment group received daily personalized text messages with aspirational sales goals tailored to their prior performance. Results show that these communications increase sales performance, particularly among low-performing agents, primarily through higher unit sales. At the same time, they reduce agents’ willingness to monitor within-day sales progress—reflecting the ostrich effect—which can adversely affect performance. Information acquisition, in the form of sales-progress monitoring, typically aids effort provision, but aspirational-goal communications suppress such behavior, complicating performance management. These findings highlight the dual effects of aspirational-goal communications: while they enhance motivation, they may also prompt information avoidance. The study contributes to research on goal setting and sales management by clarifying the trade-offs in designing effective motivational and communication strategies.]]></content:encoded>
+</item>
+<item>
+<title>AI in Disguise—Quasi-Experimental Analysis of a Large-Scale Deployment of AI-Generated Ads</title>
+<link>https://doi.org/10.1287/mksc.2025.0547</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0547</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yannick Exner; Jochen Hartmann; Ziqian Ding; Shunyuan Zhang; Oded Netzer]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0547</dc:identifier>
+<description><![CDATA[As Taboola prepared to launch its GenAI Ad Maker, a tool that lets advertisers create ad images within the platform, it faced a consequential question about whether AI-generated ad images would perform well with real consumers, and under what conditions. Working with Taboola, we construct a quasi-experimental comparison of 4,633 ‘sibling ads,’ meaning AI-generated and human-made images launched by the same advertisers, in identical campaign settings, at the same time. These ads span more than 369 million impressions and 2.5 million clicks. We do not find a detectable average click-through-rate disadvantage for AI-generated images relative to their human-made siblings. However, this average masks an important boundary condition: ads with AI-generated images outperform human-made ads when the AI images do not ‘look like AI.’ We identify key visual features influencing consumers’ perceptions of whether an ad looks AI-generated. While AI generates sharper, clearer, and less blurry images with larger faces, consumers associate these features with human-made ads. On the other hand, in line with consumers’ expectations, aesthetics, lower warmth, and intense color saturation in ads signal AI generation. These findings support Taboola’s roll-out communication, advertiser guidance, and continued refinement of the GenAI Ad Maker.]]></description>
+<content:encoded><![CDATA[As Taboola prepared to launch its GenAI Ad Maker, a tool that lets advertisers create ad images within the platform, it faced a consequential question about whether AI-generated ad images would perform well with real consumers, and under what conditions. Working with Taboola, we construct a quasi-experimental comparison of 4,633 ‘sibling ads,’ meaning AI-generated and human-made images launched by the same advertisers, in identical campaign settings, at the same time. These ads span more than 369 million impressions and 2.5 million clicks. We do not find a detectable average click-through-rate disadvantage for AI-generated images relative to their human-made siblings. However, this average masks an important boundary condition: ads with AI-generated images outperform human-made ads when the AI images do not ‘look like AI.’ We identify key visual features influencing consumers’ perceptions of whether an ad looks AI-generated. While AI generates sharper, clearer, and less blurry images with larger faces, consumers associate these features with human-made ads. On the other hand, in line with consumers’ expectations, aesthetics, lower warmth, and intense color saturation in ads signal AI generation. These findings support Taboola’s roll-out communication, advertiser guidance, and continued refinement of the GenAI Ad Maker.]]></content:encoded>
 </item>
 <item>
 <title>Can Facebook Ads Prevent Malaria? Two Field Experiments in India</title>
