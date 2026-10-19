@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 19 Oct 2026 04:20:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 12:54:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -67,21 +67,21 @@
 <description></description>
 </item>
 <item>
-<title>Recursive preferences and ambiguity attitudes</title>
-<link>https://doi.org/10.1016/j.jet.2026.106224</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
 <link>https://doi.org/10.1016/j.jet.2026.106217</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recursive preferences and ambiguity attitudes</title>
+<link>https://doi.org/10.1016/j.jet.2026.106224</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -211,6 +211,15 @@
 <description></description>
 </item>
 <item>
+<title>Information design in repeated interaction</title>
+<link>https://doi.org/10.1016/j.jet.2026.106269</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106269</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[João Correia-da-Silva; Takuro Yamashita]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106269</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Topology-free constructions of a universal type space as coherent belief hierarchies</title>
 <link>https://doi.org/10.1016/j.jet.2026.106259</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106259</guid>
@@ -307,15 +316,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hiroto Sato; Konan Shimizu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106232</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Information Design in Repeated Interaction</title>
-<link>https://doi.org/10.1016/j.jet.2026.106269</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106269</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[João Correia-da-Silva; Takuro Yamashita]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106269</dc:identifier>
 <description></description>
 </item>
 <item>

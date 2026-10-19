@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 19 Oct 2026 04:20:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 12:54:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,21 +211,21 @@
 <description></description>
 </item>
 <item>
-<title>Music-induced spontaneous thought reflects individual differences in creativity</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106660</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106660</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Benjamin M. Kubit; Peter Benson; Cara Turnbull; Nicholas Kathios; Ziyan (Annie) Zhao; Bolor Amgalan; Oscar von Rekowsky; Infinity Bauer; Noelle Carter; Elizabeth H. Margulis; Psyche Loui]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106660</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Day by day, bit by bit: Knowledge building mechanisms evolve with development</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106740</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106740</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Layla Unger; Olivera Savic; Vladimir M. Sloutsky]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106740</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive forecasting: How intuitive theories of attention shape anticipated risk preferences</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106741</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106741</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dogukan Demircioglu; Chris Dawson; Samuel G.B. Johnson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106741</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -346,21 +346,21 @@
 <description></description>
 </item>
 <item>
-<title>The objecthood of visual working memory representations influences their interaction with attention</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106727</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106723</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yaxin Liu; Stella F. Lourenco]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106723</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The objecthood of visual working memory representations influences their interaction with attention</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106727</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -463,6 +463,24 @@
 <description></description>
 </item>
 <item>
+<title>Semantic generation masks value directed remembering in memory but not metamemory: Evidence from truth-telling and lie fabrication</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106730</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106730</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Samet Kaya; Miri Besken]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106730</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Music influences the content of spontaneous thought</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106722</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
@@ -478,24 +496,6 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Manuel F. Pulido; Stanislav Mulík; Paola E. Dussias]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106729</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>It's about time: Specific and unspecific effects of episodic future thinking on farsighted decisions</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106702</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106702</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heidrun Schultz; Roland G. Benoit]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106702</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Semantic generation masks value directed remembering in memory but not metamemory: Evidence from truth-telling and lie fabrication</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106730</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106730</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Samet Kaya; Miri Besken]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106730</dc:identifier>
 <description></description>
 </item>
 <item>
