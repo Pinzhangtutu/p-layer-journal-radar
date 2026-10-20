@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 20 Oct 2026 16:45:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 21:30:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -133,6 +133,24 @@
 <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Priit Jeenas]]></dc:creator>
 <dc:identifier>doi:10.1086/744130</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Implementing an Optimal Tax Plan with Short Term Debt</title>
+<link>https://doi.org/10.1086/744576</link>
+<guid isPermaLink="false">10.1086/744576</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Jiang; Thomas Sargent; Neng Wan]]></dc:creator>
+<dc:identifier>doi:10.1086/744576</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Welfare and the Act of Choosing</title>
+<link>https://doi.org/10.1086/744577</link>
+<guid isPermaLink="false">10.1086/744577</guid>
+<pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[B. Douglas Berhneim; Kristy Kim; Dmitry Taubinsky]]></dc:creator>
+<dc:identifier>doi:10.1086/744577</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -469,23 +487,6 @@
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[John Conlon; Malavika Mani; Gautam Rao; Matthew Ridley; Frank Schilbach]]></dc:creator>
 <dc:identifier>doi:10.1086/743914</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>JPE Turnaround Times</title>
-<link>https://doi.org/10.1086/742160</link>
-<guid isPermaLink="false">10.1086/742160</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1086/742160</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Ever since Allais</title>
-<link>https://doi.org/10.1086/739829</link>
-<guid isPermaLink="false">10.1086/739829</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Aluma Dembo; Shachar Kariv; Matthew Polisson; John K.-H. Quah]]></dc:creator>
-<dc:identifier>doi:10.1086/739829</dc:identifier>
 <description></description>
 </item>
 <item>
