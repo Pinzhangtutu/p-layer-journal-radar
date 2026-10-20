@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 19 Oct 2026 22:15:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 04:31:14 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -261,6 +261,15 @@
 <description></description>
 </item>
 <item>
+<title>On the mechanisms of intervention effect fade-out: A meta-analytic review of interventions targeting at-risk students’ achievement.</title>
+<link>https://doi.org/10.1037/bul0000516</link>
+<guid isPermaLink="false">10.1037/bul0000516</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jens Dietrichson; Roopali Bhatnagar; Trine Filges; Mikkel Helding Vembye]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000516</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Supplemental Material for Misogynous Messages in the Media Increase Hostility to Women: Evidence From a Meta-Analysis of 257 Experimental and Nonexperimental Studies</title>
 <link>https://doi.org/10.1037/bul0000513.supp</link>
 <guid isPermaLink="false">10.1037/bul0000513.supp</guid>
@@ -282,15 +291,6 @@
 <guid isPermaLink="false">10.1037/bul0000522.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000522.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>On the mechanisms of intervention effect fade-out: A meta-analytic review of interventions targeting at-risk students’ achievement.</title>
-<link>https://doi.org/10.1037/bul0000516</link>
-<guid isPermaLink="false">10.1037/bul0000516</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jens Dietrichson; Roopali Bhatnagar; Trine Filges; Mikkel Helding Vembye]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000516</dc:identifier>
 <description></description>
 </item>
 <item>

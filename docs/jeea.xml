@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 19 Oct 2026 22:15:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 04:31:14 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -473,6 +473,16 @@
 <content:encoded><![CDATA[Abstract This paper investigates the adoption of short-time work (STW) by firms and their participating employees. We present a model showing that STW can preserve jobs in firms facing severe negative revenue shocks, but not in less affected firms, where hours are reduced without preventing layoffs. Using data from all French establishments during the 2008–2009 Great Recession, we find that STW helped save jobs and increased hours worked in firms hit by significant revenue losses, facilitating a faster post-recession recovery. We also identify substantial windfall effects, which raise the policy’s cost per job saved. Nonetheless, STW is likely more cost-effective at preserving employment than wage subsidies, potentially resulting in a net negative cost to public finances.]]></content:encoded>
 </item>
 <item>
+<title>National Wage Contracts, Monopsony, and Welfare in a North-South Economy,</title>
+<link>https://doi.org/10.1093/jeea/jvag065</link>
+<guid isPermaLink="false">10.1093/jeea/jvag065</guid>
+<pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Emanuele Ciani; Alberto Dalmazzo; Guido de Blasio]]></dc:creator>
+<dc:identifier>doi:10.1093/jeea/jvag065</dc:identifier>
+<description><![CDATA[Abstract In countries characterized by significant geographical disparities in productivity, nationwide labour contracts may cause local unemployment by preventing the adjustments that would occur in a competitive labour market. Here we argue, however, that when there are mobility frictions and monopsony power, nationwide contracts may still be preferable to local contracts. Using a spatial general equilibrium model calibrated on the Italian North-South divide, we suggest that nationwide wage contracts may still lead to narrower regional welfare gaps if monopsony power is sufficiently strong in low-productivity areas.]]></description>
+<content:encoded><![CDATA[Abstract In countries characterized by significant geographical disparities in productivity, nationwide labour contracts may cause local unemployment by preventing the adjustments that would occur in a competitive labour market. Here we argue, however, that when there are mobility frictions and monopsony power, nationwide contracts may still be preferable to local contracts. Using a spatial general equilibrium model calibrated on the Italian North-South divide, we suggest that nationwide wage contracts may still lead to narrower regional welfare gaps if monopsony power is sufficiently strong in low-productivity areas.]]></content:encoded>
+</item>
+<item>
 <title>Presidential Lecture 2025: Exorbitant Privilege of the Periodic Table? Geoeconomics, Endogenous Centrality and Strategic Minerals for the Green Transition</title>
 <link>https://doi.org/10.1093/jeea/jvag051</link>
 <guid isPermaLink="false">10.1093/jeea/jvag051</guid>
@@ -631,16 +641,6 @@
 <dc:identifier>doi:10.1093/jeea/jvag006</dc:identifier>
 <description><![CDATA[Abstract We present causal evidence on the rent-sharing elasticity of German manufacturing firms. We develop a new firm-level Bartik instrument for firm rents that combines the firms’ predetermined energy input mix with national energy carrier price changes. Instrumental variable estimation yields a rent-sharing elasticity of approximately 0.20, implying that a 10% change in rents leads to a 2% change in wages. Rent-sharing induced by energy price variation is asymmetric and driven by energy price increases, such that, on average, workers do not benefit from energy price reductions but are harmed by price increases. Reduced-form evidence shows that a 10% increase in firm-level energy prices depresses firm-level wage growth by 0.34%.]]></description>
 <content:encoded><![CDATA[Abstract We present causal evidence on the rent-sharing elasticity of German manufacturing firms. We develop a new firm-level Bartik instrument for firm rents that combines the firms’ predetermined energy input mix with national energy carrier price changes. Instrumental variable estimation yields a rent-sharing elasticity of approximately 0.20, implying that a 10% change in rents leads to a 2% change in wages. Rent-sharing induced by energy price variation is asymmetric and driven by energy price increases, such that, on average, workers do not benefit from energy price reductions but are harmed by price increases. Reduced-form evidence shows that a 10% increase in firm-level energy prices depresses firm-level wage growth by 0.34%.]]></content:encoded>
-</item>
-<item>
-<title>&lt;i&gt;FBBVA Lecture 2025:&lt;/i&gt; Negative Rates and the Effective Lower Bound: Theory and Evidence</title>
-<link>https://doi.org/10.1093/jeea/jvaf053</link>
-<guid isPermaLink="false">10.1093/jeea/jvaf053</guid>
-<pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael McLeay; Silvana Tenreyro; Lukas von dem Berge]]></dc:creator>
-<dc:identifier>doi:10.1093/jeea/jvaf053</dc:identifier>
-<description><![CDATA[Abstract With the monetary policy lower bound a re-emerging concern in some locations, we present new insights on the impact of negative policy rates. We develop a new theoretical model to match the empirical evidence on their effects. The model features a heterogeneous, oligopolistic banking sector where loan pricing is determined in part by the availability of deposit funding and in part by wholesale funding. The use of non-deposit funding ensures that the bank lending channel of negative rates remains active. We explore the impact of the policy on different types of banks: High-deposit banks may experience a fall in interest margins and profitability, which can result in reduced lending. But this is more than compensated for by greater lending from low-deposit banks. We embed this banking sector in an open-economy macroeconomic model, featuring exchange-rate and capital market transmission channels, which continue to work as normal when rates are negative. These non-bank channels, combined with general equilibrium effects and an active bank lending channel, mean that the transmission of negative rates is only somewhat weaker than the transmission of conventional policy.]]></description>
-<content:encoded><![CDATA[Abstract With the monetary policy lower bound a re-emerging concern in some locations, we present new insights on the impact of negative policy rates. We develop a new theoretical model to match the empirical evidence on their effects. The model features a heterogeneous, oligopolistic banking sector where loan pricing is determined in part by the availability of deposit funding and in part by wholesale funding. The use of non-deposit funding ensures that the bank lending channel of negative rates remains active. We explore the impact of the policy on different types of banks: High-deposit banks may experience a fall in interest margins and profitability, which can result in reduced lending. But this is more than compensated for by greater lending from low-deposit banks. We embed this banking sector in an open-economy macroeconomic model, featuring exchange-rate and capital market transmission channels, which continue to work as normal when rates are negative. These non-bank channels, combined with general equilibrium effects and an active bank lending channel, mean that the transmission of negative rates is only somewhat weaker than the transmission of conventional policy.]]></content:encoded>
 </item>
 <item>
 <title>How do Monetary Policy and Inflation Announcements Affect Firm Expectations in High Inflation?</title>
