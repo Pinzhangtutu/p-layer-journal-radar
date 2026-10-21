@@ -9,7 +9,7 @@
 <description>JRAI — Wiley · Latest in: Early View · Subfield: anthropology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jrai.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 17:03:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:32:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -315,15 +315,6 @@
 <description></description>
 </item>
 <item>
-<title>Noori, Arsalan &amp; NoahCoburn. The last days of the Afghan Republic: a doomed evacuation twenty years in the making. 313pp., bibliogr., New York: Rowman &amp; Littlefield, 2023. £32.00 (paper)</title>
-<link>https://doi.org/10.1111/1467-9655.70255</link>
-<guid isPermaLink="false">10.1111/1467-9655.70255</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[M. Nazif Sahrani]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70255</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Auyero, Javier &amp; SofíaServián. Squatter life: persistence at the urban margins of Buenos Aires. 118 pp., bibliogr. Durham, N.C.: Duke University Press, 2025. £25.95 (paper)</title>
 <link>https://doi.org/10.1111/1467-9655.70242</link>
 <guid isPermaLink="false">10.1111/1467-9655.70242</guid>
@@ -333,12 +324,12 @@
 <description></description>
 </item>
 <item>
-<title>Resnick, Elana. Refusing sustainability: race and environmentalism in a changing Europe. 296 pp., bibliogr. Stanford: University Press, 2025. $30.00 (paper)</title>
-<link>https://doi.org/10.1111/1467-9655.70250</link>
-<guid isPermaLink="false">10.1111/1467-9655.70250</guid>
+<title>Noori, Arsalan &amp; NoahCoburn. The last days of the Afghan Republic: a doomed evacuation twenty years in the making. 313pp., bibliogr., New York: Rowman &amp; Littlefield, 2023. £32.00 (paper)</title>
+<link>https://doi.org/10.1111/1467-9655.70255</link>
+<guid isPermaLink="false">10.1111/1467-9655.70255</guid>
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Catalina Tesar]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70250</dc:identifier>
+<dc:creator><![CDATA[M. Nazif Sahrani]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70255</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -351,12 +342,12 @@
 <description></description>
 </item>
 <item>
-<title>Coyle Rosen, Lauren. Law in light: priestesses, priests, and the revitalization of Akan spirituality in the United States and Ghana. 252 pp., bibliogr. Berkeley: University of California Press, 2024. £25.00 (paper)</title>
-<link>https://doi.org/10.1111/1467-9655.70231</link>
-<guid isPermaLink="false">10.1111/1467-9655.70231</guid>
+<title>Resnick, Elana. Refusing sustainability: race and environmentalism in a changing Europe. 296 pp., bibliogr. Stanford: University Press, 2025. $30.00 (paper)</title>
+<link>https://doi.org/10.1111/1467-9655.70250</link>
+<guid isPermaLink="false">10.1111/1467-9655.70250</guid>
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marcus L. Harvey]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70231</dc:identifier>
+<dc:creator><![CDATA[Catalina Tesar]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70250</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -366,6 +357,15 @@
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Emilia Alton Martelet]]></dc:creator>
 <dc:identifier>doi:10.1111/1467-9655.70221</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Coyle Rosen, Lauren. Law in light: priestesses, priests, and the revitalization of Akan spirituality in the United States and Ghana. 252 pp., bibliogr. Berkeley: University of California Press, 2024. £25.00 (paper)</title>
+<link>https://doi.org/10.1111/1467-9655.70231</link>
+<guid isPermaLink="false">10.1111/1467-9655.70231</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marcus L. Harvey]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70231</dc:identifier>
 <description></description>
 </item>
 <item>

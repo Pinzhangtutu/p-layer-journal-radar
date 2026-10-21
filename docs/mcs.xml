@@ -9,7 +9,7 @@
 <description>MCS — Taylor &amp; Francis · Latest in: Online First · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/mcs.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 17:03:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:32:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -37,6 +37,15 @@
 <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael Morgan; Richard M. Perloff; Andy Ruddock; James Shanahan]]></dc:creator>
 <dc:identifier>doi:10.1080/15205436.2026.2645066</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>AI Labeling as a General Caution: How it Shapes Credibility and Engagement</title>
+<link>https://doi.org/10.1080/15205436.2026.2748853</link>
+<guid isPermaLink="false">10.1080/15205436.2026.2748853</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chen Min; Zongya Li]]></dc:creator>
+<dc:identifier>doi:10.1080/15205436.2026.2748853</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -199,15 +208,6 @@
 <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sid Bedingfield]]></dc:creator>
 <dc:identifier>doi:10.1080/15205436.2026.2698729</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Countering Misinformation in Political Reporting: Enhancing Journalistic Legitimacy</title>
-<link>https://doi.org/10.1080/15205436.2026.2628556</link>
-<guid isPermaLink="false">10.1080/15205436.2026.2628556</guid>
-<pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Abdulrahman Alroumi]]></dc:creator>
-<dc:identifier>doi:10.1080/15205436.2026.2628556</dc:identifier>
 <description></description>
 </item>
 <item>

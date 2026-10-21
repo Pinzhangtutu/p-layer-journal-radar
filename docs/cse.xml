@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 17:03:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:32:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -247,15 +247,6 @@
 <description></description>
 </item>
 <item>
-<title>Technology-enhanced second language learning in Computers &amp; Education: A 50-year review of outcomes, technical affordances, theoretical frameworks, and their connections</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105762</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105762</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruofei Zhang; Di Zou; Sangmin-Michelle Lee]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105762</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students’ ethical reasoning</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105698</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105698</guid>
@@ -469,6 +460,24 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ari Kim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105764</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Uncovering emotion dynamics across human–AI interaction modes in programming: Evidence from facial expression and electrodermal activity</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105771</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105771</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tianlong Zhong; Gaoxia Zhu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105771</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>GenAI-supported internal feedback intervention for writing improvement: The roles of evaluative judgment and student-AI interaction in a cluster-randomized experimental study</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105767</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105767</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shijun (Cindy) Chen; Christian D. Schunn; Jie Cao; Seyyed Kazem Banihashem; Dragan Gašević; Yizhou Fan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105767</dc:identifier>
 <description></description>
 </item>
 <item>

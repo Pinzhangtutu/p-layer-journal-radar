@@ -9,18 +9,9 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 17:03:26 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 21:32:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>Online Business Models, Digital Ads, and User Welfare</title>
-<link>https://doi.org/10.1086/742715</link>
-<guid isPermaLink="false">10.1086/742715</guid>
-<pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Daron Acemoglu; Daniel Huttenlocher; Asuman Ozdaglar; James Siderius]]></dc:creator>
-<dc:identifier>doi:10.1086/742715</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>Financial Aid and Upward Mobility: Evidence from Colombia’s Ser Pilo Paga</title>
 <link>https://doi.org/10.1086/740226</link>
@@ -83,50 +74,6 @@
 <description></description>
 </item>
 <item>
-<title>Training, Communications Patterns, and Spillovers inside Organizations</title>
-<link>https://doi.org/10.1086/740219</link>
-<guid isPermaLink="false">10.1086/740219</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Miguel Espinosa; Christopher Stanton]]></dc:creator>
-<dc:identifier>doi:10.1086/740219</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Front Matter</title>
-<link>https://doi.org/10.1086/742833</link>
-<guid isPermaLink="false">10.1086/742833</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1086/742833</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Macroeconomic Consequences of Early Childhood Development Policies</title>
-<link>https://doi.org/10.1086/740224</link>
-<guid isPermaLink="false">10.1086/740224</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Diego Daruich]]></dc:creator>
-<dc:identifier>doi:10.1086/740224</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining</title>
-<link>https://doi.org/10.1086/742712</link>
-<guid isPermaLink="false">10.1086/742712</guid>
-<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[David A. Green; Ben M. Sand; Iain G. Snoddy; Jeanne Tschopp]]></dc:creator>
-<dc:identifier>doi:10.1086/742712</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Silence to Solidarity: How Communication about a Minority Affects Discrimination</title>
-<link>https://doi.org/10.1086/742724</link>
-<guid isPermaLink="false">10.1086/742724</guid>
-<pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Duncan Webb]]></dc:creator>
-<dc:identifier>doi:10.1086/742724</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Firm Balance Sheet Liquidity, Monetary Policy Shocks, and Investment Dynamics</title>
 <link>https://doi.org/10.1086/744130</link>
 <guid isPermaLink="false">10.1086/744130</guid>
@@ -151,15 +98,6 @@
 <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[B. Douglas Berhneim; Kristy Kim; Dmitry Taubinsky]]></dc:creator>
 <dc:identifier>doi:10.1086/744577</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Regulatory Competition in the US Life Insurance Industry</title>
-<link>https://doi.org/10.1086/742725</link>
-<guid isPermaLink="false">10.1086/742725</guid>
-<pubDate>Tue, 15 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Johnny Tang]]></dc:creator>
-<dc:identifier>doi:10.1086/742725</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -286,15 +224,6 @@
 <description></description>
 </item>
 <item>
-<title>Quota Mechanisms: Finite-Sample Optimality and Robustness</title>
-<link>https://doi.org/10.1086/742716</link>
-<guid isPermaLink="false">10.1086/742716</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ian Ball; Deniz Kattwinkel]]></dc:creator>
-<dc:identifier>doi:10.1086/742716</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Closing Ranks: Organized Labor and Immigration</title>
 <link>https://doi.org/10.1086/744504</link>
 <guid isPermaLink="false">10.1086/744504</guid>
@@ -313,10 +242,97 @@
 <description></description>
 </item>
 <item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/744594</link>
+<guid isPermaLink="false">10.1086/744594</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744594</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Online Business Models, Digital Ads, and User Welfare</title>
+<link>https://doi.org/10.1086/742715</link>
+<guid isPermaLink="false">10.1086/742715</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daron Acemoglu; Daniel Huttenlocher; Asuman Ozdaglar; James Siderius]]></dc:creator>
+<dc:identifier>doi:10.1086/742715</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Quota Mechanisms: Finite-Sample Optimality and Robustness</title>
+<link>https://doi.org/10.1086/742716</link>
+<guid isPermaLink="false">10.1086/742716</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ian Ball; Deniz Kattwinkel]]></dc:creator>
+<dc:identifier>doi:10.1086/742716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Silence to Solidarity: How Communication about a Minority Affects Discrimination</title>
+<link>https://doi.org/10.1086/742724</link>
+<guid isPermaLink="false">10.1086/742724</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Duncan Webb]]></dc:creator>
+<dc:identifier>doi:10.1086/742724</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining</title>
+<link>https://doi.org/10.1086/742712</link>
+<guid isPermaLink="false">10.1086/742712</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David A. Green; Ben M. Sand; Iain G. Snoddy; Jeanne Tschopp]]></dc:creator>
+<dc:identifier>doi:10.1086/742712</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>JPE Turnaround Times</title>
+<link>https://doi.org/10.1086/744299</link>
+<guid isPermaLink="false">10.1086/744299</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744299</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recent Referees</title>
+<link>https://doi.org/10.1086/744595</link>
+<guid isPermaLink="false">10.1086/744595</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744595</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Environmental Consequences of Hydrocarbon Infrastructure Policy</title>
+<link>https://doi.org/10.1086/742713</link>
+<guid isPermaLink="false">10.1086/742713</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas R. Covert; Ryan Kellogg]]></dc:creator>
+<dc:identifier>doi:10.1086/742713</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Why Is Intermediating Houses So Difficult? Evidence from iBuyers</title>
+<link>https://doi.org/10.1086/742710</link>
+<guid isPermaLink="false">10.1086/742710</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Greg Buchak; Gregor Matvos; Tomasz Piskorski; Amit Seru]]></dc:creator>
+<dc:identifier>doi:10.1086/742710</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Regulatory Competition in the US Life Insurance Industry</title>
+<link>https://doi.org/10.1086/742725</link>
+<guid isPermaLink="false">10.1086/742725</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johnny Tang]]></dc:creator>
+<dc:identifier>doi:10.1086/742725</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Peer Effects and Rank Concerns in the Classroom</title>
 <link>https://doi.org/10.1086/742714</link>
 <guid isPermaLink="false">10.1086/742714</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michela M. Tincani]]></dc:creator>
 <dc:identifier>doi:10.1086/742714</dc:identifier>
 <description></description>
@@ -553,15 +569,6 @@
 <description></description>
 </item>
 <item>
-<title>Why Is Intermediating Houses So Difficult? Evidence from iBuyers</title>
-<link>https://doi.org/10.1086/742710</link>
-<guid isPermaLink="false">10.1086/742710</guid>
-<pubDate>Fri, 25 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Greg Buchak; Gregor Matvos; Tomasz Piskorski; Amit Seru]]></dc:creator>
-<dc:identifier>doi:10.1086/742710</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Carbon Prices, Forest Conservation and Reforestation in the Brazilian Amazon</title>
 <link>https://doi.org/10.1086/744117</link>
 <guid isPermaLink="false">10.1086/744117</guid>
@@ -622,15 +629,6 @@
 <pubDate>Fri, 11 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shmuel San]]></dc:creator>
 <dc:identifier>doi:10.1086/744016</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Environmental Consequences of Hydrocarbon Infrastructure Policy</title>
-<link>https://doi.org/10.1086/742713</link>
-<guid isPermaLink="false">10.1086/742713</guid>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Thomas R. Covert; Ryan Kellogg]]></dc:creator>
-<dc:identifier>doi:10.1086/742713</dc:identifier>
 <description></description>
 </item>
 </channel>
