@@ -9,7 +9,7 @@
 <description>JAMS — Springer Nature · Latest in: Online First · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jams.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 11:37:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 17:03:26 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -40,6 +40,26 @@
 <dc:identifier>doi:10.1007/s11747-026-01181-1</dc:identifier>
 <description><![CDATA[Abstract As firms face pressure to communicate about their environmental sustainability, effective messaging remains a challenge. Drawing on mental simulation theory, this research positions firms (rather than consumers) as mental simulation agents and examines how firms can effectively use process (e.g., “We deployed electric vehicles”) versus outcome (e.g., “We reduced our carbon footprint by 50%”) frames in their digital communication to increase consumer engagement with environmental posts (likes, shares, comments) and with firms (purchase intentions, investments). Across seven studies (four online experiments, a field experiment, secondary data comprising 12,311 environmental X posts by 110 U.S firms, and 533 crowdfunding eco-projects), we demonstrate that both frames increase engagement via distinct mechanisms, but using them jointly may backfire due to incongruence. When firms combine warmth expressions with process (but not outcome) frames, the effect on engagement is amplified. The use of competence expressions strengthens the effect on engagement with the post of both process and outcome frames, but only the effect of outcome frames on engagement with the firm.]]></description>
 <content:encoded><![CDATA[Abstract As firms face pressure to communicate about their environmental sustainability, effective messaging remains a challenge. Drawing on mental simulation theory, this research positions firms (rather than consumers) as mental simulation agents and examines how firms can effectively use process (e.g., “We deployed electric vehicles”) versus outcome (e.g., “We reduced our carbon footprint by 50%”) frames in their digital communication to increase consumer engagement with environmental posts (likes, shares, comments) and with firms (purchase intentions, investments). Across seven studies (four online experiments, a field experiment, secondary data comprising 12,311 environmental X posts by 110 U.S firms, and 533 crowdfunding eco-projects), we demonstrate that both frames increase engagement via distinct mechanisms, but using them jointly may backfire due to incongruence. When firms combine warmth expressions with process (but not outcome) frames, the effect on engagement is amplified. The use of competence expressions strengthens the effect on engagement with the post of both process and outcome frames, but only the effect of outcome frames on engagement with the firm.]]></content:encoded>
+</item>
+<item>
+<title>Return on AI (RoAI): A framework for assessing AI investments in the marketing organization</title>
+<link>https://doi.org/10.1007/s11747-026-01217-6</link>
+<guid isPermaLink="false">10.1007/s11747-026-01217-6</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vamsi K. Kanuri; Adithya Pattabhiramaiah; Shrihari Sridhar]]></dc:creator>
+<dc:identifier>doi:10.1007/s11747-026-01217-6</dc:identifier>
+<description><![CDATA[Abstract Artificial intelligence (AI) is reshaping marketing as firms increasingly delegate activities and decisions previously performed by marketers to AI systems. As AI assumes a greater role in market-facing decisions, understanding the value firms realize from these investments becomes increasingly important. Building on marketing accountability and resource-based theory, we develop a Return on AI (RoAI) framework that conceptualizes AI investment through the people, processes, and capabilities that enable its deployment and governance. RoAI evaluates incremental benefit while accounting for value retention, evidence durability, and the full costs of deployment over time. The framework identifies a distinctive consequence of delegated judgment, wherein AI can improve current performance while reducing the experiential practice through which marketers develop and maintain the judgment required to evaluate and redirect the AI solution. This mechanism helps explain heterogeneity in AI returns across firms and over time. We develop seven testable predictions and an agenda for research on creating, appropriating, and sustaining value from AI.]]></description>
+<content:encoded><![CDATA[Abstract Artificial intelligence (AI) is reshaping marketing as firms increasingly delegate activities and decisions previously performed by marketers to AI systems. As AI assumes a greater role in market-facing decisions, understanding the value firms realize from these investments becomes increasingly important. Building on marketing accountability and resource-based theory, we develop a Return on AI (RoAI) framework that conceptualizes AI investment through the people, processes, and capabilities that enable its deployment and governance. RoAI evaluates incremental benefit while accounting for value retention, evidence durability, and the full costs of deployment over time. The framework identifies a distinctive consequence of delegated judgment, wherein AI can improve current performance while reducing the experiential practice through which marketers develop and maintain the judgment required to evaluate and redirect the AI solution. This mechanism helps explain heterogeneity in AI returns across firms and over time. We develop seven testable predictions and an agenda for research on creating, appropriating, and sustaining value from AI.]]></content:encoded>
+</item>
+<item>
+<title>Identifying and managing milestones in consumers’ goal journeys</title>
+<link>https://doi.org/10.1007/s11747-026-01216-7</link>
+<guid isPermaLink="false">10.1007/s11747-026-01216-7</guid>
+<pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amanda Ann Garrison; Linda L. Price]]></dc:creator>
+<dc:identifier>doi:10.1007/s11747-026-01216-7</dc:identifier>
+<description><![CDATA[Abstract Understanding consumers’ holistic journeys as unfolding events is paramount for managing service design and delivery. Touchpoints, “moments of truth” and critical incident research primarily focus on firm-facing events and consumers’ evaluations of firm encounters, rather than critical events in consumers’ own goal pursuit. This article introduces and uncovers the significance of milestone events in consumers’ journeys. Milestones are significant events that mark a major step or turning point in a consumer’s journey. Multi-stage, multi-context qualitative consumer journey research is used to inductively identify the key features and implications of milestones. They are distinct from other service events and consequential for consumers’ lives. This research fills a significant research gap in understanding consumer goal journeys. Identifying and understanding consumers’ milestone events enables service firms to support and improve goal progression; increase confidence in success; help consumers prepare for and interpret milestone outcomes; and manage risk by adjusting or pivoting from the goal.]]></description>
+<content:encoded><![CDATA[Abstract Understanding consumers’ holistic journeys as unfolding events is paramount for managing service design and delivery. Touchpoints, “moments of truth” and critical incident research primarily focus on firm-facing events and consumers’ evaluations of firm encounters, rather than critical events in consumers’ own goal pursuit. This article introduces and uncovers the significance of milestone events in consumers’ journeys. Milestones are significant events that mark a major step or turning point in a consumer’s journey. Multi-stage, multi-context qualitative consumer journey research is used to inductively identify the key features and implications of milestones. They are distinct from other service events and consequential for consumers’ lives. This research fills a significant research gap in understanding consumer goal journeys. Identifying and understanding consumers’ milestone events enables service firms to support and improve goal progression; increase confidence in success; help consumers prepare for and interpret milestone outcomes; and manage risk by adjusting or pivoting from the goal.]]></content:encoded>
 </item>
 <item>
 <title>Beyond the standard: The impact of mannequin body diversity on brand perceptions and consumer behavior</title>
@@ -604,24 +624,6 @@
 <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David A. Griffith; Amalesh Sharma; Anirban Adhikary; Sourav Bikash Borah]]></dc:creator>
 <dc:identifier>doi:10.1007/s11747-026-01154-4</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Rethinking social media strategy: Crafting digital sensory appeals to maximize customer engagement</title>
-<link>https://doi.org/10.1007/s11747-026-01145-5</link>
-<guid isPermaLink="false">10.1007/s11747-026-01145-5</guid>
-<pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Na Young Lee; Andrew Edelblum; Kevin Park; Alex Ricardo Zablah]]></dc:creator>
-<dc:identifier>doi:10.1007/s11747-026-01145-5</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Using latent profile analysis to advance job demands–resources theory: An empirical demonstration in the sales context</title>
-<link>https://doi.org/10.1007/s11747-025-01140-2</link>
-<guid isPermaLink="false">10.1007/s11747-025-01140-2</guid>
-<pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lisa Beeler; Ryan Mullins; Johannes Habel]]></dc:creator>
-<dc:identifier>doi:10.1007/s11747-025-01140-2</dc:identifier>
 <description></description>
 </item>
 <item>
