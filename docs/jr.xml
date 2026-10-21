@@ -9,7 +9,7 @@
 <description>JR — Elsevier · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 04:23:06 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 11:37:05 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -165,12 +165,12 @@
 <description></description>
 </item>
 <item>
-<title>How and when authenticity relates to sales growth: Longitudinal field evidence from the retail customer journey</title>
-<link>https://doi.org/10.1016/j.jretai.2026.01.006</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.01.006</guid>
+<title>Too much of a good thing: Promotional visuals and their effect on buying intentions of experiences</title>
+<link>https://doi.org/10.1016/j.jretai.2026.09.002</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.09.002</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[D. Todd Donavan; Brad․ D. Carlson; Jeremy S. Wolter; James G. Maxham]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.01.006</dc:identifier>
+<dc:creator><![CDATA[Anouk Festjens; Caroline Goukens; Kimberley van der Heijden; David Gal]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.09.002</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -180,15 +180,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kristopher O. Keller; Raj Sethuraman]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.01.001</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Too much of a good thing: Promotional visuals and their effect on buying intentions of experiences</title>
-<link>https://doi.org/10.1016/j.jretai.2026.09.002</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.09.002</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Anouk Festjens; Caroline Goukens; Kimberley van der Heijden; David Gal]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.09.002</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -207,6 +198,15 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Feng Jiang; Chao Fan; Su Lu; Li-Jun Ji; Guohui Sun; Luping Sun]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.01.007</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How and when authenticity relates to sales growth: Longitudinal field evidence from the retail customer journey</title>
+<link>https://doi.org/10.1016/j.jretai.2026.01.006</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.01.006</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[D. Todd Donavan; Brad․ D. Carlson; Jeremy S. Wolter; James G. Maxham]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.01.006</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -234,6 +234,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Satheesh Seenivasan; Davide C. Orazi; Elena Fumagalli; Kyle Murray; Dhruv Grewal]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.09.005</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From recommendation to revenue: Store-level evidence on the dynamic and spatial effects of the Net Promoter Score (NPS)</title>
+<link>https://doi.org/10.1016/j.jretai.2026.09.004</link>
+<guid isPermaLink="false">10.1016/j.jretai.2026.09.004</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chris Dimos; Jana Hunt; Geoff Pugh; Andrew Stephenson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jretai.2026.09.004</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -619,15 +628,6 @@
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Amiya Basu; Atasi Basu; Charles A. Ingene]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jretai.2026.03.009</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Anchor store closure effects on retail area visits: An analysis of department store closures in Germany</title>
-<link>https://doi.org/10.1016/j.jretai.2026.05.001</link>
-<guid isPermaLink="false">10.1016/j.jretai.2026.05.001</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Erik Maier]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jretai.2026.05.001</dc:identifier>
 <description></description>
 </item>
 </channel>
