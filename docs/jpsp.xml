@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 22 Oct 2026 11:36:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 17:02:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -55,15 +55,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Alejandro Díaz-Guerra; Mirko Antino; Rafael Caballero; Alfredo Rodríguez-Muñoz; Alejandro Vásquez-Echeverría]]></dc:creator>
 <dc:identifier>doi:10.1037/pspp0000598</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Do people across the world want to remember positive ingroup histories?</title>
-<link>https://doi.org/10.1037/pspi0000513</link>
-<guid isPermaLink="false">10.1037/pspi0000513</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Fiona Kazarovytska; Katrín Árnadóttir; Silvana D'Ottone; Slieman Halabi; Edward Clarke; Suryodaya Sharma; Verena Heidrich; Roland Imhoff]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000513</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -161,6 +152,15 @@
 <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Claire Linares; Anne-Sophie Chaxel]]></dc:creator>
 <dc:identifier>doi:10.1037/pspi0000527</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Shades of traits across languages: Comparisons of Dutch, Polish, Czech, and Serbian structures of behavioral items.</title>
+<link>https://doi.org/10.1037/pspp0000615</link>
+<guid isPermaLink="false">10.1037/pspp0000615</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Boele De Raad; Nasturcja Toruj; Oleg Gorbaniuk; Martina Hřebíčková; Petar Čolović; Biljana Roganović; Snezana Smederevac]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000615</dc:identifier>
 <description></description>
 </item>
 <item>

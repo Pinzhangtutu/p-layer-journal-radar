@@ -9,7 +9,7 @@
 <description>JEdPsych — APA · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jedpsych.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 22 Oct 2026 11:36:53 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 17:02:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -27,6 +27,22 @@
 <guid isPermaLink="false">10.1037/edu0001067.supp</guid>
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/edu0001067.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Age-Related Differences in Self-Regulated Learning: A Cross-Sectional Study Examining Structural and Mean-Level Changes Across Educational Levels</title>
+<link>https://doi.org/10.1037/edu0001094.supp</link>
+<guid isPermaLink="false">10.1037/edu0001094.supp</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/edu0001094.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Teacher Emotions and Instructional Quality—Insights From the Global Teaching InSights Video Study: A Registered Report</title>
+<link>https://doi.org/10.1037/edu0001077.supp</link>
+<guid isPermaLink="false">10.1037/edu0001077.supp</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/edu0001077.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -286,21 +302,21 @@
 <description></description>
 </item>
 <item>
-<title>Teaching argumentative writing: A meta-analysis with school-aged students.</title>
-<link>https://doi.org/10.1037/edu0001034</link>
-<guid isPermaLink="false">10.1037/edu0001034</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Steve Graham; April Camping; Yucheng Cao; Alyson Collins; Stephen Ciullo]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001034</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The interplay of personal and situational factors in situated expectancy-value theory: Cross-classified analyses of students’ situation-specific motivations in the Math domain.</title>
 <link>https://doi.org/10.1037/edu0001032</link>
 <guid isPermaLink="false">10.1037/edu0001032</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Daria K. Benden; Fani Lauermann]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001032</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Teaching argumentative writing: A meta-analysis with school-aged students.</title>
+<link>https://doi.org/10.1037/edu0001034</link>
+<guid isPermaLink="false">10.1037/edu0001034</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steve Graham; April Camping; Yucheng Cao; Alyson Collins; Stephen Ciullo]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001034</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -394,21 +410,21 @@
 <description></description>
 </item>
 <item>
-<title>Mapping creativity in the PISA 2022 student and context questionnaires: An expert evaluation of content validity of the creativity self- and other-report scales.</title>
-<link>https://doi.org/10.1037/edu0001060</link>
-<guid isPermaLink="false">10.1037/edu0001060</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Selina Weiss; Boris Forthmann; Hansika Kapoor; Aleksandra Zielińska; Benjamin Goecke; Denis Dumas; Sameh Said-Metwaly; Jean Urbaniak; Zorana Ivcevic; Maciej Karwowski; James C. Kaufman; Baptiste Barbot]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001060</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Cognitive and foundational predictors of prealgebra competence among students with versus without mathematics learning difficulties.</title>
 <link>https://doi.org/10.1037/edu0001024</link>
 <guid isPermaLink="false">10.1037/edu0001024</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jessica Namkung; Peng Peng; Natalie Koziol; Dan Osgood; Wendy Smith]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001024</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mapping creativity in the PISA 2022 student and context questionnaires: An expert evaluation of content validity of the creativity self- and other-report scales.</title>
+<link>https://doi.org/10.1037/edu0001060</link>
+<guid isPermaLink="false">10.1037/edu0001060</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Selina Weiss; Boris Forthmann; Hansika Kapoor; Aleksandra Zielińska; Benjamin Goecke; Denis Dumas; Sameh Said-Metwaly; Jean Urbaniak; Zorana Ivcevic; Maciej Karwowski; James C. Kaufman; Baptiste Barbot]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001060</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -445,24 +461,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Nicola Lester]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001031</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Language in good company: Unraveling peer effects on language development in early education using integrative data analysis of six German studies.</title>
-<link>https://doi.org/10.1037/edu0000977</link>
-<guid isPermaLink="false">10.1037/edu0000977</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Franziska Hürlimann; Oliver Lüdtke; Daniel Schmerse]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0000977</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Disentangling teacher and lesson variance and their relations to supportive learning environments: A machine learning assessment of teacher nonverbal behavior.</title>
-<link>https://doi.org/10.1037/edu0000999</link>
-<guid isPermaLink="false">10.1037/edu0000999</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rebecca Lazarides; Jonas Frenkel; Martin Daumiller; Markus Dresel; Uroš Petković; Olaf Hellwich; Richard Göllner]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0000999</dc:identifier>
 <description></description>
 </item>
 <item>
