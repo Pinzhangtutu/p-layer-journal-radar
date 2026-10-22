@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 21 Oct 2026 21:32:11 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 04:22:29 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -371,15 +371,6 @@
 <description></description>
 </item>
 <item>
-<title>Overcoming poverty and unemployment: The transfer dynamics of entrepreneurship training.</title>
-<link>https://doi.org/10.1037/apl0001300</link>
-<guid isPermaLink="false">10.1037/apl0001300</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Janina Peschmann; Michael M. Gielnik; Michael Frese; Kim Marie Bischoff]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001300</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The implications of pay range transparency on job application preferences and negotiations.</title>
 <link>https://doi.org/10.1037/apl0001360</link>
 <guid isPermaLink="false">10.1037/apl0001360</guid>
@@ -389,12 +380,12 @@
 <description></description>
 </item>
 <item>
-<title>The unintended consequences of state policies on entrepreneurial activity and quality of work life: A social impact study.</title>
-<link>https://doi.org/10.1037/apl0001345</link>
-<guid isPermaLink="false">10.1037/apl0001345</guid>
+<title>Overcoming poverty and unemployment: The transfer dynamics of entrepreneurship training.</title>
+<link>https://doi.org/10.1037/apl0001300</link>
+<guid isPermaLink="false">10.1037/apl0001300</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jeremy B. Bernerth; Min Z. Carter; Justin Pepe; R. Michael Holmes; Wayne Hochwarter]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001345</dc:identifier>
+<dc:creator><![CDATA[Janina Peschmann; Michael M. Gielnik; Michael Frese; Kim Marie Bischoff]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001300</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -404,6 +395,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001311</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The unintended consequences of state policies on entrepreneurial activity and quality of work life: A social impact study.</title>
+<link>https://doi.org/10.1037/apl0001345</link>
+<guid isPermaLink="false">10.1037/apl0001345</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeremy B. Bernerth; Min Z. Carter; Justin Pepe; R. Michael Holmes; Wayne Hochwarter]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001345</dc:identifier>
 <description></description>
 </item>
 <item>
