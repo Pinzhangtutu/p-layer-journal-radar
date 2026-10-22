@@ -9,7 +9,7 @@
 <description>AMJ — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/amj.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 22 Oct 2026 17:02:07 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 21:27:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -238,6 +238,15 @@
 <description></description>
 </item>
 <item>
+<title>“We’re Not Handling Cases, We’re Shaping Lives”: How Lawyers Preserve Professional Authority and Advance Social Responsibility via Moral Identity-Based Client Persuasion</title>
+<link>https://doi.org/10.5465/amj.2025.0366</link>
+<guid isPermaLink="false">10.5465/amj.2025.0366</guid>
+<pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siyin Chen; Qiusi Yan]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2025.0366</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Back to the Beginning: Rediscovering a Beginner’s Mind Enhances Advice Provision to Novices</title>
 <link>https://doi.org/10.5465/amj.2023.0816</link>
 <guid isPermaLink="false">10.5465/amj.2023.0816</guid>
@@ -262,15 +271,6 @@
 <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Deniz Öztürk; John M. Amis]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2022.1042</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Constructing Agency Under Persistent Precarity: Shame, Anger, and Compassion in the Self-Narratives of Thai Sex Workers</title>
-<link>https://doi.org/10.5465/amj.2023.1415</link>
-<guid isPermaLink="false">10.5465/amj.2023.1415</guid>
-<pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hee-Chan Song; Winnie Y. Jiang]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2023.1415</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -355,21 +355,21 @@
 <description></description>
 </item>
 <item>
-<title>How Mega-Threats Influence Workplace Cooperation: Effect of #BlackLivesMatter Salience on Cooperation among and between Black and White Coworkers</title>
-<link>https://doi.org/10.5465/amj.2024.0457</link>
-<guid isPermaLink="false">10.5465/amj.2024.0457</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Steffen Keck; Christian Schumacher; Abhinav Gupta; Keith Leavitt]]></dc:creator>
-<dc:identifier>doi:10.5465/amj.2024.0457</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Political Segregation in the Labor Market and the Persistence of Pay Gaps</title>
 <link>https://doi.org/10.5465/amj.2023.0371</link>
 <guid isPermaLink="false">10.5465/amj.2023.0371</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ray Tsai Fang; Felice B. Klein; Chi Nguyen; Jeff Lingwall; Alexander Lewis]]></dc:creator>
 <dc:identifier>doi:10.5465/amj.2023.0371</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How Mega-Threats Influence Workplace Cooperation: Effect of #BlackLivesMatter Salience on Cooperation among and between Black and White Coworkers</title>
+<link>https://doi.org/10.5465/amj.2024.0457</link>
+<guid isPermaLink="false">10.5465/amj.2024.0457</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steffen Keck; Christian Schumacher; Abhinav Gupta; Keith Leavitt]]></dc:creator>
+<dc:identifier>doi:10.5465/amj.2024.0457</dc:identifier>
 <description></description>
 </item>
 <item>
