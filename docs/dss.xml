@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 22 Oct 2026 21:27:08 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 04:26:47 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -175,6 +175,15 @@
 <description></description>
 </item>
 <item>
+<title>Human-led or AI-led? How AI role configuration influences human engagement on knowledge-intensive gig platforms</title>
+<link>https://doi.org/10.1016/j.dss.2026.114781</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114781</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xicheng Yin; Jiachen Wang; Guoyin Jiang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114781</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Artifact-enabled societal outcomes of design science research</title>
 <link>https://doi.org/10.1016/j.dss.2026.114778</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114778</guid>
@@ -190,6 +199,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sonika Singhal; Yeongin Kim; Seonjun Kang; Victoria Yoon]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114773</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Expected default risk and abnormal returns: Evidence from textual disclosures in earnings conference calls</title>
+<link>https://doi.org/10.1016/j.dss.2026.114783</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114783</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yi-Mien Lin; Li-Yu Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114783</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -301,15 +319,6 @@
 <description></description>
 </item>
 <item>
-<title>Human-led or AI-led? How AI role configuration influences human engagement on knowledge-intensive gig platforms</title>
-<link>https://doi.org/10.1016/j.dss.2026.114781</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114781</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xicheng Yin; Jiachen Wang; Guoyin Jiang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114781</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Immersive systems across extended reality: From technology categories to mechanism-centered explanation</title>
 <link>https://doi.org/10.1016/j.dss.2026.114722</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114722</guid>
@@ -325,15 +334,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ka Chung Ng; Jiexin Zheng; Rong Zheng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114735</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Expected default risk and abnormal returns: Evidence from textual disclosures in earnings conference calls</title>
-<link>https://doi.org/10.1016/j.dss.2026.114783</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114783</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yi-Mien Lin; Li-Yu Chen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114783</dc:identifier>
 <description></description>
 </item>
 <item>
