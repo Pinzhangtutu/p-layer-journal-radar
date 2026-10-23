@@ -9,7 +9,7 @@
 <description>JEdPsych — APA · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jedpsych.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 23 Oct 2026 16:54:51 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 21:18:45 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -248,21 +248,21 @@
 <description></description>
 </item>
 <item>
-<title>When expectancy meets emotional and effort costs: A longitudinal situated expectancy-value theory study regarding conditional indirect effects on mathematics achievement via maladaptive motivational engagement.</title>
-<link>https://doi.org/10.1037/edu0001043</link>
-<guid isPermaLink="false">10.1037/edu0001043</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shu-Ling Peng; Biing-Lin Cherng; Li-Yun Chang]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001043</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Reading and cognitive predictors of reading anxiety: An 8-year longitudinal study.</title>
 <link>https://doi.org/10.1037/edu0001065</link>
 <guid isPermaLink="false">10.1037/edu0001065</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dacian Dorin Dolean; Daria Khanolainen; Minna Torppa]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001065</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When expectancy meets emotional and effort costs: A longitudinal situated expectancy-value theory study regarding conditional indirect effects on mathematics achievement via maladaptive motivational engagement.</title>
+<link>https://doi.org/10.1037/edu0001043</link>
+<guid isPermaLink="false">10.1037/edu0001043</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shu-Ling Peng; Biing-Lin Cherng; Li-Yun Chang]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001043</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -302,21 +302,21 @@
 <description></description>
 </item>
 <item>
-<title>The interplay of personal and situational factors in situated expectancy-value theory: Cross-classified analyses of students’ situation-specific motivations in the Math domain.</title>
-<link>https://doi.org/10.1037/edu0001032</link>
-<guid isPermaLink="false">10.1037/edu0001032</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Daria K. Benden; Fani Lauermann]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001032</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Teaching argumentative writing: A meta-analysis with school-aged students.</title>
 <link>https://doi.org/10.1037/edu0001034</link>
 <guid isPermaLink="false">10.1037/edu0001034</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Steve Graham; April Camping; Yucheng Cao; Alyson Collins; Stephen Ciullo]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001034</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The interplay of personal and situational factors in situated expectancy-value theory: Cross-classified analyses of students’ situation-specific motivations in the Math domain.</title>
+<link>https://doi.org/10.1037/edu0001032</link>
+<guid isPermaLink="false">10.1037/edu0001032</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daria K. Benden; Fani Lauermann]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001032</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -410,15 +410,6 @@
 <description></description>
 </item>
 <item>
-<title>Cognitive and foundational predictors of prealgebra competence among students with versus without mathematics learning difficulties.</title>
-<link>https://doi.org/10.1037/edu0001024</link>
-<guid isPermaLink="false">10.1037/edu0001024</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jessica Namkung; Peng Peng; Natalie Koziol; Dan Osgood; Wendy Smith]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001024</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Mapping creativity in the PISA 2022 student and context questionnaires: An expert evaluation of content validity of the creativity self- and other-report scales.</title>
 <link>https://doi.org/10.1037/edu0001060</link>
 <guid isPermaLink="false">10.1037/edu0001060</guid>
@@ -428,12 +419,12 @@
 <description></description>
 </item>
 <item>
-<title>From additive to multiplicative thinking: Individual cognitive patterns revealed through Bayesian classification.</title>
-<link>https://doi.org/10.1037/edu0001005</link>
-<guid isPermaLink="false">10.1037/edu0001005</guid>
+<title>Cognitive and foundational predictors of prealgebra competence among students with versus without mathematics learning difficulties.</title>
+<link>https://doi.org/10.1037/edu0001024</link>
+<guid isPermaLink="false">10.1037/edu0001024</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ronghuan Jiang; Xiaodong Li; Mengjie Cai]]></dc:creator>
-<dc:identifier>doi:10.1037/edu0001005</dc:identifier>
+<dc:creator><![CDATA[Jessica Namkung; Peng Peng; Natalie Koziol; Dan Osgood; Wendy Smith]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001024</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -443,6 +434,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zhe Wang; Tianyu Li; Ian Lyons; Derek Spangler; Connie Barroso; James R. Brockmole; Michaela Quintero; Minchao Wang; Anjali Chaudhary; Michele M. Mazzocco; Sara Hart]]></dc:creator>
 <dc:identifier>doi:10.1037/edu0001025</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From additive to multiplicative thinking: Individual cognitive patterns revealed through Bayesian classification.</title>
+<link>https://doi.org/10.1037/edu0001005</link>
+<guid isPermaLink="false">10.1037/edu0001005</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ronghuan Jiang; Xiaodong Li; Mengjie Cai]]></dc:creator>
+<dc:identifier>doi:10.1037/edu0001005</dc:identifier>
 <description></description>
 </item>
 <item>
