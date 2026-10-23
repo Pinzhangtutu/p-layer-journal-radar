@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 23 Oct 2026 11:26:25 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 16:54:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -515,15 +515,6 @@
 <description></description>
 </item>
 <item>
-<title>From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions</title>
-<link>https://doi.org/10.1086/743331</link>
-<guid isPermaLink="false">10.1086/743331</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rodrigo Adao; Costas Arkolakis; Sharat Ganapati]]></dc:creator>
-<dc:identifier>doi:10.1086/743331</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis</title>
 <link>https://doi.org/10.1086/743329</link>
 <guid isPermaLink="false">10.1086/743329</guid>
@@ -566,6 +557,15 @@
 <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kohei Takeda; Atsushi Yamagishi]]></dc:creator>
 <dc:identifier>doi:10.1086/743334</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions</title>
+<link>https://doi.org/10.1086/743331</link>
+<guid isPermaLink="false">10.1086/743331</guid>
+<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rodrigo Adão; Costas Arkolakis; Sharat Ganapati]]></dc:creator>
+<dc:identifier>doi:10.1086/743331</dc:identifier>
 <description></description>
 </item>
 <item>
