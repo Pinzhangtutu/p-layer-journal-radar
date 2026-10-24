@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 24 Oct 2026 04:17:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 10:45:12 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -312,15 +312,6 @@
 <description></description>
 </item>
 <item>
-<title>Review of “Trans Pleasure: On Gender Liberation and Sexual Freedom”</title>
-<link>https://doi.org/10.1093/sf/soag080</link>
-<guid isPermaLink="false">10.1093/sf/soag080</guid>
-<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Abigail Tessmer; Meredith G F Worthen]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag080</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Review of “Privileged Brotherhoods: Becoming Men at Elite All-Boys Schools”</title>
 <link>https://doi.org/10.1093/sf/soag129</link>
 <guid isPermaLink="false">10.1093/sf/soag129</guid>
@@ -397,6 +388,16 @@
 <dc:identifier>doi:10.1093/sf/soag148</dc:identifier>
 <description><![CDATA[Abstract Responding to recent calls to understand populism as a problem of social integration, this article proposes a network segregation perspective for the study of populism. Specifically, it theorizes that populist voting is shaped by the socioeconomic composition of individuals’ personal networks. Combining cross-national survey data from approximately 18,000 respondents in 19 countries with expert surveys on parties’ populism, empirical analyses suggest that the socioeconomic status of personal network contacts is strongly and robustly associated with populist voting. Across multiple estimators, model specifications, and definitions of populism, we show that while the socioeconomic diversity of personal networks appears unrelated to populist voting, those with ties to higher-status individuals are consistently less likely to vote for populist candidates. Additional analysis shows that the latter association is stronger among higher-status individuals, consistent with an interpretation in which individual and network status are mutually reinforcing. These findings highlight how personal networks can help specify the mechanisms linking socioeconomic processes with populist politics.]]></description>
 <content:encoded><![CDATA[Abstract Responding to recent calls to understand populism as a problem of social integration, this article proposes a network segregation perspective for the study of populism. Specifically, it theorizes that populist voting is shaped by the socioeconomic composition of individuals’ personal networks. Combining cross-national survey data from approximately 18,000 respondents in 19 countries with expert surveys on parties’ populism, empirical analyses suggest that the socioeconomic status of personal network contacts is strongly and robustly associated with populist voting. Across multiple estimators, model specifications, and definitions of populism, we show that while the socioeconomic diversity of personal networks appears unrelated to populist voting, those with ties to higher-status individuals are consistently less likely to vote for populist candidates. Additional analysis shows that the latter association is stronger among higher-status individuals, consistent with an interpretation in which individual and network status are mutually reinforcing. These findings highlight how personal networks can help specify the mechanisms linking socioeconomic processes with populist politics.]]></content:encoded>
+</item>
+<item>
+<title>Religion and early fertility in the United States: changes during the second demographic transition</title>
+<link>https://doi.org/10.1093/sf/soag152</link>
+<guid isPermaLink="false">10.1093/sf/soag152</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeremy E Uecker; Riley S Peterson]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag152</dc:identifier>
+<description><![CDATA[Abstract We assess how changes in early fertility varied among US women with different religious characteristics, and how the associations between religion and early fertility changed across birth cohorts from 1950 to 1993. Using data from the National Survey of Family Growth, we examine the timing of nonmarital, marital, and overall first births through age 24. Results from life tables and discrete-time event history models reveal that increases in early nonmarital first births were smaller among women who attended religious services more frequently in childhood, whereas early marital births declined at similar rates irrespective of childhood religious service attendance. Because early births became increasingly nonmarital across birth cohorts, women who attended religious services more frequently in childhood became less likely to have an early birth overall. Early fertility differences by religious tradition generally converged across cohorts, although women raised conservative Protestant continued to have higher likelihoods of early birth relative to women raised in other religious traditions net of controls. Women who were raised nonreligious remained similar to conservative Protestants in their likelihood of nonmarital childbearing across cohorts and became statistically similar to them in their overall early births in the latest cohort. Changes in early fertility during the second demographic transition therefore varied by religious background and reshaped the relationship between religion and early fertility.]]></description>
+<content:encoded><![CDATA[Abstract We assess how changes in early fertility varied among US women with different religious characteristics, and how the associations between religion and early fertility changed across birth cohorts from 1950 to 1993. Using data from the National Survey of Family Growth, we examine the timing of nonmarital, marital, and overall first births through age 24. Results from life tables and discrete-time event history models reveal that increases in early nonmarital first births were smaller among women who attended religious services more frequently in childhood, whereas early marital births declined at similar rates irrespective of childhood religious service attendance. Because early births became increasingly nonmarital across birth cohorts, women who attended religious services more frequently in childhood became less likely to have an early birth overall. Early fertility differences by religious tradition generally converged across cohorts, although women raised conservative Protestant continued to have higher likelihoods of early birth relative to women raised in other religious traditions net of controls. Women who were raised nonreligious remained similar to conservative Protestants in their likelihood of nonmarital childbearing across cohorts and became statistically similar to them in their overall early births in the latest cohort. Changes in early fertility during the second demographic transition therefore varied by religious background and reshaped the relationship between religion and early fertility.]]></content:encoded>
 </item>
 <item>
 <title>Reproduction, rejection, or adoption of indigeneity? Intergenerational patterns of ethnic classification in contemporary Mexico</title>

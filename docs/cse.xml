@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 24 Oct 2026 04:17:03 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 10:45:12 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -217,15 +217,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yu-Cin Jian; Yi-Jye Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105669</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Online learner engagement and academic support in the age of generative AI</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105763</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105763</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jered Borup; Charles R. Graham; Leanna Archambault; Lauren Woo; Michael K. Barbour; Joan Kang Shin; Anya S. Evmenova]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105763</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -478,6 +469,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shijun (Cindy) Chen; Christian D. Schunn; Jie Cao; Seyyed Kazem Banihashem; Dragan Gašević; Yizhou Fan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105767</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Self-regulated learning trajectories, predictors, and cognitive outcomes in animation-facilitated computational thinking: A growth mixture modelling study of primary students</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105773</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105773</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siu Cheung Kong; Yi Qing Wang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105773</dc:identifier>
 <description></description>
 </item>
 <item>
