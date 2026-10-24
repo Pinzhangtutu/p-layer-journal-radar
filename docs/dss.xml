@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 23 Oct 2026 21:18:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 04:17:03 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -310,6 +310,15 @@
 <description></description>
 </item>
 <item>
+<title>When AI joins the team: The impact of human-AI diversity on willingness to work with teammates</title>
+<link>https://doi.org/10.1016/j.dss.2026.114786</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114786</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiandong Lu; Jiaxin Zhang; Yang Lu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114786</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Traditional, subscription, or data compensation: An economic analysis of optimal privacy protection models on ad-supported platforms</title>
 <link>https://doi.org/10.1016/j.dss.2026.114733</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114733</guid>
@@ -595,15 +604,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Wonbin Seo; Jae-Hyeon Ahn]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114686</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Unraveling anthropomorphism in IT/IS research: A literature review, conceptual framework, and research directions</title>
-<link>https://doi.org/10.1016/j.dss.2026.114688</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114688</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yuqiu Wang; Eric W.T. Ngai]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114688</dc:identifier>
 <description></description>
 </item>
 </channel>
