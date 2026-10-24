@@ -9,7 +9,7 @@
 <description>GOM — SAGE · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/gom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 24 Oct 2026 10:45:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 15:47:24 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -428,6 +428,15 @@
 <description></description>
 </item>
 <item>
+<title>A Transparent Greeting From GOM’s New Co-Editors</title>
+<link>https://doi.org/10.1177/10596011261502803</link>
+<guid isPermaLink="false">10.1177/10596011261502803</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paul Harvey; William G. Obenauer]]></dc:creator>
+<dc:identifier>doi:10.1177/10596011261502803</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>A Commentary on Percival Carter and Obenauer (2025): Reducing Discrimination by Improving Hiring</title>
 <link>https://doi.org/10.1177/10596011261418347</link>
 <guid isPermaLink="false">10.1177/10596011261418347</guid>
@@ -627,15 +636,6 @@
 <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[M. Grover]]></dc:creator>
 <dc:identifier>doi:10.1177/10596011261487539</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A Commentary on Kiazad et al. (2025): Psychological Safety—Not Individual Failings—Drives Workplace Bullshitting</title>
-<link>https://doi.org/10.1177/10596011251409009</link>
-<guid isPermaLink="false">10.1177/10596011251409009</guid>
-<pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Amy Tucker]]></dc:creator>
-<dc:identifier>doi:10.1177/10596011251409009</dc:identifier>
 <description></description>
 </item>
 <item>

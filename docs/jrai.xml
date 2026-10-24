@@ -9,7 +9,7 @@
 <description>JRAI — Wiley · Latest in: Early View · Subfield: anthropology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jrai.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 24 Oct 2026 10:45:12 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 15:47:24 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -333,15 +333,6 @@
 <description></description>
 </item>
 <item>
-<title>Christophe, Alice (ed.). Hawaiʻi: a kingdom crossing oceans. 304 pp., 200 illus., bibliogr. London: British Museum Press, 2026. £30.00 (hardback)</title>
-<link>https://doi.org/10.1111/1467-9655.70217</link>
-<guid isPermaLink="false">10.1111/1467-9655.70217</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Max Carocci]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70217</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Resnick, Elana. Refusing sustainability: race and environmentalism in a changing Europe. 296 pp., bibliogr. Stanford: University Press, 2025. $30.00 (paper)</title>
 <link>https://doi.org/10.1111/1467-9655.70250</link>
 <guid isPermaLink="false">10.1111/1467-9655.70250</guid>
@@ -351,12 +342,12 @@
 <description></description>
 </item>
 <item>
-<title>Coyle Rosen, Lauren. Law in light: priestesses, priests, and the revitalization of Akan spirituality in the United States and Ghana. 252 pp., bibliogr. Berkeley: University of California Press, 2024. £25.00 (paper)</title>
-<link>https://doi.org/10.1111/1467-9655.70231</link>
-<guid isPermaLink="false">10.1111/1467-9655.70231</guid>
+<title>Christophe, Alice (ed.). Hawaiʻi: a kingdom crossing oceans. 304 pp., 200 illus., bibliogr. London: British Museum Press, 2026. £30.00 (hardback)</title>
+<link>https://doi.org/10.1111/1467-9655.70217</link>
+<guid isPermaLink="false">10.1111/1467-9655.70217</guid>
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marcus L. Harvey]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70231</dc:identifier>
+<dc:creator><![CDATA[Max Carocci]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70217</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -366,6 +357,15 @@
 <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Emilia Alton Martelet]]></dc:creator>
 <dc:identifier>doi:10.1111/1467-9655.70221</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Coyle Rosen, Lauren. Law in light: priestesses, priests, and the revitalization of Akan spirituality in the United States and Ghana. 252 pp., bibliogr. Berkeley: University of California Press, 2024. £25.00 (paper)</title>
+<link>https://doi.org/10.1111/1467-9655.70231</link>
+<guid isPermaLink="false">10.1111/1467-9655.70231</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marcus L. Harvey]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70231</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -423,15 +423,6 @@
 <description></description>
 </item>
 <item>
-<title>Johnson, Geraldine A. &amp; DeborahSchultz (eds). Photo archives and the place of photography. 246 pp., 62 illus., bibliogr. London: Routledge, 2025. £124.00 (hardback)</title>
-<link>https://doi.org/10.1111/1467-9655.70218</link>
-<guid isPermaLink="false">10.1111/1467-9655.70218</guid>
-<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Birgitta Huse]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70218</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Mostowlansky, Till &amp; ElmiraMuratova (eds). Humanitarianism from below? Universalism and the politics of inhumanity. 205 pp., bibliogr. London: UCL Press, 2026. £35.00 (paper) and open access</title>
 <link>https://doi.org/10.1111/1467-9655.70222</link>
 <guid isPermaLink="false">10.1111/1467-9655.70222</guid>
@@ -441,12 +432,12 @@
 <description></description>
 </item>
 <item>
-<title>Torres Colón, Gabriel Alejandro. Styles for flourishing: histories of survival in the racial niche. 304 pp., bibliogr. New York: Columbia University Press, 2024. $35.00 (paper)</title>
-<link>https://doi.org/10.1111/1467-9655.70157</link>
-<guid isPermaLink="false">10.1111/1467-9655.70157</guid>
-<pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Constancio R. Arnaldo]]></dc:creator>
-<dc:identifier>doi:10.1111/1467-9655.70157</dc:identifier>
+<title>Johnson, Geraldine A. &amp; DeborahSchultz (eds). Photo archives and the place of photography. 246 pp., 62 illus., bibliogr. London: Routledge, 2025. £124.00 (hardback)</title>
+<link>https://doi.org/10.1111/1467-9655.70218</link>
+<guid isPermaLink="false">10.1111/1467-9655.70218</guid>
+<pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Birgitta Huse]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70218</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -553,6 +544,15 @@
 <dc:identifier>doi:10.1111/1467-9655.70207</dc:identifier>
 <description><![CDATA[This article examines the ending of a friendship in ethnographic fieldwork. I argue that friendship is a necessarily ambiguous concept and relation, made most distinctive as a ‘friendship’ at its end. Reflecting on a friendship that was ended between this author and an old friend in fieldwork in Halleigh, North Manchester, England, I discuss the friendship's end as a reckoning, a performative act that exposes the structural underbelly of the friendship, as a relation of reciprocity, of obligation, of interdependence, as the history of unspoken material and immaterial exchanges of things, of favours, of time and trust are made explicit and listed, reckoned up, in anger, and, in the present case, when the friendship is being ended. Ethnographically, I address what is exposed about friendship at its ending, the methodological‐cum‐ethical predicaments that the ending of friendships in and after fieldwork may introduce for the ethnographer, and the importance of engaging with and interpreting the breaks and disconnects of the friendship as an ethnographic experience. Examining the reckoning and my own positioning as an anthropologist‐in‐the‐field and friend, I consider more than one form of reckoning at play when re‐engaging with, and writing about, the ending of a friendship.]]></description>
 <content:encoded><![CDATA[This article examines the ending of a friendship in ethnographic fieldwork. I argue that friendship is a necessarily ambiguous concept and relation, made most distinctive as a ‘friendship’ at its end. Reflecting on a friendship that was ended between this author and an old friend in fieldwork in Halleigh, North Manchester, England, I discuss the friendship's end as a reckoning, a performative act that exposes the structural underbelly of the friendship, as a relation of reciprocity, of obligation, of interdependence, as the history of unspoken material and immaterial exchanges of things, of favours, of time and trust are made explicit and listed, reckoned up, in anger, and, in the present case, when the friendship is being ended. Ethnographically, I address what is exposed about friendship at its ending, the methodological‐cum‐ethical predicaments that the ending of friendships in and after fieldwork may introduce for the ethnographer, and the importance of engaging with and interpreting the breaks and disconnects of the friendship as an ethnographic experience. Examining the reckoning and my own positioning as an anthropologist‐in‐the‐field and friend, I consider more than one form of reckoning at play when re‐engaging with, and writing about, the ending of a friendship.]]></content:encoded>
+</item>
+<item>
+<title>Editor's note</title>
+<link>https://doi.org/10.1111/1467-9655.70259</link>
+<guid isPermaLink="false">10.1111/1467-9655.70259</guid>
+<pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dimitrios Theodossopoulos]]></dc:creator>
+<dc:identifier>doi:10.1111/1467-9655.70259</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>‘Collected photographs of naked women; left the RAI in mysterious circumstances, disowned by RAI’</title>
