@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 26 Oct 2026 12:46:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 22:34:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -28,33 +28,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jessica L. Tracy; Gabrielle C. Ibasco]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000486</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Dynamic networks of social contact, social desire, and affect across time scales.</title>
-<link>https://doi.org/10.1037/pspp0000592</link>
-<guid isPermaLink="false">10.1037/pspp0000592</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael D. Krämer; Bernd Schaefer; Yannick Roos; David Richter; Cornelia Wrzus]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000592</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Trust and trust funds: How others’ childhood and current social class context influence trust behavior and expectations.</title>
-<link>https://doi.org/10.1037/pspi0000497</link>
-<guid isPermaLink="false">10.1037/pspi0000497</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kristin Laurin; Holly R. Engstrom; Toni Schmader; Khai Qing Chua; Nadav Klein; Stéphane Côté]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000497</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Exploring the socioeconomic pattern of humans’ future orientation: A multimethod multistudy approach.</title>
-<link>https://doi.org/10.1037/pspp0000598</link>
-<guid isPermaLink="false">10.1037/pspp0000598</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alejandro Díaz-Guerra; Mirko Antino; Rafael Caballero; Alfredo Rodríguez-Muñoz; Alejandro Vásquez-Echeverría]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000598</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -531,6 +504,31 @@
 <guid isPermaLink="false">10.1037/pspi0000529.supp</guid>
 <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000529.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for People Underestimate How Much Dissimilar Others Want to Connect</title>
+<link>https://doi.org/10.1037/pspa0000501.supp</link>
+<guid isPermaLink="false">10.1037/pspa0000501.supp</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspa0000501.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Communicating Emotion Through Drawings Across Cultures</title>
+<link>https://doi.org/10.1037/pspa0000503.supp</link>
+<guid isPermaLink="false">10.1037/pspa0000503.supp</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspa0000503.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Anchored in truth but driven by grandiosity: A process account of narcissistic self-enhancement.</title>
+<link>https://doi.org/10.1037/pspp0000617</link>
+<guid isPermaLink="false">10.1037/pspp0000617</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christoph Heine; Constantine Sedikides; Michael Dufner]]></dc:creator>
+<dc:identifier>doi:10.1037/pspp0000617</dc:identifier>
 <description></description>
 </item>
 <item>

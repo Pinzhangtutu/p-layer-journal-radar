@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 26 Oct 2026 12:46:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 22:34:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -346,6 +346,15 @@
 <description></description>
 </item>
 <item>
+<title>When ratings speak louder than words: Seek alpha in seeking alpha</title>
+<link>https://doi.org/10.1016/j.dss.2026.114787</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114787</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhihao Lee; Fun Yi Chan; Chaoyue Gao; Alvin Chung Man Leung; Qiang Ye]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114787</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Socializing online knowledge platforms: How social post features influence user knowledge contribution and mitigate the adverse impact of generative AI</title>
 <link>https://doi.org/10.1016/j.dss.2026.114731</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114731</guid>
@@ -595,15 +604,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Till Carlo Schelhorn; Ulrich Gnewuch; Alexander Maedche]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114698</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>EGIVE (Efficient Global Interaction and Variable Explainability): A fast and comprehensive method for global interpretability analysis of black-box models</title>
-<link>https://doi.org/10.1016/j.dss.2026.114680</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114680</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Matt Baucum; Meysam Rabiee; Babak Aslani; Kaushik Dutta]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114680</dc:identifier>
 <description></description>
 </item>
 </channel>

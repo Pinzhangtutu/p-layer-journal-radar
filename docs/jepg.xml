@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 26 Oct 2026 12:46:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 22:34:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -64,15 +64,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Annika McDermott-Hinman; Samuel Zimmerman; Jesse Snedeker; Roman Feiman]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001938</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Sequential effects in visual search, action control, and task switching: Evidence for distinct episodic-retrieval mechanisms.</title>
-<link>https://doi.org/10.1037/xge0001942</link>
-<guid isPermaLink="false">10.1037/xge0001942</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Daniel Toledano; Tamar Alkalai; Dominique Lamy]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001942</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -568,6 +559,15 @@
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kyuto Uno; Kaoru Amano]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0002004</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Stronger mnemonic prediction errors can disproportionately impair memory updating in older adults.</title>
+<link>https://doi.org/10.1037/xge0002026</link>
+<guid isPermaLink="false">10.1037/xge0002026</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Min Sung Seo; Christopher N. Wahlheim; Kelly S. Giovanello]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002026</dc:identifier>
 <description></description>
 </item>
 <item>

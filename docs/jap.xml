@@ -9,18 +9,9 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 26 Oct 2026 12:46:07 +0000</lastBuildDate>
+<lastBuildDate>Mon, 26 Oct 2026 22:34:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>Sharing is ethicizing: Examining the impact of sharing observed unethical behavior with family members on ethical voice at work.</title>
-<link>https://doi.org/10.1037/apl0001356</link>
-<guid isPermaLink="false">10.1037/apl0001356</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Anjier Chen; Ke Michael Mai; Yamon Min Ye]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001356</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>For good and for bad: The distinctive effects of successors’ leadership behavior on collective engagement and organizational performance.</title>
 <link>https://doi.org/10.1037/apl0001359</link>
@@ -389,21 +380,21 @@
 <description></description>
 </item>
 <item>
-<title>The escalation of prosocial commitment: How the B corporation movement catalyzes social impact.</title>
-<link>https://doi.org/10.1037/apl0001311</link>
-<guid isPermaLink="false">10.1037/apl0001311</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001311</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The unintended consequences of state policies on entrepreneurial activity and quality of work life: A social impact study.</title>
 <link>https://doi.org/10.1037/apl0001345</link>
 <guid isPermaLink="false">10.1037/apl0001345</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jeremy B. Bernerth; Min Z. Carter; Justin Pepe; R. Michael Holmes; Wayne Hochwarter]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001345</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The escalation of prosocial commitment: How the B corporation movement catalyzes social impact.</title>
+<link>https://doi.org/10.1037/apl0001311</link>
+<guid isPermaLink="false">10.1037/apl0001311</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001311</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -510,6 +501,15 @@
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Khalid M. Alameer; Ute R. Hülsheger; Mo Wang; Sabine Sonnentag; Jan Schepers; Sjir Uitdewilligen]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001424</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Designing fulfilling and productive workdays: Effects of task meaningfulness sequences on daily engagement and performance.</title>
+<link>https://doi.org/10.1037/apl0001430</link>
+<guid isPermaLink="false">10.1037/apl0001430</guid>
+<pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Soohyun Yoon; Eunjeong Kwon; Jeffery A. LePine; S. R. Aurora; Daniel W. Newton; Ned Wellman]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001430</dc:identifier>
 <description></description>
 </item>
 <item>
