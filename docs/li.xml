@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 04:43:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 12:00:30 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -319,21 +319,21 @@
 <description></description>
 </item>
 <item>
-<title>Enhancing professional vision with annotation tools</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102424</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102424</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Franziska Gazar; Tim Fütterer; Ulrike Franke; Kathleen Stürmer; Rossella Santagata; Andreas Lachner]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102424</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>COVID-19: A cross-national analysis with PISA data</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102366</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102366</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Giang Pham; Franziska Maria Locher; Dimitra Kolovou; Eliane Arnold]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102366</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Enhancing professional vision with annotation tools</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102424</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102424</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Franziska Gazar; Tim Fütterer; Ulrike Franke; Kathleen Stürmer; Rossella Santagata; Andreas Lachner]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102424</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>IJRM — Elsevier / EMAC · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijrm.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 04:43:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 12:00:30 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -247,6 +247,15 @@
 <description></description>
 </item>
 <item>
+<title>Donor migration to contractual relationships and the impact on charity income</title>
+<link>https://doi.org/10.1016/j.ijresmar.2025.12.004</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2025.12.004</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nhat Quang Le; Bram Foubert; Kathleen Cleeren; Barbara Briers]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2025.12.004</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Language of images: Classifying marketing images with transformers and vision language models</title>
 <link>https://doi.org/10.1016/j.ijresmar.2026.01.001</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2026.01.001</guid>
@@ -262,15 +271,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Joep van der Plas; Inge Geyskens; Marnik G. Dekimpe]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2026.01.005</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Donor migration to contractual relationships and the impact on charity income</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.12.004</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.12.004</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nhat Quang Le; Bram Foubert; Kathleen Cleeren; Barbara Briers]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.12.004</dc:identifier>
 <description></description>
 </item>
 <item>

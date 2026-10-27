@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 04:43:03 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 12:00:30 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -175,12 +175,12 @@
 <description></description>
 </item>
 <item>
-<title>English-hearing toddlers learn words from consistent and variable labels</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106647</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106647</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kennedy Casey; Casey Lew-Williams]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106647</dc:identifier>
+<title>Unpacking the dynamics of cross-situational word learning strategies through trial-by-trial analysis: effects of word frequency distribution and learning context</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106754</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106754</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zihan Yin; Yujing Shi; Yanli Huang; Jiushu Xie]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106754</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -445,15 +445,6 @@
 <description></description>
 </item>
 <item>
-<title>Music influences the content of spontaneous thought</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When “they” is singular: The interplay between cognitive and social factors predicts pronoun misinterpretations in bilingual English speakers</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106729</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106729</guid>
@@ -478,6 +469,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Samet Kaya; Miri Besken]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106730</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Music influences the content of spontaneous thought</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
 <description></description>
 </item>
 <item>
