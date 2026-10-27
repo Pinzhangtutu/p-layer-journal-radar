@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 12:00:30 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 17:55:33 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -201,6 +201,16 @@
 <content:encoded><![CDATA[This paper proposes a representative ego network sampling method that controls sample contamination while preserving population representativeness for peer encouragement experiments.]]></content:encoded>
 </item>
 <item>
+<title>Machine Learning Instrument Variables for Causal Inference</title>
+<link>https://doi.org/10.1287/mksc.2023.0340</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0340</guid>
+<pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amandeep Singh; Kartik Hosanagar; Amit Gandhi]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0340</dc:identifier>
+<description><![CDATA[A machine learning framework for constructing strong instrumental variables from weak exogenous data achieves semiparametric efficiency with applications to advertising and demand estimation.]]></description>
+<content:encoded><![CDATA[A machine learning framework for constructing strong instrumental variables from weak exogenous data achieves semiparametric efficiency with applications to advertising and demand estimation.]]></content:encoded>
+</item>
+<item>
 <title>Does Access to Human Coaches Lead to More Weight Loss Than With AI Coaches Alone?</title>
 <link>https://doi.org/10.1287/mksc.2023.0029</link>
 <guid isPermaLink="false">10.1287/mksc.2023.0029</guid>
@@ -319,16 +329,6 @@
 <dc:identifier>doi:10.1287/mksc.2022.0437</dc:identifier>
 <description><![CDATA[Premium adoption in mHealth.]]></description>
 <content:encoded><![CDATA[Premium adoption in mHealth.]]></content:encoded>
-</item>
-<item>
-<title>Symbolic vs. Substantive Support: The Impact of Black Lives Matter on Black-Owned Businesses</title>
-<link>https://doi.org/10.1287/mksc.2023.0243</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0243</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Siddharth Sharma; Justin Frake; Jared Watson]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0243</dc:identifier>
-<description><![CDATA[This study examines the impact of Black Lives Matter (BLM) on Black-owned businesses following the murder of George Floyd.]]></description>
-<content:encoded><![CDATA[This study examines the impact of Black Lives Matter (BLM) on Black-owned businesses following the murder of George Floyd.]]></content:encoded>
 </item>
 <item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
