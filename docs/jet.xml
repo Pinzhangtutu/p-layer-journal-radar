@@ -9,18 +9,9 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 12:37:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:28:49 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>Limit-of-All-Finite equilibria in infinite normal-form games</title>
-<link>https://doi.org/10.1016/j.jet.2026.106161</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106161</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Francesc Dilmé]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106161</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>On the efficiency of runnable banking arrangements</title>
 <link>https://doi.org/10.1016/j.jet.2026.106221</link>
@@ -256,21 +247,21 @@
 <description></description>
 </item>
 <item>
-<title>Buyer verification and endogenous quality</title>
-<link>https://doi.org/10.1016/j.jet.2026.106267</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Price information and cost uncertainty in oligopoly</title>
 <link>https://doi.org/10.1016/j.jet.2026.106258</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106258</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ruolong Xiao; César Martinelli]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106258</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Buyer verification and endogenous quality</title>
+<link>https://doi.org/10.1016/j.jet.2026.106267</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -370,6 +361,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jiabin Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106233</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Credit, Privacy, and Data Monetization by Digital Platforms</title>
+<link>https://doi.org/10.1016/j.jet.2026.106273</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106273</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pedro Gomis-Porqueras; Zijian Wang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106273</dc:identifier>
 <description></description>
 </item>
 <item>

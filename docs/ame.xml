@@ -9,7 +9,7 @@
 <description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ame.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 12:37:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:28:49 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -373,21 +373,21 @@
 <description></description>
 </item>
 <item>
-<title>Creating Long-Term Impact in a World That Requires Short-Term Results: What Is Missing from Academic Discourse on Systems Change</title>
-<link>https://doi.org/10.5465/amp.2025.0225</link>
-<guid isPermaLink="false">10.5465/amp.2025.0225</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sylvia Grewatsch; Alex Ryan]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2025.0225</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Pathways Priming Our Pipeline: Perusing the &lt;i&gt;Perspectives&lt;/i&gt; Portfolio</title>
 <link>https://doi.org/10.5465/amp.2026.0201</link>
 <guid isPermaLink="false">10.5465/amp.2026.0201</guid>
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael L. Barnett]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2026.0201</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Creating Long-Term Impact in a World That Requires Short-Term Results: What Is Missing from Academic Discourse on Systems Change</title>
+<link>https://doi.org/10.5465/amp.2025.0225</link>
+<guid isPermaLink="false">10.5465/amp.2025.0225</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sylvia Grewatsch; Alex Ryan]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0225</dc:identifier>
 <description></description>
 </item>
 <item>

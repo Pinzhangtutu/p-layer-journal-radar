@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 12:37:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 22:28:49 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -157,21 +157,21 @@
 <description></description>
 </item>
 <item>
-<title>Advancing personalized healthcare for elderly individuals through AI-enhanced preventive disease risk stratification decision</title>
-<link>https://doi.org/10.1016/j.dss.2026.114771</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114771</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
 <link>https://doi.org/10.1016/j.dss.2026.114774</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Advancing personalized healthcare for elderly individuals through AI-enhanced preventive disease risk stratification decision</title>
+<link>https://doi.org/10.1016/j.dss.2026.114771</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114771</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -361,6 +361,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yuan Chen; Dongmei Han; Lifeng He; Yu Liu; Xiaohang Zhou]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114731</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How you say it matters: The effect of linguistic style matching on user-perceived knowledge quality in Q&amp;A communities</title>
+<link>https://doi.org/10.1016/j.dss.2026.114788</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114788</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Langtao Chen; Li Sun]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114788</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -595,15 +604,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zongxi Liu; Donglai Bao; Shan Li; Huimin Zhao]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114683</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Effective use of open data portals for social good: Design principles for explainable LLM-based open data assistants</title>
-<link>https://doi.org/10.1016/j.dss.2026.114698</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114698</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Till Carlo Schelhorn; Ulrich Gnewuch; Alexander Maedche]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114698</dc:identifier>
 <description></description>
 </item>
 </channel>
