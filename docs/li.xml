@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 27 Oct 2026 22:05:09 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 05:17:00 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -148,21 +148,21 @@
 <description></description>
 </item>
 <item>
-<title>How to communicate evidence to teachers: Comparing the effects of verbal and visual effect size representation [Registered Report – stage II]</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102427</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102427</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Florian Kühlwein; Samuel Merk; Jürgen Schneider; Kirstin Schmidt]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102427</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Mathematics at the core: Longitudinal network analysis of executive functions and academic performance in Chinese children</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102457</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102457</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Minyuan Song; Chao Ma; Xin Zhao; Xiujie Yang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102457</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How to communicate evidence to teachers: Comparing the effects of verbal and visual effect size representation [Registered Report – stage II]</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102427</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102427</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Florian Kühlwein; Samuel Merk; Jürgen Schneider; Kirstin Schmidt]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102427</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -211,6 +211,15 @@
 <description></description>
 </item>
 <item>
+<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Towards an adaptive AI scaffold for developing student collaborative problem solving</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102418</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102418</guid>
@@ -226,15 +235,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -319,21 +319,21 @@
 <description></description>
 </item>
 <item>
-<title>COVID-19: A cross-national analysis with PISA data</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102366</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102366</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Giang Pham; Franziska Maria Locher; Dimitra Kolovou; Eliane Arnold]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102366</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Enhancing professional vision with annotation tools</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102424</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102424</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Franziska Gazar; Tim Fütterer; Ulrike Franke; Kathleen Stürmer; Rossella Santagata; Andreas Lachner]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102424</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>COVID-19: A cross-national analysis with PISA data</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102366</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102366</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Giang Pham; Franziska Maria Locher; Dimitra Kolovou; Eliane Arnold]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102366</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -490,21 +490,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of ICAP learning activities on learning outcomes</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102482</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102482</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christina Wekerle; Michael Sailer; Ingo Kollar; Tim Fütterer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102482</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Seeing what matters: How signaling influences teachers’ noticing of classroom disruptions in scripted classroom videos</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102501</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102501</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Isabel Althen; Jessica Fischer; Martin Merkt]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102501</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of ICAP learning activities on learning outcomes</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102482</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102482</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christina Wekerle; Michael Sailer; Ingo Kollar; Tim Fütterer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102482</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -544,6 +544,15 @@
 <description></description>
 </item>
 <item>
+<title>The power of varying more than one thing at a time</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102478</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102478</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lucas Lörch; Elizabeth Bonawitz; Garvin Brod]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102478</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>From growth mindset to social-emotional skills in early and mid-adolescence: A educational-cultural examination of an integrated mind-body-behavior framework</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102498</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102498</guid>
@@ -568,15 +577,6 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dominik Leiss; Timo Ehmke; Lena Heine]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102464</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The power of varying more than one thing at a time</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102478</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102478</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lucas Lörch; Elizabeth Bonawitz; Garvin Brod]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102478</dc:identifier>
 <description></description>
 </item>
 <item>
