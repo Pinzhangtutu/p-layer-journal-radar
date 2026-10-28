@@ -9,26 +9,176 @@
 <description>AEJMicro — AEA · Latest in: Forthcoming · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aejmicro.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 05:17:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 12:37:05 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
-<title>Complementary Bidding and the Collusive Arrangement: Evidence from an Antitrust Investigation</title>
-<link>https://doi.org/10.1257/mic.20210450</link>
-<guid isPermaLink="false">10.1257/mic.20210450</guid>
-<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Robert Clark; Decio Coviello; Adriano De Leverano]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20210450</dc:identifier>
-<description><![CDATA[Clustered bids and a missing mass of nearly tied bids have both been proposed as markers of collusion. We present causal empirical evidence from an actual procurement cartel that bidding involves both clustering and a gap around the winning bid. We support these results with information from the testimony of cartel participants that explains how both patterns arise naturally as part of an arrangement featuring complementary bidding. Based on these findings, we develop an easy-to-implement screen for collusive arrangements featuring complementary bidding. (JEL D43, D44, H76, L12, L13, L74)]]></description>
-<content:encoded><![CDATA[Clustered bids and a missing mass of nearly tied bids have both been proposed as markers of collusion. We present causal empirical evidence from an actual procurement cartel that bidding involves both clustering and a gap around the winning bid. We support these results with information from the testimony of cartel participants that explains how both patterns arise naturally as part of an arrangement featuring complementary bidding. Based on these findings, we develop an easy-to-implement screen for collusive arrangements featuring complementary bidding. (JEL D43, D44, H76, L12, L13, L74)]]></content:encoded>
+<title>Cognitive Ability and Perceived Disagreement in Learning</title>
+<link>https://doi.org/10.1257/mic.20240043</link>
+<guid isPermaLink="false">10.1257/mic.20240043</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Piotr Evdokimov; Umberto Garfagnini]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240043</dc:identifier>
+<description><![CDATA[Do agents believe they agree more with others over time? This paper explores how individuals perceive the belief-updating behavior of others and the resulting disagreement in a sequential experiment with public information. We uncover a persistent gap in the perception of disagreement as a function of cognitive ability. Higher cognitive ability correlates with less perceived disagreement, although the average subject underestimates the extent of actual disagreement. Information about a partner's cognitive ability only impacts perceived disagreement when the partner has a low test score. Our findings highlight the roles of overconfidence and cognitive projection in shaping these perceptions. (JEL C91, D12, D83, D91)]]></description>
+<content:encoded><![CDATA[Do agents believe they agree more with others over time? This paper explores how individuals perceive the belief-updating behavior of others and the resulting disagreement in a sequential experiment with public information. We uncover a persistent gap in the perception of disagreement as a function of cognitive ability. Higher cognitive ability correlates with less perceived disagreement, although the average subject underestimates the extent of actual disagreement. Information about a partner's cognitive ability only impacts perceived disagreement when the partner has a low test score. Our findings highlight the roles of overconfidence and cognitive projection in shaping these perceptions. (JEL C91, D12, D83, D91)]]></content:encoded>
+</item>
+<item>
+<title>Competitive Bottlenecks and Platform Spillovers</title>
+<link>https://doi.org/10.1257/mic.20240259</link>
+<guid isPermaLink="false">10.1257/mic.20240259</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tat-How Teh; Julian Wright]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240259</dc:identifier>
+<description><![CDATA[We provide a general framework to analyze competition between oligopolistic platforms in competitive bottleneck settings, allowing for pricing and nonprice design choices by platforms, and post-participation buyer-seller decisions. We show that equilibrium choices by platforms are distorted against sellers’ interests in a way harmful to welfare (e.g., setting excessive commission fees), and that an increase in the number of competing platforms can exacerbate this distortion. We also characterize how buyer-side heterogeneity in interaction benefits, partial market coverage, platform asymmetry, and cross-platform spillovers further amplify or mitigate welfare distortions. Based on our findings, we discuss policy implications for mobile app platforms. (JEL D43, L13, L25, L96)]]></description>
+<content:encoded><![CDATA[We provide a general framework to analyze competition between oligopolistic platforms in competitive bottleneck settings, allowing for pricing and nonprice design choices by platforms, and post-participation buyer-seller decisions. We show that equilibrium choices by platforms are distorted against sellers’ interests in a way harmful to welfare (e.g., setting excessive commission fees), and that an increase in the number of competing platforms can exacerbate this distortion. We also characterize how buyer-side heterogeneity in interaction benefits, partial market coverage, platform asymmetry, and cross-platform spillovers further amplify or mitigate welfare distortions. Based on our findings, we discuss policy implications for mobile app platforms. (JEL D43, L13, L25, L96)]]></content:encoded>
 </item>
 <item>
 <title>Front Matter</title>
-<link>https://doi.org/10.1257/mic.17.2.i</link>
-<guid isPermaLink="false">10.1257/mic.17.2.i</guid>
-<pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1257/mic.17.2.i</dc:identifier>
+<link>https://doi.org/10.1257/mic.18.4.i</link>
+<guid isPermaLink="false">10.1257/mic.18.4.i</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1257/mic.18.4.i</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Targeted Advertising in Elections</title>
+<link>https://doi.org/10.1257/mic.20240479</link>
+<guid isPermaLink="false">10.1257/mic.20240479</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maria Titova]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240479</dc:identifier>
+<description><![CDATA[How does targeted advertising influence electoral outcomes? This paper presents a one-dimensional spatial model of voting in which a privately informed challenger persuades voters to support him over the status quo. I show that targeted advertising enables the challenger to persuade voters with opposing preferences and swing elections decided by such voters. Ex ante commitment power is unnecessary—the challenger succeeds by strategically revealing different pieces of verifiable information to different voters. Publicizing all political ads would mitigate the negative effects of targeted advertising and help voters collectively make the right choice. (JEL D72, D82, D83, M37)]]></description>
+<content:encoded><![CDATA[How does targeted advertising influence electoral outcomes? This paper presents a one-dimensional spatial model of voting in which a privately informed challenger persuades voters to support him over the status quo. I show that targeted advertising enables the challenger to persuade voters with opposing preferences and swing elections decided by such voters. Ex ante commitment power is unnecessary—the challenger succeeds by strategically revealing different pieces of verifiable information to different voters. Publicizing all political ads would mitigate the negative effects of targeted advertising and help voters collectively make the right choice. (JEL D72, D82, D83, M37)]]></content:encoded>
+</item>
+<item>
+<title>Reputation and Competitive Selection</title>
+<link>https://doi.org/10.1257/mic.20240297</link>
+<guid isPermaLink="false">10.1257/mic.20240297</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joyee Deb; Jack Fanning]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240297</dc:identifier>
+<description><![CDATA[We demonstrate how selection in competitive markets can impede long-run reputational incentives. In our model, competent firms can exert costly effort to improve expected product quality, but inept firms cannot. With low entry barriers, we show competent firms cannot persistently exert effort, despite bounded memory. Such effort would cause consumers to select firms based on reputations for competence, eventually selecting a monopolist with an arbitrarily high reputation, which has no incentive for effort. More generally, reputation-based selection rules out long-run effort, which undermines the basis for such selection. Intermediate entry barriers provide stronger reputational incentives than low or high barriers. (JEL D21, D40, D82, L15)]]></description>
+<content:encoded><![CDATA[We demonstrate how selection in competitive markets can impede long-run reputational incentives. In our model, competent firms can exert costly effort to improve expected product quality, but inept firms cannot. With low entry barriers, we show competent firms cannot persistently exert effort, despite bounded memory. Such effort would cause consumers to select firms based on reputations for competence, eventually selecting a monopolist with an arbitrarily high reputation, which has no incentive for effort. More generally, reputation-based selection rules out long-run effort, which undermines the basis for such selection. Intermediate entry barriers provide stronger reputational incentives than low or high barriers. (JEL D21, D40, D82, L15)]]></content:encoded>
+</item>
+<item>
+<title>Land, Wealth, and Taxation</title>
+<link>https://doi.org/10.1257/mic.20240094</link>
+<guid isPermaLink="false">10.1257/mic.20240094</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roberto Brunetti; Carl Gaigné; Fabien Moizeau]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240094</dc:identifier>
+<description><![CDATA[This paper examines the role of land in wealth dynamics and its consequences for efficiency and inequality. We focus on the interplay among agents’ bidding for location, mortgage market imperfections, and inheritance in a model in which agents leave to their heirs financial bequests and their housing wealth. The borrowing constraint generates a housing return premium and spatial wealth sorting, which translate into persistent wealth inequality. Since altruism and the borrowing constraint distort land price formation, we show that taxing land rent transmitted between generations is optimal. Land taxation cannot be disconnected from taxation on intergenerational wealth transfers. (JEL D31, D64, H71, Q24, R23, R31, R52)]]></description>
+<content:encoded><![CDATA[This paper examines the role of land in wealth dynamics and its consequences for efficiency and inequality. We focus on the interplay among agents’ bidding for location, mortgage market imperfections, and inheritance in a model in which agents leave to their heirs financial bequests and their housing wealth. The borrowing constraint generates a housing return premium and spatial wealth sorting, which translate into persistent wealth inequality. Since altruism and the borrowing constraint distort land price formation, we show that taxing land rent transmitted between generations is optimal. Land taxation cannot be disconnected from taxation on intergenerational wealth transfers. (JEL D31, D64, H71, Q24, R23, R31, R52)]]></content:encoded>
+</item>
+<item>
+<title>Strategic Limit Orders and Intertemporal Price Dispersion</title>
+<link>https://doi.org/10.1257/mic.20240147</link>
+<guid isPermaLink="false">10.1257/mic.20240147</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Suman Banerjee; Ravi Jagannathan; Kai Wang]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240147</dc:identifier>
+<description><![CDATA[We study a two-period commodity market with competitive consumers and Cournot sellers. Without speculation, equilibrium is stationary. A storage-capable, strategically large speculator can profitably create deterministic intertemporal price dispersion using standard order types. A period-1 limit buy order flattens residual demand, induces higher output, and yields a low purchase price. With mandatory liquidation, resale remains below the no-speculation price but above the purchase price, so the speculator profits; consumers gain and sellers lose. With free disposal and a stop-loss, the period-2 price can exceed the benchmark, benefiting sellers but harming consumers. (JEL D43, G12, G14, G41, Q02)]]></description>
+<content:encoded><![CDATA[We study a two-period commodity market with competitive consumers and Cournot sellers. Without speculation, equilibrium is stationary. A storage-capable, strategically large speculator can profitably create deterministic intertemporal price dispersion using standard order types. A period-1 limit buy order flattens residual demand, induces higher output, and yields a low purchase price. With mandatory liquidation, resale remains below the no-speculation price but above the purchase price, so the speculator profits; consumers gain and sellers lose. With free disposal and a stop-loss, the period-2 price can exceed the benchmark, benefiting sellers but harming consumers. (JEL D43, G12, G14, G41, Q02)]]></content:encoded>
+</item>
+<item>
+<title>Recurring Auctions with Costly Entry: Theory and Evidence</title>
+<link>https://doi.org/10.1257/mic.20230303</link>
+<guid isPermaLink="false">10.1257/mic.20230303</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shanglyu Deng; Qiyao Zhou]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20230303</dc:identifier>
+<description><![CDATA[Recurring auctions are widely used to sell durable assets, with follow-up auctions held for unsold items. We investigate such auctions theoretically and empirically. Theoretical analysis demonstrates that recurring auctions outperform single-round auctions when buyers face entry costs, enhancing efficiency and revenue due to sorted entry of potential buyers. Optimal reserve price sequences are characterized. Empirical findings from home foreclosure auctions in China reveal significant annual gains in efficiency (US$3.40 billion, 16.60 percent) and revenue (US$2.97 billion, 15.92 percent) using recurring auctions compared with single-round auctions. Implementing optimal reserve prices can further improve efficiency (3.35 percent) and revenue (3.06 percent). (JEL D44, D82, R31)]]></description>
+<content:encoded><![CDATA[Recurring auctions are widely used to sell durable assets, with follow-up auctions held for unsold items. We investigate such auctions theoretically and empirically. Theoretical analysis demonstrates that recurring auctions outperform single-round auctions when buyers face entry costs, enhancing efficiency and revenue due to sorted entry of potential buyers. Optimal reserve price sequences are characterized. Empirical findings from home foreclosure auctions in China reveal significant annual gains in efficiency (US$3.40 billion, 16.60 percent) and revenue (US$2.97 billion, 15.92 percent) using recurring auctions compared with single-round auctions. Implementing optimal reserve prices can further improve efficiency (3.35 percent) and revenue (3.06 percent). (JEL D44, D82, R31)]]></content:encoded>
+</item>
+<item>
+<title>Optimal Procurement Design: A Reduced-Form Approach</title>
+<link>https://doi.org/10.1257/mic.20250128</link>
+<guid isPermaLink="false">10.1257/mic.20250128</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kun Zhang]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20250128</dc:identifier>
+<description><![CDATA[Standard procurement models assume that the buyer knows the quality of the good at the time of procurement; however, in many settings, the quality is learned only long after the transaction. We study procurement problems in which the buyer's valuation of the supplied good depends directly on its quality, which is unverifiable and unobservable to the buyer. For a broad class of procurement problems, we identify procurement mechanisms maximizing any weighted average of the buyer's expected payoff and social surplus. The optimal mechanism can be implemented via an auction that restricts sellers to submitting bids within specific intervals. (JEL D44, D82, H57, L15)]]></description>
+<content:encoded><![CDATA[Standard procurement models assume that the buyer knows the quality of the good at the time of procurement; however, in many settings, the quality is learned only long after the transaction. We study procurement problems in which the buyer's valuation of the supplied good depends directly on its quality, which is unverifiable and unobservable to the buyer. For a broad class of procurement problems, we identify procurement mechanisms maximizing any weighted average of the buyer's expected payoff and social surplus. The optimal mechanism can be implemented via an auction that restricts sellers to submitting bids within specific intervals. (JEL D44, D82, H57, L15)]]></content:encoded>
+</item>
+<item>
+<title>The Perils of Overreaction</title>
+<link>https://doi.org/10.1257/mic.20240303</link>
+<guid isPermaLink="false">10.1257/mic.20240303</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Konstantin von Beringe; Mark Whitmeyer]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240303</dc:identifier>
+<description><![CDATA[To study updating rules, we consider the problem of a malevolent principal screening an imperfectly Bayesian agent. We uncover a fundamental dichotomy between underreaction and overreaction to information. If, for some signal realization, the agent's updating rule produces a posterior that lies outside the convex hull of the Bayesian posteriors induced by the signal structure, she can be exploited by the principal without bound: Her ex ante expected loss can be made arbitrarily large. In contrast, an agent who underreacts—whose posterior after each signal realization lies between the prior and the corresponding Bayesian posterior—cannot be exploited at all. (JEL D82, D83)]]></description>
+<content:encoded><![CDATA[To study updating rules, we consider the problem of a malevolent principal screening an imperfectly Bayesian agent. We uncover a fundamental dichotomy between underreaction and overreaction to information. If, for some signal realization, the agent's updating rule produces a posterior that lies outside the convex hull of the Bayesian posteriors induced by the signal structure, she can be exploited by the principal without bound: Her ex ante expected loss can be made arbitrarily large. In contrast, an agent who underreacts—whose posterior after each signal realization lies between the prior and the corresponding Bayesian posterior—cannot be exploited at all. (JEL D82, D83)]]></content:encoded>
+</item>
+<item>
+<title>Learning in the Marriage Market: The Economics of Dating</title>
+<link>https://doi.org/10.1257/mic.20240014</link>
+<guid isPermaLink="false">10.1257/mic.20240014</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yair Antler; Daniel Bird; Daniel Fershtman]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240014</dc:identifier>
+<description><![CDATA[This paper develops a search-and-matching model where potential partners can learn about their compatibility as a couple by spending time together (interpreted as dating). We show that a steady-state equilibrium exists and characterize its induced dating patterns. In equilibrium, highly attractive individuals are more selective. We derive conditions under which equilibria induce positive assortative matching and show that even when these conditions hold, the socially optimal outcome can exhibit negative assortative matching. Finally, the framework is applied to study the effect of recent advances in search technologies on dating patterns and the connection between dating and interracial segregation. (JEL C78, D83, J12)]]></description>
+<content:encoded><![CDATA[This paper develops a search-and-matching model where potential partners can learn about their compatibility as a couple by spending time together (interpreted as dating). We show that a steady-state equilibrium exists and characterize its induced dating patterns. In equilibrium, highly attractive individuals are more selective. We derive conditions under which equilibria induce positive assortative matching and show that even when these conditions hold, the socially optimal outcome can exhibit negative assortative matching. Finally, the framework is applied to study the effect of recent advances in search technologies on dating patterns and the connection between dating and interracial segregation. (JEL C78, D83, J12)]]></content:encoded>
+</item>
+<item>
+<title>Monopolistic Data Dumping</title>
+<link>https://doi.org/10.1257/mic.20250260</link>
+<guid isPermaLink="false">10.1257/mic.20250260</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kfir Eliaz; Ran Spiegler]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20250260</dc:identifier>
+<description><![CDATA[A profit-maximizing monopolist curates a database for users seeking to learn a parameter. There are two user types: “Nowcasters” wish to learn the parameter's current value, while “forecasters” target its long-run value. Data storage involves a constant marginal cost. The monopolist designs a menu of contracts described by fees and data-access levels. The profit-maximizing menu offers full access to historical data, while current data are fully provided to nowcasters but may be withheld from forecasters. Compared to the social optimum, the monopolist keeps too much historical data, keeps too little current data, and may store too much data overall. (JEL C53, C80, D42, L12, L86)]]></description>
+<content:encoded><![CDATA[A profit-maximizing monopolist curates a database for users seeking to learn a parameter. There are two user types: “Nowcasters” wish to learn the parameter's current value, while “forecasters” target its long-run value. Data storage involves a constant marginal cost. The monopolist designs a menu of contracts described by fees and data-access levels. The profit-maximizing menu offers full access to historical data, while current data are fully provided to nowcasters but may be withheld from forecasters. Compared to the social optimum, the monopolist keeps too much historical data, keeps too little current data, and may store too much data overall. (JEL C53, C80, D42, L12, L86)]]></content:encoded>
+</item>
+<item>
+<title>Electoral Campaign Attacks: Theory and Evidence</title>
+<link>https://doi.org/10.1257/mic.20240211</link>
+<guid isPermaLink="false">10.1257/mic.20240211</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marcos Y. Nakaguma; Danilo Souza]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240211</dc:identifier>
+<description><![CDATA[This paper studies the determinants of electoral campaign attacks. We first propose a model to examine the main factors that influence candidates' decisions to attack. Our theoretical analysis yields a number of predictions that we test using information from “right of reply” lawsuits filed in Brazil. Our empirical analysis exploits a regression discontinuity design based on virtual ties between second- and third-place candidates to show that candidates with an electoral advantage are more likely to receive an attack. We then exploit another discontinuity to show that the patterns of campaign attacks differ significantly under single- and dual-ballot plurality systems. (JEL D72, D74, K16)]]></description>
+<content:encoded><![CDATA[This paper studies the determinants of electoral campaign attacks. We first propose a model to examine the main factors that influence candidates' decisions to attack. Our theoretical analysis yields a number of predictions that we test using information from “right of reply” lawsuits filed in Brazil. Our empirical analysis exploits a regression discontinuity design based on virtual ties between second- and third-place candidates to show that candidates with an electoral advantage are more likely to receive an attack. We then exploit another discontinuity to show that the patterns of campaign attacks differ significantly under single- and dual-ballot plurality systems. (JEL D72, D74, K16)]]></content:encoded>
+</item>
+<item>
+<title>Symmetric Equilibrium in Pre-auction Investment</title>
+<link>https://doi.org/10.1257/mic.20250013</link>
+<guid isPermaLink="false">10.1257/mic.20250013</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel Quint; Fuhito Kojima]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20250013</dc:identifier>
+<description><![CDATA[We characterize the symmetric equilibria of a pre-auction game of investment in an internet ad auction environment. For a wide class of auction formats, we show a symmetric equilibrium exists for the pre-auction investment game, is essentially unique, and is the same for all auction formats in the class. We give sufficient conditions for the symmetric equilibrium to be in pure strategies and to achieve the efficient level of investment. Finally, we show comparative statics results with respect to a variety of parameters. (JEL D44, D82)]]></description>
+<content:encoded><![CDATA[We characterize the symmetric equilibria of a pre-auction game of investment in an internet ad auction environment. For a wide class of auction formats, we show a symmetric equilibrium exists for the pre-auction investment game, is essentially unique, and is the same for all auction formats in the class. We give sufficient conditions for the symmetric equilibrium to be in pure strategies and to achieve the efficient level of investment. Finally, we show comparative statics results with respect to a variety of parameters. (JEL D44, D82)]]></content:encoded>
+</item>
+<item>
+<title>Innovation and Competition on a Rugged Technological Landscape</title>
+<link>https://doi.org/10.1257/mic.20230266</link>
+<guid isPermaLink="false">10.1257/mic.20230266</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Steven Callander; Nicolas S. Lambert; Niko Matouschek]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20230266</dc:identifier>
+<description><![CDATA[We integrate innovation into Hotelling's classic model of spatial competition. Potential entrants arrive sequentially and choose whether and where to innovate. They can innovate beyond the frontier, expanding the boundary of the market, or within a niche between incumbent products. Product quality is learned only after introduction, and uncertainty increases with novelty. Innovation on a rugged technological landscape is irregular, with frequent changes in direction and cycles between frontier and niche innovation. The ruggedness of the technological landscape itself deters innovation, generating fewer entrants, less product differentiation, narrower markets, and more intense competition than under certainty. (JEL D11, D21, D83, L11, L25, O31)]]></description>
+<content:encoded><![CDATA[We integrate innovation into Hotelling's classic model of spatial competition. Potential entrants arrive sequentially and choose whether and where to innovate. They can innovate beyond the frontier, expanding the boundary of the market, or within a niche between incumbent products. Product quality is learned only after introduction, and uncertainty increases with novelty. Innovation on a rugged technological landscape is irregular, with frequent changes in direction and cycles between frontier and niche innovation. The ruggedness of the technological landscape itself deters innovation, generating fewer entrants, less product differentiation, narrower markets, and more intense competition than under certainty. (JEL D11, D21, D83, L11, L25, O31)]]></content:encoded>
+</item>
+<item>
+<title>Competing Diffusions in a Social Network</title>
+<link>https://doi.org/10.1257/mic.20240293</link>
+<guid isPermaLink="false">10.1257/mic.20240293</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Arthur Campbell; C. Matthew Leister; Philip Ushchev; Yves Zenou]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240293</dc:identifier>
+<description><![CDATA[We develop a model of competing diffusions of goods on a social network. There are two types of goods and individuals: mass-market and niche-market. There is a unique stable steady state, and the adoption of a mass-market good is greater than its population share. Greater connectivity and homophily will concurrently increase the prevalence of niche-market goods. If there is a strategic agent who wants to promote a niche good, she will invest more in influencing activities than one promoting mass-market goods. When individuals choose their degree of homophily, niche-market individuals exhibit greater homophily than mass-market ones. (JEL D83, D85, L86, Z13)]]></description>
+<content:encoded><![CDATA[We develop a model of competing diffusions of goods on a social network. There are two types of goods and individuals: mass-market and niche-market. There is a unique stable steady state, and the adoption of a mass-market good is greater than its population share. Greater connectivity and homophily will concurrently increase the prevalence of niche-market goods. If there is a strategic agent who wants to promote a niche good, she will invest more in influencing activities than one promoting mass-market goods. When individuals choose their degree of homophily, niche-market individuals exhibit greater homophily than mass-market ones. (JEL D83, D85, L86, Z13)]]></content:encoded>
+</item>
+<item>
+<title>Degree-Weighted Social Learning</title>
+<link>https://doi.org/10.1257/mic.20240077</link>
+<guid isPermaLink="false">10.1257/mic.20240077</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chen Cheng; Xiao Han; Xin Tong; Yusheng Wu; Yiqing Xing]]></dc:creator>
+<dc:identifier>doi:10.1257/mic.20240077</dc:identifier>
+<description><![CDATA[We study social learning in which agents weight neighbors' opinions differently based on their degrees, capturing situations in which agents place more trust in well-connected individuals or, conversely, discount their influence. We derive asymptotic properties of learning outcomes in large stochastic networks and analyze how the weighting rule affects societal wisdom and convergence speed. We find that assigning greater weight to higher-degree neighbors harms wisdom but has a non-monotonic effect on convergence speed, depending on the diversity of views within high- and low-degree groups, highlighting a potential trade-off between convergence speed and wisdom. (JEL D83, D85, Z13)]]></description>
+<content:encoded><![CDATA[We study social learning in which agents weight neighbors' opinions differently based on their degrees, capturing situations in which agents place more trust in well-connected individuals or, conversely, discount their influence. We derive asymptotic properties of learning outcomes in large stochastic networks and analyze how the weighting rule affects societal wisdom and convergence speed. We find that assigning greater weight to higher-degree neighbors harms wisdom but has a non-monotonic effect on convergence speed, depending on the diversity of views within high- and low-degree groups, highlighting a potential trade-off between convergence speed and wisdom. (JEL D83, D85, Z13)]]></content:encoded>
 </item>
 <item>
 <title>Sources of Limited Consideration and Market Power in E-Commerce</title>
@@ -265,16 +415,6 @@
 <dc:identifier>doi:10.1257/mic.20240109</dc:identifier>
 <description><![CDATA[Coordination games feature two types of equilibria: pure equilibria, where players successfully coordinate their actions, and mixed equilibria, where players frequently experience miscoordination. We investigate learning dynamics where agents observe the actions of a random sample of their opponents. First, we show that when all agents have the same sample size, whether it is small or large, their behavior converges to one of the pure coordinated equilibria. By contrast, our main results show that stable miscoordination often persists when some agents make decisions based on small samples while others rely on large samples. (JEL C72, C73, C78)]]></description>
 <content:encoded><![CDATA[Coordination games feature two types of equilibria: pure equilibria, where players successfully coordinate their actions, and mixed equilibria, where players frequently experience miscoordination. We investigate learning dynamics where agents observe the actions of a random sample of their opponents. First, we show that when all agents have the same sample size, whether it is small or large, their behavior converges to one of the pure coordinated equilibria. By contrast, our main results show that stable miscoordination often persists when some agents make decisions based on small samples while others rely on large samples. (JEL C72, C73, C78)]]></content:encoded>
-</item>
-<item>
-<title>Common Ownership and Market Entry: Evidence from the Pharmaceutical Industry</title>
-<link>https://doi.org/10.1257/mic.20220220</link>
-<guid isPermaLink="false">10.1257/mic.20220220</guid>
-<pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Melissa Newham; Jo Seldeslachts; Albert Banal-Estañol]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20220220</dc:identifier>
-<description><![CDATA[Common ownership—where several firms are (partially) owned by the same investors—and its impact on product market competition has recently drawn much attention. This paper focuses on its implications for market entry. We consider the entry decisions of generic pharmaceutical firms into drug markets that are opened up by the end of regulatory protection and which were previously dominated by a single firm selling the brand name drug. We find robust evidence that an increase in common ownership leads to a significant reduction in generic entry. (JEL D22, G32, L13, L51, L65, M31)]]></description>
-<content:encoded><![CDATA[Common ownership—where several firms are (partially) owned by the same investors—and its impact on product market competition has recently drawn much attention. This paper focuses on its implications for market entry. We consider the entry decisions of generic pharmaceutical firms into drug markets that are opened up by the end of regulatory protection and which were previously dominated by a single firm selling the brand name drug. We find robust evidence that an increase in common ownership leads to a significant reduction in generic entry. (JEL D22, G32, L13, L51, L65, M31)]]></content:encoded>
 </item>
 <item>
 <title>Front Matter</title>
@@ -561,144 +701,6 @@
 <dc:identifier>doi:10.1257/mic.20240045</dc:identifier>
 <description><![CDATA[We study quality distortions when firms hold market power. We develop a model allowing for flexible functional forms of demand in order to extend Spence’s (1975) monopoly analysis to imperfect competition. We show that quality distortions are determined by a competition effect that captures the externality a firm exerts on its competitors when raising both its price and its quality, in addition to Spence’s (1975) effect related to the shape of total market demand. Our approach also allows us to analyze the effects of commodity taxation and technology shocks on the equilibrium allocation when firms compete in prices and qualities. (JEL D43, D62, H22, L13, L15, O31)]]></description>
 <content:encoded><![CDATA[We study quality distortions when firms hold market power. We develop a model allowing for flexible functional forms of demand in order to extend Spence’s (1975) monopoly analysis to imperfect competition. We show that quality distortions are determined by a competition effect that captures the externality a firm exerts on its competitors when raising both its price and its quality, in addition to Spence’s (1975) effect related to the shape of total market demand. Our approach also allows us to analyze the effects of commodity taxation and technology shocks on the equilibrium allocation when firms compete in prices and qualities. (JEL D43, D62, H22, L13, L15, O31)]]></content:encoded>
-</item>
-<item>
-<title>Learning When to Quit: An Empirical Model of Experimentation in Standards Development</title>
-<link>https://doi.org/10.1257/mic.20190321</link>
-<guid isPermaLink="false">10.1257/mic.20190321</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bernhard Ganglmair; Timothy Simcoe; Emanuele Tarantino]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20190321</dc:identifier>
-<description><![CDATA[Using data from the Internet Engineering Task Force (IETF), a voluntary organization that develops protocols for managing internet infrastructure, we estimate a dynamic discrete choice model of the decision to continue or abandon a line of research. The model's key parameters measure the speed at which authors learn whether their project will become a technology standard. We use the model to simulate two innovation policies: an R&D subsidy and a publication prize. While subsidies have a larger impact on research output, the optimal policy depends on the level of R&D spillovers. (JEL D83, L86, O31, O38)]]></description>
-<content:encoded><![CDATA[Using data from the Internet Engineering Task Force (IETF), a voluntary organization that develops protocols for managing internet infrastructure, we estimate a dynamic discrete choice model of the decision to continue or abandon a line of research. The model's key parameters measure the speed at which authors learn whether their project will become a technology standard. We use the model to simulate two innovation policies: an R&D subsidy and a publication prize. While subsidies have a larger impact on research output, the optimal policy depends on the level of R&D spillovers. (JEL D83, L86, O31, O38)]]></content:encoded>
-</item>
-<item>
-<title>Asymptotic Learning with Ambiguous Information</title>
-<link>https://doi.org/10.1257/mic.20230142</link>
-<guid isPermaLink="false">10.1257/mic.20230142</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pëllumb Reshidi; João Thereze; Mu Zhang]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20230142</dc:identifier>
-<description><![CDATA[We study asymptotic learning when the decision-maker faces ambiguity in the precision of her information sources. She aims to estimate a state and evaluates outcomes according to the worst-case scenario. Under prior-by-prior updating, we characterize the set of asymptotic posteriors the decision-maker entertains, which consists of a continuum of degenerate distributions over an interval. Moreover, her asymptotic estimate of the state is generically incorrect. We show that even a small amount of ambiguity may lead to large estimation errors and illustrate how an econometrician who learns from observing others' actions may over- or underreact to information. (JEL D82, D83)]]></description>
-<content:encoded><![CDATA[We study asymptotic learning when the decision-maker faces ambiguity in the precision of her information sources. She aims to estimate a state and evaluates outcomes according to the worst-case scenario. Under prior-by-prior updating, we characterize the set of asymptotic posteriors the decision-maker entertains, which consists of a continuum of degenerate distributions over an interval. Moreover, her asymptotic estimate of the state is generically incorrect. We show that even a small amount of ambiguity may lead to large estimation errors and illustrate how an econometrician who learns from observing others' actions may over- or underreact to information. (JEL D82, D83)]]></content:encoded>
-</item>
-<item>
-<title>Asymmetric Players in a Meritocracy: A Case for Affirmative Action</title>
-<link>https://doi.org/10.1257/mic.20220362</link>
-<guid isPermaLink="false">10.1257/mic.20220362</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tanjim Hossain; John Morgan]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20220362</dc:identifier>
-<description><![CDATA[We model decisions to apply for college admission, attend job auditions, or run for C-suite positions as costly entry into meritocracies, where the entrant with the highest ability wins a reward. Ability is privately known and players generically differ in commonly known characteristics such as ability distributions, entry costs, or payoffs from winning. Any infinitesimal difference leads to wildly different equilibrium entry probabilities, explaining large dispersion in representation of comparable but nonidentical population groups. Affirmative action policies such as handicapping advantaged players or surcharging them to subsidize disadvantaged players increase participation rates of disadvantaged players and, in return, increase social welfare. (JEL D82, J15, J16, J22, K31, M51)]]></description>
-<content:encoded><![CDATA[We model decisions to apply for college admission, attend job auditions, or run for C-suite positions as costly entry into meritocracies, where the entrant with the highest ability wins a reward. Ability is privately known and players generically differ in commonly known characteristics such as ability distributions, entry costs, or payoffs from winning. Any infinitesimal difference leads to wildly different equilibrium entry probabilities, explaining large dispersion in representation of comparable but nonidentical population groups. Affirmative action policies such as handicapping advantaged players or surcharging them to subsidize disadvantaged players increase participation rates of disadvantaged players and, in return, increase social welfare. (JEL D82, J15, J16, J22, K31, M51)]]></content:encoded>
-</item>
-<item>
-<title>Competition and Defaults in Online Search</title>
-<link>https://doi.org/10.1257/mic.20230193</link>
-<guid isPermaLink="false">10.1257/mic.20230193</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Francesco Decarolis; Muxin Li; Filippo Paternollo]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20230193</dc:identifier>
-<description><![CDATA[This paper offers the first systematic quantitative assessment of default-option interventions designed to mitigate Google's search dominance. By analyzing interventions in the European Economic Area (EEA), Russia, and Turkey, we find that across all three cases, changes to default settings effectively reduced Google's market share. The causal impact amounts to less than 1 percentage point in the EEA and over 10 percentage points in Russia and Turkey. Differences arise from intervention nuances, including the size of the targeted users' group, local market characteristics, and remedy designs. We discuss the complexity of assessing the interventions' impact on welfare deriving from quality responses. (JEL G34, K21, L13, L82, O14, P31)]]></description>
-<content:encoded><![CDATA[This paper offers the first systematic quantitative assessment of default-option interventions designed to mitigate Google's search dominance. By analyzing interventions in the European Economic Area (EEA), Russia, and Turkey, we find that across all three cases, changes to default settings effectively reduced Google's market share. The causal impact amounts to less than 1 percentage point in the EEA and over 10 percentage points in Russia and Turkey. Differences arise from intervention nuances, including the size of the targeted users' group, local market characteristics, and remedy designs. We discuss the complexity of assessing the interventions' impact on welfare deriving from quality responses. (JEL G34, K21, L13, L82, O14, P31)]]></content:encoded>
-</item>
-<item>
-<title>Mergers, Entry, and Consumer Welfare</title>
-<link>https://doi.org/10.1257/mic.20240057</link>
-<guid isPermaLink="false">10.1257/mic.20240057</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Peter Caradonna; Nathan H. Miller; Gloria Sheu]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20240057</dc:identifier>
-<description><![CDATA[We model merger-induced entry in the context of differentiated-products price competition. We fully characterize the combinations of merger efficiencies and entrant qualities that can mitigate the adverse equilibrium welfare effects of an otherwise anticompetitive merger. The possibility of merger-induced entry introduces nonmonotonicity into the equilibrium value that consumers receive from merger efficiencies, potentially necessitating the joint analysis of efficiencies and entry in merger review. We also explicitly characterize the efficiencies required for merger-induced entrants to make profitable mergers consumer surplus neutral. We provide an empirical application to the T-Mobile/Sprint merger. (JEL G34, G38, K21, L13, L41)]]></description>
-<content:encoded><![CDATA[We model merger-induced entry in the context of differentiated-products price competition. We fully characterize the combinations of merger efficiencies and entrant qualities that can mitigate the adverse equilibrium welfare effects of an otherwise anticompetitive merger. The possibility of merger-induced entry introduces nonmonotonicity into the equilibrium value that consumers receive from merger efficiencies, potentially necessitating the joint analysis of efficiencies and entry in merger review. We also explicitly characterize the efficiencies required for merger-induced entrants to make profitable mergers consumer surplus neutral. We provide an empirical application to the T-Mobile/Sprint merger. (JEL G34, G38, K21, L13, L41)]]></content:encoded>
-</item>
-<item>
-<title>Monitoring Team Members: Information Waste and the Transparency Trap</title>
-<link>https://doi.org/10.1257/mic.20240240</link>
-<guid isPermaLink="false">10.1257/mic.20240240</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Matteo Camboni; Michael Porcellacchia]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20240240</dc:identifier>
-<description><![CDATA[In a model of moral hazard in teams, we demonstrate that firms' concerns about low trust among teammates can justify two common but otherwise puzzling patterns: information waste and transparency trap. We find firms predominantly employ individual performance bonuses, ignoring that relevant information about team output and competition for better contracts leads workers into a self-defeating race toward effort transparency. Notably, the firm may be indifferent to or benefit from trust concerns, challenging the idea that robustness concerns invariably harm the principal's payoffs. Our analysis highlights a novel trade-off between the classical information rents and strategic insurance rents emerging from trust concerns. (JEL D21, D82, D86, J33, M54)]]></description>
-<content:encoded><![CDATA[In a model of moral hazard in teams, we demonstrate that firms' concerns about low trust among teammates can justify two common but otherwise puzzling patterns: information waste and transparency trap. We find firms predominantly employ individual performance bonuses, ignoring that relevant information about team output and competition for better contracts leads workers into a self-defeating race toward effort transparency. Notably, the firm may be indifferent to or benefit from trust concerns, challenging the idea that robustness concerns invariably harm the principal's payoffs. Our analysis highlights a novel trade-off between the classical information rents and strategic insurance rents emerging from trust concerns. (JEL D21, D82, D86, J33, M54)]]></content:encoded>
-</item>
-<item>
-<title>Reputation and Efficiency: Information Design</title>
-<link>https://doi.org/10.1257/mic.20220374</link>
-<guid isPermaLink="false">10.1257/mic.20220374</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Allen Vong]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20220374</dc:identifier>
-<description><![CDATA[A firm trades with a sequence of consumers who are unsure about the firm's competence and its effort to supply quality. I examine rating systems that sustain efficient outcomes in virtually all trades by providing consumers with information to motivate a patient-competent firm's effort. I characterize necessary and sufficient conditions for these systems to exist. I show that any such system censors the firm's track records, and explicitly construct one such system. This system reveals that the firm has produced consecutively many good outputs whenever this happens and hides all information otherwise. (JEL D21, D82, D83)]]></description>
-<content:encoded><![CDATA[A firm trades with a sequence of consumers who are unsure about the firm's competence and its effort to supply quality. I examine rating systems that sustain efficient outcomes in virtually all trades by providing consumers with information to motivate a patient-competent firm's effort. I characterize necessary and sufficient conditions for these systems to exist. I show that any such system censors the firm's track records, and explicitly construct one such system. This system reveals that the firm has produced consecutively many good outputs whenever this happens and hides all information otherwise. (JEL D21, D82, D83)]]></content:encoded>
-</item>
-<item>
-<title>Contracting Environments and Efficiency in Markets with Hidden Information: An Experiment</title>
-<link>https://doi.org/10.1257/mic.20170293</link>
-<guid isPermaLink="false">10.1257/mic.20170293</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wanda Mimra; Christian Waibel]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20170293</dc:identifier>
-<description><![CDATA[This paper provides the first systematic analysis of the role of contracting environments on market outcomes and efficiency in markets with hidden information using experimental methods. When markets are plagued by hidden information, competition does not necessarily ensure efficient market outcomes. This crucially depends on the nature of the hidden information. We present a parsimonious experimental design that serves to compare the different contracting environments for both types of hidden information markets, private and common values. The degree of equilibrium play that we find is strikingly high, particularly in the complex cases of competitive common values markets. (JEL D82, D86, L15)]]></description>
-<content:encoded><![CDATA[This paper provides the first systematic analysis of the role of contracting environments on market outcomes and efficiency in markets with hidden information using experimental methods. When markets are plagued by hidden information, competition does not necessarily ensure efficient market outcomes. This crucially depends on the nature of the hidden information. We present a parsimonious experimental design that serves to compare the different contracting environments for both types of hidden information markets, private and common values. The degree of equilibrium play that we find is strikingly high, particularly in the complex cases of competitive common values markets. (JEL D82, D86, L15)]]></content:encoded>
-</item>
-<item>
-<title>Church Tax Exemption and Structure of Religious Markets: A Dynamic Structural Analysis</title>
-<link>https://doi.org/10.1257/mic.20210238</link>
-<guid isPermaLink="false">10.1257/mic.20210238</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Raphael Corbi; Fabio Miessi Sanches]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20210238</dc:identifier>
-<description><![CDATA[We study the effects of church tax exemptions on the structure of religious markets. Using the Brazilian experience as a showcase, we develop and estimate a dynamic entry model of religious organizations based on temple opening and closure in geographically isolated markets. Counterfactual simulations suggest that tax exemptions stimulated entry by all religions, but disproportionately benefited evangelical denominations: The evangelical share of temples increased by approximately 20 percentage points. By combining difference-in-differences estimates with model-based counterfactuals, we show that these policies also increased the support for evangelical caucus politicians, raising their vote share by 8 percent in the 2018 election. (JEL C73, D43, H25, O15, Z12)]]></description>
-<content:encoded><![CDATA[We study the effects of church tax exemptions on the structure of religious markets. Using the Brazilian experience as a showcase, we develop and estimate a dynamic entry model of religious organizations based on temple opening and closure in geographically isolated markets. Counterfactual simulations suggest that tax exemptions stimulated entry by all religions, but disproportionately benefited evangelical denominations: The evangelical share of temples increased by approximately 20 percentage points. By combining difference-in-differences estimates with model-based counterfactuals, we show that these policies also increased the support for evangelical caucus politicians, raising their vote share by 8 percent in the 2018 election. (JEL C73, D43, H25, O15, Z12)]]></content:encoded>
-</item>
-<item>
-<title>Front Matter</title>
-<link>https://doi.org/10.1257/mic.17.3.i</link>
-<guid isPermaLink="false">10.1257/mic.17.3.i</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1257/mic.17.3.i</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Bargaining and Information Acquisition</title>
-<link>https://doi.org/10.1257/mic.20240034</link>
-<guid isPermaLink="false">10.1257/mic.20240034</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kalyan Chatterjee; Miaomiao Dong; Tetsuya Hoshino]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20240034</dc:identifier>
-<description><![CDATA[We consider an ultimatum game where the value of the object being sold to the buyer is high or low. The seller knows the value, but the buyer does not. The value to the seller is zero. We introduce the option for the buyer to acquire costly information after an offer is made. This information either confirms the high value or provides no information. As the cost of information vanishes, the buyer gets all the surplus in a refinement of perfect Bayesian equilibrium, although the option to acquire information is never used. Moreover, this signal structure is optimal for the buyer. (JEL C72, C78, D82, D83)]]></description>
-<content:encoded><![CDATA[We consider an ultimatum game where the value of the object being sold to the buyer is high or low. The seller knows the value, but the buyer does not. The value to the seller is zero. We introduce the option for the buyer to acquire costly information after an offer is made. This information either confirms the high value or provides no information. As the cost of information vanishes, the buyer gets all the surplus in a refinement of perfect Bayesian equilibrium, although the option to acquire information is never used. Moreover, this signal structure is optimal for the buyer. (JEL C72, C78, D82, D83)]]></content:encoded>
-</item>
-<item>
-<title>Information Acquisition and Product Differentiation Perception</title>
-<link>https://doi.org/10.1257/mic.20230104</link>
-<guid isPermaLink="false">10.1257/mic.20230104</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gary Biglaiser; Jiadong Gu; Fei Li]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20230104</dc:identifier>
-<description><![CDATA[We consider the equilibrium interplay between sellers' price competition and consumers' perception of product differentiation. We analyze a situation where, before trading, consumers acquire information at a cost about their preferences between sellers' differentiated products. The incentive for information acquisition depends on the average value of products, the objective product differentiation, and their beliefs about sellers' prices. The acquired information shapes consumers' perceived product differentiation and sellers' equilibrium prices. We characterize the unique symmetric equilibrium and study comparative statics with respect to consumer information acquisition cost and sensitivity to product differentiation. (JEL D43, D82, D83)]]></description>
-<content:encoded><![CDATA[We consider the equilibrium interplay between sellers' price competition and consumers' perception of product differentiation. We analyze a situation where, before trading, consumers acquire information at a cost about their preferences between sellers' differentiated products. The incentive for information acquisition depends on the average value of products, the objective product differentiation, and their beliefs about sellers' prices. The acquired information shapes consumers' perceived product differentiation and sellers' equilibrium prices. We characterize the unique symmetric equilibrium and study comparative statics with respect to consumer information acquisition cost and sensitivity to product differentiation. (JEL D43, D82, D83)]]></content:encoded>
-</item>
-<item>
-<title>Unraveling and Inefficient Matching</title>
-<link>https://doi.org/10.1257/mic.20230233</link>
-<guid isPermaLink="false">10.1257/mic.20230233</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Akhil Vohra]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20230233</dc:identifier>
-<description><![CDATA[Labor markets unravel when workers and firms match inefficiently early under limited information. I argue that a significant determinant of unraveling is the presence of a secondary market, where firms can poach workers, and its transparency: how well firms can ascertain workers' value once they are employed by competitors. While early hiring reduces the probability of hiring a high-type worker, it prevents rivals from learning about the worker, making poaching difficult. When secondary markets are very transparent, unraveling disappears. However, the matching remains inefficient due to the incentives of low-tier firms to communicate that they have not hired top-quality workers. (JEL C78, D47, J23, J44, M51)]]></description>
-<content:encoded><![CDATA[Labor markets unravel when workers and firms match inefficiently early under limited information. I argue that a significant determinant of unraveling is the presence of a secondary market, where firms can poach workers, and its transparency: how well firms can ascertain workers' value once they are employed by competitors. While early hiring reduces the probability of hiring a high-type worker, it prevents rivals from learning about the worker, making poaching difficult. When secondary markets are very transparent, unraveling disappears. However, the matching remains inefficient due to the incentives of low-tier firms to communicate that they have not hired top-quality workers. (JEL C78, D47, J23, J44, M51)]]></content:encoded>
-</item>
-<item>
-<title>Free Riding and Unequal Pay in Symmetric Teams</title>
-<link>https://doi.org/10.1257/mic.20230179</link>
-<guid isPermaLink="false">10.1257/mic.20230179</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Huseyin Yildirim]]></dc:creator>
-<dc:identifier>doi:10.1257/mic.20230179</dc:identifier>
-<description><![CDATA[This paper studies dynamic incentive pay in teams where agents' efforts are perfect substitutes. It shows that the principal may unequally reward identical agents to mitigate dynamic free riding in the form of procrastination. Unequal pay effectively creates a “team leader” who overworks and symmetric “followers” who underwork. Such leader-follower teams emerge if (i) agents are relatively patient or few, or (ii) the principal sufficiently cares about or is not patient for project success. These findings contrast with the recent literature (e.g., Winter 2004), pinpointing effort complementarity as the source of unequal pay in symmetric teams. (JEL D82, J22, J31, M52)]]></description>
-<content:encoded><![CDATA[This paper studies dynamic incentive pay in teams where agents' efforts are perfect substitutes. It shows that the principal may unequally reward identical agents to mitigate dynamic free riding in the form of procrastination. Unequal pay effectively creates a “team leader” who overworks and symmetric “followers” who underwork. Such leader-follower teams emerge if (i) agents are relatively patient or few, or (ii) the principal sufficiently cares about or is not patient for project success. These findings contrast with the recent literature (e.g., Winter 2004), pinpointing effort complementarity as the source of unequal pay in symmetric teams. (JEL D82, J22, J31, M52)]]></content:encoded>
 </item>
 </channel>
 </rss>

@@ -9,7 +9,7 @@
 <description>JMCQ — SAGE · Latest in: OnlineFirst · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmcq.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 05:17:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 12:37:05 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -541,16 +541,6 @@
 <dc:identifier>doi:10.1177/10776990261433908</dc:identifier>
 <description><![CDATA[The adoption of generative artificial intelligence (Gen-AI) in newsrooms has stirred discussions about its implications. This paper critically examines the adoption of Gen-AI tools by newsrooms in Zimbabwe. Through interviews with 30 journalists, this study demonstrates pragmatic adoption despite organizational ambivalence and limited resources. Journalists across mainstream and digital media start-ups are using Gen-AI tools to support news production. A key finding was that young journalists were more likely to use Gen-AI than their older counterparts. Respondents lamented Gen-AI’s lack of conscience, Western-centric content, and limited accommodation of African languages. They recommended investment in small language models and contextual awareness.]]></description>
 <content:encoded><![CDATA[The adoption of generative artificial intelligence (Gen-AI) in newsrooms has stirred discussions about its implications. This paper critically examines the adoption of Gen-AI tools by newsrooms in Zimbabwe. Through interviews with 30 journalists, this study demonstrates pragmatic adoption despite organizational ambivalence and limited resources. Journalists across mainstream and digital media start-ups are using Gen-AI tools to support news production. A key finding was that young journalists were more likely to use Gen-AI than their older counterparts. Respondents lamented Gen-AI’s lack of conscience, Western-centric content, and limited accommodation of African languages. They recommended investment in small language models and contextual awareness.]]></content:encoded>
-</item>
-<item>
-<title>A Dangerous Concept in a Hostile Environment: Journalists’ Understandings of Populism in Italy and Spain</title>
-<link>https://doi.org/10.1177/10776990261429070</link>
-<guid isPermaLink="false">10.1177/10776990261429070</guid>
-<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Carlo Berti; Carlota M. Moragas-Fernández; Arantxa Capdevila]]></dc:creator>
-<dc:identifier>doi:10.1177/10776990261429070</dc:identifier>
-<description><![CDATA[Populism, especially that of the far right, has a major impact on journalism. Journalists have to respond to an increasingly hostile environment with dwindling resources and often precarious conditions. By using semistructured interviews with journalists who cover the populist far right in Italy and Spain, we investigate how they understand populism and its impact on their profession. Interviewees have a clear idea of what populism is, but feel that this concept is often used in a vague and politicized manner. Far-right populism’s hostility toward journalism has also generated professional problems such as difficult access to politicians, safety concerns, and violence.]]></description>
-<content:encoded><![CDATA[Populism, especially that of the far right, has a major impact on journalism. Journalists have to respond to an increasingly hostile environment with dwindling resources and often precarious conditions. By using semistructured interviews with journalists who cover the populist far right in Italy and Spain, we investigate how they understand populism and its impact on their profession. Interviewees have a clear idea of what populism is, but feel that this concept is often used in a vague and politicized manner. Far-right populism’s hostility toward journalism has also generated professional problems such as difficult access to politicians, safety concerns, and violence.]]></content:encoded>
 </item>
 </channel>
 </rss>
