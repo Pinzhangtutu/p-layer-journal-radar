@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 12:47:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 22:41:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -73,6 +73,14 @@
 <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lisa Dragoni; Christina Hymer; Soohyun Yoon; Jeffery A. LePine; Todd Woodruff; Lissa V. Young; Huisi (Jessica) Li]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001405</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for What Do We Know About Job Knowledge Tests? A 30-Year Update of Validity Evidence</title>
+<link>https://doi.org/10.1037/apl0001427.supp</link>
+<guid isPermaLink="false">10.1037/apl0001427.supp</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/apl0001427.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -380,21 +388,21 @@
 <description></description>
 </item>
 <item>
-<title>The escalation of prosocial commitment: How the B corporation movement catalyzes social impact.</title>
-<link>https://doi.org/10.1037/apl0001311</link>
-<guid isPermaLink="false">10.1037/apl0001311</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001311</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The unintended consequences of state policies on entrepreneurial activity and quality of work life: A social impact study.</title>
 <link>https://doi.org/10.1037/apl0001345</link>
 <guid isPermaLink="false">10.1037/apl0001345</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jeremy B. Bernerth; Min Z. Carter; Justin Pepe; R. Michael Holmes; Wayne Hochwarter]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001345</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The escalation of prosocial commitment: How the B corporation movement catalyzes social impact.</title>
+<link>https://doi.org/10.1037/apl0001311</link>
+<guid isPermaLink="false">10.1037/apl0001311</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001311</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -486,21 +494,21 @@
 <description></description>
 </item>
 <item>
-<title>A meta-analytic examination of the criterion-related validity and cognitive loading associated with traditional and new situational judgment test paradigms.</title>
-<link>https://doi.org/10.1037/apl0001420</link>
-<guid isPermaLink="false">10.1037/apl0001420</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Filip Lievens; You Zhou; Jomel Wei Xuan Ng; Liyan Xi; Yixin Tian; Paul R. Sackett; Michelle Martin-Raugh]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001420</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The shape of recovery activities: A person-centered study of evening recovery activity profiles, their work antecedents, and outcomes.</title>
 <link>https://doi.org/10.1037/apl0001424</link>
 <guid isPermaLink="false">10.1037/apl0001424</guid>
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Khalid M. Alameer; Ute R. Hülsheger; Mo Wang; Sabine Sonnentag; Jan Schepers; Sjir Uitdewilligen]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001424</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A meta-analytic examination of the criterion-related validity and cognitive loading associated with traditional and new situational judgment test paradigms.</title>
+<link>https://doi.org/10.1037/apl0001420</link>
+<guid isPermaLink="false">10.1037/apl0001420</guid>
+<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Filip Lievens; You Zhou; Jomel Wei Xuan Ng; Liyan Xi; Yixin Tian; Paul R. Sackett; Michelle Martin-Raugh]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001420</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -605,15 +613,6 @@
 <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Rui Zhong; Yimin He; Yinbo (Bowie) Zheng; Christopher M. Barnes; Kyle Wu; Shaoxue Wu]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001406</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The impact of impression management on writing tendencies: Investigating faking susceptibility of open-ended personality assessments.</title>
-<link>https://doi.org/10.1037/apl0001397</link>
-<guid isPermaLink="false">10.1037/apl0001397</guid>
-<pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Andrew B. Speer; Takudzwa A. Chawota; Cort Rudolph; Amani Qaqish]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001397</dc:identifier>
 <description></description>
 </item>
 <item>

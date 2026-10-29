@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 12:47:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 22:41:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -301,6 +301,16 @@
 <content:encoded><![CDATA[This paper investigates how consumer impatience affects competition and how delivery technology may reshape market structure in online retail markets.]]></content:encoded>
 </item>
 <item>
+<title>The Problem of Ignoring the Ignorability Assumption in Advertising Measurement: A Matrix Completion Solution</title>
+<link>https://doi.org/10.1287/mksc.2023.0382</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0382</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Omid Rafieian]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0382</dc:identifier>
+<description><![CDATA[This paper frames the overlap violation problem in online advertising auctions as a missing-data problem and proposes a matrix completion approach to correct the resulting bias in observational studies with algorithmic ad allocation.]]></description>
+<content:encoded><![CDATA[This paper frames the overlap violation problem in online advertising auctions as a missing-data problem and proposes a matrix completion approach to correct the resulting bias in observational studies with algorithmic ad allocation.]]></content:encoded>
+</item>
+<item>
 <title>Frontiers: Discrimination Against Femininity in Headshots: A Field Experiment with AI-Enabled Controllable Stimuli Generation</title>
 <link>https://doi.org/10.1287/mksc.2024.1176</link>
 <guid isPermaLink="false">10.1287/mksc.2024.1176</guid>
@@ -443,16 +453,6 @@
 <dc:identifier>doi:10.1287/mksc.2023.0513</dc:identifier>
 <description><![CDATA[We study platforms’ incentives to invest in cybersecurity under ad-funded and subscription-funded business models.]]></description>
 <content:encoded><![CDATA[We study platforms’ incentives to invest in cybersecurity under ad-funded and subscription-funded business models.]]></content:encoded>
-</item>
-<item>
-<title>Bargaining and Network Effects in Two-Sided Platforms: Evidence from Online Healthcare</title>
-<link>https://doi.org/10.1287/mksc.2024.0922</link>
-<guid isPermaLink="false">10.1287/mksc.2024.0922</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xu Zhang; Junhong Chu; Puneet Manchanda]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2024.0922</dc:identifier>
-<description><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></description>
-<content:encoded><![CDATA[A generalizable modeling framework integrating bargaining and participant-specific network effects to guide growth strategies for platforms built on negotiated partnerships.]]></content:encoded>
 </item>
 <item>
 <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>

@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 12:47:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 22:41:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -82,15 +82,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yong Liu; Wenjie Fan; Virpi Kristiina Tuunainen; Hongxiu Li; Chee-Wee Tan; Timo Saarinen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104363</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Communication media choices in interfirm collaborations: When media richness matters</title>
-<link>https://doi.org/10.1016/j.im.2026.104349</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104349</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Constantinos S. Lioukas; Jeffrey J. Reuer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104349</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -328,6 +319,15 @@
 <description></description>
 </item>
 <item>
+<title>Restoring Legitimacy under Resource Constraints: The Impact of Data Breaches on Corporate Social Responsibility</title>
+<link>https://doi.org/10.1016/j.im.2026.104459</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104459</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junmin Xu; Xiaoyue Song; Quansheng Li; Qin Su; Wei Thoo Yue]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104459</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>AI capability and organizational performance: Do team learning and creativity play a role?</title>
 <link>https://doi.org/10.1016/j.im.2026.104458</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104458</guid>
@@ -355,21 +355,21 @@
 <description></description>
 </item>
 <item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
 <link>https://doi.org/10.1016/j.im.2026.104411</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>

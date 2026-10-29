@@ -9,27 +9,9 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 12:47:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 22:41:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>Patterns and sources of life satisfaction stability and change at different developmental stages.</title>
-<link>https://doi.org/10.1037/pspp0000602</link>
-<guid isPermaLink="false">10.1037/pspp0000602</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marco Deppe; Charlotte K. L. Dißelkamp; Andreas J. Forstner; Christian Kandler]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000602</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The unexpected importance of expectations in self-conscious emotions.</title>
-<link>https://doi.org/10.1037/pspa0000486</link>
-<guid isPermaLink="false">10.1037/pspa0000486</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jessica L. Tracy; Gabrielle C. Ibasco]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000486</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>Fleeting generalization: How unstable belief updating keeps people overly pessimistic about talking to strangers.</title>
 <link>https://doi.org/10.1037/pspa0000483</link>
@@ -100,6 +82,23 @@
 <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jaweria Qaiser; Solomiya Draga; Linh N. P. Pham; Nathan Leonhardt; Jennifer E. Stellar]]></dc:creator>
 <dc:identifier>doi:10.1037/pspi0000529</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for When Consensus Can Change Hearts and Minds: Sacred Values and Edge Cases</title>
+<link>https://doi.org/10.1037/pspi0000536.supp</link>
+<guid isPermaLink="false">10.1037/pspi0000536.supp</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspi0000536.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>People underestimate how much dissimilar others want to connect.</title>
+<link>https://doi.org/10.1037/pspa0000501</link>
+<guid isPermaLink="false">10.1037/pspa0000501</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gus Cooney; Erica J. Boothby; Jacquie D. Vorauer; Maurice E. Schweitzer]]></dc:creator>
+<dc:identifier>doi:10.1037/pspa0000501</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 12:47:10 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 22:41:16 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -46,24 +46,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Uma R. Karmarkar; John A. Clithero; Carolina Raffaelli]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001941</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Switching between cognitive control states? No, thank you.</title>
-<link>https://doi.org/10.1037/xge0001940</link>
-<guid isPermaLink="false">10.1037/xge0001940</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Merve Ileri-Tayar; Julie M. Bugg; Wouter Kool]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001940</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Separating cognitive development from language development in the acquisition of negation using international adoption.</title>
-<link>https://doi.org/10.1037/xge0001938</link>
-<guid isPermaLink="false">10.1037/xge0001938</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Annika McDermott-Hinman; Samuel Zimmerman; Jesse Snedeker; Roman Feiman]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001938</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -175,29 +157,11 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for The (Anti-)Conformity Strategy Space: How Flexible Is Social Learning When Group Membership and Incentive Alignment Vary?</title>
-<link>https://doi.org/10.1037/xge0001993.supp</link>
-<guid isPermaLink="false">10.1037/xge0001993.supp</guid>
-<pubDate>Thu, 27 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001993.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Bridging real-world summarization and laboratory-based memory recall.</title>
-<link>https://doi.org/10.1037/xge0001994</link>
-<guid isPermaLink="false">10.1037/xge0001994</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hemali Angne; Snigdha S. Mishra; Guo Lin; Qiong Zhang]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001994</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Scaling vision to the body: Height predicts visual experience and perceptual performance.</title>
-<link>https://doi.org/10.1037/xge0001965</link>
-<guid isPermaLink="false">10.1037/xge0001965</guid>
-<pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michelle R. Greene; Benjamin J. Balas]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001965</dc:identifier>
+<title>Supplemental Material for Speech Categorization Consistency Is Robustly Associated With Receptive Oral Language Performance</title>
+<link>https://doi.org/10.1037/xge0002013.supp</link>
+<guid isPermaLink="false">10.1037/xge0002013.supp</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/xge0002013.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -218,68 +182,11 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for What Predicts Expertise in Baduk? Intelligence, Practice, and a Natural Test of the Range Restriction Hypothesis</title>
-<link>https://doi.org/10.1037/xge0001983.supp</link>
-<guid isPermaLink="false">10.1037/xge0001983.supp</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001983.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Bridging Real-World Summarization and Laboratory-Based Memory Recall</title>
-<link>https://doi.org/10.1037/xge0001994.supp</link>
-<guid isPermaLink="false">10.1037/xge0001994.supp</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001994.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Equity Rewards the True Self: True-Self Attributions Drive Perceptions of Equity-Based Justice</title>
-<link>https://doi.org/10.1037/xge0001999.supp</link>
-<guid isPermaLink="false">10.1037/xge0001999.supp</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001999.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for The Moralized Coalitions Model: How Coalitional Thinking and Moralization Shape Social Perception</title>
 <link>https://doi.org/10.1037/xge0001998.supp</link>
 <guid isPermaLink="false">10.1037/xge0001998.supp</guid>
 <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/xge0001998.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Joint perception biases subjective awareness reports.</title>
-<link>https://doi.org/10.1037/xge0002001</link>
-<guid isPermaLink="false">10.1037/xge0002001</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Benjy Barnett; Daniel Yon]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0002001</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Adaptive Regulation of Confidence Following Metacognitive Conflict: Evidence From Behavior and Computational Modeling</title>
-<link>https://doi.org/10.1037/xge0001997.supp</link>
-<guid isPermaLink="false">10.1037/xge0001997.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001997.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for From Gestalt Boundary to Psychological Border: Perceptual Structure Constrains Strategic Planning and Intention Inference</title>
-<link>https://doi.org/10.1037/xge0001977.supp</link>
-<guid isPermaLink="false">10.1037/xge0001977.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0001977.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Joint Perception Biases Subjective Awareness Reports</title>
-<link>https://doi.org/10.1037/xge0002001.supp</link>
-<guid isPermaLink="false">10.1037/xge0002001.supp</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/xge0002001.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -388,6 +295,168 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Matteo Di Stasi; Alison Wood Brooks; Jordi Quoidbach]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001990</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Children can suppress salient distractors.</title>
+<link>https://doi.org/10.1037/xge0002005</link>
+<guid isPermaLink="false">10.1037/xge0002005</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aniruddha Ramgir; Keerthana Kapiley; Dominique Lamy]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002005</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Adaptive regulation of confidence following metacognitive conflict: Evidence from behavior and computational modeling.</title>
+<link>https://doi.org/10.1037/xge0001997</link>
+<guid isPermaLink="false">10.1037/xge0001997</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jintao Xing; Stef Herregods; Luc Vermeylen; Kobe Desender]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001997</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Joint perception biases subjective awareness reports.</title>
+<link>https://doi.org/10.1037/xge0002001</link>
+<guid isPermaLink="false">10.1037/xge0002001</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjy Barnett; Daniel Yon]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002001</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bridging real-world summarization and laboratory-based memory recall.</title>
+<link>https://doi.org/10.1037/xge0001994</link>
+<guid isPermaLink="false">10.1037/xge0001994</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hemali Angne; Snigdha S. Mishra; Guo Lin; Qiong Zhang]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001994</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The (anti-)conformity strategy space: How flexible is social learning when group membership and incentive alignment vary?</title>
+<link>https://doi.org/10.1037/xge0001993</link>
+<guid isPermaLink="false">10.1037/xge0001993</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lukas von Flüe; Sonja Vogt; Charles Efferson]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001993</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Enacted love: Capitalization responses signal love, including toward strangers.</title>
+<link>https://doi.org/10.1037/xge0001985</link>
+<guid isPermaLink="false">10.1037/xge0001985</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tatum A. Jolink; Emily Le; Zoe Hansen; Kylie R. Chandler; Alexis M. Cameron; Issay Barry; Brett A. Murphy; Sara B. Algoe]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001985</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recognition-memory asymmetries predicted by individual item memorability.</title>
+<link>https://doi.org/10.1037/xge0002003</link>
+<guid isPermaLink="false">10.1037/xge0002003</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Igor Utochkin; Nicholas Chiang; Wilma A. Bainbridge]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002003</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Scaling vision to the body: Height predicts visual experience and perceptual performance.</title>
+<link>https://doi.org/10.1037/xge0001965</link>
+<guid isPermaLink="false">10.1037/xge0001965</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michelle R. Greene; Benjamin J. Balas]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001965</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Investigating how reward retroactively improves memory for associations and items: A registered report.</title>
+<link>https://doi.org/10.1037/xge0002006</link>
+<guid isPermaLink="false">10.1037/xge0002006</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hannah Tarder-Stoll; Margaret L. Schlichting; Katherine D. Duncan]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002006</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Task-evoked pupillary responses reveal a role for attentional intensity in auditory discrimination.</title>
+<link>https://doi.org/10.1037/xge0001982</link>
+<guid isPermaLink="false">10.1037/xge0001982</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mark G. Pillai; Cody A. Mashburn; Jason S. Tsukahara; Audrey Leroux; Randall W. Engle]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001982</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How we see relations: The case of containment and support.</title>
+<link>https://doi.org/10.1037/xge0002012</link>
+<guid isPermaLink="false">10.1037/xge0002012</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sofie Vettori; Farzad Rostami; Jean-Rémy Hochmann; Liuba Papeo]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002012</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Equity rewards the true self: True-self attributions drive perceptions of equity-based justice.</title>
+<link>https://doi.org/10.1037/xge0001999</link>
+<guid isPermaLink="false">10.1037/xge0001999</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Charles Chu]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001999</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Gestalt boundary to psychological border: Perceptual structure constrains strategic planning and intention inference.</title>
+<link>https://doi.org/10.1037/xge0001977</link>
+<guid isPermaLink="false">10.1037/xge0001977</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhen Li; Ning Tang; Siyi Gong; Jifan Zhou; Mowei Shen; Tao Gao]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001977</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bridging Bayesian and representational theories of memory to predict memory bias.</title>
+<link>https://doi.org/10.1037/xge0001945</link>
+<guid isPermaLink="false">10.1037/xge0001945</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anxin Miao; Timothy F. Brady; Maria M. Robinson]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001945</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What predicts expertise in Baduk? Intelligence, practice, and a natural test of the range restriction hypothesis.</title>
+<link>https://doi.org/10.1037/xge0001983</link>
+<guid isPermaLink="false">10.1037/xge0001983</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel A. Southwick; Chayce Baldwin; Kyle W. Harwell; Ellie Agler; Jong Sung Yoon]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001983</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The orthographic mind: Orthographic imagery propensity correlates with semantic structure and sensory sensitivity.</title>
+<link>https://doi.org/10.1037/xge0002000</link>
+<guid isPermaLink="false">10.1037/xge0002000</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Huichao Yang; Xiaosha Wang; Yanchao Bi]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002000</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beliefs about the causal interdependence of virtues and vices.</title>
+<link>https://doi.org/10.1037/xge0002008</link>
+<guid isPermaLink="false">10.1037/xge0002008</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Benjamin Hardin; Sydney E. Scott; Jessie Sun]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002008</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Strength-based organizational approaches facilitate workplace opportunities for people from lower socioeconomic status backgrounds.</title>
+<link>https://doi.org/10.1037/xge0002009</link>
+<guid isPermaLink="false">10.1037/xge0002009</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David M. Silverman; Nicole M. Stephens; Jiyoun Kim; Yelim Kim; Mira McGriff-Middleton; Mesmin Destin]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002009</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -517,42 +586,6 @@
 <description></description>
 </item>
 <item>
-<title>The (anti-)conformity strategy space: How flexible is social learning when group membership and incentive alignment vary?</title>
-<link>https://doi.org/10.1037/xge0001993</link>
-<guid isPermaLink="false">10.1037/xge0001993</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lukas von Flüe; Sonja Vogt; Charles Efferson]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001993</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Recognition-memory asymmetries predicted by individual item memorability.</title>
-<link>https://doi.org/10.1037/xge0002003</link>
-<guid isPermaLink="false">10.1037/xge0002003</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Igor Utochkin; Nicholas Chiang; Wilma A. Bainbridge]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0002003</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From Gestalt boundary to psychological border: Perceptual structure constrains strategic planning and intention inference.</title>
-<link>https://doi.org/10.1037/xge0001977</link>
-<guid isPermaLink="false">10.1037/xge0001977</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zhen Li; Ning Tang; Siyi Gong; Jifan Zhou; Mowei Shen; Tao Gao]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001977</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>What predicts expertise in Baduk? Intelligence, practice, and a natural test of the range restriction hypothesis.</title>
-<link>https://doi.org/10.1037/xge0001983</link>
-<guid isPermaLink="false">10.1037/xge0001983</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Daniel A. Southwick; Chayce Baldwin; Kyle W. Harwell; Ellie Agler; Jong Sung Yoon]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001983</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Dual mechanisms of temporal recalibration and Bayesian calibration in tactile simultaneity perception.</title>
 <link>https://doi.org/10.1037/xge0002004</link>
 <guid isPermaLink="false">10.1037/xge0002004</guid>
@@ -571,30 +604,12 @@
 <description></description>
 </item>
 <item>
-<title>Equity rewards the true self: True-self attributions drive perceptions of equity-based justice.</title>
-<link>https://doi.org/10.1037/xge0001999</link>
-<guid isPermaLink="false">10.1037/xge0001999</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Charles Chu]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001999</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>On bias in detecting bias: A signal detection analysis of attributions to gender discrimination.</title>
 <link>https://doi.org/10.1037/xge0001995</link>
 <guid isPermaLink="false">10.1037/xge0001995</guid>
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marie Jakob; Anat Shechter; Jimmy Calanchini; Karl Christoph Klauer]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001995</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Adaptive regulation of confidence following metacognitive conflict: Evidence from behavior and computational modeling.</title>
-<link>https://doi.org/10.1037/xge0001997</link>
-<guid isPermaLink="false">10.1037/xge0001997</guid>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jintao Xing; Stef Herregods; Luc Vermeylen; Kobe Desender]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001997</dc:identifier>
 <description></description>
 </item>
 </channel>
