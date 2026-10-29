@@ -9,7 +9,7 @@
 <description>AER-Ed — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aer-ed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 05:27:51 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 12:47:10 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -311,6 +311,16 @@
 <content:encoded><![CDATA[Across the United States, anti-equity politics are shaping education policies and decision making. While this anti-equity movement is well documented, less is known about strategies to defend against those challenges. We examined such strategies within a highly politicized area of education: multilingual learner (ML) policy and practice. Using critical policy analysis, we analyzed interview and meeting observation data collected over 5 years in a national research–practice partnership to examine 26 state education agency leaders’ ML-focused work amid pervasive anti-equity politics. Findings revealed how state leaders used collaboration, research, and federal civil rights law as tools to protect ML education. Implications highlight the value of research–practice partnerships as spaces for sensemaking and evidence-based capacity building amid complex politics.]]></content:encoded>
 </item>
 <item>
+<title>State School Accountability Decisions and the Implications for School Ratings</title>
+<link>https://doi.org/10.3102/00028312261489577</link>
+<guid isPermaLink="false">10.3102/00028312261489577</guid>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Erica Harbatkin; Betsy Wolf]]></dc:creator>
+<dc:identifier>doi:10.3102/00028312261489577</dc:identifier>
+<description><![CDATA[State school accountability systems have been a constant in educational policy since before federal law required them. Currently, state systems must include multiple measures of school quality but states otherwise have considerable leeway in measuring schools. We simulate school ratings using eight years of data to demonstrate how state decisions about (a) weighting multiple measures and (b) how many years of data go into the rating influence the list of schools identified for improvement. We evaluate the implications and tradeoffs inherent in these decisions. For example, weighting growth more than proficiency produces more valid measures of school quality, whereas weighting proficiency more identifies schools most in need of resources. We conclude with recommendations for state accountability systems.]]></description>
+<content:encoded><![CDATA[State school accountability systems have been a constant in educational policy since before federal law required them. Currently, state systems must include multiple measures of school quality but states otherwise have considerable leeway in measuring schools. We simulate school ratings using eight years of data to demonstrate how state decisions about (a) weighting multiple measures and (b) how many years of data go into the rating influence the list of schools identified for improvement. We evaluate the implications and tradeoffs inherent in these decisions. For example, weighting growth more than proficiency produces more valid measures of school quality, whereas weighting proficiency more identifies schools most in need of resources. We conclude with recommendations for state accountability systems.]]></content:encoded>
+</item>
+<item>
 <title>Untapped Potential? Understanding the Paraeducator-to-Teacher Pipeline and Its Potential for Diversifying the Teacher Workforce</title>
 <link>https://doi.org/10.3102/00028312261453572</link>
 <guid isPermaLink="false">10.3102/00028312261453572</guid>
@@ -459,16 +469,6 @@
 <dc:identifier>doi:10.3102/00028312261455486</dc:identifier>
 <description><![CDATA[As suburbs racially change, they are increasingly a place where Latino students learn and Latino teachers teach. Latino-majority suburbs provide a strategic case to better understand how Latino and white educators make sense of race and place in the suburbs both when deciding where to teach and when engaging with Latino students and families. Drawing on interviews with 40 educators in a Latino-majority suburban school district in Texas, I demonstrate that narratives of choosing the district and narratives of Latino students and families varied by educator race and connection to place. Latino and white educators drew on their lived experiences as students, residents, and educators in the region to motivate their choice of district and inform distinct classroom practices.]]></description>
 <content:encoded><![CDATA[As suburbs racially change, they are increasingly a place where Latino students learn and Latino teachers teach. Latino-majority suburbs provide a strategic case to better understand how Latino and white educators make sense of race and place in the suburbs both when deciding where to teach and when engaging with Latino students and families. Drawing on interviews with 40 educators in a Latino-majority suburban school district in Texas, I demonstrate that narratives of choosing the district and narratives of Latino students and families varied by educator race and connection to place. Latino and white educators drew on their lived experiences as students, residents, and educators in the region to motivate their choice of district and inform distinct classroom practices.]]></content:encoded>
-</item>
-<item>
-<title>“They’re Outside of the Process”: How Admissions Officers Maintain Inequality When Evaluating Course Rigor Through Holistic Admissions</title>
-<link>https://doi.org/10.3102/00028312251360905</link>
-<guid isPermaLink="false">10.3102/00028312251360905</guid>
-<pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Awilda Rodríguez; Katherine Lebioda; Davinia Rodríguez-Wilhelm; Cassandra Arroyo; Joshua Skiles; Braini McKenzie; Reuben C. Kapp; Nicole J. Wilson]]></dc:creator>
-<dc:identifier>doi:10.3102/00028312251360905</dc:identifier>
-<description><![CDATA[Admissions officers practicing holistic admissions judge students’ course taking based on what was available to them, yet how representatives learn about students’ high school context and subsequently evaluate students’ course rigor within it remains underexamined. Using signaling theory and effectively maintaining the inequality framework, we leveraged interview data with college admissions representatives to investigate how they construct their understandings of high- versus low-resourced schools and how they evaluate course taking within each context. We found that admissions officers were less likely to understand low-resourced schools’ course offerings, had different approaches for determining how students made the most of their opportunities, and held deficit-oriented beliefs about them. These findings provide insights into the holistic admissions process and the ways it disadvantages low-resourced schools and students.]]></description>
-<content:encoded><![CDATA[Admissions officers practicing holistic admissions judge students’ course taking based on what was available to them, yet how representatives learn about students’ high school context and subsequently evaluate students’ course rigor within it remains underexamined. Using signaling theory and effectively maintaining the inequality framework, we leveraged interview data with college admissions representatives to investigate how they construct their understandings of high- versus low-resourced schools and how they evaluate course taking within each context. We found that admissions officers were less likely to understand low-resourced schools’ course offerings, had different approaches for determining how students made the most of their opportunities, and held deficit-oriented beliefs about them. These findings provide insights into the holistic admissions process and the ways it disadvantages low-resourced schools and students.]]></content:encoded>
 </item>
 <item>
 <title>Impacts of School Choice Expansion on Public School Finance, Inputs, Voter Tax Preferences, and Achievement</title>
