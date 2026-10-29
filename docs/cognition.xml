@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 22:28:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:27:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -112,21 +112,21 @@
 <description></description>
 </item>
 <item>
-<title>Coherence and the memorability of supernatural concepts</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106661</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106661</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Joseph Sommer; Julien Musolino; Pernille Hemmer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106661</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Multiple motor systems spontaneously track speech structures at distinct levels with individual variability</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106666</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106666</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lu Luo; Xiaoyu Zhang; Lingxi Lu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106666</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Coherence and the memorability of supernatural concepts</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106661</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106661</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joseph Sommer; Julien Musolino; Pernille Hemmer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106661</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -145,15 +145,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Bartuğ Çelik; Ágnes Melinda Kovács]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106645</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Sleep consolidation of social memories and common ground</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106670</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106670</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yicheng Qiu; Lewis V. Ball; Catie Hopkins; Dan Denis; M. Gareth Gaskell; Heather J. Ferguson]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106670</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -190,6 +181,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Layla Unger; Olivera Savic; Vladimir M. Sloutsky]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106740</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>General versus specific: Investigating the structure of individual differences in post-error slowing across time</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106769</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106769</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Clifford E. Hauenstein; Eunbee Kim; Alexis Phillips; Alana M. Montanez; Barry Gordon; Derek M. Smith]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106769</dc:identifier>
 <description></description>
 </item>
 <item>

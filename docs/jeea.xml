@@ -9,9 +9,19 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 28 Oct 2026 22:28:49 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 05:27:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Matching on Gender and Sexual Orientation,</title>
+<link>https://doi.org/10.1093/jeea/jvag071</link>
+<guid isPermaLink="false">10.1093/jeea/jvag071</guid>
+<pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Edoardo Ciscato; Marion Goussé]]></dc:creator>
+<dc:identifier>doi:10.1093/jeea/jvag071</dc:identifier>
+<description><![CDATA[Abstract We study the mating patterns of non-heterosexual individuals, who represent a significant and increasing portion of the population, particularly among the youth. We estimate a multidimensional matching model of the marriage market where partner’s gender is endogenously chosen conditional on the agent’s sexual orientation, and is subject to trade-offs that depend on both the agents’ preferences and the pool of potential partners. We show that same-sex couples experience lower gains from live-in relationships, a “same-sex penalty”. Absent this penalty, the share of same-sex couples in the U.S. would increase by about 50% (from 1.36% to 2.04% of all couples).]]></description>
+<content:encoded><![CDATA[Abstract We study the mating patterns of non-heterosexual individuals, who represent a significant and increasing portion of the population, particularly among the youth. We estimate a multidimensional matching model of the marriage market where partner’s gender is endogenously chosen conditional on the agent’s sexual orientation, and is subject to trade-offs that depend on both the agents’ preferences and the pool of potential partners. We show that same-sex couples experience lower gains from live-in relationships, a “same-sex penalty”. Absent this penalty, the share of same-sex couples in the U.S. would increase by about 50% (from 1.36% to 2.04% of all couples).]]></content:encoded>
+</item>
 <item>
 <title>The Role of Firms and Job Mobility in the Assimilation of Immigrants: Former Soviet Union Jews in Israel 1990–2019</title>
 <link>https://doi.org/10.1093/jeea/jvag034</link>
@@ -171,16 +181,6 @@
 <dc:identifier>doi:10.1093/jeea/jvag008</dc:identifier>
 <description><![CDATA[Abstract Using a large-scale real effort experiment, we explore whether and how different peer assignment mechanisms affect worker performance and stress. Letting individuals choose whom to compare to increases productivity to the same extent as a targeted exogenous matching policy designed to maximize motivational spillovers. These effects are significantly larger than those obtained through random assignment and their magnitude is comparable to the impact of an increase in pay of about 10 percent. A downside of targeted peer assignment is that, unlike endogenous peer selection, it leads to a large increase in stress. The key advantage of letting workers choose whom to compare to is that it allows those workers who want to be motivated to compare to a motivating peer while also permitting those for whom social comparisons have little benefits or are too stressful to avoid them. Finally, we show that social comparisons yield stronger motivational effects than comparable non-social goals.]]></description>
 <content:encoded><![CDATA[Abstract Using a large-scale real effort experiment, we explore whether and how different peer assignment mechanisms affect worker performance and stress. Letting individuals choose whom to compare to increases productivity to the same extent as a targeted exogenous matching policy designed to maximize motivational spillovers. These effects are significantly larger than those obtained through random assignment and their magnitude is comparable to the impact of an increase in pay of about 10 percent. A downside of targeted peer assignment is that, unlike endogenous peer selection, it leads to a large increase in stress. The key advantage of letting workers choose whom to compare to is that it allows those workers who want to be motivated to compare to a motivating peer while also permitting those for whom social comparisons have little benefits or are too stressful to avoid them. Finally, we show that social comparisons yield stronger motivational effects than comparable non-social goals.]]></content:encoded>
-</item>
-<item>
-<title>Individualism and the Formation of Human Capital</title>
-<link>https://doi.org/10.1093/jeea/jvaf066</link>
-<guid isPermaLink="false">10.1093/jeea/jvaf066</guid>
-<pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Katharina Hartinger; Sven Resnjanskij; Jens Ruhose; Simon Wiederhold]]></dc:creator>
-<dc:identifier>doi:10.1093/jeea/jvaf066</dc:identifier>
-<description><![CDATA[Abstract More individualistic countries experience higher economic growth. We provide evidence for a human-capital-based explanation of the growth effects of individualism. Using data from the largest international adult skill assessment, we establish that individualism shapes human capital formation. We identify the effects of individualism by exploiting variation between migrants at the origin-country, origin-language, and person level. Migrants from more individualistic cultures have higher cognitive skills and larger skill gains over time. They also invest more in their skills over the life cycle, as they acquire more years of schooling and are more likely to participate in adult education activities. Individualism is more important in explaining adult skill formation than any other cultural trait that previous literature has emphasized. In the labor market, more individualistic migrants earn higher wages and are less often unemployed. We show that our results cannot be explained by selective migration or omitted origin-country variables.]]></description>
-<content:encoded><![CDATA[Abstract More individualistic countries experience higher economic growth. We provide evidence for a human-capital-based explanation of the growth effects of individualism. Using data from the largest international adult skill assessment, we establish that individualism shapes human capital formation. We identify the effects of individualism by exploiting variation between migrants at the origin-country, origin-language, and person level. Migrants from more individualistic cultures have higher cognitive skills and larger skill gains over time. They also invest more in their skills over the life cycle, as they acquire more years of schooling and are more likely to participate in adult education activities. Individualism is more important in explaining adult skill formation than any other cultural trait that previous literature has emphasized. In the labor market, more individualistic migrants earn higher wages and are less often unemployed. We show that our results cannot be explained by selective migration or omitted origin-country variables.]]></content:encoded>
 </item>
 <item>
 <title>Unrest, Layoffs, and Productivity at a Bangladeshi Sweater Factory</title>
