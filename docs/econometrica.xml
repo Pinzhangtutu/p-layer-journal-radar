@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 22:41:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:28:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -195,16 +195,6 @@
 <content:encoded><![CDATA[Consider a repeated interaction where it is unknown which of various stage games will be played each period. This framework separates the basic logic of intertemporal incentives from the requirement that any given strategy profile yields a well‐defined payoff vector. A natural solution concept is ex post perfect equilibrium: strategies must form a subgame‐perfect equilibrium for any realization of the sequence of stage games. When there is one long‐run player and others are short‐run, and public randomization is available, we can adapt the standard recursive approach to determine the maximum feasible gap between reward and punishment for the long‐run player. This allows us to identify which actions can be played in equilibrium and, assuming perfect monitoring, to fully characterize what outcome paths can arise. With multiple long‐run players or no public randomization, the approach fails; a diagnostic of this failure is that optimal penal codes may no longer exist.]]></content:encoded>
 </item>
 <item>
-<title>Monotonicity and Robust Implementation Under Forward‐Induction Reasoning</title>
-<link>https://doi.org/10.3982/ecta23709</link>
-<guid isPermaLink="false">10.3982/ecta23709</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pierpaolo Battigalli; Emiliano Catonini]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta23709</dc:identifier>
-<description><![CDATA[In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).]]></description>
-<content:encoded><![CDATA[In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).]]></content:encoded>
-</item>
-<item>
 <title>Comment on &lt;i&gt;‘Fisher–Schultz Lecture: Contracting Over Pharmaceutical Formularies and Rebates’ by Kate Ho and Robin Lee&lt;/i&gt;</title>
 <link>https://doi.org/10.3982/ecta24210</link>
 <guid isPermaLink="false">10.3982/ecta24210</guid>
@@ -241,6 +231,16 @@
 <dc:identifier>doi:10.3982/ecta23334</dc:identifier>
 <description><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></description>
 <content:encoded><![CDATA[Evidence from the laboratory and the field has uncovered both underreaction and overreaction to new information. We provide new experimental evidence on the underlying mechanisms of under‐ and overreaction by comparing how people make inferences and revise forecasts in the same information environment. Participants underreact to signals when inferring about underlying states, but overreact to the same signals when revising forecasts about future outcomes—a phenomenon we term “the inference‐forecast gap.” We show that this gap is largely driven by different simplifying heuristics used in the two tasks. Additional treatments suggest that the choice of heuristics is affected by the similarity between statistics in the information environment and the statistic elicited by the belief‐updating problem.]]></content:encoded>
+</item>
+<item>
+<title>Monotonicity and Robust Implementation Under Forward‐Induction Reasoning</title>
+<link>https://doi.org/10.3982/ecta23709</link>
+<guid isPermaLink="false">10.3982/ecta23709</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pierpaolo Battigalli; Emiliano Catonini]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta23709</dc:identifier>
+<description><![CDATA[In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).]]></description>
+<content:encoded><![CDATA[In sequential games, the set of paths consistent with rationality and forward‐induction reasoning may change nonmonotonically when adding transparent restrictions on players' beliefs. Yet, we prove that—in an incomplete‐information environment—predictions become sharper when the restrictions only concern initial beliefs about types. Thus, strong rationalizability for games with payoff uncertainty characterizes the path predictions of forward‐induction reasoning across all possible restrictions on players' hierarchies of exogenous beliefs. With this, we can solve an open problem: the implementation of social choice functions through sequential mechanisms under forward‐induction reasoning—which considerably expands the realm of implementable functions compared with simultaneous mechanisms (Müller (2016))—is indeed robust in the sense of Bergemann and Morris (2009).]]></content:encoded>
 </item>
 <item>
 <title>Firm Accommodation After Workplace Disability: Labor Market Impacts and Implications for Subsidy Design</title>

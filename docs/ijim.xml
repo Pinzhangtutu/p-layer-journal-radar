@@ -9,7 +9,7 @@
 <description>IJIM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijim.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 29 Oct 2026 22:41:16 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 05:28:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -301,21 +301,21 @@
 <description></description>
 </item>
 <item>
-<title>Privacy calculus and disclosure in LLMs: The role of privacy controls, nudges, and perceived anthropomorphism</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103071</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103071</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shantanu Dey; Saurabh Kumar]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103071</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Artificial intelligence for information-driven resilience: Enhancing strategic adaptation and entrepreneurial success</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103057</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103057</guid>
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shaofeng Wang; Hao Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijinfomgt.2026.103057</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Privacy calculus and disclosure in LLMs: The role of privacy controls, nudges, and perceived anthropomorphism</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103071</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103071</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shantanu Dey; Saurabh Kumar]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103071</dc:identifier>
 <description></description>
 </item>
 <item>
