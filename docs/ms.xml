@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 30 Oct 2026 12:39:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:12:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -435,26 +435,6 @@
 <content:encoded><![CDATA[This paper theoretically studies financial lenders’ strategic decisions in providing preapproval checking tools, and shows such decisions could be asymmetric.]]></content:encoded>
 </item>
 <item>
-<title>Exploring Peer Effects Associated with User Retention in a Socially Connected Business</title>
-<link>https://doi.org/10.1287/mksc.2023.0391</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0391</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yijun Chen; Nitin Mehta]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0391</dc:identifier>
-<description><![CDATA[This paper analyzes peer effects in user retention, showing churn of high-centrality user causes negative cascades and informing targeted retention strategies.]]></description>
-<content:encoded><![CDATA[This paper analyzes peer effects in user retention, showing churn of high-centrality user causes negative cascades and informing targeted retention strategies.]]></content:encoded>
-</item>
-<item>
-<title>A Model of Information Security and Competition</title>
-<link>https://doi.org/10.1287/mksc.2023.0513</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0513</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alexandre de Cornière; Greg Taylor]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0513</dc:identifier>
-<description><![CDATA[We study platforms’ incentives to invest in cybersecurity under ad-funded and subscription-funded business models.]]></description>
-<content:encoded><![CDATA[We study platforms’ incentives to invest in cybersecurity under ad-funded and subscription-funded business models.]]></content:encoded>
-</item>
-<item>
 <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>
 <link>https://doi.org/10.1287/mksc.2024.1051</link>
 <guid isPermaLink="false">10.1287/mksc.2024.1051</guid>
@@ -503,6 +483,36 @@
 <dc:identifier>doi:10.1287/mksc.2025.0145</dc:identifier>
 <description><![CDATA[Online home profiles with more plant imagery are associated with higher property valuations, even after accounting for extensive property, neighborhood, listing, and market factors.]]></description>
 <content:encoded><![CDATA[Online home profiles with more plant imagery are associated with higher property valuations, even after accounting for extensive property, neighborhood, listing, and market factors.]]></content:encoded>
+</item>
+<item>
+<title>Frontiers: Reducing Disparity Between LLMs and Humans: Optimal LLM Sample Calibration</title>
+<link>https://doi.org/10.1287/mksc.2024.0983</link>
+<guid isPermaLink="false">10.1287/mksc.2024.0983</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yan Leng; Yunxin Sang; Ashish Agarwal]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.0983</dc:identifier>
+<description><![CDATA[Large language models (LLMs) are increasingly used to measure human preferences and opinions, but their outputs can diverge from human responses. We introduce human mimicry calibration (HuMCal), a post hoc, model-agnostic method that uses aggregate human benchmark data to learn how to combine LLM outputs from different prompts, personas, and model checkpoints. In applications to consumer transaction data and public opinion surveys, HuMCal improves agreement with human benchmarks over standard aggregation rules, and the calibrated weights often remain useful across time, geography, industry, and question clusters.]]></description>
+<content:encoded><![CDATA[Large language models (LLMs) are increasingly used to measure human preferences and opinions, but their outputs can diverge from human responses. We introduce human mimicry calibration (HuMCal), a post hoc, model-agnostic method that uses aggregate human benchmark data to learn how to combine LLM outputs from different prompts, personas, and model checkpoints. In applications to consumer transaction data and public opinion surveys, HuMCal improves agreement with human benchmarks over standard aggregation rules, and the calibrated weights often remain useful across time, geography, industry, and question clusters.]]></content:encoded>
+</item>
+<item>
+<title>Experimental Evidence on Structural State Dependence in Demand</title>
+<link>https://doi.org/10.1287/mksc.2024.1274</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1274</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sebastian Gabel; Daniel Guhl; Günter J. Hitsch; Kyoung Hwan (Joe) Kook]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1274</dc:identifier>
+<description><![CDATA[The paper provides nonparametric estimates of structural state dependence from a natural field experiment for 223 brands.]]></description>
+<content:encoded><![CDATA[The paper provides nonparametric estimates of structural state dependence from a natural field experiment for 223 brands.]]></content:encoded>
+</item>
+<item>
+<title>Injunctive Norms Outperform Reciprocity: Tip Request Messages Can Increase Tipping Without Reducing Demand</title>
+<link>https://doi.org/10.1287/mksc.2025.0392</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0392</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Seung Hyun Kim; On Amir; Kenneth C. Wilbur]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0392</dc:identifier>
+<description><![CDATA[Tip request messages are marketing communications that can help digital platforms balance customer spending with worker effort and compensation. We report the first field experiments testing how three appeals based on tipping motivations—injunctive norms (“It’s customary to leave a tip for the seller’s service”), personalized reciprocity, and impersonal reciprocity—affect tipping and future demand in a global freelance marketplace. Overall, the norms message increased tipping the most, and did so without reducing returning demand, showing that tip request messages can motivate customer tipping to better incentivize and compensate gig workers.]]></description>
+<content:encoded><![CDATA[Tip request messages are marketing communications that can help digital platforms balance customer spending with worker effort and compensation. We report the first field experiments testing how three appeals based on tipping motivations—injunctive norms (“It’s customary to leave a tip for the seller’s service”), personalized reciprocity, and impersonal reciprocity—affect tipping and future demand in a global freelance marketplace. Overall, the norms message increased tipping the most, and did so without reducing returning demand, showing that tip request messages can motivate customer tipping to better incentivize and compensate gig workers.]]></content:encoded>
 </item>
 <item>
 <title>Thank You, Now What? How Donors Respond to Calls to Action</title>

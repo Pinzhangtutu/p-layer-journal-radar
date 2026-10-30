@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 30 Oct 2026 12:39:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:12:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -583,6 +583,16 @@
 <content:encoded><![CDATA[Abstract This study examines the potential impact of introducing a transfer system, similar to that used in professional soccer, into the standard labor market. We develop a toy model highlighting the theoretical properties of transfer fees. We show that, unlike non-compete clauses—which generate a trade-off between training and mobility—transfer fees encourage investment in training while preserving efficient mobility toward more productive firms. As a result, such a system brings the economy closer to the social optimum than laissez-faire. We then construct a life-cycle model featuring endogenous job creation and destruction, on-the-job search, and training. Using data from the French Labor Force Survey, we estimate the model’s parameters and conduct counterfactual experiments. Our simulations suggest that a time-limited compensation mechanism would significantly increase employment, training access, and welfare.]]></content:encoded>
 </item>
 <item>
+<title>The Distributional Impacts of Time-Varying Electricity Pricing: A Novel Approach to Estimating Household Income,</title>
+<link>https://doi.org/10.1093/jeea/jvag068</link>
+<guid isPermaLink="false">10.1093/jeea/jvag068</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mar Reguant; Natalia Fabra; Jingyuan Wang]]></dc:creator>
+<dc:identifier>doi:10.1093/jeea/jvag068</dc:identifier>
+<description><![CDATA[Abstract As interest in the distributional effects of climate policies gains prominence, designing electricity tariffs that are both efficient and equitable becomes critical. Efficiency often favors the shift from time-invariant to time-of-use (ToU) or real-time prices (RTP), but this transition may have distributional implications. We develop a framework to assess the implications and the channels through which distributional impacts manifest. Central to our approach is a novel method that infers individual household income by combining zip-code-level income data with household-level electricity consumption. We demonstrate the value of this method in the Spanish context. First, we show that using more granular estimates of income has an impact on the distributional assessment of electricity tariffs. Second, we find that the potential distributional impact of RTP is very modest compared to the impact of ToU. The most salient effect of RTP is to increase bill volatility, particularly so for the low-income group.]]></description>
+<content:encoded><![CDATA[Abstract As interest in the distributional effects of climate policies gains prominence, designing electricity tariffs that are both efficient and equitable becomes critical. Efficiency often favors the shift from time-invariant to time-of-use (ToU) or real-time prices (RTP), but this transition may have distributional implications. We develop a framework to assess the implications and the channels through which distributional impacts manifest. Central to our approach is a novel method that infers individual household income by combining zip-code-level income data with household-level electricity consumption. We demonstrate the value of this method in the Spanish context. First, we show that using more granular estimates of income has an impact on the distributional assessment of electricity tariffs. Second, we find that the potential distributional impact of RTP is very modest compared to the impact of ToU. The most salient effect of RTP is to increase bill volatility, particularly so for the low-income group.]]></content:encoded>
+</item>
+<item>
 <title>Climate Change and Migration: The Case of Africa</title>
 <link>https://doi.org/10.1093/jeea/jvag035</link>
 <guid isPermaLink="false">10.1093/jeea/jvag035</guid>
@@ -591,16 +601,6 @@
 <dc:identifier>doi:10.1093/jeea/jvag035</dc:identifier>
 <description><![CDATA[Abstract How will future climate change affect Sub-Saharan Africa (SSA) in terms of migration and welfare? Can policymakers help SSA adapt to this process? I answer these questions with a quantitative framework that, coupled with rich spatial data and forecasts for the future climate, projects millions of climate migrants and unequal welfare losses across SSA. Investigating migration and trade liberalization as policy tools, I find persistent inequality in welfare losses if only migration barriers in SSA are reduced. Relaxing trade barriers addresses these distributional concerns, as do both policies combined. Yet, the policy mix is less effective in reducing aggregate losses due to inefficiencies arising from congestion externalities.]]></description>
 <content:encoded><![CDATA[Abstract How will future climate change affect Sub-Saharan Africa (SSA) in terms of migration and welfare? Can policymakers help SSA adapt to this process? I answer these questions with a quantitative framework that, coupled with rich spatial data and forecasts for the future climate, projects millions of climate migrants and unequal welfare losses across SSA. Investigating migration and trade liberalization as policy tools, I find persistent inequality in welfare losses if only migration barriers in SSA are reduced. Relaxing trade barriers addresses these distributional concerns, as do both policies combined. Yet, the policy mix is less effective in reducing aggregate losses due to inefficiencies arising from congestion externalities.]]></content:encoded>
-</item>
-<item>
-<title>The Heterogeneous Effects of Entry on Prices</title>
-<link>https://doi.org/10.1093/jeea/jvaf061</link>
-<guid isPermaLink="false">10.1093/jeea/jvaf061</guid>
-<pubDate>Fri, 26 Dec 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kai Fischer; Simon Martin; Philipp Schmidt-Dengler]]></dc:creator>
-<dc:identifier>doi:10.1093/jeea/jvaf061</dc:identifier>
-<description><![CDATA[Abstract We study the effect of entry on the price distribution in the German retail gasoline market. Exploiting several hundred entries over five years in an event study design, we find that entry causes a persistent first-order stochastic shift in the price distribution for at least three years after entry. Prices at the top of the distribution change moderately or not at all, but prices at the left tail decrease by up to 13% (9%) of stations’ gross margins after entry within a 1 km (2 km) radius. The value of information (VOI) increases by 29% (15%) in 1 km (2 km) markets, suggesting larger savings for consumers with easy access to information.]]></description>
-<content:encoded><![CDATA[Abstract We study the effect of entry on the price distribution in the German retail gasoline market. Exploiting several hundred entries over five years in an event study design, we find that entry causes a persistent first-order stochastic shift in the price distribution for at least three years after entry. Prices at the top of the distribution change moderately or not at all, but prices at the left tail decrease by up to 13% (9%) of stations’ gross margins after entry within a 1 km (2 km) radius. The value of information (VOI) increases by 29% (15%) in 1 km (2 km) markets, suggesting larger savings for consumers with easy access to information.]]></content:encoded>
 </item>
 <item>
 <title>Low-Income Families, Maternal Labor Supply, and Welfare Reform</title>

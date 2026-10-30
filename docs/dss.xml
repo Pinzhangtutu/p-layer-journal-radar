@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 30 Oct 2026 12:39:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:12:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -445,21 +445,21 @@
 <description></description>
 </item>
 <item>
+<title>How far to switch? The curvilinear relationship between content deviation magnitude and follower growth on social media</title>
+<link>https://doi.org/10.1016/j.dss.2026.114795</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114795</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Lin Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114795</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>A multimodal transfer learning framework for cross-project knowledge transfer to predict operation risk of complicated engineering machinery</title>
 <link>https://doi.org/10.1016/j.dss.2026.114738</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114738</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jin Xu; Xin Chen; Huiqi Zhao; Xin Li]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114738</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>MarketToM: A Theory of Mind framework for modeling latent mental states in stock trend prediction</title>
-<link>https://doi.org/10.1016/j.dss.2026.114784</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114784</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yuyu Chen; Haowen Deng; Weiguo Fan; Shang Gao; Tao Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114784</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -598,12 +598,12 @@
 <description></description>
 </item>
 <item>
-<title>From compliance to commitment: A deep learning decision-support artifact linking corporate social performance to multidimensional employee perceptions</title>
-<link>https://doi.org/10.1016/j.dss.2026.114683</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114683</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zongxi Liu; Donglai Bao; Shan Li; Huimin Zhao]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114683</dc:identifier>
+<title>MarketToM: A Theory of Mind framework for modeling latent mental states in stock trend prediction</title>
+<link>https://doi.org/10.1016/j.dss.2026.114784</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114784</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuyu Chen; Haowen Deng; Weiguo Fan; Shang Gao; Tao Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114784</dc:identifier>
 <description></description>
 </item>
 </channel>

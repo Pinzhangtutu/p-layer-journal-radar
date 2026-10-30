@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 30 Oct 2026 12:39:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:12:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -542,21 +542,21 @@
 <description></description>
 </item>
 <item>
-<title>A Theory of Redistribution and Public Good Provision Under Non-Democracy</title>
-<link>https://doi.org/10.1086/743332</link>
-<guid isPermaLink="false">10.1086/743332</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nicola Persico]]></dc:creator>
-<dc:identifier>doi:10.1086/743332</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery</title>
 <link>https://doi.org/10.1086/743334</link>
 <guid isPermaLink="false">10.1086/743334</guid>
 <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kohei Takeda; Atsushi Yamagishi]]></dc:creator>
 <dc:identifier>doi:10.1086/743334</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A Theory of Redistribution and Public Good Provision under Nondemocracy</title>
+<link>https://doi.org/10.1086/743332</link>
+<guid isPermaLink="false">10.1086/743332</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nicola Persico]]></dc:creator>
+<dc:identifier>doi:10.1086/743332</dc:identifier>
 <description></description>
 </item>
 <item>

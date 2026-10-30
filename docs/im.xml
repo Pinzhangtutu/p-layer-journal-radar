@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 30 Oct 2026 12:39:32 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 22:12:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -73,15 +73,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dylan Junluo Chen; Zhewen Liang; Ben Liu; Bofei She]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104365</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Information systems artifact as a product attribute: An empirical analysis of the effects of information systems availability</title>
-<link>https://doi.org/10.1016/j.im.2026.104363</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104363</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yong Liu; Wenjie Fan; Virpi Kristiina Tuunainen; Hongxiu Li; Chee-Wee Tan; Timo Saarinen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104363</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -319,6 +310,15 @@
 <description></description>
 </item>
 <item>
+<title>Ethics vs. Exhaustion: Ethical AI Design and Job Burnout in Takeout Platforms</title>
+<link>https://doi.org/10.1016/j.im.2026.104462</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104462</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nan Feng; Xueqing Wang; Aihui Chen; Yu Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104462</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Restoring Legitimacy under Resource Constraints: The Impact of Data Breaches on Corporate Social Responsibility</title>
 <link>https://doi.org/10.1016/j.im.2026.104459</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104459</guid>
@@ -346,21 +346,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
