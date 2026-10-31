@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 31 Oct 2026 12:06:02 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 21:21:11 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -265,6 +265,15 @@
 <description></description>
 </item>
 <item>
+<title>Credit, privacy, and data monetization by digital platforms</title>
+<link>https://doi.org/10.1016/j.jet.2026.106273</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106273</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pedro Gomis-Porqueras; Zijian Wang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106273</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>When is the trend the cycle?</title>
 <link>https://doi.org/10.1016/j.jet.2026.106228</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106228</guid>
@@ -379,15 +388,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jiabin Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106233</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Credit, Privacy, and Data Monetization by Digital Platforms</title>
-<link>https://doi.org/10.1016/j.jet.2026.106273</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106273</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pedro Gomis-Porqueras; Zijian Wang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106273</dc:identifier>
 <description></description>
 </item>
 <item>
