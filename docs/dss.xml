@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 31 Oct 2026 05:12:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:06:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -310,15 +310,6 @@
 <description></description>
 </item>
 <item>
-<title>When AI joins the team: The impact of human-AI diversity on willingness to work with teammates</title>
-<link>https://doi.org/10.1016/j.dss.2026.114786</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114786</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jiandong Lu; Jiaxin Zhang; Yang Lu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114786</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Traditional, subscription, or data compensation: An economic analysis of optimal privacy protection models on ad-supported platforms</title>
 <link>https://doi.org/10.1016/j.dss.2026.114733</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114733</guid>
@@ -595,6 +586,15 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Min Zhang; Yuewen Ji; Xitong Guo]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114687</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When AI joins the team: The impact of human-AI diversity on willingness to work with teammates</title>
+<link>https://doi.org/10.1016/j.dss.2026.114786</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114786</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiandong Lu; Jiaxin Zhang; Yang Lu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114786</dc:identifier>
 <description></description>
 </item>
 <item>

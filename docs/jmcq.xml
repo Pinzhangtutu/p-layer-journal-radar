@@ -9,7 +9,7 @@
 <description>JMCQ — SAGE · Latest in: OnlineFirst · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmcq.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 31 Oct 2026 05:12:25 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 12:06:02 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -521,6 +521,16 @@
 <dc:identifier>doi:10.1177/10776990261498350</dc:identifier>
 <description><![CDATA[Citizens increasingly need to detect and filter disinformation, yet we know little about why some are more vulnerable than others. We examine whether forms of skepticism toward traditional epistemic authorities—fake news media perception (FNMP) and conspiracy beliefs—are associated with disinformation vulnerability. Using two-wave survey data from Spain ( N W1 = 1,207; n W2 = 821), we find that FNMP is widespread, not a fringe phenomenon. Conspiracy beliefs predict vulnerability across cross-sectional, lagged, and autoregressive models. Support for FNMP as a predictor is partial and not sustained in autoregressive models. Evidence for the interaction between FNMP and conspiracy beliefs is weak.]]></description>
 <content:encoded><![CDATA[Citizens increasingly need to detect and filter disinformation, yet we know little about why some are more vulnerable than others. We examine whether forms of skepticism toward traditional epistemic authorities—fake news media perception (FNMP) and conspiracy beliefs—are associated with disinformation vulnerability. Using two-wave survey data from Spain ( N W1 = 1,207; n W2 = 821), we find that FNMP is widespread, not a fringe phenomenon. Conspiracy beliefs predict vulnerability across cross-sectional, lagged, and autoregressive models. Support for FNMP as a predictor is partial and not sustained in autoregressive models. Evidence for the interaction between FNMP and conspiracy beliefs is weak.]]></content:encoded>
+</item>
+<item>
+<title>TikTok News: How &lt;i&gt;The Washington Post&lt;/i&gt; ’s Use of Platform Logics Affects Perceptions of Journalists and News Learning</title>
+<link>https://doi.org/10.1177/10776990261498403</link>
+<guid isPermaLink="false">10.1177/10776990261498403</guid>
+<pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Audrey Halversen; Brian E. Weeks]]></dc:creator>
+<dc:identifier>doi:10.1177/10776990261498403</dc:identifier>
+<description><![CDATA[In a period of high competition, many contemporary journalists attract audience attention by adopting the stylistic conventions (“logics”) of platforms like TikTok to deliver news online. However, the effects of this content on audience trust and learning remain unclear. Using two online experiments, we examine whether audiences perceive journalists as credible and learn from news videos employing TikTok logics, compared to traditional print articles. Results indicate that journalists using TikTok logics may effectively capture attention but are viewed as less trustworthy, credible, professional, and knowledgeable, though more likable, than print journalists. Learning outcomes are similar across formats.]]></description>
+<content:encoded><![CDATA[In a period of high competition, many contemporary journalists attract audience attention by adopting the stylistic conventions (“logics”) of platforms like TikTok to deliver news online. However, the effects of this content on audience trust and learning remain unclear. Using two online experiments, we examine whether audiences perceive journalists as credible and learn from news videos employing TikTok logics, compared to traditional print articles. Results indicate that journalists using TikTok logics may effectively capture attention but are viewed as less trustworthy, credible, professional, and knowledgeable, though more likable, than print journalists. Learning outcomes are similar across formats.]]></content:encoded>
 </item>
 <item>
 <title>“Enthusiasts, Not Professionals”: Journalists’ Experiences of Precarity in Serbia’s Hybrid Regime</title>
