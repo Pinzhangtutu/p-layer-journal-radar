@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 30 Oct 2026 22:12:04 +0000</lastBuildDate>
+<lastBuildDate>Sat, 31 Oct 2026 05:12:25 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -40,21 +40,21 @@
 <description></description>
 </item>
 <item>
-<title>Recursive preferences and ambiguity attitudes</title>
-<link>https://doi.org/10.1016/j.jet.2026.106224</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
 <link>https://doi.org/10.1016/j.jet.2026.106217</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recursive preferences and ambiguity attitudes</title>
+<link>https://doi.org/10.1016/j.jet.2026.106224</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -364,6 +364,15 @@
 <description></description>
 </item>
 <item>
+<title>Equity Equilibrium for Cooperative Games</title>
+<link>https://doi.org/10.1016/j.jet.2026.106274</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106274</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matt Van Essen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106274</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Intergenerational cultural transmission with social interactions as an evolutionary game</title>
 <link>https://doi.org/10.1016/j.jet.2026.106233</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106233</guid>
@@ -595,15 +604,6 @@
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Maxi Guennewig]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106162</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Axiomatic characterizations of draft rules</title>
-<link>https://doi.org/10.1016/j.jet.2026.106169</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106169</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jacob Coreno; Ivan Balbuzanov]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106169</dc:identifier>
 <description></description>
 </item>
 </channel>
