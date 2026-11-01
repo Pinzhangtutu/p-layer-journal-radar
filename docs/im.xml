@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 01 Nov 2026 13:06:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 01 Nov 2026 21:57:15 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -55,15 +55,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Songyi Yin; Yu Wang; Dongsong Zhang; Xu Ye]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104368</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Understanding the Power of Diverging Voices: Exploring the Interplay of Regulatory Focus, Product Type, and Review Variance on Product Attitude</title>
-<link>https://doi.org/10.1016/j.im.2026.104361</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104361</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Eunju Yi; Do-Hyung Park]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104361</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -415,6 +406,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Muneer Ahmad; Anfei Xia; Jian-Jun Wang; Xiaocong Cui]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104406</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Human- vs. AI-Labeled Recommenders: Effectiveness Across Personalization, Discount, and Popularity Message Framing</title>
+<link>https://doi.org/10.1016/j.im.2026.104464</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104464</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xingyu Chen; Li Ji; Mengzhou Zhuang; Chuang Tang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104464</dc:identifier>
 <description></description>
 </item>
 <item>
