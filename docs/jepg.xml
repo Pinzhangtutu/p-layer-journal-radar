@@ -9,7 +9,7 @@
 <description>JEPG — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jepg.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 02 Nov 2026 05:43:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 15:30:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -37,15 +37,6 @@
 <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Channing E. Hambric; C. Sophia Rammell; William G. Kronenberger; David B. Pisoni; Michael N. Jones; Abhilasha A. Kumar]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001917</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Sequential information preferences in uncertain decision making.</title>
-<link>https://doi.org/10.1037/xge0001941</link>
-<guid isPermaLink="false">10.1037/xge0001941</guid>
-<pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Uma R. Karmarkar; John A. Clithero; Carolina Raffaelli]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001941</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -343,21 +334,21 @@
 <description></description>
 </item>
 <item>
-<title>Enacted love: Capitalization responses signal love, including toward strangers.</title>
-<link>https://doi.org/10.1037/xge0001985</link>
-<guid isPermaLink="false">10.1037/xge0001985</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tatum A. Jolink; Emily Le; Zoe Hansen; Kylie R. Chandler; Alexis M. Cameron; Issay Barry; Brett A. Murphy; Sara B. Algoe]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001985</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Recognition-memory asymmetries predicted by individual item memorability.</title>
 <link>https://doi.org/10.1037/xge0002003</link>
 <guid isPermaLink="false">10.1037/xge0002003</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Igor Utochkin; Nicholas Chiang; Wilma A. Bainbridge]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0002003</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Enacted love: Capitalization responses signal love, including toward strangers.</title>
+<link>https://doi.org/10.1037/xge0001985</link>
+<guid isPermaLink="false">10.1037/xge0001985</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tatum A. Jolink; Emily Le; Zoe Hansen; Kylie R. Chandler; Alexis M. Cameron; Issay Barry; Brett A. Murphy; Sara B. Algoe]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001985</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -505,21 +496,21 @@
 <description></description>
 </item>
 <item>
-<title>How autobiographical memory serves morality: Prevalence and properties of memories with moral content.</title>
-<link>https://doi.org/10.1037/xge0001954</link>
-<guid isPermaLink="false">10.1037/xge0001954</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dorthe Berntsen; Ana Lucía Cardenas-Egúsquiza; Maria Cristina Buzzo; Svend Brinkmann; Rick H. Hoyle; David C. Rubin]]></dc:creator>
-<dc:identifier>doi:10.1037/xge0001954</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Elcos are common, ajajatas are weird: Manner implicatures guide the interpretation of unfamiliar words for French children and for adults in 18 languages.</title>
 <link>https://doi.org/10.1037/xge0001972</link>
 <guid isPermaLink="false">10.1037/xge0001972</guid>
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Olivier Mascaro; Adeline Depierreux; Ninon Peysson; Olivier Morin]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001972</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How autobiographical memory serves morality: Prevalence and properties of memories with moral content.</title>
+<link>https://doi.org/10.1037/xge0001954</link>
+<guid isPermaLink="false">10.1037/xge0001954</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dorthe Berntsen; Ana Lucía Cardenas-Egúsquiza; Maria Cristina Buzzo; Svend Brinkmann; Rick H. Hoyle; David C. Rubin]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0001954</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -610,6 +601,15 @@
 <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marie Jakob; Anat Shechter; Jimmy Calanchini; Karl Christoph Klauer]]></dc:creator>
 <dc:identifier>doi:10.1037/xge0001995</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Speech categorization consistency is robustly associated with receptive oral language performance.</title>
+<link>https://doi.org/10.1037/xge0002013</link>
+<guid isPermaLink="false">10.1037/xge0002013</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hyoju Kim; J. Bruce Tomblin; Bob McMurray]]></dc:creator>
+<dc:identifier>doi:10.1037/xge0002013</dc:identifier>
 <description></description>
 </item>
 </channel>

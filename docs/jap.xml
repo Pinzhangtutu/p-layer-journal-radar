@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 02 Nov 2026 05:43:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 15:30:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -388,21 +388,21 @@
 <description></description>
 </item>
 <item>
-<title>The unintended consequences of state policies on entrepreneurial activity and quality of work life: A social impact study.</title>
-<link>https://doi.org/10.1037/apl0001345</link>
-<guid isPermaLink="false">10.1037/apl0001345</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jeremy B. Bernerth; Min Z. Carter; Justin Pepe; R. Michael Holmes; Wayne Hochwarter]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001345</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The escalation of prosocial commitment: How the B corporation movement catalyzes social impact.</title>
 <link>https://doi.org/10.1037/apl0001311</link>
 <guid isPermaLink="false">10.1037/apl0001311</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001311</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The unintended consequences of state policies on entrepreneurial activity and quality of work life: A social impact study.</title>
+<link>https://doi.org/10.1037/apl0001345</link>
+<guid isPermaLink="false">10.1037/apl0001345</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeremy B. Bernerth; Min Z. Carter; Justin Pepe; R. Michael Holmes; Wayne Hochwarter]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001345</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -546,15 +546,6 @@
 <description></description>
 </item>
 <item>
-<title>Team diversity, status, social identity management strategies, and team performance.</title>
-<link>https://doi.org/10.1037/apl0001403</link>
-<guid isPermaLink="false">10.1037/apl0001403</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Prithviraj Chattopadhyay; Daan van Knippenberg; Elizabeth George]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001403</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Who Do Employees Follow? An Analysis of Contrasting and Compensatory Effects Between Abusive Supervisors in Multiple Team Membership Contexts</title>
 <link>https://doi.org/10.1037/apl0001429.supp</link>
 <guid isPermaLink="false">10.1037/apl0001429.supp</guid>
@@ -631,6 +622,15 @@
 <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Emma L. Frank; Fadel K. Matta; Olympia M. Nakos; Jessica B. Rodell]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001401</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What do we know about job knowledge tests? A 30-year update of validity evidence.</title>
+<link>https://doi.org/10.1037/apl0001427</link>
+<guid isPermaLink="false">10.1037/apl0001427</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sara J. Bianco; Chad H. Van Iddekinge; Jake T. Harrison; Philip L. Roth; Huy Le]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001427</dc:identifier>
 <description></description>
 </item>
 </channel>

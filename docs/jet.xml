@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 02 Nov 2026 05:43:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 15:30:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -220,6 +220,15 @@
 <description></description>
 </item>
 <item>
+<title>Strategic ignorance and information design</title>
+<link>https://doi.org/10.1016/j.jet.2026.106272</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106272</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ina Taneva; Thomas Wiseman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106272</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Spatial protection spillovers and the equilibrium of crime and policing</title>
 <link>https://doi.org/10.1016/j.jet.2026.106270</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106270</guid>
@@ -343,15 +352,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Giampaolo Bonomi; Ali Uppal]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106253</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Strategic Ignorance and Information Design</title>
-<link>https://doi.org/10.1016/j.jet.2026.106272</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106272</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ina Taneva; Thomas Wiseman]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106272</dc:identifier>
 <description></description>
 </item>
 <item>

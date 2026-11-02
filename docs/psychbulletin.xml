@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 02 Nov 2026 05:43:23 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 15:30:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -468,6 +468,15 @@
 <description></description>
 </item>
 <item>
+<title>Self-esteem and social relationships: A meta-analytic review of longitudinal studies with continuous time modeling.</title>
+<link>https://doi.org/10.1037/bul0000540</link>
+<guid isPermaLink="false">10.1037/bul0000540</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ulrich Orth; Max Lustenberger; Jasmin A. Aebi]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000540</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Intergenerational stability in parenting across two generations: A multilevel meta-analytic review.</title>
 <link>https://doi.org/10.1037/bul0000494</link>
 <guid isPermaLink="false">10.1037/bul0000494</guid>
@@ -600,15 +609,6 @@
 <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tal Moran; Lidor Krava; Yoel Shilat]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000489</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Internalized racism, stress, and health: A comprehensive meta-analytic structural equation model test of the internalized racism framework.</title>
-<link>https://doi.org/10.1037/bul0000486</link>
-<guid isPermaLink="false">10.1037/bul0000486</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Drexler James; Alicia M. Bowling; Mariola Moeyaert; Kaavya Iyer]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000486</dc:identifier>
 <description></description>
 </item>
 </channel>
