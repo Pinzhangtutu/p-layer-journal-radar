@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 00:52:55 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 14:00:29 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -223,7 +223,7 @@
 <content:encoded><![CDATA[Abstract This paper measures the output costs of sovereign risk by combining a sovereign debt model with firm- and bank-level data. An increase in sovereign risk lowers the price of government debt and has an adverse impact on banks’ balance sheets, disrupting their ability to finance firms. The resulting fall in credit supply impacts firms directly, as they need to borrow at higher interest rates, and indirectly through general equilibrium effects on the price of inputs and other goods. Importantly, firms are not equally affected by these developments: Those that have greater financing needs and that borrow from banks that hold more government debt are mostly affected by the change in borrowing rates, while firms that do not borrow are only impacted indirectly. We show that these direct and indirect effects can be recovered using a firm-level regression, which we estimate using Italian data. We calibrate our model to match the measured firm-level elasticities and find that heightened sovereign risk was responsible for one-third of the observed output decline during the Italian debt crisis.]]></content:encoded>
 </item>
 <item>
-<title>Employment and Community: Socioeconomic Cooperation and Its Breakdown</title>
+<title>Employment and Community: Socioeconomic Cooperation and its Breakdown</title>
 <link>https://doi.org/10.1093/jeea/jvag057</link>
 <guid isPermaLink="false">10.1093/jeea/jvag057</guid>
 <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
