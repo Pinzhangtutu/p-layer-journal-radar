@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 14:00:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:12:34 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -213,16 +213,6 @@
 <content:encoded><![CDATA[Abstract In this paper, we study the causal relationship between trade exposure and individual income risk, with emphasis on the role of human capital. We use a rich worker-level longitudinal dataset from Germany spanning the period 1976-2012, and find industry trade exposure to be causally related to income risk: Imports increase risk and exports decrease risk in an economically significant manner. Importantly, there is a complex interplay between human capital and the linkage between trade and risk: On average, individuals with higher levels of industry- or occupation-specific human capital experience lower risk. However, an increase in industry net imports increases risk more for workers with higher levels of industry tenure. Although net imports are also associated with declines in the mean income of these workers, the estimated effect on income levels is economically small. Our welfare framework, which jointly considers both mean income and income risk, shows that the welfare consequences of trade exposure are quantitatively dominated by the risk channel.]]></content:encoded>
 </item>
 <item>
-<title>Sovereign Default Risk and Firm Heterogeneity</title>
-<link>https://doi.org/10.1093/jeea/jvaf067</link>
-<guid isPermaLink="false">10.1093/jeea/jvaf067</guid>
-<pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Cristina Arellano; Yan Bai; Luigi Bocola]]></dc:creator>
-<dc:identifier>doi:10.1093/jeea/jvaf067</dc:identifier>
-<description><![CDATA[Abstract This paper measures the output costs of sovereign risk by combining a sovereign debt model with firm- and bank-level data. An increase in sovereign risk lowers the price of government debt and has an adverse impact on banks’ balance sheets, disrupting their ability to finance firms. The resulting fall in credit supply impacts firms directly, as they need to borrow at higher interest rates, and indirectly through general equilibrium effects on the price of inputs and other goods. Importantly, firms are not equally affected by these developments: Those that have greater financing needs and that borrow from banks that hold more government debt are mostly affected by the change in borrowing rates, while firms that do not borrow are only impacted indirectly. We show that these direct and indirect effects can be recovered using a firm-level regression, which we estimate using Italian data. We calibrate our model to match the measured firm-level elasticities and find that heightened sovereign risk was responsible for one-third of the observed output decline during the Italian debt crisis.]]></description>
-<content:encoded><![CDATA[Abstract This paper measures the output costs of sovereign risk by combining a sovereign debt model with firm- and bank-level data. An increase in sovereign risk lowers the price of government debt and has an adverse impact on banks’ balance sheets, disrupting their ability to finance firms. The resulting fall in credit supply impacts firms directly, as they need to borrow at higher interest rates, and indirectly through general equilibrium effects on the price of inputs and other goods. Importantly, firms are not equally affected by these developments: Those that have greater financing needs and that borrow from banks that hold more government debt are mostly affected by the change in borrowing rates, while firms that do not borrow are only impacted indirectly. We show that these direct and indirect effects can be recovered using a firm-level regression, which we estimate using Italian data. We calibrate our model to match the measured firm-level elasticities and find that heightened sovereign risk was responsible for one-third of the observed output decline during the Italian debt crisis.]]></content:encoded>
-</item>
-<item>
 <title>Employment and Community: Socioeconomic Cooperation and its Breakdown</title>
 <link>https://doi.org/10.1093/jeea/jvag057</link>
 <guid isPermaLink="false">10.1093/jeea/jvag057</guid>
@@ -261,6 +251,16 @@
 <dc:identifier>doi:10.1093/jeea/jvag037</dc:identifier>
 <description><![CDATA[Abstract This paper develops a novel method to estimate inequality within a country based on what the country imports. If preferences are non-homothetic, rich and poor individuals of a country have different consumption profiles. Imports can thus inform about the income distribution in a country. The global availability of trade data allows us to estimate inequality using a single transparent and comparable method for a large sample of countries over time. Compared to conventional data, we feature an especially good coverage of developing countries. We provide a number of robustness checks and cross-validation exercises that show the good performance of our method.]]></description>
 <content:encoded><![CDATA[Abstract This paper develops a novel method to estimate inequality within a country based on what the country imports. If preferences are non-homothetic, rich and poor individuals of a country have different consumption profiles. Imports can thus inform about the income distribution in a country. The global availability of trade data allows us to estimate inequality using a single transparent and comparable method for a large sample of countries over time. Compared to conventional data, we feature an especially good coverage of developing countries. We provide a number of robustness checks and cross-validation exercises that show the good performance of our method.]]></content:encoded>
+</item>
+<item>
+<title>Pork, Infrastructure and Growth: Evidence from the Italian Railway Expansion,</title>
+<link>https://doi.org/10.1093/jeea/jvag067</link>
+<guid isPermaLink="false">10.1093/jeea/jvag067</guid>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roberto Bonfatti; Giovanni Facchini; Alexander Tarasov; Gian Luca Tedeschi; Cecilia Testa]]></dc:creator>
+<dc:identifier>doi:10.1093/jeea/jvag067</dc:identifier>
+<description><![CDATA[Abstract We study the political economy of transport infrastructure placement and its long-term impact, exploiting quasi-random variation in political factors. Using unique data from XIX-century Italy and deploying a regression discontinuity design, we focus on close races to show that towns in marginal districts supporting winning candidates were more likely to be reached by a railway. Using alignment with the government as a natural instrument for infrastructure placement, we then show that over the following century, services - rather than manufacturing - grew faster in connected municipalities. Our results also indicate that political allegiances likely helped towns with lower growth prospects.]]></description>
+<content:encoded><![CDATA[Abstract We study the political economy of transport infrastructure placement and its long-term impact, exploiting quasi-random variation in political factors. Using unique data from XIX-century Italy and deploying a regression discontinuity design, we focus on close races to show that towns in marginal districts supporting winning candidates were more likely to be reached by a railway. Using alignment with the government as a natural instrument for infrastructure placement, we then show that over the following century, services - rather than manufacturing - grew faster in connected municipalities. Our results also indicate that political allegiances likely helped towns with lower growth prospects.]]></content:encoded>
 </item>
 <item>
 <title>Firms’ Inflation Expectations in a Monetary Union</title>

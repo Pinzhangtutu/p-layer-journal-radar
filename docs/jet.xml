@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 03 Nov 2026 14:00:29 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 23:12:34 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -256,6 +256,15 @@
 <description></description>
 </item>
 <item>
+<title>Equity equilibrium for cooperative games</title>
+<link>https://doi.org/10.1016/j.jet.2026.106274</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106274</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Matt Van Essen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106274</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Ex post strategy-proofness</title>
 <link>https://doi.org/10.1016/j.jet.2026.106257</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106257</guid>
@@ -265,21 +274,21 @@
 <description></description>
 </item>
 <item>
-<title>Buyer verification and endogenous quality</title>
-<link>https://doi.org/10.1016/j.jet.2026.106267</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Price information and cost uncertainty in oligopoly</title>
 <link>https://doi.org/10.1016/j.jet.2026.106258</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106258</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ruolong Xiao; César Martinelli]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106258</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Buyer verification and endogenous quality</title>
+<link>https://doi.org/10.1016/j.jet.2026.106267</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -370,15 +379,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Gregorio Curello; Ludvig Sinander; Mark Whitmeyer]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106231</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Equity Equilibrium for Cooperative Games</title>
-<link>https://doi.org/10.1016/j.jet.2026.106274</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106274</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Matt Van Essen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106274</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -517,21 +517,21 @@
 <description></description>
 </item>
 <item>
-<title>Which experiments test a model?</title>
-<link>https://doi.org/10.1016/j.jet.2026.106191</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106191</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Paul J. Healy; Greg Leo]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106191</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Credit, money and (pseudo-)anonymity</title>
 <link>https://doi.org/10.1016/j.jet.2026.106202</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106202</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Remo Isch-Taudien; Fabienne Schneider]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106202</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Which experiments test a model?</title>
+<link>https://doi.org/10.1016/j.jet.2026.106191</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106191</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paul J. Healy; Greg Leo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106191</dc:identifier>
 <description></description>
 </item>
 <item>
