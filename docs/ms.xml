@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 02 Nov 2026 15:30:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 00:52:55 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -425,16 +425,6 @@
 <content:encoded><![CDATA[The paper studies how commission fees charged by platforms affect innovation by digital content developers and consumer welfare.]]></content:encoded>
 </item>
 <item>
-<title>Algorithmic Lending, Competition, and Strategic Provision of Preapproval Tools</title>
-<link>https://doi.org/10.1287/mksc.2023.0164</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0164</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qiaochu Wang; Yan Huang; Param Singh]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0164</dc:identifier>
-<description><![CDATA[This paper theoretically studies financial lenders’ strategic decisions in providing preapproval checking tools, and shows such decisions could be asymmetric.]]></description>
-<content:encoded><![CDATA[This paper theoretically studies financial lenders’ strategic decisions in providing preapproval checking tools, and shows such decisions could be asymmetric.]]></content:encoded>
-</item>
-<item>
 <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>
 <link>https://doi.org/10.1287/mksc.2024.1051</link>
 <guid isPermaLink="false">10.1287/mksc.2024.1051</guid>
@@ -483,6 +473,16 @@
 <dc:identifier>doi:10.1287/mksc.2025.0145</dc:identifier>
 <description><![CDATA[Online home profiles with more plant imagery are associated with higher property valuations, even after accounting for extensive property, neighborhood, listing, and market factors.]]></description>
 <content:encoded><![CDATA[Online home profiles with more plant imagery are associated with higher property valuations, even after accounting for extensive property, neighborhood, listing, and market factors.]]></content:encoded>
+</item>
+<item>
+<title>Swap and Save: How a Button Shapes Lasting Online Grocery Shopping Behavior</title>
+<link>https://doi.org/10.1287/mksc.2025.0541</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0541</guid>
+<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rubén Gonzálvez; Xiaolin Li; Sarit Weisburd; Xinrong Zhu]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0541</dc:identifier>
+<description><![CDATA[Using data from the mineral water category on a price comparison platform that delivers real-time prompts of cheaper alternatives through “swap and save” buttons, this study examines whether and how these prompts influence persistent product choices in online grocery shopping.]]></description>
+<content:encoded><![CDATA[Using data from the mineral water category on a price comparison platform that delivers real-time prompts of cheaper alternatives through “swap and save” buttons, this study examines whether and how these prompts influence persistent product choices in online grocery shopping.]]></content:encoded>
 </item>
 <item>
 <title>Frontiers: Reducing Disparity Between LLMs and Humans: Optimal LLM Sample Calibration</title>
