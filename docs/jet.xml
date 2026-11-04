@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 04 Nov 2026 05:56:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 14:15:37 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -274,21 +274,21 @@
 <description></description>
 </item>
 <item>
-<title>Price information and cost uncertainty in oligopoly</title>
-<link>https://doi.org/10.1016/j.jet.2026.106258</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106258</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruolong Xiao; César Martinelli]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106258</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Buyer verification and endogenous quality</title>
 <link>https://doi.org/10.1016/j.jet.2026.106267</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Price information and cost uncertainty in oligopoly</title>
+<link>https://doi.org/10.1016/j.jet.2026.106258</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106258</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruolong Xiao; César Martinelli]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106258</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>EdResearcher — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/edresearcher.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 04 Nov 2026 05:56:05 +0000</lastBuildDate>
+<lastBuildDate>Wed, 04 Nov 2026 14:15:37 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -353,16 +353,6 @@
 <content:encoded><![CDATA[Mixed methods research is increasingly used to study educational inequities, yet its potential to serve as a transformative approach remains underarticulated, particularly in higher education. Drawing on the transformative paradigm and foundational mixed methods scholarship, this essay conceptualizes transformative mixed methods research (TMMR) as an orienting framework that guides how researchers approach study design, knowledge production, and the integration of qualitative and quantitative approaches in pursuit of justice and social change. Using higher education, including community colleges, as a generative context, the essay articulates core considerations and practices of TMMR that move mixed methods inquiry beyond methodological pluralism toward transformative engagement. In doing so, it positions TMMR as a way of aligning how we study inequity with how we seek to transform it.]]></content:encoded>
 </item>
 <item>
-<title>A Quantitative Study of Mathematical Vocabulary Use in Upper Elementary Classrooms</title>
-<link>https://doi.org/10.3102/0013189x251393232</link>
-<guid isPermaLink="false">10.3102/0013189x251393232</guid>
-<pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zachary Himmelsbach; Heather C. Hill; Jing Liu; Dorottya Demszky]]></dc:creator>
-<dc:identifier>doi:10.3102/0013189x251393232</dc:identifier>
-<description><![CDATA[This study provides the first large-scale quantitative exploration of mathematical vocabulary use in upper elementary U.S. classrooms. Our approach employs natural language processing techniques to describe variation in teachers’ and students’ use of mathematical vocabulary in 1,657 fourth- and fifth-grade lessons in 317 classrooms in four districts over 3 years. Students’ exposure to mathematical vocabulary varies substantially across lessons and between teachers. Results suggest that teacher modeling, defined as the frequency of mathematical vocabulary in teacher talk, does not substantially cause students to uptake mathematical vocabulary but that teachers may encourage student use of mathematical vocabulary by means other than mere modeling or exposure. We find that teachers who more frequently model mathematical vocabulary use are more effective at raising student test scores.]]></description>
-<content:encoded><![CDATA[This study provides the first large-scale quantitative exploration of mathematical vocabulary use in upper elementary U.S. classrooms. Our approach employs natural language processing techniques to describe variation in teachers’ and students’ use of mathematical vocabulary in 1,657 fourth- and fifth-grade lessons in 317 classrooms in four districts over 3 years. Students’ exposure to mathematical vocabulary varies substantially across lessons and between teachers. Results suggest that teacher modeling, defined as the frequency of mathematical vocabulary in teacher talk, does not substantially cause students to uptake mathematical vocabulary but that teachers may encourage student use of mathematical vocabulary by means other than mere modeling or exposure. We find that teachers who more frequently model mathematical vocabulary use are more effective at raising student test scores.]]></content:encoded>
-</item>
-<item>
 <title>Two-Way Dual Language Immersion Programs Within LAUSD Elementary Schools: Who Do They Enroll?</title>
 <link>https://doi.org/10.3102/0013189x261493743</link>
 <guid isPermaLink="false">10.3102/0013189x261493743</guid>
@@ -381,6 +371,16 @@
 <dc:identifier>doi:10.3102/0013189x261457603</dc:identifier>
 <description><![CDATA[India’s multilingual classrooms require more than formal language policy; they require communicative pedagogies that enable equitable participation in learning. Although India’s National Education Policy (NEP) 2020 emphasizes mother tongue instruction, implementation often overlooks how teachers steer through linguistic diversity in practice. This essay reviews emerging research on teacher-student communication across Indian classrooms, foregrounding adaptive strategies such as translanguaging, visual scaffolding, and peer mediation. These practices, although essential, remain undervalued in teacher education and curriculum design. Introducing the framework of “communicative justice,” the essay argues that meaningful inclusion requires recognizing students’ linguistic repertoires and supporting teachers’ communicative agency. It calls for systemic investment in multilingual pedagogy, inclusive assessment, and discourse-based research to align policy with classroom realities.]]></description>
 <content:encoded><![CDATA[India’s multilingual classrooms require more than formal language policy; they require communicative pedagogies that enable equitable participation in learning. Although India’s National Education Policy (NEP) 2020 emphasizes mother tongue instruction, implementation often overlooks how teachers steer through linguistic diversity in practice. This essay reviews emerging research on teacher-student communication across Indian classrooms, foregrounding adaptive strategies such as translanguaging, visual scaffolding, and peer mediation. These practices, although essential, remain undervalued in teacher education and curriculum design. Introducing the framework of “communicative justice,” the essay argues that meaningful inclusion requires recognizing students’ linguistic repertoires and supporting teachers’ communicative agency. It calls for systemic investment in multilingual pedagogy, inclusive assessment, and discourse-based research to align policy with classroom realities.]]></content:encoded>
+</item>
+<item>
+<title>The Constitutional Erasure of Children’s Interests: &lt;i&gt;Mahmoud v. Taylor&lt;/i&gt; and the Collapsing of Educational Governance</title>
+<link>https://doi.org/10.3102/0013189x261502358</link>
+<guid isPermaLink="false">10.3102/0013189x261502358</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christopher D. Thomas; F. Chris Curran; Kathryn Chapman]]></dc:creator>
+<dc:identifier>doi:10.3102/0013189x261502358</dc:identifier>
+<description><![CDATA[In Mahmoud v. Taylor , the Supreme Court recognized a constitutional right for parents to opt their children out of public school curriculum. We argue that the decision, in addition to expanding parental rights and contributing to the marginalization of LGBTQ+ individuals, furthers a reshaping of educational governance by erasing children as constitutional subjects and conceptualizing education as a zero-sum conflict between parents and the state. Through its selective repurposing of legal precedent, the Court narrows whose interests receive constitutional recognition in educational governance, reshaping the conceptual terrain on which education research, policy, and practice operate.]]></description>
+<content:encoded><![CDATA[In Mahmoud v. Taylor , the Supreme Court recognized a constitutional right for parents to opt their children out of public school curriculum. We argue that the decision, in addition to expanding parental rights and contributing to the marginalization of LGBTQ+ individuals, furthers a reshaping of educational governance by erasing children as constitutional subjects and conceptualizing education as a zero-sum conflict between parents and the state. Through its selective repurposing of legal precedent, the Court narrows whose interests receive constitutional recognition in educational governance, reshaping the conceptual terrain on which education research, policy, and practice operate.]]></content:encoded>
 </item>
 <item>
 <title>School District and Neighborhood Socioeconomic Factors in Adolescents’ Exposure to School Lockdown Responses to Violent and Firearm-Related Threats</title>
