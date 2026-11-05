@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 06:18:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -118,15 +118,6 @@
 <description></description>
 </item>
 <item>
-<title>How institutional distrust breeds one-sided leadership: A consistency-based account.</title>
-<link>https://doi.org/10.1037/pspi0000527</link>
-<guid isPermaLink="false">10.1037/pspi0000527</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Claire Linares; Anne-Sophie Chaxel]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000527</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Shades of traits across languages: Comparisons of Dutch, Polish, Czech, and Serbian structures of behavioral items.</title>
 <link>https://doi.org/10.1037/pspp0000615</link>
 <guid isPermaLink="false">10.1037/pspp0000615</guid>
@@ -183,6 +174,23 @@
 <guid isPermaLink="false">10.1037/pspi0000535.supp</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/pspi0000535.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Individual, interpersonal, and socioeconomic predictors of divorce: A 12-year prospective study.</title>
+<link>https://doi.org/10.1037/pspi0000537</link>
+<guid isPermaLink="false">10.1037/pspi0000537</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Molly G. Smith; Jared M. Block; Thomas N. Bradbury; Benjamin R. Karney]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000537</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Individual, Interpersonal, and Socioeconomic Predictors of Divorce: A 12-Year Prospective Study</title>
+<link>https://doi.org/10.1037/pspi0000537.supp</link>
+<guid isPermaLink="false">10.1037/pspi0000537.supp</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspi0000537.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -528,14 +536,6 @@
 <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Samantha Zaw; Laura E. Wallace; Ed O'Brien]]></dc:creator>
 <dc:identifier>doi:10.1037/pspi0000526</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for How Institutional Distrust Breeds One-Sided Leadership: A Consistency-Based Account</title>
-<link>https://doi.org/10.1037/pspi0000527.supp</link>
-<guid isPermaLink="false">10.1037/pspi0000527.supp</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspi0000527.supp</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 06:18:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -154,60 +154,6 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Els Tanghe; Katie Goeman; Annelies Raes; Tijs Rotsaert; Tammy Schellens; Katrien Struyven; Jo Tondeur; Adriaan Herremans]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105699</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From building robots to cultivating robotics literacy? A systematic review of educational robotics research and its future directions</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105659</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105659</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Richard Chung Yiu Yeung; Daner Sun; Chi Ho Yeung; Therese Keane; John Chi-Kin Lee]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105659</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Development and validation of a scenario-based multiple-choice test of AI ethical competence (AIEC) using item response theory</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105641</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105641</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yun Dai; Chen Chen; Ziyan Lin; Jianjun Qin; Yanmei Guo]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105641</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Simulation supported directed self-guided learning of blended math-science sensemaking for historically marginalized STEM learners</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105639</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105639</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Leonora Kaldaras; Carl Wieman]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105639</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Fifty years of Computers &amp; Education: Continuities, transformations, and diversification in educational technology research</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105770</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105770</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Miguel Nussbaum]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105770</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>What task to offload to GenAI in the writing feedback process? – Effects of task-offloading approaches on EFL learners’ writing skill development</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105675</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105675</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Chun Lai; Mengru Pan; Kai Guo; Yaqiong Cui]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105675</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Agency and adaptation in human–technology configurations: A fifty-year analysis of Computers &amp; Education</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105757</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105757</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yuan-Hsuan Lee; Candace Walkington; Jiun-Yu Wu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105757</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -532,6 +478,24 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yoonhee Shin; Jihoon Song; Seohyun Choi; Youngwug Cho; Jaeyeon Choe; Kwanguk Kim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105739</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The design framework for pedagogical agents supporting constructivist learning with generative AI</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105744</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105744</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chen-Chung Liu; Chin-Chung Tsai; Ramazan Yilmaz; Jiun-Yu Wu; Maria Ranieri; Di Zou; Leanna Archambault; Johan van Braak; Gautam Biswas]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105744</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Introduction to “From crisis to continuity: Re-examining online teaching and learning in elementary and secondary education”</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105727</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105727</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Leanna Archambault; Jered Borup; Chin-Hsi Lin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105727</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ame.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 06:18:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -112,15 +112,6 @@
 <description></description>
 </item>
 <item>
-<title>Inequality and Injustice: Talking Past Each Other</title>
-<link>https://doi.org/10.5465/amp.2023.0358</link>
-<guid isPermaLink="false">10.5465/amp.2023.0358</guid>
-<pubDate>Tue, 03 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Per L. Bylund; Alexander Cartwright; Mark D. Packard; Steve Trost]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2023.0358</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Platform Regulation: Beyond Power and Size</title>
 <link>https://doi.org/10.5465/amp.2025.0261</link>
 <guid isPermaLink="false">10.5465/amp.2025.0261</guid>
@@ -172,6 +163,15 @@
 <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[William Wales; Maksim Belitski; Jeffrey A. Martin; Tatiana Stettler]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2023.0503</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Pricing the Priceless? How Communities Challenge the Marketization of Public Goods and Services</title>
+<link>https://doi.org/10.5465/amp.2025.0081</link>
+<guid isPermaLink="false">10.5465/amp.2025.0081</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Catherine Summers; A. Wren Montgomery; Rosalie Luo]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0081</dc:identifier>
 <description></description>
 </item>
 <item>

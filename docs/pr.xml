@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 06:18:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -333,6 +333,14 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Older Yet Faster: Representational Development Explains Accelerated Semantic Processing in Older Adults</title>
+<link>https://doi.org/10.1037/rev0000652.supp</link>
+<guid isPermaLink="false">10.1037/rev0000652.supp</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000652.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Extreme-value signal detection theory for recognition memory: The parametric road not taken.</title>
 <link>https://doi.org/10.1037/rev0000615</link>
 <guid isPermaLink="false">10.1037/rev0000615</guid>
@@ -615,15 +623,6 @@
 <pubDate>Mon, 06 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ekrem Dere]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000624</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Do congruency effects in Navon’s and Stroop’s paradigms reflect the same (control) mechanisms? A conceptual analysis and an empirical test.</title>
-<link>https://doi.org/10.1037/rev0000617</link>
-<guid isPermaLink="false">10.1037/rev0000617</guid>
-<pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christian Gerlach; Nicolas Poirel]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000617</dc:identifier>
 <description></description>
 </item>
 </channel>

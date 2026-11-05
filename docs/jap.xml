@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 06:18:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -102,15 +102,6 @@
 <description></description>
 </item>
 <item>
-<title>Do family rituals help or hurt? The ripple effect of family rituals on employee change-oriented behaviors.</title>
-<link>https://doi.org/10.1037/apl0001410</link>
-<guid isPermaLink="false">10.1037/apl0001410</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wan Jiang; Xueting Qin; Daan van Knippenberg; Zhigang Song; Bingqian Liang; Linlin Wang; Yingjie Yuan]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001410</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Who do employees follow? An analysis of contrasting and compensatory effects between abusive supervisors in multiple team membership contexts.</title>
 <link>https://doi.org/10.1037/apl0001429</link>
 <guid isPermaLink="false">10.1037/apl0001429</guid>
@@ -169,6 +160,41 @@
 <guid isPermaLink="false">10.1037/apl0001412.supp</guid>
 <pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/apl0001412.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Natural language processing word dictionaries for personnel selection: Achieving explainable, generalizable, and incremental prediction with low impact when passively scoring narrative application information.</title>
+<link>https://doi.org/10.1037/apl0001438</link>
+<guid isPermaLink="false">10.1037/apl0001438</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Emily D. Campion; Michael A. Campion]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001438</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>On criterion weighting to reduce adverse impact.</title>
+<link>https://doi.org/10.1037/apl0001426</link>
+<guid isPermaLink="false">10.1037/apl0001426</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jinsoo Choi; Daniel A. Newman]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001426</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The curious counselor: The role of social curiosity in advice provision.</title>
+<link>https://doi.org/10.1037/apl0001422</link>
+<guid isPermaLink="false">10.1037/apl0001422</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bushra Guenoun; Hayley Blunden; Ting Zhang]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001422</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for On Criterion Weighting to Reduce Adverse Impact</title>
+<link>https://doi.org/10.1037/apl0001426.supp</link>
+<guid isPermaLink="false">10.1037/apl0001426.supp</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/apl0001426.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -518,31 +544,6 @@
 <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Soohyun Yoon; Eunjeong Kwon; Jeffery A. LePine; S. R. Aurora; Daniel W. Newton; Ned Wellman]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001430</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.</title>
-<link>https://doi.org/10.1037/apl0001402</link>
-<guid isPermaLink="false">10.1037/apl0001402</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yucheng Zhang; Shanshan Zhang; Zijun Ke; Wenrui Cao; Mo Wang; Kaiyang Qin; Han Li]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001402</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Project Success–Failure Experiences and Leader Development: Examining Career Transitions Through Role Transition Theory</title>
-<link>https://doi.org/10.1037/apl0001404.supp</link>
-<guid isPermaLink="false">10.1037/apl0001404.supp</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/apl0001404.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Do Family Rituals Help or Hurt? The Ripple Effect of Family Rituals on Employee Change-Oriented Behaviors</title>
-<link>https://doi.org/10.1037/apl0001410.supp</link>
-<guid isPermaLink="false">10.1037/apl0001410.supp</guid>
-<pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/apl0001410.supp</dc:identifier>
 <description></description>
 </item>
 <item>

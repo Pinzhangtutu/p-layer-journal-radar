@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 06:18:06 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -341,6 +341,16 @@
 <content:encoded><![CDATA[Premium adoption in mHealth.]]></content:encoded>
 </item>
 <item>
+<title>Overall Evaluation Criteria for A/B Tests: A Meta-Analytic Approach</title>
+<link>https://doi.org/10.1287/mksc.2025.0164</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0164</guid>
+<pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Easton Huch; Stephanie A. Nail; Terran Melconian; Xan Vongsathorn; Fred Feinberg]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0164</dc:identifier>
+<description><![CDATA[This paper discusses meta-analytic methods for estimating the value of marketing interventions given a database of historical A/B tests with multiple outcome variables.]]></description>
+<content:encoded><![CDATA[This paper discusses meta-analytic methods for estimating the value of marketing interventions given a database of historical A/B tests with multiple outcome variables.]]></content:encoded>
+</item>
+<item>
 <title>Entrepreneurs and Investors: Funding-Induced Distortions in Lean Start-up Product Experiments and Innovation</title>
 <link>https://doi.org/10.1287/mksc.2023.0309</link>
 <guid isPermaLink="false">10.1287/mksc.2023.0309</guid>
@@ -413,16 +423,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1287/mksc.2026.ack.v45.n2</dc:identifier>
 <description></description>
-</item>
-<item>
-<title>Frontiers: Content Quality Provision and Welfare Implications of Digital Platform Commission Fees</title>
-<link>https://doi.org/10.1287/mksc.2024.1084</link>
-<guid isPermaLink="false">10.1287/mksc.2024.1084</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Siddhartha Sharma; Amit Mehra]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2024.1084</dc:identifier>
-<description><![CDATA[The paper studies how commission fees charged by platforms affect innovation by digital content developers and consumer welfare.]]></description>
-<content:encoded><![CDATA[The paper studies how commission fees charged by platforms affect innovation by digital content developers and consumer welfare.]]></content:encoded>
 </item>
 <item>
 <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>
