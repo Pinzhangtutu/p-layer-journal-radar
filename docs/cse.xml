@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:12:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -19,6 +19,60 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hai Li; Wanli Xing; Chenglu Li; Bailing Lyu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105725</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mapping fifty years of technology-enhanced science and mathematics education in Computers &amp; Education: Trends and connections with technologies, functions, and theories</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105756</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105756</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Min-Hsien Lee; Tzung-Jin Lin; Edwin Chng; Guo-Li Chiou; Aik-Ling Tan; Jyh-Chong Liang; Pin-Chi Huang; Seng Chee Tan; Chin-Chung Tsai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105756</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fifty years of Computers &amp; Education: Continuities, transformations, and diversification in educational technology research</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105770</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105770</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miguel Nussbaum]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105770</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Agency and adaptation in human–technology configurations: A fifty-year analysis of Computers &amp; Education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105757</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105757</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuan-Hsuan Lee; Candace Walkington; Jiun-Yu Wu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105757</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Technology-enhanced second language learning in Computers &amp; Education: A 50-year review of outcomes, technical affordances, theoretical frameworks, and their connections</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105762</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105762</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruofei Zhang; Di Zou; Sangmin-Michelle Lee]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105762</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Online learner engagement and academic support in the age of generative AI</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105763</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105763</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jered Borup; Charles R. Graham; Leanna Archambault; Lauren Woo; Michael K. Barbour; Joan Kang Shin; Anya S. Evmenova]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105763</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Topic landscapes and cross-period semantic connections in Computers &amp; Education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105758</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105758</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xieling Chen; Di Zou; Haoran Xie; S. Joe Qin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105758</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -40,12 +94,30 @@
 <description></description>
 </item>
 <item>
+<title>From citation to documented use: Computers &amp; Education research in selected policy reports</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105754</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105754</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zvi Bekerman; Miguel Nussbaum]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105754</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Developing L2 writing student self-assessment literacy through AI-generated feedback and AI chain-of-thought: An action research study with lower-proficiency university EFL learners</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105716</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105716</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Pan Ye; Shulin Yu; Icy Lee; Chenggang Liang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105716</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Artificial intelligence in higher education (2019–2026): A systematic review of applications and an evidence-derived multi-axial taxonomy</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105761</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105761</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maria Ranieri; Gabriele Biagini]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105761</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -73,6 +145,24 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ronja Schiller; Johanna Fleckenstein; Ute Mertens; Jennifer Meyer]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105656</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From computer-supported collaborative learning to human–AI collaboration: CSCL research in fifty years of Computers &amp; Education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105753</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105753</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ramazan Yilmaz; Fatma Gizem Karaoglan Yilmaz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105753</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How we study what we study: A methodological review of 50 years of educational technology research</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105760</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105760</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jo Tondeur; Sarah K. Howard; Antonio Bucchiarone; Ronny Scherer; Johan van Braak]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105760</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -109,6 +199,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Katja Peltola; Marjaana Veermans; Sara Routarinne]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105704</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Fifty years of topic development, thematic combination, and AI's evolving reach in Computers &amp; Education</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105755</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105755</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiun-Yu Wu; An-Ching Shih; Yuan-Hsuan Lee; Ching Sing Chai; Chin-Chung Tsai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105755</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -193,21 +292,21 @@
 <description></description>
 </item>
 <item>
-<title>Surrounded by screens: How tablet use during class contributes to distraction and self-reported learning loss</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105676</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105676</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Redefining and measuring student agency in AI-assisted learning: Development and validation of the agentic engagement with AI (AE-AI) scale</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105687</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105687</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yun Dai; Suya Liu; Sihan Zhou; Sichen Lai; Ang Liu; Cher Ping Lim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105687</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Surrounded by screens: How tablet use during class contributes to distraction and self-reported learning loss</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105676</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105676</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -253,96 +352,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Samantha Viano; Héctor Moya; Elissa Robinson; John Chen; Vivian Conner]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105694</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Unlocking the potential of resources: An examination of sharing and uptake signs in educational online communities</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105703</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105703</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Fitore Morina; Tim Fütterer; Jeffrey Carpenter; Joshua M. Rosenberg; Christian Fischer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105703</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From educational to informational: Genre and instructional quality in Children's informational videos on YouTube</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105673</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105673</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wei Pu; Somin Park; Rebecca A. Dore; J. Alex Bonus; Brenna Hassinger-Das]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105673</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Tracing affect in digital learning: Combining log data and introspective momentary assessments</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105668</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105668</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Julia Hilpert; Marc Philipp Janson]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105668</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The DIPS model: GenAI integration in digital information problem solving by experts and novices</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105677</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105677</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Josien Boetje; Zindzi de Graaf; Iwan Wopereis; Stan O. van Ginkel; Matthijs H.J. Smakman; Johan Versendaal; Erik Barendsen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105677</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Beauty is the eye of the beholder: Introducing the visual aesthetic principle for multimedia instructional design and how it is moderated by learners’ creativity</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105671</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105671</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Diana Pak; Juliette C. Désiron; Sascha Schneider]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105671</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A community of inquiry perspective on human–AI co-facilitation within micro-blended learning</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105707</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105707</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zilong Pan; Zilu Jiang; Shen Ba; Kui Xie]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105707</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Cross-course generalizability of SRL-aligned predictive models using digital learning traces</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105670</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105670</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jakob Schwerter; Loreen Sabel; Judith Bose; Matthew L. Bernacki; Di Xu; Marko Schmellenkamp; Thomas Zeume; Philipp Doebler]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105670</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Searching for predictors of presence, academic achievement and satisfaction in online adult education</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105705</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105705</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Stefan Hrastinski; Stefan Stenbom; Helena Colliander; Andreas Fejes]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105705</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Instructor's pointing gestures promote learning more than guiding gaze</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105692</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105692</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Fuxing Wang; Ziyi Kuang; Frank Andrasik; Xiangen Hu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105692</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>K-12 blended learning readiness in emerging contexts exploring the readiness of institutions, teachers, and students in Mongolia</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105672</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105672</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Charles R. Graham; Jered Borup; Tserenchimed Purevsuren; Ganbat Danaa; Tsooj Shambaljamts; Batbold Bukhchuluun; Ross Larsen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105672</dc:identifier>
 <description></description>
 </item>
 <item>

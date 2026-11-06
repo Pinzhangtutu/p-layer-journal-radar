@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 05 Nov 2026 19:49:59 +0000</lastBuildDate>
+<lastBuildDate>Fri, 06 Nov 2026 06:12:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -40,21 +40,21 @@
 <description></description>
 </item>
 <item>
-<title>Recursive preferences and ambiguity attitudes</title>
-<link>https://doi.org/10.1016/j.jet.2026.106224</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
 <link>https://doi.org/10.1016/j.jet.2026.106217</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Recursive preferences and ambiguity attitudes</title>
+<link>https://doi.org/10.1016/j.jet.2026.106224</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -175,6 +175,15 @@
 <description></description>
 </item>
 <item>
+<title>Existence of Bayesian equilibria in incomplete information games without common priors</title>
+<link>https://doi.org/10.1016/j.jet.2026.106268</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106268</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Denis Kojevnikov; Kyungchul Song]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106268</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Matching and price competition in large markets</title>
 <link>https://doi.org/10.1016/j.jet.2026.106250</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106250</guid>
@@ -274,21 +283,21 @@
 <description></description>
 </item>
 <item>
-<title>Buyer verification and endogenous quality</title>
-<link>https://doi.org/10.1016/j.jet.2026.106267</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Price information and cost uncertainty in oligopoly</title>
 <link>https://doi.org/10.1016/j.jet.2026.106258</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106258</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ruolong Xiao; César Martinelli]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106258</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Buyer verification and endogenous quality</title>
+<link>https://doi.org/10.1016/j.jet.2026.106267</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106267</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Peter Achim; Willy Lefez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106267</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -307,15 +316,6 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dan Cao; Jean-Paul L’Huillier; Donghoon Yoo]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106228</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Existence of Bayesian Equilibria in Incomplete Information Games without Common Priors</title>
-<link>https://doi.org/10.1016/j.jet.2026.106268</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106268</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Denis Kojevnikov; Kyungchul Song]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106268</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -445,21 +445,21 @@
 <description></description>
 </item>
 <item>
-<title>Learning through imitation: An experiment</title>
-<link>https://doi.org/10.1016/j.jet.2026.106203</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106203</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marina Agranov; Gabriel Lopez-Moctezuma; Philipp Strack; Omer Tamuz]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106203</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Positive and negative selection in bargaining</title>
 <link>https://doi.org/10.1016/j.jet.2026.106190</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106190</guid>
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Dongkyu Chang; Duk Gyoo Kim; Wooyoung Lim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106190</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Learning through imitation: An experiment</title>
+<link>https://doi.org/10.1016/j.jet.2026.106203</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106203</guid>
+<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marina Agranov; Gabriel Lopez-Moctezuma; Philipp Strack; Omer Tamuz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106203</dc:identifier>
 <description></description>
 </item>
 <item>
