@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 07 Nov 2026 05:41:26 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 12:50:53 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -247,15 +247,6 @@
 <description></description>
 </item>
 <item>
-<title>Ethics vs. Exhaustion: Ethical AI Design and Job Burnout in Takeout Platforms</title>
-<link>https://doi.org/10.1016/j.im.2026.104462</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104462</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nan Feng; Xueqing Wang; Aihui Chen; Yu Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104462</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The Double-Edged Sword of Visual Realism: How Mental Health Chatbot Avatars Influence Users’ Self-Disclosure and Use Intentions</title>
 <link>https://doi.org/10.1016/j.im.2026.104469</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104469</guid>
@@ -274,21 +265,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -463,15 +454,6 @@
 <description></description>
 </item>
 <item>
-<title>Beyond speculation: Explaining the intention to use cryptocurrency</title>
-<link>https://doi.org/10.1016/j.im.2026.104410</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104410</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Pouyan Esmaeilzadeh; Karlene Cousins; Hemang Subramanian; Arun Rai]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104410</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
 <link>https://doi.org/10.1016/j.im.2026.104414</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
@@ -481,12 +463,30 @@
 <description></description>
 </item>
 <item>
+<title>Beyond speculation: Explaining the intention to use cryptocurrency</title>
+<link>https://doi.org/10.1016/j.im.2026.104410</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104410</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Pouyan Esmaeilzadeh; Karlene Cousins; Hemang Subramanian; Arun Rai]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104410</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Was I scammed? Understanding consumer scam reporting behavior through cognitive appraisal</title>
 <link>https://doi.org/10.1016/j.im.2026.104442</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104442</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ruochen Liao; H. Raghav Rao]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104442</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Ethics vs. exhaustion: Ethical AI design and job burnout in takeout platforms</title>
+<link>https://doi.org/10.1016/j.im.2026.104462</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104462</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nan Feng; Xueqing Wang; Aihui Chen; Yu Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104462</dc:identifier>
 <description></description>
 </item>
 <item>
