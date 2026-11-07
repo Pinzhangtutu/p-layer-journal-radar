@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 07 Nov 2026 12:50:53 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 21:43:07 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -67,24 +67,6 @@
 <description></description>
 </item>
 <item>
-<title>Pedagogy in the speech-gesture couplings of caregivers: Evidence from a corpus-based analysis</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106674</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106674</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marine Yumeng Wang; Ed Donnellan; Gabriella Vigliocco]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106674</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Reward selectively preserves relational structure in memory</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106673</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106673</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Seoyoung Lee; Akram Bakkour]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106673</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The folk concept of moral agency</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106753</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106753</guid>
@@ -94,12 +76,12 @@
 <description></description>
 </item>
 <item>
-<title>Unpacking the dynamics of cross-situational word learning strategies through trial-by-trial analysis: effects of word frequency distribution and learning context</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106754</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106754</guid>
+<title>The spatial specificity and recovery from visual adaptation in causality perception</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106773</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106773</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zihan Yin; Yujing Shi; Yanli Huang; Jiushu Xie]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106754</dc:identifier>
+<dc:creator><![CDATA[Laura van Zantwijk; Martin Rolfs; Sven Ohl]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106773</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -109,6 +91,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Brett Bahle; Zexuan Niu; Jeremy Strueder; Andrew Hollingworth]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106747</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unpacking the dynamics of cross-situational word learning strategies through trial-by-trial analysis: effects of word frequency distribution and learning context</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106754</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106754</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zihan Yin; Yujing Shi; Yanli Huang; Jiushu Xie]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106754</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -157,6 +148,15 @@
 <description></description>
 </item>
 <item>
+<title>General versus specific: Investigating the structure of individual differences in post-error slowing across time</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106769</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106769</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Clifford E. Hauenstein; Eunbee Kim; Alexis Phillips; Alana M. Montanez; Barry Gordon; Derek M. Smith]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106769</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>The emergence of language-specific biases in visual attention in pre-reading toddlers from two cultures</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106750</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106750</guid>
@@ -166,12 +166,12 @@
 <description></description>
 </item>
 <item>
-<title>General versus specific: Investigating the structure of individual differences in post-error slowing across time</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106769</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106769</guid>
+<title>Probing spatiotemporal context reveals differences between true and false memories</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106782</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106782</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Clifford E. Hauenstein; Eunbee Kim; Alexis Phillips; Alana M. Montanez; Barry Gordon; Derek M. Smith]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106769</dc:identifier>
+<dc:creator><![CDATA[Brynn E. Sherman]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106782</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -328,15 +328,6 @@
 <description></description>
 </item>
 <item>
-<title>The objecthood of visual working memory representations influences their interaction with attention</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106727</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106723</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
@@ -352,6 +343,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Silvia Seghezzi; Maia Juliet Armstrong; Patrick Haggard]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106701</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The objecthood of visual working memory representations influences their interaction with attention</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106727</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -454,6 +454,15 @@
 <description></description>
 </item>
 <item>
+<title>Music influences the content of spontaneous thought</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>When “they” is singular: The interplay between cognitive and social factors predicts pronoun misinterpretations in bilingual English speakers</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106729</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106729</guid>
@@ -478,15 +487,6 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Samet Kaya; Miri Besken]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106730</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Music influences the content of spontaneous thought</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
 <description></description>
 </item>
 <item>
