@@ -9,18 +9,9 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 06 Nov 2026 19:15:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 07 Nov 2026 05:41:26 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>I hear you: Enhancing middle school mathematics engagement and learning outcomes through teachable agent voice design</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105725</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105725</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hai Li; Wanli Xing; Chenglu Li; Bailing Lyu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105725</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>Mapping fifty years of technology-enhanced science and mathematics education in Computers &amp; Education: Trends and connections with technologies, functions, and theories</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105756</link>
@@ -28,6 +19,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Min-Hsien Lee; Tzung-Jin Lin; Edwin Chng; Guo-Li Chiou; Aik-Ling Tan; Jyh-Chong Liang; Pin-Chi Huang; Seng Chee Tan; Chin-Chung Tsai]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105756</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>I hear you: Enhancing middle school mathematics engagement and learning outcomes through teachable agent voice design</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105725</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105725</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hai Li; Wanli Xing; Chenglu Li; Bailing Lyu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105725</dc:identifier>
 <description></description>
 </item>
 <item>
