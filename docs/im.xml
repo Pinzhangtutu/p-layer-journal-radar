@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 09 Nov 2026 05:53:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 15:56:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -364,15 +364,6 @@
 <description></description>
 </item>
 <item>
-<title>Human- vs. AI-Labeled Recommenders: Effectiveness Across Personalization, Discount, and Popularity Message Framing</title>
-<link>https://doi.org/10.1016/j.im.2026.104464</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104464</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xingyu Chen; Li Ji; Mengzhou Zhuang; Chuang Tang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104464</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Counterfactual patient satisfaction inference under selective observation: A theory-driven machine learning design approach for online consultation services</title>
 <link>https://doi.org/10.1016/j.im.2026.104417</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104417</guid>
@@ -544,21 +535,21 @@
 <description></description>
 </item>
 <item>
-<title>What works when: calibrating temporal focus for crowdfunding success</title>
-<link>https://doi.org/10.1016/j.im.2026.104456</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Beyond integration to validation: the differential impact of physicians’ knowledge collaboration behaviors on online medical team performance</title>
 <link>https://doi.org/10.1016/j.im.2026.104452</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What works when: calibrating temporal focus for crowdfunding success</title>
+<link>https://doi.org/10.1016/j.im.2026.104456</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -595,6 +586,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Calvin Wan; Daisy Lee; Peggy M.L. Ng; Raffaele Filieri]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Human- vs. AI-labeled recommenders: Effectiveness across personalization, discount, and popularity message framing</title>
+<link>https://doi.org/10.1016/j.im.2026.104464</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104464</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xingyu Chen; Li Ji; Mengzhou Zhuang; Chuang Tang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104464</dc:identifier>
 <description></description>
 </item>
 <item>

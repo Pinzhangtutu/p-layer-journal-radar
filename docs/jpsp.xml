@@ -9,7 +9,7 @@
 <description>JPSP — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpsp.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 09 Nov 2026 05:53:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 15:56:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -73,15 +73,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Peter Jin; Gavan J. Fitzsimons; Aaron C. Kay]]></dc:creator>
 <dc:identifier>doi:10.1037/pspi0000510</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Compassion persists: The effects of repeated exposure to suffering on compassion.</title>
-<link>https://doi.org/10.1037/pspi0000529</link>
-<guid isPermaLink="false">10.1037/pspi0000529</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jaweria Qaiser; Solomiya Draga; Linh N. P. Pham; Nathan Leonhardt; Jennifer E. Stellar]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000529</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -427,42 +418,6 @@
 <description></description>
 </item>
 <item>
-<title>What stands out to you about me? Implications of self-observation during online intergroup interaction for metaperceived race salience.</title>
-<link>https://doi.org/10.1037/pspi0000522</link>
-<guid isPermaLink="false">10.1037/pspi0000522</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jacquie D. Vorauer; Corey Petsnik; Jasmine Chen]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000522</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Mental contrasting prevents a negative future by changing the explicit and implicit meaning of reality.</title>
-<link>https://doi.org/10.1037/pspa0000490</link>
-<guid isPermaLink="false">10.1037/pspa0000490</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[SunYoung Kim; Peter M. Gollwitzer; Gabriele Oettingen]]></dc:creator>
-<dc:identifier>doi:10.1037/pspa0000490</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Within-nation variation in war exposure and psychological and physical adjustment.</title>
-<link>https://doi.org/10.1037/pspp0000601</link>
-<guid isPermaLink="false">10.1037/pspp0000601</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Theresa M. Entringer; Christoph Halbmeier; Laura Buchinger; Anne K. Reitz]]></dc:creator>
-<dc:identifier>doi:10.1037/pspp0000601</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>In their God we trust: Religious cognition increases cooperation across religious divides.</title>
-<link>https://doi.org/10.1037/pspi0000499</link>
-<guid isPermaLink="false">10.1037/pspi0000499</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael H. Pasek; Allon Vishkin; Anne Lehner; Crystal M. Shackleford; Starlett Hartley; Jeremy Ginges]]></dc:creator>
-<dc:identifier>doi:10.1037/pspi0000499</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for The Perceived Whiteness of Artificial Intelligence</title>
 <link>https://doi.org/10.1037/pspi0000533.supp</link>
 <guid isPermaLink="false">10.1037/pspi0000533.supp</guid>
@@ -494,14 +449,6 @@
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tobias Vogel; André Mata]]></dc:creator>
 <dc:identifier>doi:10.1037/pspa0000497</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Compassion Persists: The Effects of Repeated Exposure to Suffering on Compassion</title>
-<link>https://doi.org/10.1037/pspi0000529.supp</link>
-<guid isPermaLink="false">10.1037/pspi0000529.supp</guid>
-<pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/pspi0000529.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -588,6 +535,55 @@
 <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael D. Krämer; Amanda J. Wright; Peter Haehner; Johannes Zimmermann; Christoph Flückiger; Christopher J. Hopwood; Wiebke Bleidorn]]></dc:creator>
 <dc:identifier>doi:10.1037/pspp0000610</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for A Systematic Investigation of Age–Gender Intersectional Stereotypes and Their Consequences</title>
+<link>https://doi.org/10.1037/pspa0000505.supp</link>
+<guid isPermaLink="false">10.1037/pspa0000505.supp</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspa0000505.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Navigating Divorce and Partner Bereavement: Personality and Trajectories of Change in Life Satisfaction and Mental Health</title>
+<link>https://doi.org/10.1037/pspp0000620.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000620.supp</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000620.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The more, the better? Evidence of parallel growth in intergroup contact quantity and quality over time.</title>
+<link>https://doi.org/10.1037/pspi0000538</link>
+<guid isPermaLink="false">10.1037/pspi0000538</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rose Meleady; Patrick F. Kotzur; Deborah Shulman; Gordon Hodson; Richard J. Crisp; Danielle Blaylock; Joanne Hughes; Maarten H. W. Van Zalk; Katharina Schmid]]></dc:creator>
+<dc:identifier>doi:10.1037/pspi0000538</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for The Structure and History of English Words That Describe People</title>
+<link>https://doi.org/10.1037/pspp0000627.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000627.supp</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000627.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Examining the Gender-Equality Paradox in Values Using a New Measure of Value-Based Gender Typicality</title>
+<link>https://doi.org/10.1037/pspp0000623.supp</link>
+<guid isPermaLink="false">10.1037/pspp0000623.supp</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspp0000623.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for The More, the Better? Evidence of Parallel Growth in Intergroup Contact Quantity and Quality Over Time</title>
+<link>https://doi.org/10.1037/pspi0000538.supp</link>
+<guid isPermaLink="false">10.1037/pspi0000538.supp</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/pspi0000538.supp</dc:identifier>
 <description></description>
 </item>
 <item>

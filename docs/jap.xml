@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 09 Nov 2026 05:53:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 15:56:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -67,15 +67,6 @@
 <description></description>
 </item>
 <item>
-<title>Leader ambidexterity in goal orientation and team adaptive performance.</title>
-<link>https://doi.org/10.1037/apl0001405</link>
-<guid isPermaLink="false">10.1037/apl0001405</guid>
-<pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lisa Dragoni; Christina Hymer; Soohyun Yoon; Jeffery A. LePine; Todd Woodruff; Lissa V. Young; Huisi (Jessica) Li]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001405</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for What Do We Know About Job Knowledge Tests? A 30-Year Update of Validity Evidence</title>
 <link>https://doi.org/10.1037/apl0001427.supp</link>
 <guid isPermaLink="false">10.1037/apl0001427.supp</guid>
@@ -90,15 +81,6 @@
 <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Joseph Kichul Kim; Joel Koopman; Kyoung Yong Kim; Ran Ahn; Youngduk Lee]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001433</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Project success–failure experiences and leader development: Examining career transitions through role transition theory.</title>
-<link>https://doi.org/10.1037/apl0001404</link>
-<guid isPermaLink="false">10.1037/apl0001404</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yeun Joon Kim; Andreas W. Richter]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001404</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -495,15 +477,6 @@
 <description></description>
 </item>
 <item>
-<title>Investigating measurement invariance for multiple covariates in organizational research using exploratory factor analysis and confirmatory factor analysis trees.</title>
-<link>https://doi.org/10.1037/apl0001368</link>
-<guid isPermaLink="false">10.1037/apl0001368</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[David Goretzko; Matt C. Howard; Philipp Sterner]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001368</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Personality Testing for Autistic Individuals: Potential Issues for Selection</title>
 <link>https://doi.org/10.1037/apl0001413.supp</link>
 <guid isPermaLink="false">10.1037/apl0001413.supp</guid>
@@ -605,6 +578,32 @@
 <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Rui Zhong; Yimin He; Yinbo (Bowie) Zheng; Christopher M. Barnes; Kyle Wu; Shaoxue Wu]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001406</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Redefining and updating career attitude profiles and their effectiveness in a postinflection career landscape.</title>
+<link>https://doi.org/10.1037/apl0001441</link>
+<guid isPermaLink="false">10.1037/apl0001441</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Daniel D. Goering; Christina S. Li; Kristina Tirol-Carmody]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001441</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Counteracting threat bias: A longitudinal field experiment testing two interventions that expand managerial attention to opportunities under economic threat.</title>
+<link>https://doi.org/10.1037/apl0001436</link>
+<guid isPermaLink="false">10.1037/apl0001436</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nina Sirola]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001436</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for A Meta-Analysis of Three Decades of Construct Measurement Research on Situational Judgment Tests: Toward a Balance Between Construct Clarity and Predictive Power</title>
+<link>https://doi.org/10.1037/apl0001442.supp</link>
+<guid isPermaLink="false">10.1037/apl0001442.supp</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/apl0001442.supp</dc:identifier>
 <description></description>
 </item>
 <item>

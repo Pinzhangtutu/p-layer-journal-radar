@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 09 Nov 2026 05:53:44 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 15:56:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -271,15 +271,6 @@
 <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sebastian Gluth; Jordan Deakin; Jörg Rieskamp]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000614</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Cognitive constraints and reward environments jointly shape memory formation.</title>
-<link>https://doi.org/10.1037/rev0000612</link>
-<guid isPermaLink="false">10.1037/rev0000612</guid>
-<pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Si Ma; Vencislav Popov; Qiong Zhang]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000612</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -588,6 +579,15 @@
 <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ester Navarro; Manali Pathare; Eleonora Rossi]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000631</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Older yet faster: Representational development explains accelerated semantic processing in older adults.</title>
+<link>https://doi.org/10.1037/rev0000652</link>
+<guid isPermaLink="false">10.1037/rev0000652</guid>
+<pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ying Li; Wenjia Joyce Zhao; Shenghua Luan; Ziyong Lin; Jun Fang; Chenran Shenzhang; Minyi Chen; Thomas Hills]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000652</dc:identifier>
 <description></description>
 </item>
 <item>
