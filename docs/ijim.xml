@@ -9,7 +9,7 @@
 <description>IJIM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijim.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 10 Nov 2026 14:44:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 23:07:28 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -301,21 +301,21 @@
 <description></description>
 </item>
 <item>
-<title>Privacy calculus and disclosure in LLMs: The role of privacy controls, nudges, and perceived anthropomorphism</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103071</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103071</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shantanu Dey; Saurabh Kumar]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103071</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Artificial intelligence for information-driven resilience: Enhancing strategic adaptation and entrepreneurial success</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103057</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103057</guid>
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shaofeng Wang; Hao Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijinfomgt.2026.103057</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Privacy calculus and disclosure in LLMs: The role of privacy controls, nudges, and perceived anthropomorphism</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103071</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103071</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shantanu Dey; Saurabh Kumar]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103071</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -409,24 +409,6 @@
 <description></description>
 </item>
 <item>
-<title>Strategic orientations of incumbent firms and digital business ecosystem orchestration</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103064</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103064</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Samrat Bagchi; Kamal Sharma]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103064</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>When do you want more control over AI? The paradox of autonomy, task stakes, and distrust in AI aversion</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103060</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103060</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Md Jabir Rahman; Huigang Liang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103060</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When animated avatars outperform: Leveraging avatar endorsers to enhance consumer adoption of AI-designed products</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103124</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103124</guid>
@@ -445,6 +427,15 @@
 <description></description>
 </item>
 <item>
+<title>Mind over machine? Affective and socio-cognitive pathways to shadow IT in remote work: Implications for security governance</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103148</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103148</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Patricia Akello; Nicole L. Beebe; Kim-Kwang Raymond Choo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103148</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Generative AI as a social partner for young adults: Dual pathways to resilience and AI dependence</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103141</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103141</guid>
@@ -460,6 +451,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Abraham Abby Sen; Victoria Yoon; Dapeng Liu; Yeongin Kim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijinfomgt.2026.103133</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding digital platform ecosystems: A scoping review, integrative framework, and research agenda</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103147</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103147</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dongdi Chen; Evelyn Ng; Carol Hsu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103147</dc:identifier>
 <description></description>
 </item>
 <item>

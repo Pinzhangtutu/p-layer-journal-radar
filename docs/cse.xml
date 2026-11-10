@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 10 Nov 2026 14:44:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 23:07:28 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -265,6 +265,15 @@
 <description></description>
 </item>
 <item>
+<title>Synergizing Mind and Machine: Unlocking the Potential of Generative AI With Metacognitive Scaffolding to Optimize Upper Elementary Student Learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105792</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105792</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miao YUE; Morris Siu-yung JONG; Wenjiao WANG]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105792</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Giving parents HOPE: Predictors of parental confidence and support needs in elementary and secondary online learning</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105696</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105696</guid>
@@ -292,21 +301,21 @@
 <description></description>
 </item>
 <item>
-<title>Redefining and measuring student agency in AI-assisted learning: Development and validation of the agentic engagement with AI (AE-AI) scale</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105687</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105687</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yun Dai; Suya Liu; Sihan Zhou; Sichen Lai; Ang Liu; Cher Ping Lim]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105687</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Surrounded by screens: How tablet use during class contributes to distraction and self-reported learning loss</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105676</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105676</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Redefining and measuring student agency in AI-assisted learning: Development and validation of the agentic engagement with AI (AE-AI) scale</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105687</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105687</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yun Dai; Suya Liu; Sihan Zhou; Sichen Lai; Ang Liu; Cher Ping Lim]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105687</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -334,15 +343,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Fangzhou Jin; Chin-Hsi Lin; Chun Lai]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105689</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From Potential to Practice: A Critical Realist Exploration of GenAI Use in Australian Early Childhood Education and Care</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105791</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105791</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ali Tehrani; Parian Madanipour; Caroline Cohrssen; Frada Burstein; Emma Forsyth]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105791</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -499,21 +499,21 @@
 <description></description>
 </item>
 <item>
-<title>Introduction to “From crisis to continuity: Re-examining online teaching and learning in elementary and secondary education”</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105727</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105727</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Leanna Archambault; Jered Borup; Chin-Hsi Lin]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105727</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Teacher ICT literacy and instructional quality for creativity in teacher education and professional development</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105742</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105742</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ari Kim]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105742</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Introduction to “From crisis to continuity: Re-examining online teaching and learning in elementary and secondary education”</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105727</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105727</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Leanna Archambault; Jered Borup; Chin-Hsi Lin]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105727</dc:identifier>
 <description></description>
 </item>
 <item>

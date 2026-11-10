@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 10 Nov 2026 14:44:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 10 Nov 2026 23:07:28 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -134,6 +134,15 @@
 <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Peter Christensen; Gustavo Nino; Adam Osman]]></dc:creator>
 <dc:identifier>doi:10.1086/743387</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Connecting Common Ratio and Common Consequence Preferences</title>
+<link>https://doi.org/10.1086/743896</link>
+<guid isPermaLink="false">10.1086/743896</guid>
+<pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christina McGranaghan; Kirby Nielsen; Ted O’Donoghue; Jason Somerville; Charles D. Sprenger]]></dc:creator>
+<dc:identifier>doi:10.1086/743896</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -467,15 +476,6 @@
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Max Miller]]></dc:creator>
 <dc:identifier>doi:10.1086/743899</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Connecting Common Ratio and Common Consequence Preferences</title>
-<link>https://doi.org/10.1086/743896</link>
-<guid isPermaLink="false">10.1086/743896</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christina McGranaghan; Kirby Nielsen; Ted O'Donoghue; Jason Somerville; Charles Sprenger]]></dc:creator>
-<dc:identifier>doi:10.1086/743896</dc:identifier>
 <description></description>
 </item>
 <item>
