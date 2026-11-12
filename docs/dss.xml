@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 12 Nov 2026 00:28:27 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 15:02:19 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -100,33 +100,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Amelia S. Li; Shan L. Pan; Yenni Tim; Hoang D. Nguyen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114704</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How to initiate human-agent intervention for recovery when chatbots fail: A social information processing perspective</title>
-<link>https://doi.org/10.1016/j.dss.2026.114715</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114715</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zhenzhen Lu; Jiahui Mo; Xin (Robert) Luo; Qingfei Min]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114715</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The impact of multi-aspect electronic word-of-mouth on movie box office: An exploration study based on large language models</title>
-<link>https://doi.org/10.1016/j.dss.2026.114718</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114718</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Liting Li; Yao He; Ling Liu; Jing Zhao]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114718</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Crime dynamics of home-sharing: Disentangling temporal effects and policy interventions</title>
-<link>https://doi.org/10.1016/j.dss.2026.114701</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114701</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jiana Meng; He Li; Cheng Nie; Chen Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114701</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -454,6 +427,15 @@
 <description></description>
 </item>
 <item>
+<title>The relationship between governance token holder category and voting behavior in decentralized autonomous organizations</title>
+<link>https://doi.org/10.1016/j.dss.2026.114800</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114800</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Runhui Lin; Wenchang Li; Dahui Li; Ze Ji; Zhimin Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114800</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Identifying suspicious online reviews of telemedicine applications based on homophily principle and social presence theory</title>
 <link>https://doi.org/10.1016/j.dss.2026.114751</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114751</guid>
@@ -478,6 +460,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Leily Soleimanof; Derrick Neufeld]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114757</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Decision support through agentic AI: Knowledge-integration mechanisms for wicked-problem solving and the design-maturity paradox</title>
+<link>https://doi.org/10.1016/j.dss.2026.114799</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114799</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shaofeng Wang; Hao Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114799</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -526,6 +517,15 @@
 <description></description>
 </item>
 <item>
+<title>Proving a negative is difficult: positive and unlabeled financial statement fraud detection via multi-modal graph auto-encoders</title>
+<link>https://doi.org/10.1016/j.dss.2026.114798</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114798</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xusheng Sun; Li Zhou; Gang Wang; Chee-Wee Tan; Shanlin Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114798</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Toward explainable clinical decision support for irregular and incomplete ICU EHRs: An observation-aware multi-level attention model</title>
 <link>https://doi.org/10.1016/j.dss.2026.114756</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114756</guid>
@@ -544,12 +544,12 @@
 <description></description>
 </item>
 <item>
-<title>Differential impact of evaluative vs. non-evaluative AI feedback on employee safety performance and affective wellbeing</title>
-<link>https://doi.org/10.1016/j.dss.2026.114681</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114681</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Chaorui Shen; Long Ye; Ye Yang; Ming Guo; Songlin Yang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114681</dc:identifier>
+<title>Realizing the value of people analytics: How and when it improves performance</title>
+<link>https://doi.org/10.1016/j.dss.2026.114801</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114801</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[A.Mohammed Abubakar; Ofir Turel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114801</dc:identifier>
 <description></description>
 </item>
 <item>
