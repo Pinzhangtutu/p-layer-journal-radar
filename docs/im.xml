@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 12 Nov 2026 15:02:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:28:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -184,6 +184,15 @@
 <description></description>
 </item>
 <item>
+<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
+<link>https://doi.org/10.1016/j.im.2026.104432</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Enhancing market transparency with AI: A large language model approach to decoding risk signals from Chinese comment letters</title>
 <link>https://doi.org/10.1016/j.im.2026.104435</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104435</guid>
@@ -199,15 +208,6 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yafang Li; Michelle Carter; Robert E. Crossler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104420</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
-<link>https://doi.org/10.1016/j.im.2026.104432</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -247,21 +247,21 @@
 <description></description>
 </item>
 <item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
 <link>https://doi.org/10.1016/j.im.2026.104411</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -526,21 +526,21 @@
 <description></description>
 </item>
 <item>
-<title>What works when: calibrating temporal focus for crowdfunding success</title>
-<link>https://doi.org/10.1016/j.im.2026.104456</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Beyond integration to validation: the differential impact of physicians’ knowledge collaboration behaviors on online medical team performance</title>
 <link>https://doi.org/10.1016/j.im.2026.104452</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What works when: calibrating temporal focus for crowdfunding success</title>
+<link>https://doi.org/10.1016/j.im.2026.104456</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -571,21 +571,21 @@
 <description></description>
 </item>
 <item>
-<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
-<link>https://doi.org/10.1016/j.im.2026.104454</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Crafting Persuasive Environmental Messages for Virtual Influencers: The Role of Anthropomorphic Conversational Style, Persuasion Appeal, and Behavioral Context</title>
 <link>https://doi.org/10.1016/j.im.2026.104461</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104461</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Calvin Wan; Daisy Lee; Peggy M.L. Ng; Raffaele Filieri]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
+<link>https://doi.org/10.1016/j.im.2026.104454</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JMIS — Taylor &amp; Francis · Latest in: Online First · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmis.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 12 Nov 2026 15:02:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:28:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -129,21 +129,21 @@
 <description></description>
 </item>
 <item>
-<title>Effects of Nudging and Privacy Control on Online Physician Reviews: Evidence from a Field Experiment</title>
-<link>https://doi.org/10.1080/07421222.2025.2487309</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487309</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Aishwarya Deep Shukla; Jie Mein (JM) Goh; Tianshu Sun; Guodong (Gordon) Gao; Ritu Agarwal]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487309</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Understanding the Role of Technology in Coordination Through Affordance Configurations</title>
 <link>https://doi.org/10.1080/07421222.2025.2487306</link>
 <guid isPermaLink="false">10.1080/07421222.2025.2487306</guid>
 <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jennifer L. Claggett; Elena Karahanna]]></dc:creator>
 <dc:identifier>doi:10.1080/07421222.2025.2487306</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effects of Nudging and Privacy Control on Online Physician Reviews: Evidence from a Field Experiment</title>
+<link>https://doi.org/10.1080/07421222.2025.2487309</link>
+<guid isPermaLink="false">10.1080/07421222.2025.2487309</guid>
+<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Aishwarya Deep Shukla; Jie Mein (JM) Goh; Tianshu Sun; Guodong (Gordon) Gao; Ritu Agarwal]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2025.2487309</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -444,21 +444,21 @@
 <description></description>
 </item>
 <item>
-<title>When Should a Deep-Tech Product Be Compatible with an Incumbent? Influence of Network Effects</title>
-<link>https://doi.org/10.1080/07421222.2026.2647461</link>
-<guid isPermaLink="false">10.1080/07421222.2026.2647461</guid>
-<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Youhyun Lee; Hsing Kenneth Cheng; Liangfei Qiu]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2026.2647461</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Celebrity-as-a-Service: Trust and Willingness to Use Digital Twins for Customer Service</title>
 <link>https://doi.org/10.1080/07421222.2026.2647472</link>
 <guid isPermaLink="false">10.1080/07421222.2026.2647472</guid>
 <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lingyao (Ivy) Yuan; Antino Kim; Mike Seymour; Alan R. Dennis]]></dc:creator>
 <dc:identifier>doi:10.1080/07421222.2026.2647472</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Should a Deep-Tech Product Be Compatible with an Incumbent? Influence of Network Effects</title>
+<link>https://doi.org/10.1080/07421222.2026.2647461</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2647461</guid>
+<pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Youhyun Lee; Hsing Kenneth Cheng; Liangfei Qiu]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2647461</dc:identifier>
 <description></description>
 </item>
 <item>

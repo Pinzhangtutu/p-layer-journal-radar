@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 12 Nov 2026 15:02:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:28:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -22,21 +22,21 @@
 <description></description>
 </item>
 <item>
-<title>Collusion through Common Leadership</title>
-<link>https://doi.org/10.1086/743900</link>
-<guid isPermaLink="false">10.1086/743900</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alejandro Herrera-Caicedo; Jessica Jeffers; Elena Prager]]></dc:creator>
-<dc:identifier>doi:10.1086/743900</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Two-Sided Search in International Markets</title>
 <link>https://doi.org/10.1086/744914</link>
 <guid isPermaLink="false">10.1086/744914</guid>
 <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jonathan Eaton; David Jinkins; James Tybout; Daniel Yi Xu]]></dc:creator>
 <dc:identifier>doi:10.1086/744914</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Collusion through Common Leadership</title>
+<link>https://doi.org/10.1086/743900</link>
+<guid isPermaLink="false">10.1086/743900</guid>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alejandro Herrera-Caicedo; Jessica Jeffers; Elena Prager]]></dc:creator>
+<dc:identifier>doi:10.1086/743900</dc:identifier>
 <description></description>
 </item>
 <item>

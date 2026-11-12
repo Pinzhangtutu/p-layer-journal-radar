@@ -9,7 +9,7 @@
 <description>IJRM — Elsevier / EMAC · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijrm.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 12 Nov 2026 15:02:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:28:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -400,6 +400,15 @@
 <description></description>
 </item>
 <item>
+<title>Always on, always more: how a hustle mindset influences variety-seeking</title>
+<link>https://doi.org/10.1016/j.ijresmar.2026.11.001</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2026.11.001</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yunjia Chi; Fue Zeng; Zhiyong Yang; Jeehye Christine Kim; Ji Xia]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2026.11.001</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>How discourse concentration and content valence drive engagement with conversational content</title>
 <link>https://doi.org/10.1016/j.ijresmar.2026.07.005</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2026.07.005</guid>
@@ -586,15 +595,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Bart Claus; Jiska Eelen; Luk Warlop]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.05.003</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Cycles of inequality in the marketplace: Insights from macro, marketer, and consumer perspectives</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.09.004</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.09.004</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Debora V. Thompson; Amna Kirmani; Rebecca Hamilton; Andy Li; Christilene du Plessis; Daniel Fernandes; Guillaume Johnson; Brent McFerran; Jian Ni; Vladimir Pavlov; Francine Petersen; Lisa Scheer; Yan Vieites; Keith Wilcox]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.09.004</dc:identifier>
 <description></description>
 </item>
 </channel>

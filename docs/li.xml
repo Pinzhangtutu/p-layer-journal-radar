@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 12 Nov 2026 15:02:19 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 23:28:51 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,15 +211,6 @@
 <description></description>
 </item>
 <item>
-<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Towards an adaptive AI scaffold for developing student collaborative problem solving</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102418</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102418</guid>
@@ -235,6 +226,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -463,21 +463,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of ICAP learning activities on learning outcomes</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102482</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102482</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christina Wekerle; Michael Sailer; Ingo Kollar; Tim Fütterer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102482</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Seeing what matters: How signaling influences teachers’ noticing of classroom disruptions in scripted classroom videos</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102501</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102501</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Isabel Althen; Jessica Fischer; Martin Merkt]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102501</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of ICAP learning activities on learning outcomes</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102482</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102482</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christina Wekerle; Michael Sailer; Ingo Kollar; Tim Fütterer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102482</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -607,21 +607,21 @@
 <description></description>
 </item>
 <item>
-<title>Arithmetic development: a longitudinal observational study into the use of adaptive technology</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102480</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102480</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[S.M.M.de Mooij; C. Paans; F. Hasselman; R. Dijkstra; C.A.N. Knoop-van Campen; I. Molenaar]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102480</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Development of preservice teachers’ competence in lesson planning: Analyzing learning opportunities, pedagogical content knowledge, and lesson-planning skills</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102497</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102497</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Johannes König; Jonas Weyers; Petra Hanke; Jörg Jost]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102497</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Arithmetic development: a longitudinal observational study into the use of adaptive technology</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102480</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102480</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[S.M.M.de Mooij; C. Paans; F. Hasselman; R. Dijkstra; C.A.N. Knoop-van Campen; I. Molenaar]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102480</dc:identifier>
 <description></description>
 </item>
 </channel>
