@@ -9,7 +9,7 @@
 <description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ame.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 11 Nov 2026 14:01:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 00:28:27 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -37,15 +37,6 @@
 <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Donald C. Hambrick]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2026.0180</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Upgrading Processes of Emerging-Market Manufacturers in Global Value Chains</title>
-<link>https://doi.org/10.5465/amp.2024.0073</link>
-<guid isPermaLink="false">10.5465/amp.2024.0073</guid>
-<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Mohammad Iftekhar; Peter Zámborský; Maureen Benson-Rea]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2024.0073</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -121,39 +112,12 @@
 <description></description>
 </item>
 <item>
-<title>Renovating for Relevance: How to Rewrite a Traditional Manuscript for &lt;i&gt;Academy of Management Perspectives&lt;/i&gt;</title>
-<link>https://doi.org/10.5465/amp.2026.0328</link>
-<guid isPermaLink="false">10.5465/amp.2026.0328</guid>
-<pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bonnie Hayden Cheng; Helena Barnard; Stacey Fitzsimmons; Tazeeb Rajwani; Michael L. Barnett]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2026.0328</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Contextualizing the Canon: Sociohistorical Change and the Future of Entrepreneurship Research</title>
 <link>https://doi.org/10.5465/amp.2023.0385</link>
 <guid isPermaLink="false">10.5465/amp.2023.0385</guid>
 <pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David A. Kirsch; R. Daniel Wadhwani; Friederike Welter]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2023.0385</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Emplotting Climate Change: Rhetorical History and Imagined Accountability</title>
-<link>https://doi.org/10.5465/amp.2023.0486</link>
-<guid isPermaLink="false">10.5465/amp.2023.0486</guid>
-<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ziyun Fan; Yihan Liu; Daniel Nyberg]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2023.0486</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Navigating the Diversity–Unity Paradox in DEI Strategies</title>
-<link>https://doi.org/10.5465/amp.2024.0179</link>
-<guid isPermaLink="false">10.5465/amp.2024.0179</guid>
-<pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Salome Opoku; David A. Waldman; Patrick Wright]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2024.0179</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -208,6 +172,78 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael R. King; Paul W. Beamish]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2025.0113</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Strategic CSR Investment as a Response to Anticipated Employee Departures from Rivals</title>
+<link>https://doi.org/10.5465/amp.2024.0088</link>
+<guid isPermaLink="false">10.5465/amp.2024.0088</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rong Gong]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0088</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Ties That Bind and Ties That Break: The Identification Trajectories of Bereft Lehman Bankers</title>
+<link>https://doi.org/10.5465/amp.2023.0284</link>
+<guid isPermaLink="false">10.5465/amp.2023.0284</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eliana Crosina; Shannon L. Sciarappa; Michael G. Pratt]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0284</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Emplotting Climate Change: Rhetorical History and Imagined Accountability</title>
+<link>https://doi.org/10.5465/amp.2023.0486</link>
+<guid isPermaLink="false">10.5465/amp.2023.0486</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ziyun Fan; Yihan Liu; Daniel Nyberg]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2023.0486</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Navigating the Diversity–Unity Paradox in DEI Strategies</title>
+<link>https://doi.org/10.5465/amp.2024.0179</link>
+<guid isPermaLink="false">10.5465/amp.2024.0179</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Salome Opoku; David A. Waldman; Patrick Wright]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0179</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Silent Killers of Strategic Change in a VUCA World</title>
+<link>https://doi.org/10.5465/amp.2024.0093</link>
+<guid isPermaLink="false">10.5465/amp.2024.0093</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johanna E. Pregmark; Michael Beer]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0093</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Renovating for Relevance: How to Rewrite a Traditional Manuscript for &lt;i&gt;Academy of Management Perspectives&lt;/i&gt;</title>
+<link>https://doi.org/10.5465/amp.2026.0328</link>
+<guid isPermaLink="false">10.5465/amp.2026.0328</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Bonnie Hayden Cheng; Helena Barnard; Stacey Fitzsimmons; Tazeeb Rajwani; Michael L. Barnett]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2026.0328</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Does Trust Matter? Uncovering the Conditions by Which Boards Trust Managers in Nonprofits</title>
+<link>https://doi.org/10.5465/amp.2024.0164</link>
+<guid isPermaLink="false">10.5465/amp.2024.0164</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vince Bruni-Bossio; Lee A. Swanson]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0164</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Upgrading Processes of Emerging-Market Manufacturers in Global Value Chains</title>
+<link>https://doi.org/10.5465/amp.2024.0073</link>
+<guid isPermaLink="false">10.5465/amp.2024.0073</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Mohammad Iftekhar; Peter Zámborský; Maureen Benson-Rea]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2024.0073</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,15 +472,6 @@
 <description></description>
 </item>
 <item>
-<title>Strategic CSR Investment as a Response to Anticipated Employee Departures from Rivals</title>
-<link>https://doi.org/10.5465/amp.2024.0088</link>
-<guid isPermaLink="false">10.5465/amp.2024.0088</guid>
-<pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rong Gong]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2024.0088</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Toward a New Understanding of Portfolio Governance Senior Management Competence</title>
 <link>https://doi.org/10.5465/amp.2023.0415</link>
 <guid isPermaLink="false">10.5465/amp.2023.0415</guid>
@@ -460,15 +487,6 @@
 <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Daniel R. Clark; Robert J. Pidduck; G. Christopher Crawford; Christian Lechner; Nicola Breugst; Véronique Ambrosini]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2025.0285</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Two Sides of the Same Coin: Why and How Equitable Distribution and Representation Matter for Innovation Advancing the Social Good in Real Places</title>
-<link>https://doi.org/10.5465/amp.2023.0379</link>
-<guid isPermaLink="false">10.5465/amp.2023.0379</guid>
-<pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Andy Buschmann; Dan Breznitz]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2023.0379</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -622,24 +640,6 @@
 <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tisnue Jean-Baptiste; Danielle D. King; Dominique N. Burrows]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2023.0399</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From a Portfolio of Journals to a System of Knowledge Production</title>
-<link>https://doi.org/10.5465/amp.2025.0192</link>
-<guid isPermaLink="false">10.5465/amp.2025.0192</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Matthew A. Cronin; Benjamin Martell Galvin; Elizabeth George; Marc Gruber; Dirk Lindebaum; Gideon D. Markman; C. Chet Miller; Elizabeth L. Rose; Sherry M. B. Thatcher; Geoffrey T. Wood]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2025.0192</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A Multilevel Perspective of Organized and Intentional Corporate Social Irresponsibility</title>
-<link>https://doi.org/10.5465/amp.2022.0224</link>
-<guid isPermaLink="false">10.5465/amp.2022.0224</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Vikash Kumar Sinha; Mi Tran; Eshani S. Beddewela]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2022.0224</dc:identifier>
 <description></description>
 </item>
 </channel>

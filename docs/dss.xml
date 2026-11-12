@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 11 Nov 2026 14:01:28 +0000</lastBuildDate>
+<lastBuildDate>Thu, 12 Nov 2026 00:28:27 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -508,6 +508,15 @@
 <description></description>
 </item>
 <item>
+<title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
+<link>https://doi.org/10.1016/j.dss.2026.114797</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>A decision support framework for privacy risk assessment on social media through automated personally identifiable information detection</title>
 <link>https://doi.org/10.1016/j.dss.2026.114752</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114752</guid>
@@ -541,15 +550,6 @@
 <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Chaorui Shen; Long Ye; Ye Yang; Ming Guo; Songlin Yang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114681</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>AI-driven mental health therapy: A comparative study of emotional clarity and stigma reduction across journaling, human-guided therapy, and AI-guided therapy</title>
-<link>https://doi.org/10.1016/j.dss.2026.114696</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114696</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Runyu Wang; Keng Leng Siau; Zili Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114696</dc:identifier>
 <description></description>
 </item>
 <item>
