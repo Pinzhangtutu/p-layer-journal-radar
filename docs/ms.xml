@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 06:16:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 19:31:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -417,14 +417,6 @@
 <content:encoded><![CDATA[This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.]]></content:encoded>
 </item>
 <item>
-<title>2025 Guest Associate Editors and Ad Hoc Reviewers</title>
-<link>https://doi.org/10.1287/mksc.2026.ack.v45.n2</link>
-<guid isPermaLink="false">10.1287/mksc.2026.ack.v45.n2</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1287/mksc.2026.ack.v45.n2</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>
 <link>https://doi.org/10.1287/mksc.2024.1051</link>
 <guid isPermaLink="false">10.1287/mksc.2024.1051</guid>
@@ -563,6 +555,16 @@
 <dc:identifier>doi:10.1287/mksc.2024.0900</dc:identifier>
 <description><![CDATA[How consumers’ strategic identity disclosure decisions under AI accuracy parity policy interact with firm’s AI recommendation and AI learning investment decisions.]]></description>
 <content:encoded><![CDATA[How consumers’ strategic identity disclosure decisions under AI accuracy parity policy interact with firm’s AI recommendation and AI learning investment decisions.]]></content:encoded>
+</item>
+<item>
+<title>The Digital Journey of Health Insurance Marketing: Narrative Ads and Product Page Design</title>
+<link>https://doi.org/10.1287/mksc.2025.0168</link>
+<guid isPermaLink="false">10.1287/mksc.2025.0168</guid>
+<pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yin Bai; Rui Wang; Xingyao Ren; Rajdeep Grewal]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2025.0168</dc:identifier>
+<description><![CDATA[Selling health insurance through digital advertising is fundamentally different from selling most consumer products online: health insurance protects against abstract future risks, and regulatory constraints prohibit transactions from closing on third-party platforms, forcing consumers to transition from the ad platform to the insurer’s own product page. We examine how aligning narrative ad content with product page design sustains persuasion across this mandatory handoff. In a randomized field experiment with a leading Chinese insurer on Douyin, we study 335 ads that generated nearly 17 million impressions and 777,412 click-throughs. Users who clicked were randomly routed to either a fact-based product page or one incorporating a customer experience exemplar. Purchase conversion rises most when narrative ads are paired with the exemplar page, increasing from 1.51% to 2.05%, implying roughly 8,400 additional policies per month at campaign scale. Neither element is effective in isolation. A causal mediation analysis confirms that sustained engagement on the product page accounts for more than 80% of the total effect. To address algorithm-driven selection in ad delivery and self-selection into clicking, we employ a sequential endogeneity correction strategy and confirm robustness with causal forests. Aligning ad design with product page design significantly improves conversion in regulated digital markets. History: Catherine Tucker served as the senior editor. Funding: X. Ren acknowledges financial support from the National Natural Science Foundation of China [Grants 72072095 and 72472077]. R. Wang acknowledges financial support from the National Natural Science Foundation of China [Grant 72072004]. Y. Bai acknowledges financial support from the National Social Science Fund of China [Grant 22BGL119]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mksc.2025.0168 .]]></description>
+<content:encoded><![CDATA[Selling health insurance through digital advertising is fundamentally different from selling most consumer products online: health insurance protects against abstract future risks, and regulatory constraints prohibit transactions from closing on third-party platforms, forcing consumers to transition from the ad platform to the insurer’s own product page. We examine how aligning narrative ad content with product page design sustains persuasion across this mandatory handoff. In a randomized field experiment with a leading Chinese insurer on Douyin, we study 335 ads that generated nearly 17 million impressions and 777,412 click-throughs. Users who clicked were randomly routed to either a fact-based product page or one incorporating a customer experience exemplar. Purchase conversion rises most when narrative ads are paired with the exemplar page, increasing from 1.51% to 2.05%, implying roughly 8,400 additional policies per month at campaign scale. Neither element is effective in isolation. A causal mediation analysis confirms that sustained engagement on the product page accounts for more than 80% of the total effect. To address algorithm-driven selection in ad delivery and self-selection into clicking, we employ a sequential endogeneity correction strategy and confirm robustness with causal forests. Aligning ad design with product page design significantly improves conversion in regulated digital markets. History: Catherine Tucker served as the senior editor. Funding: X. Ren acknowledges financial support from the National Natural Science Foundation of China [Grants 72072095 and 72472077]. R. Wang acknowledges financial support from the National Natural Science Foundation of China [Grant 72072004]. Y. Bai acknowledges financial support from the National Social Science Fund of China [Grant 22BGL119]. Supplemental Material: The online appendix and data files are available at https://doi.org/10.1287/mksc.2025.0168 .]]></content:encoded>
 </item>
 <item>
 <title>Is Competition Only One Click Away? The Digital Markets Act’s Impact on Google Maps</title>

@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 06:16:01 +0000</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 19:31:08 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -94,15 +94,6 @@
 <description></description>
 </item>
 <item>
-<title>Social media engagement and resource gain spirals: a mixed-methods study of digital empowerment among marginalized caregivers</title>
-<link>https://doi.org/10.1016/j.im.2026.104371</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104371</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Murad Moqbel; Valerie L. Bartelt; Cynthia K. Riemenschneider; Abdullah Albizri; Sam Zaza]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104371</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Breaking the spiral of silence in social media: The interplay between opinion climates and hardcore user identity</title>
 <link>https://doi.org/10.1016/j.im.2026.104430</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104430</guid>
@@ -166,21 +157,21 @@
 <description></description>
 </item>
 <item>
-<title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
-<link>https://doi.org/10.1016/j.im.2026.104436</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Seeking love or fearing loss: divergent motivations in content creations of mega and micro creators on social media platforms</title>
 <link>https://doi.org/10.1016/j.im.2026.104434</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104434</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Mengyuan Wang; Yaobin Lu; Qian Chen; Lv Yang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104434</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
+<link>https://doi.org/10.1016/j.im.2026.104436</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -247,21 +238,21 @@
 <description></description>
 </item>
 <item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
 <link>https://doi.org/10.1016/j.im.2026.104411</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -382,15 +373,6 @@
 <description></description>
 </item>
 <item>
-<title>Data Breach Risks of Adopting Interorganizational Data Exchange Systems: Evidence from Health Information Exchange Adoption</title>
-<link>https://doi.org/10.1016/j.im.2026.104460</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104460</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Wang; Hasan Cavusoglu; Shan Liu; Arslan Aziz]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104460</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>LLM-powered contrastive hierarchical interest learning for cross-platform information recommendation</title>
 <link>https://doi.org/10.1016/j.im.2026.104404</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104404</guid>
@@ -406,6 +388,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Botong Xue; Merrill Warkentin; Xin (Robert) Luo]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104405</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How to launch bug bounty programs: Strategies to utilize heterogeneous quality of hackers</title>
+<link>https://doi.org/10.1016/j.im.2026.104468</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104468</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jing Li; Chenglong Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104468</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -427,21 +418,21 @@
 <description></description>
 </item>
 <item>
-<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
-<link>https://doi.org/10.1016/j.im.2026.104414</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Beyond speculation: Explaining the intention to use cryptocurrency</title>
 <link>https://doi.org/10.1016/j.im.2026.104410</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104410</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Pouyan Esmaeilzadeh; Karlene Cousins; Hemang Subramanian; Arun Rai]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104410</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
+<link>https://doi.org/10.1016/j.im.2026.104414</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -472,21 +463,21 @@
 <description></description>
 </item>
 <item>
-<title>Restoring legitimacy under resource constraints: The impact of data breaches on corporate social responsibility</title>
-<link>https://doi.org/10.1016/j.im.2026.104459</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104459</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Junmin Xu; Xiaoyue Song; Quansheng Li; Qin Su; Wei Thoo Yue]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104459</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>AI error or AI creativity? Attributional ambiguity in AI-generated expectation-violating prerolls</title>
 <link>https://doi.org/10.1016/j.im.2026.104465</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104465</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shichen Zhang; Liang Peng; Yinliang (Ricky) Tan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104465</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Restoring legitimacy under resource constraints: The impact of data breaches on corporate social responsibility</title>
+<link>https://doi.org/10.1016/j.im.2026.104459</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104459</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junmin Xu; Xiaoyue Song; Quansheng Li; Qin Su; Wei Thoo Yue]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104459</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -526,21 +517,21 @@
 <description></description>
 </item>
 <item>
-<title>What works when: calibrating temporal focus for crowdfunding success</title>
-<link>https://doi.org/10.1016/j.im.2026.104456</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Beyond integration to validation: the differential impact of physicians’ knowledge collaboration behaviors on online medical team performance</title>
 <link>https://doi.org/10.1016/j.im.2026.104452</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What works when: calibrating temporal focus for crowdfunding success</title>
+<link>https://doi.org/10.1016/j.im.2026.104456</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -571,21 +562,21 @@
 <description></description>
 </item>
 <item>
-<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
-<link>https://doi.org/10.1016/j.im.2026.104454</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Crafting Persuasive Environmental Messages for Virtual Influencers: The Role of Anthropomorphic Conversational Style, Persuasion Appeal, and Behavioral Context</title>
 <link>https://doi.org/10.1016/j.im.2026.104461</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104461</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Calvin Wan; Daisy Lee; Peggy M.L. Ng; Raffaele Filieri]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
+<link>https://doi.org/10.1016/j.im.2026.104454</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -604,6 +595,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Huatong Chong; Lei Nie; Jiangning He]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104441</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Data breach risks of adopting interorganizational data exchange systems: evidence from health information exchange adoption</title>
+<link>https://doi.org/10.1016/j.im.2026.104460</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104460</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Wang; Hasan Cavusoglu; Shan Liu; Arslan Aziz]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104460</dc:identifier>
 <description></description>
 </item>
 <item>
