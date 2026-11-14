@@ -9,36 +9,9 @@
 <description>AJS — University of Chicago Press · Latest in: Online First · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ajs.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 19:31:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:59:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
-<item>
-<title>Kinship in Black and White Families: The Strength of Horizontal Ties</title>
-<link>https://doi.org/10.1086/742837</link>
-<guid isPermaLink="false">10.1086/742837</guid>
-<pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Thomas Leopold; Matthijs Kalmijn]]></dc:creator>
-<dc:identifier>doi:10.1086/742837</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Skill Diversification Beyond High-Paying Jobs</title>
-<link>https://doi.org/10.1086/741725</link>
-<guid isPermaLink="false">10.1086/741725</guid>
-<pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Siqi Han; Siwei Cheng]]></dc:creator>
-<dc:identifier>doi:10.1086/741725</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Networks at Work: Officer Diversity, Network Segregation, and Police Misconduct</title>
-<link>https://doi.org/10.1086/742582</link>
-<guid isPermaLink="false">10.1086/742582</guid>
-<pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Linda Zhao]]></dc:creator>
-<dc:identifier>doi:10.1086/742582</dc:identifier>
-<description></description>
-</item>
 <item>
 <title>&lt;i&gt;Where the Hood At? Fifty Years of Change in Black Neighborhoods&lt;/i&gt;</title>
 <link>https://doi.org/10.1086/741396</link>
@@ -194,9 +167,151 @@
 <title>Deportation’s Fallout: Evidence from Denmark</title>
 <link>https://doi.org/10.1086/742317</link>
 <guid isPermaLink="false">10.1086/742317</guid>
-<pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Michael T. Light; Lars H. Andersen; Noa Hendel]]></dc:creator>
 <dc:identifier>doi:10.1086/742317</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Front Matter</title>
+<link>https://doi.org/10.1086/744798</link>
+<guid isPermaLink="false">10.1086/744798</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744798</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Eating and Being: A History of Ideas About Our Food and Ourselves&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/743183</link>
+<guid isPermaLink="false">10.1086/743183</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vanina Leschziner]]></dc:creator>
+<dc:identifier>doi:10.1086/743183</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Biomedical Innovation in Fertility Care: Evidence Challenges, Commercialization, and the Market for Hope&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/742915</link>
+<guid isPermaLink="false">10.1086/742915</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alya Guseva]]></dc:creator>
+<dc:identifier>doi:10.1086/742915</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;The Residential Is Racial: A Perceptual History of Mass Homeownership&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/743181</link>
+<guid isPermaLink="false">10.1086/743181</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Debbie Becher]]></dc:creator>
+<dc:identifier>doi:10.1086/743181</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;The Social Roots of Authoritarianism&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/742916</link>
+<guid isPermaLink="false">10.1086/742916</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sahan S. Karatasli]]></dc:creator>
+<dc:identifier>doi:10.1086/742916</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Brothers in Grief: The Hidden Toll of Gun Violence on Black Boys and Their Schools&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/743168</link>
+<guid isPermaLink="false">10.1086/743168</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Brandon A. Jackson]]></dc:creator>
+<dc:identifier>doi:10.1086/743168</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Contributors</title>
+<link>https://doi.org/10.1086/744377</link>
+<guid isPermaLink="false">10.1086/744377</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1086/744377</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Diversity and Prosociality in NYC Neighborhoods: Evidence from a Lost-Wallet Experiment</title>
+<link>https://doi.org/10.1086/741818</link>
+<guid isPermaLink="false">10.1086/741818</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shannon Rieger; Delia Baldassarri; Maria Abascal]]></dc:creator>
+<dc:identifier>doi:10.1086/741818</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Nostalgia, Nationalism, and the US Militia Movement&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/742997</link>
+<guid isPermaLink="false">10.1086/742997</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruiqian Li]]></dc:creator>
+<dc:identifier>doi:10.1086/742997</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Networks at Work: Officer Diversity, Network Segregation, and Police Misconduct</title>
+<link>https://doi.org/10.1086/742582</link>
+<guid isPermaLink="false">10.1086/742582</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Linda Zhao]]></dc:creator>
+<dc:identifier>doi:10.1086/742582</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Kinship in Black and White Families: The Strength of Horizontal Ties</title>
+<link>https://doi.org/10.1086/742837</link>
+<guid isPermaLink="false">10.1086/742837</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Leopold; Matthijs Kalmijn]]></dc:creator>
+<dc:identifier>doi:10.1086/742837</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Caring for Caregivers: Filipina Migrant Workers and Community Building During Crisis&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/743169</link>
+<guid isPermaLink="false">10.1086/743169</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yasmin Y. Ortiga]]></dc:creator>
+<dc:identifier>doi:10.1086/743169</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Skill Diversification Beyond High-Paying Jobs</title>
+<link>https://doi.org/10.1086/741725</link>
+<guid isPermaLink="false">10.1086/741725</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siqi Han; Siwei Cheng]]></dc:creator>
+<dc:identifier>doi:10.1086/741725</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;The Unbuilt Bench: Experimental Psychology on the Verge of Science&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/743165</link>
+<guid isPermaLink="false">10.1086/743165</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Emmanuel Didier]]></dc:creator>
+<dc:identifier>doi:10.1086/743165</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Catholics in America: A Social Portrait&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/743170</link>
+<guid isPermaLink="false">10.1086/743170</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Gary J. Adler]]></dc:creator>
+<dc:identifier>doi:10.1086/743170</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Cosmopolitan Scientists: How a Global Policy of Commercialization Became Japanese&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/743182</link>
+<guid isPermaLink="false">10.1086/743182</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Justin J.W. Powell]]></dc:creator>
+<dc:identifier>doi:10.1086/743182</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -206,33 +321,6 @@
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Mustafa Emirbayer; William R. Earnest]]></dc:creator>
 <dc:identifier>doi:10.1086/743934</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Racial Discrimination in Context: The Role of Organizational Policies and Practices in Hiring Discrimination</title>
-<link>https://doi.org/10.1086/739291</link>
-<guid isPermaLink="false">10.1086/739291</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[David S. Pedulla; Felipe Dias; Katherine E. Wullert; John Muñoz]]></dc:creator>
-<dc:identifier>doi:10.1086/739291</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>: &lt;i&gt;Handcrafted Careers: Working the Artisan Economy of Craft Beers&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/738886</link>
-<guid isPermaLink="false">10.1086/738886</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ruth Horowitz]]></dc:creator>
-<dc:identifier>doi:10.1086/738886</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Exams, Meritocracy, and Disenchantment with the Chinese Dream</title>
-<link>https://doi.org/10.1086/738608</link>
-<guid isPermaLink="false">10.1086/738608</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xiaogang Wu]]></dc:creator>
-<dc:identifier>doi:10.1086/738608</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -316,101 +404,12 @@
 <description></description>
 </item>
 <item>
-<title>: &lt;i&gt;Reunited: Family Separation and Central American Youth Migration&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/739927</link>
-<guid isPermaLink="false">10.1086/739927</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Leah Schmalzbauer]]></dc:creator>
-<dc:identifier>doi:10.1086/739927</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>: &lt;i&gt;Language Brokers: Children of Immigrants Translating Inequality and Belonging for Their Families&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/740386</link>
-<guid isPermaLink="false">10.1086/740386</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sarah M. Ovink]]></dc:creator>
-<dc:identifier>doi:10.1086/740386</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>: &lt;i&gt;The Economy of Promises: Trust, Power, and Credit in America&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/740005</link>
-<guid isPermaLink="false">10.1086/740005</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Josh Lauer]]></dc:creator>
-<dc:identifier>doi:10.1086/740005</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Is the Criminal Legal System Becoming More Gender Egalitarian? The Gender Gap in Criminal Court Case Outcomes in Texas, 1993–2015</title>
-<link>https://doi.org/10.1086/740195</link>
-<guid isPermaLink="false">10.1086/740195</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kylie Jaeyun Yim; Lindsay Bing; Becky Pettit]]></dc:creator>
-<dc:identifier>doi:10.1086/740195</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Does Expanding Free Secondary Education Moderate the Relationship Between Genes and Socioeconomic Outcomes? Evidence from the Education Act of 1944 in England</title>
-<link>https://doi.org/10.1086/740030</link>
-<guid isPermaLink="false">10.1086/740030</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alicia García-Sierra; Michael Grätz]]></dc:creator>
-<dc:identifier>doi:10.1086/740030</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Front Matter</title>
-<link>https://doi.org/10.1086/741909</link>
-<guid isPermaLink="false">10.1086/741909</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1086/741909</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>: &lt;i&gt;Sons, Daughters, and Sidewalk Psychotics: Mental Illness and Homelessness in Los Angeles&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/739928</link>
-<guid isPermaLink="false">10.1086/739928</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Gretchen Purser]]></dc:creator>
-<dc:identifier>doi:10.1086/739928</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>: &lt;i&gt;Planning for the Wrong Pandemic: Covid-19 and the Limits of Expert Knowledge&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/740387</link>
-<guid isPermaLink="false">10.1086/740387</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Andrew Schrank]]></dc:creator>
-<dc:identifier>doi:10.1086/740387</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-Identifications</title>
-<link>https://doi.org/10.1086/740028</link>
-<guid isPermaLink="false">10.1086/740028</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marissa E. Thompson; Sam Trejo; AJ Alvero; Daphne O. Martschenko]]></dc:creator>
-<dc:identifier>doi:10.1086/740028</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A Farewell to Public Religion? Retheorizing and Assessing the Public Relevance of Religion</title>
 <link>https://doi.org/10.1086/744185</link>
 <guid isPermaLink="false">10.1086/744185</guid>
 <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Damon Mayrl; Gary J. Adler, Jr.; Jonathan S. Coley; Rebecca Sager; Elise Wolff; John P. Miller]]></dc:creator>
 <dc:identifier>doi:10.1086/744185</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Diversity and Prosociality in NYC Neighborhoods: Evidence from a Lost Wallet Experiment</title>
-<link>https://doi.org/10.1086/741818</link>
-<guid isPermaLink="false">10.1086/741818</guid>
-<pubDate>Mon, 20 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shannon Rieger; Delia Baldassarri; Maria Abascal]]></dc:creator>
-<dc:identifier>doi:10.1086/741818</dc:identifier>
 <description></description>
 </item>
 <item>

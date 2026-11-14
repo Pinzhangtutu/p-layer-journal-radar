@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 13 Nov 2026 19:31:08 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 05:59:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -94,15 +94,6 @@
 <description></description>
 </item>
 <item>
-<title>Designing AI-based decision support systems for carbon stock estimation and planning: A design science research</title>
-<link>https://doi.org/10.1016/j.dss.2026.114704</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114704</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Amelia S. Li; Shan L. Pan; Yenni Tim; Hoang D. Nguyen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114704</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Too alike to thrive? Personality and functionality similarity in virtual teams</title>
 <link>https://doi.org/10.1016/j.dss.2026.114775</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114775</guid>
@@ -130,6 +121,15 @@
 <description></description>
 </item>
 <item>
+<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
+<link>https://doi.org/10.1016/j.dss.2026.114774</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Human-led or AI-led? How AI role configuration influences human engagement on knowledge-intensive gig platforms</title>
 <link>https://doi.org/10.1016/j.dss.2026.114781</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114781</guid>
@@ -145,15 +145,6 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
-<link>https://doi.org/10.1016/j.dss.2026.114774</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -427,15 +418,6 @@
 <description></description>
 </item>
 <item>
-<title>The relationship between governance token holder category and voting behavior in decentralized autonomous organizations</title>
-<link>https://doi.org/10.1016/j.dss.2026.114800</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114800</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Runhui Lin; Wenchang Li; Dahui Li; Ze Ji; Zhimin Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114800</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Generative AI for decision support: Applications, challenges, and research directions</title>
 <link>https://doi.org/10.1016/j.dss.2026.114796</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114796</guid>
@@ -478,6 +460,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hojun Kang; Sang-Gun Lee]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114753</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Inferring health motivation from wearable data: A cluster-based approach to predicting healthcare claims</title>
+<link>https://doi.org/10.1016/j.dss.2026.114802</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114802</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michelle Marcus; Lemai Nguyen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114802</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -559,6 +550,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jiandong Lu; Jiaxin Zhang; Yang Lu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114786</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The relationship between governance token holder category and voting behavior in decentralized autonomous organizations</title>
+<link>https://doi.org/10.1016/j.dss.2026.114800</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114800</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Runhui Lin; Wenchang Li; Dahui Li; Ze Ji; Zhimin Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114800</dc:identifier>
 <description></description>
 </item>
 <item>
