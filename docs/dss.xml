@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 14 Nov 2026 05:59:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:24:52 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -301,15 +301,6 @@
 <description></description>
 </item>
 <item>
-<title>When ratings speak louder than words: Seek alpha in seeking alpha</title>
-<link>https://doi.org/10.1016/j.dss.2026.114787</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114787</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zhihao Lee; Fun Yi Chan; Chaoyue Gao; Alvin Chung Man Leung; Qiang Ye]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114787</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Socializing online knowledge platforms: How social post features influence user knowledge contribution and mitigate the adverse impact of generative AI</title>
 <link>https://doi.org/10.1016/j.dss.2026.114731</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114731</guid>
@@ -481,21 +472,21 @@
 <description></description>
 </item>
 <item>
-<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
-<link>https://doi.org/10.1016/j.dss.2026.114742</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
 <link>https://doi.org/10.1016/j.dss.2026.114797</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
+<link>https://doi.org/10.1016/j.dss.2026.114742</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -559,6 +550,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Runhui Lin; Wenchang Li; Dahui Li; Ze Ji; Zhimin Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114800</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When ratings speak louder than words: Seek alpha in Seeking Alpha</title>
+<link>https://doi.org/10.1016/j.dss.2026.114787</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114787</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhihao Li; Fun Yi Chan; Chaoyue Gao; Alvin Chung Man Leung; Qiang Ye]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114787</dc:identifier>
 <description></description>
 </item>
 <item>

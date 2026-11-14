@@ -9,7 +9,7 @@
 <description>AJS — University of Chicago Press · Latest in: Online First · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ajs.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 14 Nov 2026 05:59:17 +0000</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 13:24:52 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -190,21 +190,21 @@
 <description></description>
 </item>
 <item>
-<title>&lt;i&gt;Biomedical Innovation in Fertility Care: Evidence Challenges, Commercialization, and the Market for Hope&lt;/i&gt;</title>
-<link>https://doi.org/10.1086/742915</link>
-<guid isPermaLink="false">10.1086/742915</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alya Guseva]]></dc:creator>
-<dc:identifier>doi:10.1086/742915</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>&lt;i&gt;The Residential Is Racial: A Perceptual History of Mass Homeownership&lt;/i&gt;</title>
 <link>https://doi.org/10.1086/743181</link>
 <guid isPermaLink="false">10.1086/743181</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Debbie Becher]]></dc:creator>
 <dc:identifier>doi:10.1086/743181</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>&lt;i&gt;Biomedical Innovation in Fertility Care: Evidence Challenges, Commercialization, and the Market for Hope&lt;/i&gt;</title>
+<link>https://doi.org/10.1086/742915</link>
+<guid isPermaLink="false">10.1086/742915</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alya Guseva]]></dc:creator>
+<dc:identifier>doi:10.1086/742915</dc:identifier>
 <description></description>
 </item>
 <item>
