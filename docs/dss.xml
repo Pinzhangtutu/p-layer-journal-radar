@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 15 Nov 2026 13:52:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 22:43:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -409,21 +409,21 @@
 <description></description>
 </item>
 <item>
-<title>Identifying suspicious online reviews of telemedicine applications based on homophily principle and social presence theory</title>
-<link>https://doi.org/10.1016/j.dss.2026.114751</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114751</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Chengfei Wang; Wenting (Kayla) Jiang; Ashish Gupta; Han Li]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114751</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Generative AI for decision support: Applications, challenges, and research directions</title>
 <link>https://doi.org/10.1016/j.dss.2026.114796</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114796</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Pallab Sanyal; Fiona Nah; Dongsong Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114796</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Identifying suspicious online reviews of telemedicine applications based on homophily principle and social presence theory</title>
+<link>https://doi.org/10.1016/j.dss.2026.114751</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114751</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chengfei Wang; Wenting (Kayla) Jiang; Ashish Gupta; Han Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114751</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -472,21 +472,21 @@
 <description></description>
 </item>
 <item>
-<title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
-<link>https://doi.org/10.1016/j.dss.2026.114797</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
 <link>https://doi.org/10.1016/j.dss.2026.114742</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
+<link>https://doi.org/10.1016/j.dss.2026.114797</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
 <description></description>
 </item>
 <item>

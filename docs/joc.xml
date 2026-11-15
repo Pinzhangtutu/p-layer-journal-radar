@@ -9,7 +9,7 @@
 <description>JoC — Oxford · Latest in: Advance · Subfield: communication</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/joc.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 15 Nov 2026 13:52:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 22:43:43 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -299,16 +299,6 @@
 <content:encoded><![CDATA[Abstract The implementation of warning labels has been shown to slow the spread of harmful content on social media, but the mechanisms by which these interventions affect individuals' sharing decisions are not yet known. This study sought to establish the efficacy of these interventions and to explore the mechanisms of their influence using two parallel studies conducted within the United States: an online experiment that tested the effects of cannabis warning labels on sharing intentions (N = 1,776), and a neuroimaging study (N = 40) to examine how warning labels influenced activity in brain regions implicated in sharing decisions. Results demonstrated that warning labels paired with cannabis posts reduced intentions to share and were associated with decreased activation of brain regions associated with self-processing compared to cannabis posts alone. These results suggest that warning labels may discourage sharing by negatively influencing perceptions of self-relevance.]]></content:encoded>
 </item>
 <item>
-<title>Words that trigger: a meta-analysis of threatening language, reactance, and persuasion in health</title>
-<link>https://doi.org/10.1093/joc/jqaf004</link>
-<guid isPermaLink="false">10.1093/joc/jqaf004</guid>
-<pubDate>Thu, 27 Mar 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rong Ma; Zexin Ma; Callie S Kalny; Nathan Walter]]></dc:creator>
-<dc:identifier>doi:10.1093/joc/jqaf004</dc:identifier>
-<description><![CDATA[Abstract Psychological reactance theory is an important theoretical framework that explains resistance to persuasive messages. However, research has shown inconsistencies regarding the effects of reactance on persuasion, the operational treatment of reactance, and the manipulation of threatening language. This meta-analysis (k = 35, combined N = 10,658) consolidates findings from research on psychological reactance in health communication regarding the associations between freedom-threatening language, perceived freedom threat, state reactance, and persuasion outcomes, as well as the potential moderating impact of different reactance measures and other outcome- and recipient-related variables. Findings generally align with prior theorizing, with significant heterogeneity across studies. Sample type, age, and participant gender were identified as significant moderators. Moreover, our analysis presents a typology of threatening language features and examines their roles in inducing freedom threat perceptions. The analysis highlights the need for additional work to unravel underlying mechanisms and define the scope of boundary conditions.]]></description>
-<content:encoded><![CDATA[Abstract Psychological reactance theory is an important theoretical framework that explains resistance to persuasive messages. However, research has shown inconsistencies regarding the effects of reactance on persuasion, the operational treatment of reactance, and the manipulation of threatening language. This meta-analysis (k = 35, combined N = 10,658) consolidates findings from research on psychological reactance in health communication regarding the associations between freedom-threatening language, perceived freedom threat, state reactance, and persuasion outcomes, as well as the potential moderating impact of different reactance measures and other outcome- and recipient-related variables. Findings generally align with prior theorizing, with significant heterogeneity across studies. Sample type, age, and participant gender were identified as significant moderators. Moreover, our analysis presents a typology of threatening language features and examines their roles in inducing freedom threat perceptions. The analysis highlights the need for additional work to unravel underlying mechanisms and define the scope of boundary conditions.]]></content:encoded>
-</item>
-<item>
 <title>The cosmopolitan imagination: a call for global communication studies</title>
 <link>https://doi.org/10.1093/joc/jqaf043</link>
 <guid isPermaLink="false">10.1093/joc/jqaf043</guid>
@@ -426,6 +416,16 @@
 <dc:creator><![CDATA[Aparajita Bhandari]]></dc:creator>
 <dc:identifier>doi:10.1093/joc/jqag003</dc:identifier>
 <description></description>
+</item>
+<item>
+<title>Softening the spring: Sensitization of transient media effects through repeated exposure over time</title>
+<link>https://doi.org/10.1093/joc/jqag024</link>
+<guid isPermaLink="false">10.1093/joc/jqag024</guid>
+<pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yuqian Ni; Joshua Baldwin; Allan D Tate; Michael D Schmidt; Kyle Johnsen; Sun Joo (Grace) Ahn]]></dc:creator>
+<dc:identifier>doi:10.1093/joc/jqag024</dc:identifier>
+<description><![CDATA[Abstract Existing longitudinal media effects research often emphasizes overall trends in behavioral or attitudinal changes, while overlooking fluctuations that occur before and after each exposure instance. This oversight can obscure the mechanisms underlying longitudinal media effects, particularly how they accumulate from successive short-term effects. We hypothesized a sensitization process where a single media exposure induces a transient change in behavior followed by a rapid decay, while repeated exposure gradually strengthen the magnitude of transient effects and make them more sustained. We tested this hypothesis by analyzing continuously recorded behavioral data collected via wearable sensors over 6 months. During this period, children repeatedly interacted with an integrated system of media technology designed to promote physical activity (PA). Data partially supported the hypothesized sensitization process. Children’s PA showed a transient increase following single exposures. Moreover, although the transient effect did not become more sustained over time, it grew in magnitude with repeated exposure.]]></description>
+<content:encoded><![CDATA[Abstract Existing longitudinal media effects research often emphasizes overall trends in behavioral or attitudinal changes, while overlooking fluctuations that occur before and after each exposure instance. This oversight can obscure the mechanisms underlying longitudinal media effects, particularly how they accumulate from successive short-term effects. We hypothesized a sensitization process where a single media exposure induces a transient change in behavior followed by a rapid decay, while repeated exposure gradually strengthen the magnitude of transient effects and make them more sustained. We tested this hypothesis by analyzing continuously recorded behavioral data collected via wearable sensors over 6 months. During this period, children repeatedly interacted with an integrated system of media technology designed to promote physical activity (PA). Data partially supported the hypothesized sensitization process. Children’s PA showed a transient increase following single exposures. Moreover, although the transient effect did not become more sustained over time, it grew in magnitude with repeated exposure.]]></content:encoded>
 </item>
 <item>
 <title>Preventing Violence in the Disability Margins: A Culture-Centered Study in Aotearoa</title>
