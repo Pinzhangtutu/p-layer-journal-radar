@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 16 Nov 2026 06:01:52 +0000</lastBuildDate>
+<lastBuildDate>Mon, 16 Nov 2026 15:35:53 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,15 +211,6 @@
 <description></description>
 </item>
 <item>
-<title>LLM-derived metrics in second language writing assessment: an explainable AI approach</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105721</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105721</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jingying Hu; Yan Cong]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105721</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Incorporating pedagogical agents into desktop virtual reality: Does visual-tone emotional congruency matter?</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105726</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105726</guid>
@@ -235,6 +226,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Nehama Zaklas; Tali Gazit]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105723</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>LLM-derived metrics in second language writing assessment: an explainable AI approach</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105721</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105721</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jingying Hu; Yan Cong]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105721</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -319,21 +319,21 @@
 <description></description>
 </item>
 <item>
-<title>New hats for parents? Reviewing parental roles in K-12 online and blended student engagement</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105695</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105695</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Courtney N. Hanny; Richard E. West]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105695</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>From potential to practice: A critical realist exploration of GenAI use in Australian early childhood education and care</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105791</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105791</guid>
 <pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ali Tehrani; Parian Madanipour; Caroline Cohrssen; Frada Burstein; Emma Forsyth]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105791</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Assessing engagement in academic contexts: A multitrait, multimethod, multimodal data approach</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105803</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105803</guid>
+<pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Anh Thu Le; Cheng Liu; Ying Cheng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105803</dc:identifier>
 <description></description>
 </item>
 <item>
