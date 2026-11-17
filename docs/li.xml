@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 16 Nov 2026 15:35:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 01:50:24 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -112,21 +112,21 @@
 <description></description>
 </item>
 <item>
-<title>A systematic review on the development of self-regulated learning</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102433</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102433</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Charlotte Dignath; Bernadette van Berk; Stella Vosniadou]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102433</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Exploring avatar-mediated learning outcomes and motivation in the metaverse environment for sign language education</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102448</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102448</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yuk Ming Tang; Suet Yi Tse; Ka Yi Lee; G.C.P. Tsui; G.T.S. Ho]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102448</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A systematic review on the development of self-regulated learning</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102433</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102433</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Charlotte Dignath; Bernadette van Berk; Stella Vosniadou]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102433</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -148,21 +148,21 @@
 <description></description>
 </item>
 <item>
-<title>Mathematics at the core: Longitudinal network analysis of executive functions and academic performance in Chinese children</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102457</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102457</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Minyuan Song; Chao Ma; Xin Zhao; Xiujie Yang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102457</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>How to communicate evidence to teachers: Comparing the effects of verbal and visual effect size representation [Registered Report – stage II]</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102427</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102427</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Florian Kühlwein; Samuel Merk; Jürgen Schneider; Kirstin Schmidt]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102427</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mathematics at the core: Longitudinal network analysis of executive functions and academic performance in Chinese children</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102457</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102457</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Minyuan Song; Chao Ma; Xin Zhao; Xiujie Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102457</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -211,15 +211,6 @@
 <description></description>
 </item>
 <item>
-<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Towards an adaptive AI scaffold for developing student collaborative problem solving</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102418</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102418</guid>
@@ -235,6 +226,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -391,15 +391,6 @@
 <description></description>
 </item>
 <item>
-<title>Benefits and challenges of an urban foraging program: A situated learning theory lens</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102499</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102499</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dafna Gan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102499</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>From revision to learning transfer: Self- and socially shared-regulated pathways in AI-assisted feedback</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102489</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102489</guid>
@@ -415,6 +406,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Anthony J. Onwuegbuzie]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102486</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Benefits and challenges of an urban foraging program: A situated learning theory lens</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102499</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102499</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dafna Gan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102499</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -589,21 +589,21 @@
 <description></description>
 </item>
 <item>
-<title>From faux flipped to gamified flipped classrooms: scaffolding and cognitive load management</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102487</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102487</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zamzami Zainuddin; Tianchong Wang; Riyan Hidayat; Madziatul Churiyah]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102487</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Unveiling gendered participation dynamics in collaborative group work through transition network analysis</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102503</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102503</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jingoo Kang; Stephen Adofo; Jori Manner; Mohammed Saqr]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102503</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From faux flipped to gamified flipped classrooms: scaffolding and cognitive load management</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102487</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102487</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zamzami Zainuddin; Tianchong Wang; Riyan Hidayat; Madziatul Churiyah]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102487</dc:identifier>
 <description></description>
 </item>
 <item>

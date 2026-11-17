@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 16 Nov 2026 15:35:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 01:50:24 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -190,15 +190,6 @@
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zack Dulberg; Rachit Dubey; Jonathan D. Cohen]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000567</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Disorders of self-categorization: How and why a healthy social self-system is the cornerstone of mental health.</title>
-<link>https://doi.org/10.1037/rev0000566</link>
-<guid isPermaLink="false">10.1037/rev0000566</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tegan Cruwys; S. Alexander Haslam; Daniel P. Skorich]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000566</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -516,6 +507,15 @@
 <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Qihan Wu; Jonathan I. Flombaum]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000629</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Uncovering internal sensory evidence reveals the nature of confidence computation in multi-alternative perceptual decision making.</title>
+<link>https://doi.org/10.1037/rev0000659</link>
+<guid isPermaLink="false">10.1037/rev0000659</guid>
+<pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kai Xue; Medha Shekhar; Dobromir Rahnev]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000659</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>JAP — APA · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jap.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 16 Nov 2026 15:35:53 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 01:50:24 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -64,6 +64,78 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Nathan Baker; William Scott; Christopher D. Nye; Oleksandr S. Chernyshenko; Hee Woong Park; Colin L. Omori]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001378</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reciprocal relationships between personality traits and job satisfaction? A continuous time approach with two investigations.</title>
+<link>https://doi.org/10.1037/apl0001388</link>
+<guid isPermaLink="false">10.1037/apl0001388</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kaili Yu; Wen-Dong Li; Weiwen Yang; Yanglei Zheng; Zhen Zhang; Christian Dormann; Huanxi Zhang; Hannes Zacher]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001388</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Resocialization as a lens to understanding workplace reentry transitions: An integrative conceptual review.</title>
+<link>https://doi.org/10.1037/apl0001384</link>
+<guid isPermaLink="false">10.1037/apl0001384</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jamie J. Ladge; Gabriel R. Sala; Audrey L. Holm]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001384</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Understanding the intersection of gender and cognitive ability on interpersonal outcomes: A multistudy investigation.</title>
+<link>https://doi.org/10.1037/apl0001391</link>
+<guid isPermaLink="false">10.1037/apl0001391</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nitya Chawla; Trevor M. Spoelma; Seo-Hyun Kwon; Allison S. Gabriel; Aleksander P. J. Ellis; Wen Wu]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001391</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reducing shrinkage in diversity tradeoff curves for personnel selection: Comparing local validity studies, meta-analysis, and Bayes analysis.</title>
+<link>https://doi.org/10.1037/apl0001376</link>
+<guid isPermaLink="false">10.1037/apl0001376</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Chen Tang; Daniel A. Newman; Q. Chelsea Song; Serena Wee]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001376</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Bridging a gap in meta-analytical practices: A superior approach for converting standardized beta weights to correlations.</title>
+<link>https://doi.org/10.1037/apl0001379</link>
+<guid isPermaLink="false">10.1037/apl0001379</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Piers Steel; Hadi Fariborzi; Patrick D. Dunlop]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001379</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>They’ll conform anyway: A motivation stereotype perspective on the exploitation of Asian employees.</title>
+<link>https://doi.org/10.1037/apl0001380</link>
+<guid isPermaLink="false">10.1037/apl0001380</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Liuxin Yan; Anjier Chen]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001380</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Transformational leadership in context: A meta-analysis of 40 years of research.</title>
+<link>https://doi.org/10.1037/apl0001389</link>
+<guid isPermaLink="false">10.1037/apl0001389</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dustin Maneethai; Robert Eisenberger; Thomas Rockstuhl; Dongyuan Wu; Blaine A. Lewis]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001389</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From road to rage: Why commute demands are associated with interpersonal counterproductive work behaviors (and what to do about it).</title>
+<link>https://doi.org/10.1037/apl0001394</link>
+<guid isPermaLink="false">10.1037/apl0001394</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jake Gale; Trevor A. Foulk; Amir Erez; Satish Krishnan; Hae-Lyeng Rose Kim; Binyamin Cooper]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001394</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -243,21 +315,21 @@
 <description></description>
 </item>
 <item>
-<title>Socializing through the grapevine: A content-based functional perspective on the receipt of workplace gossip during newcomer socialization.</title>
-<link>https://doi.org/10.1037/apl0001423</link>
-<guid isPermaLink="false">10.1037/apl0001423</guid>
-<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rui Zhong; Yingxin Deng; Ryan Tucker]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001423</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Can formative latent variables represent psychological concepts? Replication and extension of MacKenzie et al. (2005).</title>
 <link>https://doi.org/10.1037/apl0001415</link>
 <guid isPermaLink="false">10.1037/apl0001415</guid>
 <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Miguel Aguirre-Urreta; Reza Yamini; Mikko Rönkkö]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001415</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Socializing through the grapevine: A content-based functional perspective on the receipt of workplace gossip during newcomer socialization.</title>
+<link>https://doi.org/10.1037/apl0001423</link>
+<guid isPermaLink="false">10.1037/apl0001423</guid>
+<pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Rui Zhong; Yingxin Deng; Ryan Tucker]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001423</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -306,21 +378,21 @@
 <description></description>
 </item>
 <item>
-<title>Roadblocks: Evaluating the impact of fines-related driver’s license suspension on work-related outcomes for socioeconomically disadvantaged workers.</title>
-<link>https://doi.org/10.1037/apl0001357</link>
-<guid isPermaLink="false">10.1037/apl0001357</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Maura J. Mills; Matthew J. Dolliver; Russell A. Matthews; Leah Nelson; Peter A. Jones; Marshall L. White]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001357</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The cost of coping with infertility: Extending theory on stressor appraisal.</title>
 <link>https://doi.org/10.1037/apl0001363</link>
 <guid isPermaLink="false">10.1037/apl0001363</guid>
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Natasha Poularikas; Alexiss Jeffers; Seoin Yoon; Joel Koopman; Nikolaos Dimotakis]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001363</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Roadblocks: Evaluating the impact of fines-related driver’s license suspension on work-related outcomes for socioeconomically disadvantaged workers.</title>
+<link>https://doi.org/10.1037/apl0001357</link>
+<guid isPermaLink="false">10.1037/apl0001357</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Maura J. Mills; Matthew J. Dolliver; Russell A. Matthews; Leah Nelson; Peter A. Jones; Marshall L. White]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001357</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -414,21 +486,21 @@
 <description></description>
 </item>
 <item>
-<title>The escalation of prosocial commitment: How the B corporation movement catalyzes social impact.</title>
-<link>https://doi.org/10.1037/apl0001311</link>
-<guid isPermaLink="false">10.1037/apl0001311</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001311</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The unintended consequences of state policies on entrepreneurial activity and quality of work life: A social impact study.</title>
 <link>https://doi.org/10.1037/apl0001345</link>
 <guid isPermaLink="false">10.1037/apl0001345</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jeremy B. Bernerth; Min Z. Carter; Justin Pepe; R. Michael Holmes; Wayne Hochwarter]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001345</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The escalation of prosocial commitment: How the B corporation movement catalyzes social impact.</title>
+<link>https://doi.org/10.1037/apl0001311</link>
+<guid isPermaLink="false">10.1037/apl0001311</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Garima Sharma; Joel Gehman; Leonardo Boni; 'Alim J. Beveridge]]></dc:creator>
+<dc:identifier>doi:10.1037/apl0001311</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -441,55 +513,11 @@
 <description></description>
 </item>
 <item>
-<title>Turning the envious boss into a friend or a foe: The emotional and behavioral reactions to being envied by one’s supervisor and its impact on leader–member exchange.</title>
-<link>https://doi.org/10.1037/apl0001366</link>
-<guid isPermaLink="false">10.1037/apl0001366</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Haoying (Howie) Xu; Harshad Puranik; Sandy J. Wayne; Jingzhou Pan]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001366</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Are they really just words? Investigating the prevalence and impact of physical disability biased language in job advertisements.</title>
-<link>https://doi.org/10.1037/apl0001365</link>
-<guid isPermaLink="false">10.1037/apl0001365</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Melissa D. Pike; Deborah M. Powell; Jeffrey R. Spence; Joshua S. Bourdage]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001365</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The perils of peer bubbles: How early newcomer communication network composition shapes organizational integration and early turnover.</title>
-<link>https://doi.org/10.1037/apl0001371</link>
-<guid isPermaLink="false">10.1037/apl0001371</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Huaikang Zhou; Jiatan Chen; Ning Li; Junyuan Liu]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001371</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Clusters of general counterproductive behavior and associated personality profiles.</title>
-<link>https://doi.org/10.1037/apl0001344</link>
-<guid isPermaLink="false">10.1037/apl0001344</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael P. Wilmot; Deniz S. Ones; Brenton M. Wiernik]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001344</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for Personality Testing for Autistic Individuals: Potential Issues for Selection</title>
 <link>https://doi.org/10.1037/apl0001413.supp</link>
 <guid isPermaLink="false">10.1037/apl0001413.supp</guid>
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/apl0001413.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for Managing Internal Mobility: How Social and Human Capital Shape Movers’ Integration Over Time</title>
-<link>https://doi.org/10.1037/apl0001417.supp</link>
-<guid isPermaLink="false">10.1037/apl0001417.supp</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/apl0001417.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -563,24 +591,6 @@
 <description></description>
 </item>
 <item>
-<title>Daily temporal profiles at work: State-level dynamics in past, present, and future focus.</title>
-<link>https://doi.org/10.1037/apl0001411</link>
-<guid isPermaLink="false">10.1037/apl0001411</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Brian C. Holtz; Harshad Puranik; Crystal M. Harold; Kathleen R. Keeler; Yiming Huang; Xuting Jiang; Ran Ahn]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001411</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Reinforcing or eroding norms? The team consequences of negative gossip network.</title>
-<link>https://doi.org/10.1037/apl0001406</link>
-<guid isPermaLink="false">10.1037/apl0001406</guid>
-<pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rui Zhong; Yimin He; Yinbo (Bowie) Zheng; Christopher M. Barnes; Kyle Wu; Shaoxue Wu]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001406</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Redefining and updating career attitude profiles and their effectiveness in a postinflection career landscape.</title>
 <link>https://doi.org/10.1037/apl0001441</link>
 <guid isPermaLink="false">10.1037/apl0001441</guid>
@@ -613,15 +623,6 @@
 <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Andrew C. Loignon; Brent N. Reed; Andrew J. Knoblich; Karoline M. Summerville; Elizabeth Clayton; George C. Banks; Scott Tonidandel]]></dc:creator>
 <dc:identifier>doi:10.1037/apl0001407</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How the boss’s “right hand” becomes the group’s “go-to”: Leader–member exchange as a heuristic cue for everyday asks.</title>
-<link>https://doi.org/10.1037/apl0001401</link>
-<guid isPermaLink="false">10.1037/apl0001401</guid>
-<pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Emma L. Frank; Fadel K. Matta; Olympia M. Nakos; Jessica B. Rodell]]></dc:creator>
-<dc:identifier>doi:10.1037/apl0001401</dc:identifier>
 <description></description>
 </item>
 <item>
