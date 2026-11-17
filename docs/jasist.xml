@@ -9,7 +9,7 @@
 <description>JASIST — Wiley · Latest in: Early View · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jasist.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 17 Nov 2026 01:50:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 15:56:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -371,7 +371,7 @@
 <content:encoded><![CDATA[Abstract Understanding the flow and evolution of scientific knowledge is essential for assessing research impact. Existing citation analysis methods mainly focus on citing authors' subjective intents, failing to consistently characterize cited papers' knowledge contributions. This study proposes the Knowledge Contribution Taxonomy (KCT), derived from the Scientific Research Logic Model, which identifies the type of knowledge a cited paper contributes based on the citation context. KCT classifies citations into Method, Resource Tool, Empirical Finding, and Background, further distinguishing core from non‐core contributions. We propose a Dual‐Path Fusion model for the classification task, which achieves an accuracy of 85.5%, outperforming mainstream large language models. An analysis of 802,202 citations from the ACL Anthology reveals that core knowledge contributions account for only 39.09% of all citations. The core knowledge contribution citation count achieves higher hit rates for award‐winning papers than the traditional citation count at all ranking cutoffs, reflecting the value of differentiating knowledge contributions for research evaluation and impact prediction. In dissemination prediction experiments, KCT outperforms citation intent classification, demonstrating its stronger predictive validity for scholarly dissemination. By focusing on the knowledge contributions of cited papers, the KCT can support differentiated research evaluation.]]></content:encoded>
 </item>
 <item>
-<title>Reframing technology readiness research: A three? Decade systematic review of conceptual shifts, thematic patterns, and scholarly gaps (2000–2025). An Annual Review of Information Science and Technology (ARIST) paper</title>
+<title>Reframing technology readiness research: A three‐decade systematic review of conceptual shifts, thematic patterns, and scholarly gaps (2000–2025). An Annual Review of Information Science and Technology (ARIST) paper</title>
 <link>https://doi.org/10.1002/asi.70119</link>
 <guid isPermaLink="false">10.1002/asi.70119</guid>
 <pubDate>Sun, 27 Sep 2026 00:00:00 +0000</pubDate>

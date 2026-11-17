@@ -9,7 +9,7 @@
 <description>Econometrica — Wiley · Latest in: Early View · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/econometrica.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 17 Nov 2026 01:50:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 15:56:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -61,6 +61,16 @@
 <content:encoded><![CDATA[We study causal inference with high‐dimensional covariates, observed with various types of heteroscedastic noise. Our main assumption is that the true covariates are low rank, which we empirically evaluate with plots and interpret as approximate repeated measurements. This assumption delivers semiparametric inference on the causal parameter, as precisely as if the true covariates were available. A methodological contribution is to introduce an error‐in‐variable balancing weight for estimation and inference on cross‐sectional causal parameters with heterogeneous effects.]]></content:encoded>
 </item>
 <item>
+<title>Work Hours Mismatch</title>
+<link>https://doi.org/10.3982/ecta21849</link>
+<guid isPermaLink="false">10.3982/ecta21849</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marta Lachowska; Alexandre Mas; Raffaele Saggio; Stephen A. Woodbury]]></dc:creator>
+<dc:identifier>doi:10.3982/ecta21849</dc:identifier>
+<description><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></description>
+<content:encoded><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></content:encoded>
+</item>
+<item>
 <title>Submission of Manuscripts to the Econometric Society Monograph Series</title>
 <link>https://doi.org/10.3982/ecta944sum</link>
 <guid isPermaLink="false">10.3982/ecta944sum</guid>
@@ -77,16 +87,6 @@
 <dc:identifier>doi:10.3982/ecta21180</dc:identifier>
 <description><![CDATA[We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self‐selection . Our method can be used with experimental or quasi‐experimental data to identify who should be treated, be untreated, and self‐select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self‐selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self‐selection would be valuable and harmful to social welfare.]]></description>
 <content:encoded><![CDATA[We develop an optimal policy assignment rule that integrates two distinctive approaches commonly used in economics—targeting by observables and targeting through self‐selection . Our method can be used with experimental or quasi‐experimental data to identify who should be treated, be untreated, and self‐select to achieve a policymaker's objective. Applying this method to a randomized controlled trial on a residential energy rebate program, we find that targeting that optimally exploits both observable data and self‐selection outperforms conventional targeting. We use the Local Average Treatment Effect (LATE) framework (Imbens and Angrist (1994)) to investigate the mechanism in our approach. By estimating several key LATEs based on the random variation created by our experiment, we demonstrate how our method allows policymakers to identify whose self‐selection would be valuable and harmful to social welfare.]]></content:encoded>
-</item>
-<item>
-<title>Work Hours Mismatch</title>
-<link>https://doi.org/10.3982/ecta21849</link>
-<guid isPermaLink="false">10.3982/ecta21849</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marta Lachowska; Alexandre Mas; Raffaele Saggio; Stephen A. Woodbury]]></dc:creator>
-<dc:identifier>doi:10.3982/ecta21849</dc:identifier>
-<description><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></description>
-<content:encoded><![CDATA[We apply a revealed preference approach to administrative data from Washington to show that constraints on work hours are widespread: Workers have limited discretion over hours at a given employer, and there is substantial mismatch of workers who prefer long hours to employers that provide short hours. Voluntary job transitions imply a ratio of the marginal rate of substitution of earnings for hours to the wage rate of 0.5–0.6 for prime‐age workers. The average absolute deviation between observed and optimal hours is about 15%, and low‐wage workers face particularly acute constraints on hours. On average, observed hours tend to be less than preferred levels, and workers would require a 12% higher wage with their current employer to be as well off as with an employer offering ideal hours. These findings suggest that hour constraints are an equilibrium feature of the labor market because long‐hour jobs are costly to employers.]]></content:encoded>
 </item>
 <item>
 <title>Security Design Under Common‐Value Competition</title>

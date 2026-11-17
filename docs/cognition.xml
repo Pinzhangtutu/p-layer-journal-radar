@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 17 Nov 2026 01:50:24 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 15:56:17 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,15 +211,6 @@
 <description></description>
 </item>
 <item>
-<title>Cognitive forecasting: How intuitive theories of attention shape anticipated risk preferences</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106741</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106741</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dogukan Demircioglu; Chris Dawson; Samuel G.B. Johnson]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106741</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Metarepresentation and the puzzle of desire-attribution</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106781</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106781</guid>
@@ -235,6 +226,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Amit Zehngut; Shlomit Yuval-Greenberg]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106771</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cognitive forecasting: How intuitive theories of attention shape anticipated risk preferences</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106741</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106741</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dogukan Demircioglu; Chris Dawson; Samuel G.B. Johnson]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106741</dc:identifier>
 <description></description>
 </item>
 <item>
