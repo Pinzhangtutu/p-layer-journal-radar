@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 17 Nov 2026 15:56:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:53:40 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,6 +121,15 @@
 <description></description>
 </item>
 <item>
+<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
+<link>https://doi.org/10.1016/j.dss.2026.114774</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Human-led or AI-led? How AI role configuration influences human engagement on knowledge-intensive gig platforms</title>
 <link>https://doi.org/10.1016/j.dss.2026.114781</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114781</guid>
@@ -136,15 +145,6 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
-<link>https://doi.org/10.1016/j.dss.2026.114774</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,30 +436,12 @@
 <description></description>
 </item>
 <item>
-<title>Inferring health motivation from wearable data: A cluster-based approach to predicting healthcare claims</title>
-<link>https://doi.org/10.1016/j.dss.2026.114802</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114802</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michelle Marcus; Lemai Nguyen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114802</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Concerto of rhetoric and images: The effect of multimodal aesthetics on customers' booking intentions in P2P accommodation</title>
 <link>https://doi.org/10.1016/j.dss.2026.114741</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114741</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Haiwang Liu; Xiaoyun Han; Limin Xiao]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114741</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
-<link>https://doi.org/10.1016/j.dss.2026.114742</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -472,21 +454,21 @@
 <description></description>
 </item>
 <item>
+<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
+<link>https://doi.org/10.1016/j.dss.2026.114742</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>A decision support framework for privacy risk assessment on social media through automated personally identifiable information detection</title>
 <link>https://doi.org/10.1016/j.dss.2026.114752</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114752</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Fangyu Lin; Yizhi Liu; Weifeng Li; Reza Ebrahimi; Hsinchun Chen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114752</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Proving a negative is difficult: positive and unlabeled financial statement fraud detection via multi-modal graph auto-encoders</title>
-<link>https://doi.org/10.1016/j.dss.2026.114798</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114798</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xusheng Sun; Li Zhou; Gang Wang; Chee-Wee Tan; Shanlin Yang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114798</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -562,12 +544,30 @@
 <description></description>
 </item>
 <item>
+<title>Inferring health motivation from wearable data: A cluster-based approach to predicting healthcare claims</title>
+<link>https://doi.org/10.1016/j.dss.2026.114802</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114802</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michelle Marcus; Lemai Nguyen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114802</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>How you say it matters: The effect of linguistic style matching on user-perceived knowledge quality in Q&amp;A communities</title>
 <link>https://doi.org/10.1016/j.dss.2026.114788</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114788</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Langtao Chen; Li Sun]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114788</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Proving a negative is difficult: positive and unlabeled financial statement fraud detection via multi-modal graph auto-encoders</title>
+<link>https://doi.org/10.1016/j.dss.2026.114798</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114798</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xusheng Sun; Li Zhou; Gang Wang; Chee-Wee Tan; Shanlin Yang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114798</dc:identifier>
 <description></description>
 </item>
 <item>

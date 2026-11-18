@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 17 Nov 2026 15:56:17 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:53:40 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -130,15 +130,6 @@
 <description></description>
 </item>
 <item>
-<title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
-<link>https://doi.org/10.1016/j.im.2026.104436</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Seeking love or fearing loss: divergent motivations in content creations of mega and micro creators on social media platforms</title>
 <link>https://doi.org/10.1016/j.im.2026.104434</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104434</guid>
@@ -148,12 +139,12 @@
 <description></description>
 </item>
 <item>
-<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
-<link>https://doi.org/10.1016/j.im.2026.104432</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
+<title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
+<link>https://doi.org/10.1016/j.im.2026.104436</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
+<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -172,6 +163,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yafang Li; Michelle Carter; Robert E. Crossler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
+<link>https://doi.org/10.1016/j.im.2026.104432</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -220,21 +220,21 @@
 <description></description>
 </item>
 <item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
 <link>https://doi.org/10.1016/j.im.2026.104411</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -499,21 +499,21 @@
 <description></description>
 </item>
 <item>
-<title>What works when: calibrating temporal focus for crowdfunding success</title>
-<link>https://doi.org/10.1016/j.im.2026.104456</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Beyond integration to validation: the differential impact of physicians’ knowledge collaboration behaviors on online medical team performance</title>
 <link>https://doi.org/10.1016/j.im.2026.104452</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What works when: calibrating temporal focus for crowdfunding success</title>
+<link>https://doi.org/10.1016/j.im.2026.104456</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
 <description></description>
 </item>
 <item>
