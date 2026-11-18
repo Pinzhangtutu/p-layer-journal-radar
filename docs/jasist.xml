@@ -9,7 +9,7 @@
 <description>JASIST — Wiley · Latest in: Early View · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jasist.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 18 Nov 2026 00:53:40 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 15:30:34 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -199,6 +199,16 @@
 <content:encoded><![CDATA[Abstract Questionnaire‐based designs remain central to information behavior research, yet the practical assumptions embedded in standardized survey administration are rarely examined. This paper offers a methodological reflection on five pilot studies conducted in preparation for a questionnaire‐based investigation of information behavior among older adults with type 2 diabetes. Across hospital outpatient clinics, rural households, senior learning institutions, residential care facilities, and social media platforms, recurring tensions emerged between survey design assumptions and real‐world research conditions. Rather than treating these tensions as isolated feasibility issues, the study conceptualizes them as methodological “failures” that revealed how questionnaire research operates as a situated and socially structured practice. The findings demonstrate that survey completion is shaped by environmental constraints, relational dynamics, institutional mediation, and perceptions of legitimacy. They challenge the assumption of the autonomous respondent and show that participation is trust‐mediated and institutionally structured. By documenting iterative redesign across contexts, the paper advances a process‐oriented account of methodological reflexivity and argues for greater transparency in reporting pilot‐stage challenges. The study contributes conceptual and operational guidance for designing questionnaire‐based research with aging populations and highlights the value of treating methodological failure as a productive source of knowledge in information science.]]></content:encoded>
 </item>
 <item>
+<title>Social epistemology: A historical review of key developments. An annual review of information science and technology ( &lt;scp&gt;ARIST&lt;/scp&gt; ) paper</title>
+<link>https://doi.org/10.1002/asi.70141</link>
+<guid isPermaLink="false">10.1002/asi.70141</guid>
+<pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Robert M. Manzo]]></dc:creator>
+<dc:identifier>doi:10.1002/asi.70141</dc:identifier>
+<description><![CDATA[Abstract The term “social epistemology” was introduced into the academic lexicon in the 1950s by library and information science scholar Jesse Shera, who then further developed the idea in collaboration with his colleague Margaret Egan. Since then it has come to refer to, or feature as part of, a number of different projects and theories across the social sciences and humanities. This paper provides a historical and conceptual analysis of many of these projects and theories, examining Egan and Shera's work in LIS and then venturing out into other disciplines, in order to understand what “social epistemology” has meant in various scholarly communities over the course of the 20th and 21st centuries. The purpose of this review is to demonstrate both overlaps and discontinuities among different communities over time, even as they all have shared a commitment to a socially inflected epistemology, one that centers collectives rather than individual knowers.]]></description>
+<content:encoded><![CDATA[Abstract The term “social epistemology” was introduced into the academic lexicon in the 1950s by library and information science scholar Jesse Shera, who then further developed the idea in collaboration with his colleague Margaret Egan. Since then it has come to refer to, or feature as part of, a number of different projects and theories across the social sciences and humanities. This paper provides a historical and conceptual analysis of many of these projects and theories, examining Egan and Shera's work in LIS and then venturing out into other disciplines, in order to understand what “social epistemology” has meant in various scholarly communities over the course of the 20th and 21st centuries. The purpose of this review is to demonstrate both overlaps and discontinuities among different communities over time, even as they all have shared a commitment to a socially inflected epistemology, one that centers collectives rather than individual knowers.]]></content:encoded>
+</item>
+<item>
 <title>The ultimate forgery: A semiotic deconstruction of large language models as engines of simulated selfhood</title>
 <link>https://doi.org/10.1002/asi.70132</link>
 <guid isPermaLink="false">10.1002/asi.70132</guid>
@@ -253,16 +263,6 @@
 <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1002/asi.70136</dc:identifier>
 <description></description>
-</item>
-<item>
-<title>Reviewer self‐reported confidence and evaluation breadth/depth in open peer review</title>
-<link>https://doi.org/10.1002/asi.70069</link>
-<guid isPermaLink="false">10.1002/asi.70069</guid>
-<pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Weixi Xie; Pengfei Jia; Xianwen Wang]]></dc:creator>
-<dc:identifier>doi:10.1002/asi.70069</dc:identifier>
-<description><![CDATA[Abstract Understanding how reviewer self‐reported confidence shapes evaluation behavior is vital, as it influences editorial decisions, the identification of methodological flaws, and which research directions gain prominence. However, prior studies have rarely examined how self‐reported confidence affects both the breadth and depth of review content across distinct evaluative dimensions. This study addresses this gap using large‐scale data from an open peer review platform to analyze the relationship between reviewer self‐reported confidence and evaluation breadth and depth. Results show that self‐reported confidence is negatively associated with breadth, meaning reviewers with higher confidence focus on fewer dimensions. However, it is positively associated with depth, as reviewers with higher confidence provide more detailed, rigorous feedback within chosen dimensions. Dimension‐specific analyses show heterogeneous focus patterns. For soundness, reviewers with higher confidence attend to fewer aspects without adding depth; for contribution, they narrow focus but deepen feedback; for novelty, they broaden focus and increase depth. These findings align with attention allocation theory, suggesting that reviewers with higher confidence selectively allocate attention to dimensions they deem most relevant or demanding.]]></description>
-<content:encoded><![CDATA[Abstract Understanding how reviewer self‐reported confidence shapes evaluation behavior is vital, as it influences editorial decisions, the identification of methodological flaws, and which research directions gain prominence. However, prior studies have rarely examined how self‐reported confidence affects both the breadth and depth of review content across distinct evaluative dimensions. This study addresses this gap using large‐scale data from an open peer review platform to analyze the relationship between reviewer self‐reported confidence and evaluation breadth and depth. Results show that self‐reported confidence is negatively associated with breadth, meaning reviewers with higher confidence focus on fewer dimensions. However, it is positively associated with depth, as reviewers with higher confidence provide more detailed, rigorous feedback within chosen dimensions. Dimension‐specific analyses show heterogeneous focus patterns. For soundness, reviewers with higher confidence attend to fewer aspects without adding depth; for contribution, they narrow focus but deepen feedback; for novelty, they broaden focus and increase depth. These findings align with attention allocation theory, suggesting that reviewers with higher confidence selectively allocate attention to dimensions they deem most relevant or demanding.]]></content:encoded>
 </item>
 <item>
 <title>Mental health‐related information behavior among adolescents around the world: A systematic review. An Annual Review of Information Science and Technology (ARIST) paper</title>
@@ -401,7 +401,7 @@
 <content:encoded><![CDATA[Abstract Caste—an ascriptive social hierarchy in South Asia and its diaspora—is a globalized phenomenon. Recent caste‐based discrimination, particularly in technology companies and anti‐caste efforts to address it, has compelled academia, policy, and the technology industry to better understand contemporary mechanics of caste. However, caste remains relatively underexplored within Information Science; the literature mentions caste only sparingly, and even when it does, the treatment remains superficial, often addressing it as just another social category alongside gender and income levels. To deepen the field's engagement with caste, our paper presents a hermeneutic review of multi‐disciplinary research that examines caste in the context of information and technology in India. We argue that information and technology are integral to how caste is reinforced and resisted, both historically and in the contemporary moment. Given the centrality of information in the workings of caste, the various sub‐areas of Information Science can make productive contributions to our understanding of caste. This paper offers thematic, methodological, and theoretical takeaways to explicitly frame caste as a key analytical framework within Information Science and Technology.]]></content:encoded>
 </item>
 <item>
-<title>A systematic literature review of health‐related information on Question and Answer platforms</title>
+<title>A systematic literature review of health‐related information on Question and Answer platforms: An Annual Review of Information Science and Technology (ARIST) paper</title>
 <link>https://doi.org/10.1002/asi.70098</link>
 <guid isPermaLink="false">10.1002/asi.70098</guid>
 <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
