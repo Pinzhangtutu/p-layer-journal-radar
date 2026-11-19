@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 18 Nov 2026 15:30:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 00:12:05 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -355,15 +355,6 @@
 <description></description>
 </item>
 <item>
-<title>How to launch bug bounty programs: Strategies to utilize heterogeneous quality of hackers</title>
-<link>https://doi.org/10.1016/j.im.2026.104468</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104468</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jing Li; Chenglong Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104468</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Unveiling the critical role of ethical leadership in information systems security compliance research: An empirical investigation</title>
 <link>https://doi.org/10.1016/j.im.2026.104405</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104405</guid>
@@ -499,21 +490,21 @@
 <description></description>
 </item>
 <item>
-<title>Beyond integration to validation: the differential impact of physicians’ knowledge collaboration behaviors on online medical team performance</title>
-<link>https://doi.org/10.1016/j.im.2026.104452</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>What works when: calibrating temporal focus for crowdfunding success</title>
 <link>https://doi.org/10.1016/j.im.2026.104456</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Beyond integration to validation: the differential impact of physicians’ knowledge collaboration behaviors on online medical team performance</title>
+<link>https://doi.org/10.1016/j.im.2026.104452</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -544,21 +535,21 @@
 <description></description>
 </item>
 <item>
-<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
-<link>https://doi.org/10.1016/j.im.2026.104454</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Crafting Persuasive Environmental Messages for Virtual Influencers: The Role of Anthropomorphic Conversational Style, Persuasion Appeal, and Behavioral Context</title>
 <link>https://doi.org/10.1016/j.im.2026.104461</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104461</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Calvin Wan; Daisy Lee; Peggy M.L. Ng; Raffaele Filieri]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
+<link>https://doi.org/10.1016/j.im.2026.104454</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -604,6 +595,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xiaoxiao Luo; Jie Zhang; Minqiang Li]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104463</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>How to launch bug bounty programs: Strategies to utilize heterogeneous quality of hackers</title>
+<link>https://doi.org/10.1016/j.im.2026.104468</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104468</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jing Li; Chenglong Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104468</dc:identifier>
 <description></description>
 </item>
 </channel>

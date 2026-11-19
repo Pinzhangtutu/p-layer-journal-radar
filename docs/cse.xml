@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 18 Nov 2026 15:30:34 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 00:12:05 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -139,21 +139,21 @@
 <description></description>
 </item>
 <item>
-<title>Measuring task-level behavioral learning engagement during text revision</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105656</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105656</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ronja Schiller; Johanna Fleckenstein; Ute Mertens; Jennifer Meyer]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105656</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>From computer-supported collaborative learning to human–AI collaboration: CSCL research in fifty years of Computers &amp; Education</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105753</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105753</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ramazan Yilmaz; Fatma Gizem Karaoglan Yilmaz]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105753</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Measuring task-level behavioral learning engagement during text revision</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105656</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105656</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ronja Schiller; Johanna Fleckenstein; Ute Mertens; Jennifer Meyer]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105656</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -265,15 +265,6 @@
 <description></description>
 </item>
 <item>
-<title>Synergizing Mind and Machine: Unlocking the Potential of Generative AI With Metacognitive Scaffolding to Optimize Upper Elementary Student Learning</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105792</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105792</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Miao YUE; Morris Siu-yung JONG; Wenjiao WANG]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105792</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Giving parents HOPE: Predictors of parental confidence and support needs in elementary and secondary online learning</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105696</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105696</guid>
@@ -307,6 +298,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Synergizing mind and machine: Unlocking the potential of generative AI with metacognitive scaffolding to optimize upper elementary student learning</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105792</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105792</guid>
+<pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miao Yue; Morris Siu-Yung Jong; Wenjiao Wang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105792</dc:identifier>
 <description></description>
 </item>
 <item>
