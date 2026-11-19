@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 19 Nov 2026 00:12:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 15:37:56 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,22 +121,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Self-Esteem and Social Relationships: A Meta-Analytic Review of Longitudinal Studies With Continuous Time Modeling</title>
-<link>https://doi.org/10.1037/bul0000540.supp</link>
-<guid isPermaLink="false">10.1037/bul0000540.supp</guid>
-<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/bul0000540.supp</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Supplemental Material for A Social Cascades Model of Addiction: Examining Effects of Psychological Interventions on Social and Substance Use Outcomes via Meta-Analytic Review</title>
-<link>https://doi.org/10.1037/bul0000533.supp</link>
-<guid isPermaLink="false">10.1037/bul0000533.supp</guid>
-<pubDate>Thu, 10 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/bul0000533.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A meta-analytic review of the associations between patterning and academic achievement.</title>
 <link>https://doi.org/10.1037/bul0000534</link>
 <guid isPermaLink="false">10.1037/bul0000534</guid>
@@ -146,11 +130,27 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for A Social Cascades Model of Addiction: Examining Effects of Psychological Interventions on Social and Substance Use Outcomes via Meta-Analytic Review</title>
+<link>https://doi.org/10.1037/bul0000533.supp</link>
+<guid isPermaLink="false">10.1037/bul0000533.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000533.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Supplemental Material for Does the Variance of Personality Traits Change Across the Lifespan? A Meta-Analytic Review of Longitudinal Studies</title>
 <link>https://doi.org/10.1037/bul0000523.supp</link>
 <guid isPermaLink="false">10.1037/bul0000523.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000523.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for A Meta-Analytic Review of the Associations Between Patterning and Academic Achievement</title>
+<link>https://doi.org/10.1037/bul0000534.supp</link>
+<guid isPermaLink="false">10.1037/bul0000534.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000534.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -293,6 +293,14 @@
 <description></description>
 </item>
 <item>
+<title>Supplemental Material for Self-Esteem and Social Relationships: A Meta-Analytic Review of Longitudinal Studies With Continuous Time Modeling</title>
+<link>https://doi.org/10.1037/bul0000540.supp</link>
+<guid isPermaLink="false">10.1037/bul0000540.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000540.supp</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Supplemental Material for How Spatial Skills Relate to Science Achievement: A Meta-Analytic Review</title>
 <link>https://doi.org/10.1037/bul0000524.supp</link>
 <guid isPermaLink="false">10.1037/bul0000524.supp</guid>
@@ -306,6 +314,14 @@
 <guid isPermaLink="false">10.1037/bul0000525.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000525.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Effect of Memory Retrieval Before Extinction on the Return of Fear in Humans: A Meta-Analytic Review of Human Threat-Conditioning Studies</title>
+<link>https://doi.org/10.1037/bul0000537.supp</link>
+<guid isPermaLink="false">10.1037/bul0000537.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000537.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -451,14 +467,6 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for A Meta-Analytic Review of the Associations Between Patterning and Academic Achievement</title>
-<link>https://doi.org/10.1037/bul0000534.supp</link>
-<guid isPermaLink="false">10.1037/bul0000534.supp</guid>
-<pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/bul0000534.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A social cascades model of addiction: Examining effects of psychological interventions on social and substance use outcomes via meta-analytic review.</title>
 <link>https://doi.org/10.1037/bul0000533</link>
 <guid isPermaLink="false">10.1037/bul0000533</guid>
@@ -600,15 +608,6 @@
 <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Bria Gresham; Mirinda M. Morency; Frederique Corcoran; Jacob J. Kunkel; Amy Riegelman]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000488</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Evaluative conditioning interventions: A systematic review and meta-analysis focused on attitudinal and behavioral change outcomes.</title>
-<link>https://doi.org/10.1037/bul0000489</link>
-<guid isPermaLink="false">10.1037/bul0000489</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tal Moran; Lidor Krava; Yoel Shilat]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000489</dc:identifier>
 <description></description>
 </item>
 </channel>

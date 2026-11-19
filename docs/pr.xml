@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 19 Nov 2026 00:12:05 +0000</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 15:37:56 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -103,21 +103,21 @@
 <description></description>
 </item>
 <item>
-<title>Chance as a (non)explanation: A cross-cultural examination of folk understanding of chance and coincidence.</title>
-<link>https://doi.org/10.1037/rev0000568</link>
-<guid isPermaLink="false">10.1037/rev0000568</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ze Hong]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000568</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Digital technologies and evolutionary mismatch: Harming, but also healing mental health.</title>
 <link>https://doi.org/10.1037/rev0000593</link>
 <guid isPermaLink="false">10.1037/rev0000593</guid>
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tanay Katiyar; Adam Hunt; Amy Orben; Nikhil Chaudhary; Adrian V. Jaeggi]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000593</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Chance as a (non)explanation: A cross-cultural examination of folk understanding of chance and coincidence.</title>
+<link>https://doi.org/10.1037/rev0000568</link>
+<guid isPermaLink="false">10.1037/rev0000568</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ze Hong]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000568</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -136,60 +136,6 @@
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Wei Chen; Wenwen Li; Xiaowei Ding]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000569</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Computation-limited Bayesian updating: A resource-rational analysis of approximate Bayesian inference.</title>
-<link>https://doi.org/10.1037/rev0000573</link>
-<guid isPermaLink="false">10.1037/rev0000573</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jian-Qiao Zhu; Thomas L. Griffiths]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000573</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Adaptive computation as a new mechanism of dynamic human attention.</title>
-<link>https://doi.org/10.1037/rev0000572</link>
-<guid isPermaLink="false">10.1037/rev0000572</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Mario Belledonne; Eivinas Butkus; Brian J. Scholl; Ilker Yildirim]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000572</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How beliefs persist amid controversy: The paths to persistence model.</title>
-<link>https://doi.org/10.1037/rev0000583</link>
-<guid isPermaLink="false">10.1037/rev0000583</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kerem Oktar; Tania Lombrozo]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000583</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Rational causal induction from events in time.</title>
-<link>https://doi.org/10.1037/rev0000570</link>
-<guid isPermaLink="false">10.1037/rev0000570</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tianwei Gong; M Pacer; Thomas L. Griffiths; Neil R. Bramley]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000570</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A metatheory of classical and modern connectionism.</title>
-<link>https://doi.org/10.1037/rev0000591</link>
-<guid isPermaLink="false">10.1037/rev0000591</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Olivia Guest; Andrea E. Martin]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000591</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Adapting to loss: A computational model of grief.</title>
-<link>https://doi.org/10.1037/rev0000567</link>
-<guid isPermaLink="false">10.1037/rev0000567</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zack Dulberg; Rachit Dubey; Jonathan D. Cohen]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000567</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -253,6 +199,14 @@
 <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Janne Reynders; Tom Verguts; Senne Braem]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000620</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Standard Dyadic Data Contain Only Between-Dyad Effects</title>
+<link>https://doi.org/10.1037/rev0000660.supp</link>
+<guid isPermaLink="false">10.1037/rev0000660.supp</guid>
+<pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/rev0000660.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -439,6 +393,87 @@
 <description></description>
 </item>
 <item>
+<title>A psychological-scaling approach to unraveling the nature of Pigeons’ categorization of natural visual objects.</title>
+<link>https://doi.org/10.1037/rev0000630</link>
+<guid isPermaLink="false">10.1037/rev0000630</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Odysseus R. P. Orr; Edward A. Wasserman; Robert M. Nosofsky]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000630</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Spiking the mind: Rethinking the role of cortical feedback in visual mental imagery.</title>
+<link>https://doi.org/10.1037/rev0000621</link>
+<guid isPermaLink="false">10.1037/rev0000621</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Roger Koenig-Robert; Thomas Pace; Joel Pearson]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000621</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital–analog perceptual duality.</title>
+<link>https://doi.org/10.1037/rev0000579</link>
+<guid isPermaLink="false">10.1037/rev0000579</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ehud Ahissar; Daniel Polani; Merav Ahissar]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000579</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Saccadic omission revisited: What saccade-induced smear looks like.</title>
+<link>https://doi.org/10.1037/rev0000574</link>
+<guid isPermaLink="false">10.1037/rev0000574</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Richard Schweitzer; Mara Doering; Thomas Seel; Jörg Raisch; Martin Rolfs]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000574</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social neuroscience of interracial contact theory.</title>
+<link>https://doi.org/10.1037/rev0000578</link>
+<guid isPermaLink="false">10.1037/rev0000578</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Margaret Welte; Grace Handley; Jennifer T. Kubota; Jasmin Cloutier]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000578</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Perceptual-moment theories.</title>
+<link>https://doi.org/10.1037/rev0000586</link>
+<guid isPermaLink="false">10.1037/rev0000586</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Paul Kelber; Rolf Ulrich]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000586</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Internalizing disorders as shape-shifters: Understanding individual and cultural heterogeneity in the presentation of symptoms.</title>
+<link>https://doi.org/10.1037/rev0000577</link>
+<guid isPermaLink="false">10.1037/rev0000577</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yulia E. Chentsova-Dutton; Andrew G. Ryder]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000577</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Sequence learning as Bayesian filtering.</title>
+<link>https://doi.org/10.1037/rev0000639</link>
+<guid isPermaLink="false">10.1037/rev0000639</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dennis Norris; Kristjan Kalm]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000639</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Reducing weight-based rejection: Identifying facilitators and barriers to positive social change using the social identity approach.</title>
+<link>https://doi.org/10.1037/rev0000604</link>
+<guid isPermaLink="false">10.1037/rev0000604</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Joanne A. Rathbone; Tegan Cruwys; Jolanda Jetten; Fiona Kate Barlow]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000604</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Modular serial-parallel network for hierarchical facial representations.</title>
 <link>https://doi.org/10.1037/rev0000646</link>
 <guid isPermaLink="false">10.1037/rev0000646</guid>
@@ -471,15 +506,6 @@
 <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Pritam Laskar; Raoul P. P. P. Grasman; Maartje E. J. Raijmakers; Ale Jan Homburg; Brenda R. J. Jansen; Han L. J. van der Maas]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000627</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Sequence learning as Bayesian filtering.</title>
-<link>https://doi.org/10.1037/rev0000639</link>
-<guid isPermaLink="false">10.1037/rev0000639</guid>
-<pubDate>Mon, 21 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dennis Norris; Kristjan Kalm]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000639</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -528,30 +554,12 @@
 <description></description>
 </item>
 <item>
-<title>Spiking the mind: Rethinking the role of cortical feedback in visual mental imagery.</title>
-<link>https://doi.org/10.1037/rev0000621</link>
-<guid isPermaLink="false">10.1037/rev0000621</guid>
-<pubDate>Mon, 13 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Roger Koenig-Robert; Thomas Pace; Joel Pearson]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000621</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Idea generation during emotion regulation: A proposed framework.</title>
 <link>https://doi.org/10.1037/rev0000651</link>
 <guid isPermaLink="false">10.1037/rev0000651</guid>
 <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lucas Bellaiche; Kevin S. LaBar]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000651</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A psychological-scaling approach to unraveling the nature of Pigeons’ categorization of natural visual objects.</title>
-<link>https://doi.org/10.1037/rev0000630</link>
-<guid isPermaLink="false">10.1037/rev0000630</guid>
-<pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Odysseus R. P. Orr; Edward A. Wasserman; Robert M. Nosofsky]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000630</dc:identifier>
 <description></description>
 </item>
 <item>
