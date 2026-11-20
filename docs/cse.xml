@@ -9,7 +9,7 @@
 <description>CSE — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cse.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 19 Nov 2026 15:37:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 00:33:04 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -283,24 +283,6 @@
 <description></description>
 </item>
 <item>
-<title>No more excuses: Mandating online learning competencies in all teacher preparation programs</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105686</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105686</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael K. Barbour; Charles B. Hodges]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105686</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Surrounded by screens: How tablet use during class contributes to distraction and self-reported learning loss</title>
-<link>https://doi.org/10.1016/j.compedu.2026.105676</link>
-<guid isPermaLink="false">10.1016/j.compedu.2026.105676</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sara G. Goodman; Jennah Ferrari; Aviana Estevez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.compedu.2026.105676</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Synergizing mind and machine: Unlocking the potential of generative AI with metacognitive scaffolding to optimize upper elementary student learning</title>
 <link>https://doi.org/10.1016/j.compedu.2026.105792</link>
 <guid isPermaLink="false">10.1016/j.compedu.2026.105792</guid>
@@ -316,6 +298,24 @@
 <pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ali Tehrani; Parian Madanipour; Caroline Cohrssen; Frada Burstein; Emma Forsyth]]></dc:creator>
 <dc:identifier>doi:10.1016/j.compedu.2026.105791</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Mapping the social ecology of children's group learning: A systematic review and conceptual framework for robot-supported educational activities</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105801</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105801</guid>
+<pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu Peng; Xuanyu Pan; Han Nan; Yu Qiao; Yan Gao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105801</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Social media as a tool for governance-related communication: A comparative study of Chinese and European public universities in the digital age</title>
+<link>https://doi.org/10.1016/j.compedu.2026.105804</link>
+<guid isPermaLink="false">10.1016/j.compedu.2026.105804</guid>
+<pubDate>Mon, 01 Mar 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yujie Xue; Chang Zhu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.compedu.2026.105804</dc:identifier>
 <description></description>
 </item>
 <item>
