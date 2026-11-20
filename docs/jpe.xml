@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 20 Nov 2026 15:17:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 23:56:03 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -31,21 +31,21 @@
 <description></description>
 </item>
 <item>
-<title>Collusion through Common Leadership</title>
-<link>https://doi.org/10.1086/743900</link>
-<guid isPermaLink="false">10.1086/743900</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Alejandro Herrera-Caicedo; Jessica Jeffers; Elena Prager]]></dc:creator>
-<dc:identifier>doi:10.1086/743900</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Two-Sided Search in International Markets</title>
 <link>https://doi.org/10.1086/744914</link>
 <guid isPermaLink="false">10.1086/744914</guid>
 <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jonathan Eaton; David Jinkins; James Tybout; Daniel Yi Xu]]></dc:creator>
 <dc:identifier>doi:10.1086/744914</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Collusion through Common Leadership</title>
+<link>https://doi.org/10.1086/743900</link>
+<guid isPermaLink="false">10.1086/743900</guid>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alejandro Herrera-Caicedo; Jessica Jeffers; Elena Prager]]></dc:creator>
+<dc:identifier>doi:10.1086/743900</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -526,15 +526,6 @@
 <description></description>
 </item>
 <item>
-<title>The Economic Dynamics of City Structure: Evidence from Hiroshima's Recovery</title>
-<link>https://doi.org/10.1086/743334</link>
-<guid isPermaLink="false">10.1086/743334</guid>
-<pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kohei Takeda; Atsushi Yamagishi]]></dc:creator>
-<dc:identifier>doi:10.1086/743334</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>A Theory of Redistribution and Public Good Provision under Nondemocracy</title>
 <link>https://doi.org/10.1086/743332</link>
 <guid isPermaLink="false">10.1086/743332</guid>
@@ -550,6 +541,15 @@
 <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Rodrigo Adão; Costas Arkolakis; Sharat Ganapati]]></dc:creator>
 <dc:identifier>doi:10.1086/743331</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Deterrence or Backlash? Arrests and the Dynamics of Domestic Violence</title>
+<link>https://doi.org/10.1086/745091</link>
+<guid isPermaLink="false">10.1086/745091</guid>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Sofia Amaral; Gordon B. Dahl; Timo Hener; Victoria Kaiser; Helmut Rainer]]></dc:creator>
+<dc:identifier>doi:10.1086/745091</dc:identifier>
 <description></description>
 </item>
 <item>

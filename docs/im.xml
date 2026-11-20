@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 20 Nov 2026 15:17:12 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 23:56:03 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -301,15 +301,6 @@
 <description></description>
 </item>
 <item>
-<title>Hit the Brakes: A Configuration Study of IT-Enabled Carpooling Drivers’ Discontinuance</title>
-<link>https://doi.org/10.1016/j.im.2026.104472</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104472</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Zhenya Robin Tang; Xueyan Dong; Yuxin Tian; Dahui Li]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104472</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Counterfactual patient satisfaction inference under selective observation: A theory-driven machine learning design approach for online consultation services</title>
 <link>https://doi.org/10.1016/j.im.2026.104417</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104417</guid>
@@ -523,6 +514,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Qimei Chen; Yi He; Scott Hachey; Hong Wang; Miao Hu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104467</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Hit the brakes: a configuration study of IT-enabled carpooling drivers’ discontinuance</title>
+<link>https://doi.org/10.1016/j.im.2026.104472</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104472</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhenya Robin Tang; Xueyan Dong; Yuxin Tian; Dahui Li]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104472</dc:identifier>
 <description></description>
 </item>
 <item>
