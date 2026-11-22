@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sat, 21 Nov 2026 19:01:42 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 06:20:09 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -607,21 +607,21 @@
 <description></description>
 </item>
 <item>
-<title>Development of preservice teachers’ competence in lesson planning: Analyzing learning opportunities, pedagogical content knowledge, and lesson-planning skills</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102497</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102497</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Johannes König; Jonas Weyers; Petra Hanke; Jörg Jost]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102497</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Arithmetic development: a longitudinal observational study into the use of adaptive technology</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102480</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102480</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[S.M.M.de Mooij; C. Paans; F. Hasselman; R. Dijkstra; C.A.N. Knoop-van Campen; I. Molenaar]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102480</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Development of preservice teachers’ competence in lesson planning: Analyzing learning opportunities, pedagogical content knowledge, and lesson-planning skills</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102497</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102497</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Johannes König; Jonas Weyers; Petra Hanke; Jörg Jost]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102497</dc:identifier>
 <description></description>
 </item>
 </channel>
