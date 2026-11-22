@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Sun, 22 Nov 2026 06:20:09 +0000</lastBuildDate>
+<lastBuildDate>Sun, 22 Nov 2026 19:25:59 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -46,15 +46,6 @@
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Koen W. De Bock; Kristof Coussement; Arno De Caigny; Cristina Ciobanu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104381</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The livestream commerce puzzle: exploring the ineffectiveness of online reviews in reducing return intentions</title>
-<link>https://doi.org/10.1016/j.im.2026.104382</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104382</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Lin Wang; Jiawen Wu; Wenting Feng; Yiran Li; Qihua Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104382</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -202,12 +193,12 @@
 <description></description>
 </item>
 <item>
-<title>When Product Display Video Meets Social Commerce: An Elaboration Likelihood Model Perspective</title>
-<link>https://doi.org/10.1016/j.im.2026.104471</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104471</guid>
+<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
+<link>https://doi.org/10.1016/j.im.2026.104412</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xiang Gong; Xinjuan Li; Jinming Dang; Xiaoxiao Liu; Zhenxin Xiao]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104471</dc:identifier>
+<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -217,15 +208,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
-<link>https://doi.org/10.1016/j.im.2026.104412</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -337,6 +319,15 @@
 <description></description>
 </item>
 <item>
+<title>AI-Generated Images in E-commerce: Mitigating Perceived Uncertainty with Two Compensatory Control Strategies</title>
+<link>https://doi.org/10.1016/j.im.2026.104474</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104474</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dexiang Yin; Qianwen Yin; Ziru Li; Sai Liang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104474</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>LLM-powered contrastive hierarchical interest learning for cross-platform information recommendation</title>
 <link>https://doi.org/10.1016/j.im.2026.104404</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104404</guid>
@@ -364,15 +355,6 @@
 <description></description>
 </item>
 <item>
-<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
-<link>https://doi.org/10.1016/j.im.2026.104414</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Beyond speculation: Explaining the intention to use cryptocurrency</title>
 <link>https://doi.org/10.1016/j.im.2026.104410</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104410</guid>
@@ -391,6 +373,15 @@
 <description></description>
 </item>
 <item>
+<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
+<link>https://doi.org/10.1016/j.im.2026.104414</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Was I scammed? Understanding consumer scam reporting behavior through cognitive appraisal</title>
 <link>https://doi.org/10.1016/j.im.2026.104442</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104442</guid>
@@ -406,6 +397,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Nan Feng; Xueqing Wang; Aihui Chen; Yu Zhang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104462</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When product display video meets social commerce: an elaboration likelihood model perspective</title>
+<link>https://doi.org/10.1016/j.im.2026.104471</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104471</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiang Gong; Xinjuan Li; Jinming Dang; Xiaoxiao Liu; Zhenxin Xiao]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104471</dc:identifier>
 <description></description>
 </item>
 <item>
