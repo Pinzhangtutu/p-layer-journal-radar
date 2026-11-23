@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 07:11:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:44:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -202,6 +202,15 @@
 <description></description>
 </item>
 <item>
+<title>A free energy principle account of musical valence, arousal, and emotionality</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106786</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106786</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kai Ishida; Hiroshi Nittono]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106786</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Repetition increases belief in implausible statements more than for plausible statements</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106780</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106780</guid>
@@ -217,15 +226,6 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Axel Garnier-Allain; Vincent de Gardelle; Thibault Gajdos Preuss; Mathieu Servant]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106779</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A free energy principle account of musical valence, arousal, and emotionality</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106786</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106786</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Kai Ishida; Hiroshi Nittono]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106786</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -580,6 +580,15 @@
 <description></description>
 </item>
 <item>
+<title>Near-random behavior in strategic games</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106737</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106737</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tal Boger; Dorsa Amir; Sami R. Yousif]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106737</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Social feedback informs generalisation of control beliefs</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106704</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106704</guid>
@@ -595,15 +604,6 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Near-random behavior in strategic games</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106737</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106737</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tal Boger; Dorsa Amir; Sami R. Yousif]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106737</dc:identifier>
 <description></description>
 </item>
 <item>

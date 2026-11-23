@@ -9,7 +9,7 @@
 <description>PsychBulletin — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/psychbulletin.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 07:11:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:44:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,12 +121,39 @@
 <description></description>
 </item>
 <item>
+<title>Effect of memory retrieval before extinction on the return of fear in humans: A meta-analytic review of human threat-conditioning studies.</title>
+<link>https://doi.org/10.1037/bul0000537</link>
+<guid isPermaLink="false">10.1037/bul0000537</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Giulia Stangier; Christoph Benke; Mina Kheirkhah; Gunnar Lemmer; Stefan G. Hofmann; Christiane A. Melzig]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000537</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Self-esteem and social relationships: A meta-analytic review of longitudinal studies with continuous time modeling.</title>
+<link>https://doi.org/10.1037/bul0000540</link>
+<guid isPermaLink="false">10.1037/bul0000540</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ulrich Orth; Max Lustenberger; Jasmin A. Aebi]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000540</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>A meta-analytic review of the associations between patterning and academic achievement.</title>
 <link>https://doi.org/10.1037/bul0000534</link>
 <guid isPermaLink="false">10.1037/bul0000534</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Giulia A. Borriello; Tongyao Zhang; Victor Wei Wang; Peng Peng; Emily R. Fyfe]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000534</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>A social cascades model of addiction: Examining effects of psychological interventions on social and substance use outcomes via meta-analytic review.</title>
+<link>https://doi.org/10.1037/bul0000533</link>
+<guid isPermaLink="false">10.1037/bul0000533</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jiaxu Han; Catharine E. Fairbairn; Camille Lansang]]></dc:creator>
+<dc:identifier>doi:10.1037/bul0000533</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -179,19 +206,19 @@
 <description></description>
 </item>
 <item>
-<title>Supplemental Material for Relationships Between Cognition and Daily Functioning in Adults With Bipolar Disorder: A Systematic Review and Multilevel Meta-Analysis</title>
-<link>https://doi.org/10.1037/bul0000509.supp</link>
-<guid isPermaLink="false">10.1037/bul0000509.supp</guid>
-<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1037/bul0000509.supp</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Supplemental Material for A Systematic Review and Meta-Analysis of Partial Correlations Between Caregiver Cognitive Stimulation in Early Childhood and Child Development</title>
 <link>https://doi.org/10.1037/bul0000532.supp</link>
 <guid isPermaLink="false">10.1037/bul0000532.supp</guid>
 <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1037/bul0000532.supp</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Supplemental Material for Relationships Between Cognition and Daily Functioning in Adults With Bipolar Disorder: A Systematic Review and Multilevel Meta-Analysis</title>
+<link>https://doi.org/10.1037/bul0000509.supp</link>
+<guid isPermaLink="false">10.1037/bul0000509.supp</guid>
+<pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1037/bul0000509.supp</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -467,24 +494,6 @@
 <description></description>
 </item>
 <item>
-<title>A social cascades model of addiction: Examining effects of psychological interventions on social and substance use outcomes via meta-analytic review.</title>
-<link>https://doi.org/10.1037/bul0000533</link>
-<guid isPermaLink="false">10.1037/bul0000533</guid>
-<pubDate>Mon, 14 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jiaxu Han; Catharine E. Fairbairn; Camille Lansang]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000533</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Self-esteem and social relationships: A meta-analytic review of longitudinal studies with continuous time modeling.</title>
-<link>https://doi.org/10.1037/bul0000540</link>
-<guid isPermaLink="false">10.1037/bul0000540</guid>
-<pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ulrich Orth; Max Lustenberger; Jasmin A. Aebi]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000540</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Intergenerational stability in parenting across two generations: A multilevel meta-analytic review.</title>
 <link>https://doi.org/10.1037/bul0000494</link>
 <guid isPermaLink="false">10.1037/bul0000494</guid>
@@ -599,15 +608,6 @@
 <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Matthew D. Hammond; Nishtha Singh; Johannes A. Karl]]></dc:creator>
 <dc:identifier>doi:10.1037/bul0000485</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Exposure to community violence and biomarkers of allostatic load: A systematic review and meta-analysis.</title>
-<link>https://doi.org/10.1037/bul0000488</link>
-<guid isPermaLink="false">10.1037/bul0000488</guid>
-<pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bria Gresham; Mirinda M. Morency; Frederique Corcoran; Jacob J. Kunkel; Amy Riegelman]]></dc:creator>
-<dc:identifier>doi:10.1037/bul0000488</dc:identifier>
 <description></description>
 </item>
 </channel>

@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 07:11:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:44:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -321,16 +321,6 @@
 <content:encoded><![CDATA[Using AI-generated headshots that vary only in femininity, a field experiment finds that consumers discriminate against femininity independently of gender identity.]]></content:encoded>
 </item>
 <item>
-<title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
-<link>https://doi.org/10.1287/mksc.2024.1280</link>
-<guid isPermaLink="false">10.1287/mksc.2024.1280</guid>
-<pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xinyao Kong; Jean-Pierre Dubé; Vaness Alwan]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2024.1280</dc:identifier>
-<description><![CDATA[We study the identification of the discount factor for dynamic discrete-choice (DDC) models of demand with stockpiling of a storable good. We show that the DDC has built-in exclusion restrictions that set-identify the discount factor without requiring any auxiliary assumptions. We compare this approach to previous work that assumes auxiliary structure on the storage cost function, clarifying how such structure generates exclusion restrictions and the corresponding data moments used for identification. Our key results show that these auxiliary restrictions are not necessary for identification; but that they are testable and can be included to achieve point identification and improve statistical efficiency. Using a case study of laundry detergent from earlier published work, we find a mean discount factor estimate of $0.957$, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerably higher incremental sales compared to a standard discrete-choice model, which predicts that promotional discounts mainly cause substitution between brands. These results contribute to the long-standing discussion about the effectiveness of price promotions.]]></description>
-<content:encoded><![CDATA[We study the identification of the discount factor for dynamic discrete-choice (DDC) models of demand with stockpiling of a storable good. We show that the DDC has built-in exclusion restrictions that set-identify the discount factor without requiring any auxiliary assumptions. We compare this approach to previous work that assumes auxiliary structure on the storage cost function, clarifying how such structure generates exclusion restrictions and the corresponding data moments used for identification. Our key results show that these auxiliary restrictions are not necessary for identification; but that they are testable and can be included to achieve point identification and improve statistical efficiency. Using a case study of laundry detergent from earlier published work, we find a mean discount factor estimate of $0.957$, rejecting myopic models of choice in favor of the dynamic model. In counterfactual simulations, we show that some of the promotional lift during a discount period is indeed due to forward-buying. However, we predict considerably higher incremental sales compared to a standard discrete-choice model, which predicts that promotional discounts mainly cause substitution between brands. These results contribute to the long-standing discussion about the effectiveness of price promotions.]]></content:encoded>
-</item>
-<item>
 <title>Does Premium Version Adoption in mHealth Improve User Engagement and Health-Related Outcomes?</title>
 <link>https://doi.org/10.1287/mksc.2022.0437</link>
 <guid isPermaLink="false">10.1287/mksc.2022.0437</guid>
@@ -415,6 +405,16 @@
 <dc:identifier>doi:10.1287/mksc.2023.0482</dc:identifier>
 <description><![CDATA[This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.]]></description>
 <content:encoded><![CDATA[This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.]]></content:encoded>
+</item>
+<item>
+<title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
+<link>https://doi.org/10.1287/mksc.2024.1280</link>
+<guid isPermaLink="false">10.1287/mksc.2024.1280</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xinyao Kong; Jean-Pierre Dubé; Vanessa A. Alwan]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2024.1280</dc:identifier>
+<description><![CDATA[We show that the canonical dynamic discrete-choice model of demand has built-in exclusion restrictions that overidentify the discount factor.]]></description>
+<content:encoded><![CDATA[We show that the canonical dynamic discrete-choice model of demand has built-in exclusion restrictions that overidentify the discount factor.]]></content:encoded>
 </item>
 <item>
 <title>The Motivational Paradox: How Aspirational-Goal Communications Influence Sales Performance and Information Acquisition</title>

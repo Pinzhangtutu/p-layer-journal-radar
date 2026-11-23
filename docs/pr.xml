@@ -9,7 +9,7 @@
 <description>PR — APA · Latest in: OnlineFirst · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/pr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 07:11:37 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 23:44:50 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -103,15 +103,6 @@
 <description></description>
 </item>
 <item>
-<title>Digital technologies and evolutionary mismatch: Harming, but also healing mental health.</title>
-<link>https://doi.org/10.1037/rev0000593</link>
-<guid isPermaLink="false">10.1037/rev0000593</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tanay Katiyar; Adam Hunt; Amy Orben; Nikhil Chaudhary; Adrian V. Jaeggi]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000593</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Chance as a (non)explanation: A cross-cultural examination of folk understanding of chance and coincidence.</title>
 <link>https://doi.org/10.1037/rev0000568</link>
 <guid isPermaLink="false">10.1037/rev0000568</guid>
@@ -121,21 +112,21 @@
 <description></description>
 </item>
 <item>
+<title>Digital technologies and evolutionary mismatch: Harming, but also healing mental health.</title>
+<link>https://doi.org/10.1037/rev0000593</link>
+<guid isPermaLink="false">10.1037/rev0000593</guid>
+<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tanay Katiyar; Adam Hunt; Amy Orben; Nikhil Chaudhary; Adrian V. Jaeggi]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000593</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Capacity not required: A long-term memory model that exhibits key signatures of working memory.</title>
 <link>https://doi.org/10.1037/rev0000588</link>
 <guid isPermaLink="false">10.1037/rev0000588</guid>
 <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sean M. Polyn; Geoffrey F. Woodman]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000588</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Ensemble-based working memory updating and its computational rules.</title>
-<link>https://doi.org/10.1037/rev0000569</link>
-<guid isPermaLink="false">10.1037/rev0000569</guid>
-<pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wei Chen; Wenwen Li; Xiaowei Ding]]></dc:creator>
-<dc:identifier>doi:10.1037/rev0000569</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -497,6 +488,15 @@
 <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[David M. Sobel]]></dc:creator>
 <dc:identifier>doi:10.1037/rev0000641</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Cycles of discourse, speech dysfluency, and active inference.</title>
+<link>https://doi.org/10.1037/rev0000654</link>
+<guid isPermaLink="false">10.1037/rev0000654</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Thomas Parr; Birtan Demirel; Youssuf Saleh; Sanjay Manohar]]></dc:creator>
+<dc:identifier>doi:10.1037/rev0000654</dc:identifier>
 <description></description>
 </item>
 <item>
