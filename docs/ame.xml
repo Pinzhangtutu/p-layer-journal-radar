@@ -9,7 +9,7 @@
 <description>AME — AOM · Latest in: Articles in Press · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ame.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:16:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -265,21 +265,21 @@
 <description></description>
 </item>
 <item>
-<title>Legacy Management in Theory and in Practice</title>
-<link>https://doi.org/10.5465/amp.2025.0240</link>
-<guid isPermaLink="false">10.5465/amp.2025.0240</guid>
-<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Miruna Radu-Lefebvre; James H. Davis; Alfredo De Massis; William B. Gartner; Sarah Jack; Gideon D. Markman]]></dc:creator>
-<dc:identifier>doi:10.5465/amp.2025.0240</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Managing the Liability of Legacy in Family Firms</title>
 <link>https://doi.org/10.5465/amp.2023.0319</link>
 <guid isPermaLink="false">10.5465/amp.2023.0319</guid>
 <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Eric Clinton; Catherine M. Faherty; Colm O’Gorman; Nadine Kammerlander]]></dc:creator>
 <dc:identifier>doi:10.5465/amp.2023.0319</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Legacy Management in Theory and in Practice</title>
+<link>https://doi.org/10.5465/amp.2025.0240</link>
+<guid isPermaLink="false">10.5465/amp.2025.0240</guid>
+<pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Miruna Radu-Lefebvre; James H. Davis; Alfredo De Massis; William B. Gartner; Sarah Jack; Gideon D. Markman]]></dc:creator>
+<dc:identifier>doi:10.5465/amp.2025.0240</dc:identifier>
 <description></description>
 </item>
 <item>

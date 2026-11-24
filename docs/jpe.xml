@@ -9,7 +9,7 @@
 <description>JPE — University of Chicago Press · Latest in: Online First · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jpe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:16:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -31,15 +31,6 @@
 <description></description>
 </item>
 <item>
-<title>Two-Sided Search in International Markets</title>
-<link>https://doi.org/10.1086/744914</link>
-<guid isPermaLink="false">10.1086/744914</guid>
-<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jonathan Eaton; David Jinkins; James Tybout; Daniel Yi Xu]]></dc:creator>
-<dc:identifier>doi:10.1086/744914</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Collusion through Common Leadership</title>
 <link>https://doi.org/10.1086/743900</link>
 <guid isPermaLink="false">10.1086/743900</guid>
@@ -49,12 +40,48 @@
 <description></description>
 </item>
 <item>
+<title>Two-Sided Search in International Markets</title>
+<link>https://doi.org/10.1086/744914</link>
+<guid isPermaLink="false">10.1086/744914</guid>
+<pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jonathan Eaton; David Jinkins; James Tybout; Daniel Yi Xu]]></dc:creator>
+<dc:identifier>doi:10.1086/744914</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Safe Spaces: Shelters or Tribes?</title>
 <link>https://doi.org/10.1086/743388</link>
 <guid isPermaLink="false">10.1086/743388</guid>
 <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jean Tirole]]></dc:creator>
 <dc:identifier>doi:10.1086/743388</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Who Values Democracy?</title>
+<link>https://doi.org/10.1086/743899</link>
+<guid isPermaLink="false">10.1086/743899</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Max Miller]]></dc:creator>
+<dc:identifier>doi:10.1086/743899</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Not Learning from Others</title>
+<link>https://doi.org/10.1086/743914</link>
+<guid isPermaLink="false">10.1086/743914</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[John J. Conlon; Malavika Mani; Gautam Rao; Matthew Ridley; Frank Schilbach]]></dc:creator>
+<dc:identifier>doi:10.1086/743914</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The Economic Dynamics of City Structure: Evidence from Hiroshima’s Recovery</title>
+<link>https://doi.org/10.1086/743334</link>
+<guid isPermaLink="false">10.1086/743334</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kohei Takeda; Atsushi Yamagishi]]></dc:creator>
+<dc:identifier>doi:10.1086/743334</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -472,24 +499,6 @@
 <description></description>
 </item>
 <item>
-<title>Robust Estimation and Inference in Panels with Interactive Fixed Effects</title>
-<link>https://doi.org/10.1086/741623</link>
-<guid isPermaLink="false">10.1086/741623</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Timothy B. Armstrong; Martin Weidner; Andrei Zeleneev]]></dc:creator>
-<dc:identifier>doi:10.1086/741623</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Who Values Democracy?</title>
-<link>https://doi.org/10.1086/743899</link>
-<guid isPermaLink="false">10.1086/743899</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Max Miller]]></dc:creator>
-<dc:identifier>doi:10.1086/743899</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>The Macroeconomic Dynamics of Labor Market Polices</title>
 <link>https://doi.org/10.1086/743915</link>
 <guid isPermaLink="false">10.1086/743915</guid>
@@ -514,15 +523,6 @@
 <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Snehal Banerjee; Jesse Davis; Naveen Gondhi]]></dc:creator>
 <dc:identifier>doi:10.1086/743916</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Not Learning from Others</title>
-<link>https://doi.org/10.1086/743914</link>
-<guid isPermaLink="false">10.1086/743914</guid>
-<pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[John Conlon; Malavika Mani; Gautam Rao; Matthew Ridley; Frank Schilbach]]></dc:creator>
-<dc:identifier>doi:10.1086/743914</dc:identifier>
 <description></description>
 </item>
 <item>

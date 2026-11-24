@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:16:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -40,21 +40,21 @@
 <description></description>
 </item>
 <item>
-<title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
-<link>https://doi.org/10.1016/j.jet.2026.106217</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Recursive preferences and ambiguity attitudes</title>
 <link>https://doi.org/10.1016/j.jet.2026.106224</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106224</guid>
 <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Massimo Marinacci; Giulio Principi; Lorenzo Stanca]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106224</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When Lasry-Lions meet Krugman: A mean-field game theory of spatial dynamics</title>
+<link>https://doi.org/10.1016/j.jet.2026.106217</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106217</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[M. Bahlali; R. Boucekkine; Q. Petit]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106217</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -175,21 +175,21 @@
 <description></description>
 </item>
 <item>
-<title>Existence of Bayesian equilibria in incomplete information games without common priors</title>
-<link>https://doi.org/10.1016/j.jet.2026.106268</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106268</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Denis Kojevnikov; Kyungchul Song]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106268</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Poverty-reducing taxation with endogenous income</title>
 <link>https://doi.org/10.1016/j.jet.2026.106271</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106271</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Oriol Carbonell-Nicolau]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106271</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Existence of Bayesian equilibria in incomplete information games without common priors</title>
+<link>https://doi.org/10.1016/j.jet.2026.106268</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106268</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Denis Kojevnikov; Kyungchul Song]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106268</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -418,6 +418,15 @@
 <description></description>
 </item>
 <item>
+<title>Matching with Generalized Sequential Choice Rules</title>
+<link>https://doi.org/10.1016/j.jet.2026.106287</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106287</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Orhan Aygün; Bertan Turhan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106287</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Dynamic Consistency in Ambiguous Dutch Auctions</title>
 <link>https://doi.org/10.1016/j.jet.2026.106284</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106284</guid>
@@ -586,15 +595,6 @@
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jean-Marc Bourgeon; Pierre Picard]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106180</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Meta-preference, endogenous preference formation and dynamic choice</title>
-<link>https://doi.org/10.1016/j.jet.2026.106184</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106184</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Takashi Hayashi]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106184</dc:identifier>
 <description></description>
 </item>
 <item>

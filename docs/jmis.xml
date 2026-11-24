@@ -9,7 +9,7 @@
 <description>JMIS — Taylor &amp; Francis · Latest in: Online First · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jmis.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:16:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -129,75 +129,12 @@
 <description></description>
 </item>
 <item>
-<title>Understanding the Role of Technology in Coordination Through Affordance Configurations</title>
-<link>https://doi.org/10.1080/07421222.2025.2487306</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487306</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jennifer L. Claggett; Elena Karahanna]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487306</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effects of Nudging and Privacy Control on Online Physician Reviews: Evidence from a Field Experiment</title>
 <link>https://doi.org/10.1080/07421222.2025.2487309</link>
 <guid isPermaLink="false">10.1080/07421222.2025.2487309</guid>
 <pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Aishwarya Deep Shukla; Jie Mein (JM) Goh; Tianshu Sun; Guodong (Gordon) Gao; Ritu Agarwal]]></dc:creator>
 <dc:identifier>doi:10.1080/07421222.2025.2487309</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Generative Artificial Intelligence (GenAI)-Based Recommender Addressing Contribution Pollution and Information Cacophony on Digital Platforms</title>
-<link>https://doi.org/10.1080/07421222.2025.2487311</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487311</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Onkar S. Malgonde]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487311</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Shifting Dynamics: How Generative AI as a Boundary Resource Reshapes Digital Platform Governance</title>
-<link>https://doi.org/10.1080/07421222.2025.2487312</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487312</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Anne-Sophie Mayer; Angelos Kostis; Franz Strich; Jonny Holmström]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487312</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Generative AI and its Transformative Value for Digital Platforms</title>
-<link>https://doi.org/10.1080/07421222.2025.2487315</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487315</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michael Wessel; Martin Adam; Alexander Benlian; Ann Majchrzak; Ferdinand Thies]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487315</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Job Crafting in the Context of Enterprise System Implementations</title>
-<link>https://doi.org/10.1080/07421222.2025.2487305</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487305</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Frank K. Y. Chan; James Y. L. Thong; Viswanath Venkatesh]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487305</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Heterogeneous Effects of Generative artificial intelligence (GenAI) on Knowledge Seeking in Online Communities</title>
-<link>https://doi.org/10.1080/07421222.2025.2487313</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487313</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Martin Quinn; Dominik Gutt]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487313</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Complementor Value Co-Creation in Generative AI Platform Ecosystems</title>
-<link>https://doi.org/10.1080/07421222.2025.2487310</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2487310</guid>
-<pubDate>Thu, 03 Apr 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Vincent Heimburg; Maximilian Schreieck; Manuel Wiesche]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2487310</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -288,33 +225,6 @@
 <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Reza Ebrahimi; James Lee Hu; Ning Zhang; Jay F. Nunamaker; Hsinchun Chen]]></dc:creator>
 <dc:identifier>doi:10.1080/07421222.2025.2561384</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Modeling and Interpreting the Propagation Influence of Neighbor Information in Time-Variant Networks with Exemplification by Financial Risk Prediction</title>
-<link>https://doi.org/10.1080/07421222.2025.2452016</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2452016</guid>
-<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jianfei Wang; Lina Zhou; Cuiqing Jiang; Zhao Wang]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2452016</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>How the Metaverse is Reshaping Multichannel Retail Through Balancing Complementarity and Substitution</title>
-<link>https://doi.org/10.1080/07421222.2025.2452019</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2452019</guid>
-<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bingqing Xiong; Jie Fang; Wilson Li]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2452019</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Foundations of Decentralized Metaverse Economies: Converging Physical and Virtual Realities</title>
-<link>https://doi.org/10.1080/07421222.2025.2452017</link>
-<guid isPermaLink="false">10.1080/07421222.2025.2452017</guid>
-<pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Björn Hanneke; Marius Heß; Oliver Hinz]]></dc:creator>
-<dc:identifier>doi:10.1080/07421222.2025.2452017</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -495,6 +405,96 @@
 <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Ariel D. Wigdor; Zachary J. Sheffler; Traci J. Hess]]></dc:creator>
 <dc:identifier>doi:10.1080/07421222.2026.2647470</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Identifying Protected Health Information in Online Hacker Communities: A Multi-Task Relation Learning Approach</title>
+<link>https://doi.org/10.1080/07421222.2026.2736931</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736931</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Cade Dacosta; Benjamin M. Ampel; Matthew J. Hashim; Hsinchun Chen]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736931</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Impact of Problem Specification Structuredness on Crowdsourcing Contests</title>
+<link>https://doi.org/10.1080/07421222.2026.2736940</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736940</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Kai Ye; Tat Koon Koh]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736940</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Too Much of a Good Thing? The Negative Impact of High-Performing Artificial Intelligence Teammates on Human Performance</title>
+<link>https://doi.org/10.1080/07421222.2026.2736939</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736939</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xusen Cheng; Triparna de Vreede; Xiaoping Zhang]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736939</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Knowing is Not Enough: Information Retrievability as a Precondition to Effective LLM Oversight</title>
+<link>https://doi.org/10.1080/07421222.2026.2736934</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736934</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xinyu Fu; Narayan Ramasubbu; Dennis F. Galletta]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736934</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>From Mining to Meaning: How Do Blockchain Infrastructure Platforms Respond to Environmental Sustainability Concerns?</title>
+<link>https://doi.org/10.1080/07421222.2026.2736936</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736936</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Siyuan Jin; Allen H. Huang; Zitong Li; Kar Yan Tam]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736936</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Governing Value Creation on Livestreaming Platforms: Intervention, Privilege Structure, and Streamer Adaptation</title>
+<link>https://doi.org/10.1080/07421222.2026.2736932</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736932</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Dongwon Shin; Sunghun Chung; Yi-Chun (Chad) Ho; Gunwoong Lee]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736932</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>When More is Better (or Not): Cybersecurity Investment, Financial Risk, and Board-Experience Heterogeneity</title>
+<link>https://doi.org/10.1080/07421222.2026.2736938</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736938</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Niyanta Sookraj; Yen-Yao Wang; Xin (Robert) Luo; (Julian) Chenhui Guo]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736938</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Still Working Late? After-Hours Mobile Technology Use, Support at Home, and Next-Day Outcomes</title>
+<link>https://doi.org/10.1080/07421222.2026.2736937</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736937</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Massimo Magni; Remus Ilies; Ekaterina Netchaeva; Jingxian Yao]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736937</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Regulating Data Use in Social Media: Strategic Implications for Platforms and Users</title>
+<link>https://doi.org/10.1080/07421222.2026.2736935</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736935</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hyeonsik Shin; Leila Hosseini; Subodha Kumar]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736935</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Governance as a Contingency in Cybersecurity: When Leadership Networks Help or Hurt</title>
+<link>https://doi.org/10.1080/07421222.2026.2736930</link>
+<guid isPermaLink="false">10.1080/07421222.2026.2736930</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zhuo (June) Cheng; Jing (Bob) Fang; Arun Rai; Sean Xin Xu]]></dc:creator>
+<dc:identifier>doi:10.1080/07421222.2026.2736930</dc:identifier>
 <description></description>
 </item>
 <item>

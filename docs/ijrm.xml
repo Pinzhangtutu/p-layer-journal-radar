@@ -9,7 +9,7 @@
 <description>IJRM — Elsevier / EMAC · Latest in: Articles in Press · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijrm.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 22:16:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -409,6 +409,15 @@
 <description></description>
 </item>
 <item>
+<title>Proximity and Influence: Geographic Peer Effect on Advertising Expenditure</title>
+<link>https://doi.org/10.1016/j.ijresmar.2026.11.002</link>
+<guid isPermaLink="false">10.1016/j.ijresmar.2026.11.002</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruichang Lu; Qiaowei Shen; Jingmeng Zhang; Xiaojun Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijresmar.2026.11.002</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>How discourse concentration and content valence drive engagement with conversational content</title>
 <link>https://doi.org/10.1016/j.ijresmar.2026.07.005</link>
 <guid isPermaLink="false">10.1016/j.ijresmar.2026.07.005</guid>
@@ -586,15 +595,6 @@
 <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zitian Adam; Zhiyong Yang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijresmar.2025.07.005</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>This tree in the forest is mine: The effect of concreteness on psychological ownership</title>
-<link>https://doi.org/10.1016/j.ijresmar.2025.05.003</link>
-<guid isPermaLink="false">10.1016/j.ijresmar.2025.05.003</guid>
-<pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Bart Claus; Jiska Eelen; Luk Warlop]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijresmar.2025.05.003</dc:identifier>
 <description></description>
 </item>
 </channel>
