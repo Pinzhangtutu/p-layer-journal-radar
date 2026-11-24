@@ -9,7 +9,7 @@
 <description>AER-Ed — SAGE · Latest in: OnlineFirst · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aer-ed.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 23:44:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -569,6 +569,16 @@
 <dc:identifier>doi:10.3102/00028312251400716</dc:identifier>
 <description><![CDATA[Policymakers and educational leaders have invested considerable effort in identifying factors that contribute to student absenteeism. While research has extensively examined environmental and school-level influences, less attention has been given to how classroom dynamics shape attendance patterns. This study examined the impact of peer absenteeism on individual student attendance in four Texas school districts, leveraging daily-level attendance data. Findings indicate that classmates’ absences increase a student's likelihood of being absent the following day, and these effects persist even after removing absences attributed to illness. We did not find differences based on peer achievement levels. Lastly, we found that peer absences correspond to student absences not just the following day but for several days into the school week, reinforcing the broader role of classroom disruptions in shaping attendance behavior.]]></description>
 <content:encoded><![CDATA[Policymakers and educational leaders have invested considerable effort in identifying factors that contribute to student absenteeism. While research has extensively examined environmental and school-level influences, less attention has been given to how classroom dynamics shape attendance patterns. This study examined the impact of peer absenteeism on individual student attendance in four Texas school districts, leveraging daily-level attendance data. Findings indicate that classmates’ absences increase a student's likelihood of being absent the following day, and these effects persist even after removing absences attributed to illness. We did not find differences based on peer achievement levels. Lastly, we found that peer absences correspond to student absences not just the following day but for several days into the school week, reinforcing the broader role of classroom disruptions in shaping attendance behavior.]]></content:encoded>
+</item>
+<item>
+<title>Critical Data Use for Just Democratic Governance: The Case of School Boards</title>
+<link>https://doi.org/10.3102/00028312261497161</link>
+<guid isPermaLink="false">10.3102/00028312261497161</guid>
+<pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Julie A. Marsh; Akunna Uka; James C. Bridgeforth; Miguel Casar; Laura Mulfinger; Jacob Alonso]]></dc:creator>
+<dc:identifier>doi:10.3102/00028312261497161</dc:identifier>
+<description><![CDATA[While data-driven decision making holds promise for fostering more equitable and just education, existing research also highlights its potential to perpetuate deficit perspectives, reinforce prevailing educational ideologies, and misattribute the roots of disparities—thereby deepening inequities. This study explores these tensions through a qualitative study of 10 school board members, a group frequently overlooked in educational research. Grounded in democratic and critical theoretical frameworks, this paper examines how board members engage with data and the degree to which their practices challenge or sustain systemic inequalities, concluding with considerations for democratic governance.]]></description>
+<content:encoded><![CDATA[While data-driven decision making holds promise for fostering more equitable and just education, existing research also highlights its potential to perpetuate deficit perspectives, reinforce prevailing educational ideologies, and misattribute the roots of disparities—thereby deepening inequities. This study explores these tensions through a qualitative study of 10 school board members, a group frequently overlooked in educational research. Grounded in democratic and critical theoretical frameworks, this paper examines how board members engage with data and the degree to which their practices challenge or sustain systemic inequalities, concluding with considerations for democratic governance.]]></content:encoded>
 </item>
 <item>
 <title>Youth, Migration, and Active Citizenship: Exploring Students’ Citizenship Vocabularies Across Six Countries</title>

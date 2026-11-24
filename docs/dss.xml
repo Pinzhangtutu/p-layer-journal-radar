@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 23:44:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -436,21 +436,21 @@
 <description></description>
 </item>
 <item>
-<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
-<link>https://doi.org/10.1016/j.dss.2026.114742</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
 <link>https://doi.org/10.1016/j.dss.2026.114797</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
+<link>https://doi.org/10.1016/j.dss.2026.114742</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -526,21 +526,21 @@
 <description></description>
 </item>
 <item>
-<title>Inferring health motivation from wearable data: A cluster-based approach to predicting healthcare claims</title>
-<link>https://doi.org/10.1016/j.dss.2026.114802</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114802</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michelle Marcus; Lemai Nguyen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114802</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When ratings speak louder than words: Seek alpha in Seeking Alpha</title>
 <link>https://doi.org/10.1016/j.dss.2026.114787</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114787</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zhihao Li; Fun Yi Chan; Chaoyue Gao; Alvin Chung Man Leung; Qiang Ye]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114787</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Inferring health motivation from wearable data: A cluster-based approach to predicting healthcare claims</title>
+<link>https://doi.org/10.1016/j.dss.2026.114802</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114802</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michelle Marcus; Lemai Nguyen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114802</dc:identifier>
 <description></description>
 </item>
 <item>

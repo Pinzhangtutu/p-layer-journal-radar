@@ -9,7 +9,7 @@
 <description>MS — INFORMS · Latest in: Articles in Advance · Subfield: marketing</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ms.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Mon, 23 Nov 2026 23:44:50 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 09:34:57 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,6 +211,16 @@
 <content:encoded><![CDATA[A machine learning framework for constructing strong instrumental variables from weak exogenous data achieves semiparametric efficiency with applications to advertising and demand estimation.]]></content:encoded>
 </item>
 <item>
+<title>Platform Information Design and Competitive Price Targeting</title>
+<link>https://doi.org/10.1287/mksc.2023.0518</link>
+<guid isPermaLink="false">10.1287/mksc.2023.0518</guid>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ruiqi Wu; Yufeng Huang; Nan Li]]></dc:creator>
+<dc:identifier>doi:10.1287/mksc.2023.0518</dc:identifier>
+<description><![CDATA[We study platform information design, in which a platform provides information about individual consumers, enabling sellers to set targeted prices. Because targetable information partitions the market and might intensify seller competition, what information should be provided remains an empirical question. We collect novel microdata from Steam, the dominant PC video game platform, and use granular consumer purchase and usage data to estimate their heterogeneous demand for video games. We then develop an equilibrium targeted pricing model to simulate counterfactual outcomes under all possible information designs. We demonstrate that the profit-maximizing information design—which distinguishes heterogeneous consumer types while accounting for the design’s equilibrium impact—yields substantially higher profits compared to demand-based heuristics that ignore the equilibrium impact.]]></description>
+<content:encoded><![CDATA[We study platform information design, in which a platform provides information about individual consumers, enabling sellers to set targeted prices. Because targetable information partitions the market and might intensify seller competition, what information should be provided remains an empirical question. We collect novel microdata from Steam, the dominant PC video game platform, and use granular consumer purchase and usage data to estimate their heterogeneous demand for video games. We then develop an equilibrium targeted pricing model to simulate counterfactual outcomes under all possible information designs. We demonstrate that the profit-maximizing information design—which distinguishes heterogeneous consumer types while accounting for the design’s equilibrium impact—yields substantially higher profits compared to demand-based heuristics that ignore the equilibrium impact.]]></content:encoded>
+</item>
+<item>
 <title>Does Access to Human Coaches Lead to More Weight Loss Than With AI Coaches Alone?</title>
 <link>https://doi.org/10.1287/mksc.2023.0029</link>
 <guid isPermaLink="false">10.1287/mksc.2023.0029</guid>
@@ -395,16 +405,6 @@
 <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1287/mksc.2026.focusonaus.v45.n2</dc:identifier>
 <description></description>
-</item>
-<item>
-<title>The End of Tourist Traps: The Impact of Review Platforms on Quality Upgrading</title>
-<link>https://doi.org/10.1287/mksc.2023.0482</link>
-<guid isPermaLink="false">10.1287/mksc.2023.0482</guid>
-<pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Dante Donati]]></dc:creator>
-<dc:identifier>doi:10.1287/mksc.2023.0482</dc:identifier>
-<description><![CDATA[This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.]]></description>
-<content:encoded><![CDATA[This paper empirically examines how cheaper access to review platforms affects consumer behavior and firms’ incentives to improve product quality in markets where information is traditionally limited.]]></content:encoded>
 </item>
 <item>
 <title>The Identification of the Dynamic Discrete-Choice Model with Stockpiling</title>
