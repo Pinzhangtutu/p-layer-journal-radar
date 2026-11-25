@@ -9,7 +9,7 @@
 <description>ISR — INFORMS · Latest in: Articles in Advance · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/isr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 08:07:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:32:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -323,16 +323,6 @@
 <content:encoded><![CDATA[Given the dramatic surge of demand for predictive insights into the dynamics of financial risk and the rich, yet entangled, information brought by proliferating multiview data, we propose a discrete and regularized deep learning (DRDL) method to better leverage such multiview data for dynamic financial risk prediction. Empirical evaluation demonstrates advantages of DRDL over benchmarked classic and state-of-the-art methods at both the model level (time-to-risk and out-of-time prediction performance) and the application level (identification and profitability performance). Besides performance gains, DRDL offers distinctive practical advantages. First, it enables explicit and controllable factor-level representations, allowing practitioners to inspect and regulate how cross-view signals are encoded. Second, it offers unique advantages in explicitly and precisely filtering out redundant information while extracting complementary information across heterogeneous data sources, allowing practitioners to better understand which unique informational components drive risk predictions. Third, it offers a practically viable and empirically effective way to promote functional disentanglement within a discrete and structured latent space. Fourth, it supports both time-wise and instance-wise monotonicity, aligning predictions with the cumulative and irreversible nature of financial risk escalation, which may be particularly valuable in risk monitoring and governance contexts.]]></content:encoded>
 </item>
 <item>
-<title>A Theory of Strategic Information Technology Unavailability</title>
-<link>https://doi.org/10.1287/isre.2019.0208</link>
-<guid isPermaLink="false">10.1287/isre.2019.0208</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Amin K. Amiri; Hasan Cavusoglu; Izak Benbasat; Varun Grover]]></dc:creator>
-<dc:identifier>doi:10.1287/isre.2019.0208</dc:identifier>
-<description><![CDATA[This study develops a practice-relevant theory explaining why some information technology (IT) unavailability incidents lead to severe and prolonged organizational consequences. By redefining IT unavailability as unmet demand for IT resources rather than simple system downtime, the paper shows how disruptions cascade through information capacity deficits and business capacity deficits, ultimately impairing critical services, affecting clients, and damaging organizational reputation. An analysis of 28 real-world IT unavailability incidents reveals that three reinforcing feedback loops (IT inertia, information inertia, and business inertia) can intensify service disruption, delay recovery, and amplify downstream impacts.]]></description>
-<content:encoded><![CDATA[This study develops a practice-relevant theory explaining why some information technology (IT) unavailability incidents lead to severe and prolonged organizational consequences. By redefining IT unavailability as unmet demand for IT resources rather than simple system downtime, the paper shows how disruptions cascade through information capacity deficits and business capacity deficits, ultimately impairing critical services, affecting clients, and damaging organizational reputation. An analysis of 28 real-world IT unavailability incidents reveals that three reinforcing feedback loops (IT inertia, information inertia, and business inertia) can intensify service disruption, delay recovery, and amplify downstream impacts.]]></content:encoded>
-</item>
-<item>
 <title>Learning from Earnings Calls: Graph-Based Conversational Modeling for Financial Prediction</title>
 <link>https://doi.org/10.1287/isre.2023.0519</link>
 <guid isPermaLink="false">10.1287/isre.2023.0519</guid>
@@ -341,6 +331,16 @@
 <dc:identifier>doi:10.1287/isre.2023.0519</dc:identifier>
 <description><![CDATA[Practice- and policy-oriented abstract Earnings conference calls are a critical channel through which public companies communicate with investors, analysts, and regulators. These conversations contain timely signals about firms’ future risk, yet their length and unstructured nature make systematic analysis difficult in practice. This study develops an artificial intelligence (AI)–based approach, motivated by a body of theoretical and empirical work from finance and accounting, that transforms earnings call transcripts into structured representations, allowing key aspects of managerial communication, such as topic flow, cross-referencing, sentiment, and other semantics, to be explicitly modeled. Empirical results show that the proposed model significantly improves the prediction of future financial risk compared with existing deep learning and large language model approaches, particularly for firms with complex and lengthy disclosures. The findings highlight that nuanced manager–analyst interactions within earnings calls contain value-relevant information for market participants. In particular, cross-referencing, the introduction of new topics, and a more positive tone are associated with lower subsequent risk as identified by the proposed approach. For researchers and practitioners, this work demonstrates how theoretical and empirical evidence on managerial communication can be incorporated into predictive model design, supporting more accurate, interpretable, and responsible use of AI in financial markets.]]></description>
 <content:encoded><![CDATA[Practice- and policy-oriented abstract Earnings conference calls are a critical channel through which public companies communicate with investors, analysts, and regulators. These conversations contain timely signals about firms’ future risk, yet their length and unstructured nature make systematic analysis difficult in practice. This study develops an artificial intelligence (AI)–based approach, motivated by a body of theoretical and empirical work from finance and accounting, that transforms earnings call transcripts into structured representations, allowing key aspects of managerial communication, such as topic flow, cross-referencing, sentiment, and other semantics, to be explicitly modeled. Empirical results show that the proposed model significantly improves the prediction of future financial risk compared with existing deep learning and large language model approaches, particularly for firms with complex and lengthy disclosures. The findings highlight that nuanced manager–analyst interactions within earnings calls contain value-relevant information for market participants. In particular, cross-referencing, the introduction of new topics, and a more positive tone are associated with lower subsequent risk as identified by the proposed approach. For researchers and practitioners, this work demonstrates how theoretical and empirical evidence on managerial communication can be incorporated into predictive model design, supporting more accurate, interpretable, and responsible use of AI in financial markets.]]></content:encoded>
+</item>
+<item>
+<title>A Theory of Strategic Information Technology Unavailability</title>
+<link>https://doi.org/10.1287/isre.2019.0208</link>
+<guid isPermaLink="false">10.1287/isre.2019.0208</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Amin K. Amiri; Hasan Cavusoglu; Izak Benbasat; Varun Grover]]></dc:creator>
+<dc:identifier>doi:10.1287/isre.2019.0208</dc:identifier>
+<description><![CDATA[This study develops a practice-relevant theory explaining why some information technology (IT) unavailability incidents lead to severe and prolonged organizational consequences. By redefining IT unavailability as unmet demand for IT resources rather than simple system downtime, the paper shows how disruptions cascade through information capacity deficits and business capacity deficits, ultimately impairing critical services, affecting clients, and damaging organizational reputation. An analysis of 28 real-world IT unavailability incidents reveals that three reinforcing feedback loops (IT inertia, information inertia, and business inertia) can intensify service disruption, delay recovery, and amplify downstream impacts.]]></description>
+<content:encoded><![CDATA[This study develops a practice-relevant theory explaining why some information technology (IT) unavailability incidents lead to severe and prolonged organizational consequences. By redefining IT unavailability as unmet demand for IT resources rather than simple system downtime, the paper shows how disruptions cascade through information capacity deficits and business capacity deficits, ultimately impairing critical services, affecting clients, and damaging organizational reputation. An analysis of 28 real-world IT unavailability incidents reveals that three reinforcing feedback loops (IT inertia, information inertia, and business inertia) can intensify service disruption, delay recovery, and amplify downstream impacts.]]></content:encoded>
 </item>
 <item>
 <title>Agent-Based Data Curation Practices: Customer Responses to Human vs. Algorithmic Data Requesters in Established Business-to-Business Relationships</title>
@@ -453,6 +453,14 @@
 <content:encoded><![CDATA[More than 90% of medical devices in the United States are approved through the Food and Drug Administration’s 510(k) pathway, primarily based on demonstrating the equivalence of new devices (known as applicant devices) to previously cleared devices (known as predicate devices). However, safety concerns are raised as applicant devices cleared this way may be more prone to recalls that relate to substantial patient harm and financial strain on the healthcare system. In response, this work introduces a data-driven information technology approach to predict medical device recalls, aiming to alleviate these safety concerns by augmenting human decision making. The approach primarily uses the characteristics of the network formed by predicate device citation relationships (predicate network). It uses deep learning to tackle three design challenges: learning the predicate network structure, capturing the temporal patterns of predicate network characteristics, and accounting for dependencies across the predicate citation history. Based on 45,398 medical devices cleared between 2003 and 2020, the approach substantially improves recall prediction accuracy and timeliness compared with existing state-of-the-art approaches. The improved recall-prediction performance and insights into performance variations across device categories provide opportunities to preemptively react to potential recalls and improve the safety of devices cleared through the 510(k) pathway.]]></content:encoded>
 </item>
 <item>
+<title>Research Spotlights</title>
+<link>https://doi.org/10.1287/isre.2026.resspot.v37.n3</link>
+<guid isPermaLink="false">10.1287/isre.2026.resspot.v37.n3</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/isre.2026.resspot.v37.n3</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>SUVA: A Probabilistic Framework for Auditing LLMs with an Application to Social Preferences</title>
 <link>https://doi.org/10.1287/isre.2024.0857</link>
 <guid isPermaLink="false">10.1287/isre.2024.0857</guid>
@@ -461,14 +469,6 @@
 <dc:identifier>doi:10.1287/isre.2024.0857</dc:identifier>
 <description><![CDATA[Organizations are increasingly deploying large language models (LLMs) as customer service agents, decision aids, and semiautonomous agents. We develop State–Understanding–Value–Action (SUVA), a probabilistic auditing framework that turns an LLM’s response into structured evidence about how its decision was produced. SUVA treats the prompt as the state, codes the model’s reasoning to extract its understanding and stated values using a transparent codebook, and then estimates how these elements statistically predict the eventual action. We demonstrate SUVA on social preference games from behavioral economics and show how the same workflow can audit other delegated decisions by using domain-specific prompts and value codebooks. Across eight widely used LLMs, SUVA reveals systematic prosocial and reciprocity patterns and shows how posttraining alignment reshapes them. For practice and policy, SUVA supports a repeatable audit, align, and reaudit workflow for model selection, compliance, and ongoing monitoring of deployed LLM systems.]]></description>
 <content:encoded><![CDATA[Organizations are increasingly deploying large language models (LLMs) as customer service agents, decision aids, and semiautonomous agents. We develop State–Understanding–Value–Action (SUVA), a probabilistic auditing framework that turns an LLM’s response into structured evidence about how its decision was produced. SUVA treats the prompt as the state, codes the model’s reasoning to extract its understanding and stated values using a transparent codebook, and then estimates how these elements statistically predict the eventual action. We demonstrate SUVA on social preference games from behavioral economics and show how the same workflow can audit other delegated decisions by using domain-specific prompts and value codebooks. Across eight widely used LLMs, SUVA reveals systematic prosocial and reciprocity patterns and shows how posttraining alignment reshapes them. For practice and policy, SUVA supports a repeatable audit, align, and reaudit workflow for model selection, compliance, and ongoing monitoring of deployed LLM systems.]]></content:encoded>
-</item>
-<item>
-<title>Research Spotlights</title>
-<link>https://doi.org/10.1287/isre.2026.resspot.v37.n3</link>
-<guid isPermaLink="false">10.1287/isre.2026.resspot.v37.n3</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1287/isre.2026.resspot.v37.n3</dc:identifier>
-<description></description>
 </item>
 <item>
 <title>Where the Ball Starts Rolling? An Empirical Investigation into Initial Opinion Formation on Social Media Platforms</title>

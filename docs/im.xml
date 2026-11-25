@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 08:07:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:32:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -121,15 +121,6 @@
 <description></description>
 </item>
 <item>
-<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
-<link>https://doi.org/10.1016/j.im.2026.104432</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Enhancing market transparency with AI: A large language model approach to decoding risk signals from Chinese comment letters</title>
 <link>https://doi.org/10.1016/j.im.2026.104435</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104435</guid>
@@ -145,6 +136,15 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yafang Li; Michelle Carter; Robert E. Crossler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104420</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
+<link>https://doi.org/10.1016/j.im.2026.104432</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -217,15 +217,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Fengjiao Zhang; Zhao Pan; Qian Hu; Yaobin Lu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104403</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Digital Affordances for Customer Engagement: The role of Co-Creation Climate, Social Media Manager’s Characteristics, and Creative Brand Content</title>
-<link>https://doi.org/10.1016/j.im.2026.104473</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104473</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Concepción Varela-Neira; Filipe Coelho; Zaira Camoiras-Rodríguez]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104473</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -355,6 +346,15 @@
 <description></description>
 </item>
 <item>
+<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
+<link>https://doi.org/10.1016/j.im.2026.104414</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Beyond speculation: Explaining the intention to use cryptocurrency</title>
 <link>https://doi.org/10.1016/j.im.2026.104410</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104410</guid>
@@ -370,15 +370,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Canjun Chen; Lelin Lv; Changxin Xu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104400</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
-<link>https://doi.org/10.1016/j.im.2026.104414</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -406,6 +397,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xiang Gong; Xinjuan Li; Jinming Dang; Xiaoxiao Liu; Zhenxin Xiao]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104471</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Digital affordances for customer engagement: The role of co-creation climate, social media manager’s characteristics, and creative brand content</title>
+<link>https://doi.org/10.1016/j.im.2026.104473</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104473</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Concepción Varela-Neira; Filipe Coelho; Zaira Camoiras-Rodríguez]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104473</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -481,21 +481,21 @@
 <description></description>
 </item>
 <item>
-<title>What works when: calibrating temporal focus for crowdfunding success</title>
-<link>https://doi.org/10.1016/j.im.2026.104456</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Beyond integration to validation: the differential impact of physicians’ knowledge collaboration behaviors on online medical team performance</title>
 <link>https://doi.org/10.1016/j.im.2026.104452</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104452</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Han Long; Hong Wu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104452</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>What works when: calibrating temporal focus for crowdfunding success</title>
+<link>https://doi.org/10.1016/j.im.2026.104456</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104456</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yu-Wei Lin; Shiyu Yang; Aravinda Garimella]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104456</dc:identifier>
 <description></description>
 </item>
 <item>

@@ -9,7 +9,7 @@
 <description>SocialForces — Oxford · Latest in: Advance · Subfield: sociology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/socialforces.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 08:07:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:32:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -40,6 +40,15 @@
 <dc:identifier>doi:10.1093/sf/soag121</dc:identifier>
 <description><![CDATA[Abstract Many ethnic and racial minorities experience higher unemployment rates than majority populations. Recent research in this area has largely focused on inequalities in getting a job—through employer discrimination in hiring—using field experiments. While these studies typically identify significant levels of discrimination, they rarely examine or discuss how hiring discrimination contributes to ethnic employment penalties at the aggregate level. Our study draws attention to the role of ethnic and racial inequalities in getting a job but also in remaining employed and avoiding unemployment as factors contributing to aggregate ethnic employment penalties. Our analysis employs population register data from Sweden to estimate unemployment entry and exit rates for the majority and ten groups of children of immigrants (the second generation, G2). Based on counterfactual scenarios we conclude that the substantially higher unemployment rates among the G2 are driven by their higher risk of becoming unemployed rather than their lower chances of becoming employed. Our findings indicate that hiring discrimination and other reasons for inequalities in getting a job play a less significant role than sometimes assumed in explaining ethnic employment penalties—at least in the context of Sweden.]]></description>
 <content:encoded><![CDATA[Abstract Many ethnic and racial minorities experience higher unemployment rates than majority populations. Recent research in this area has largely focused on inequalities in getting a job—through employer discrimination in hiring—using field experiments. While these studies typically identify significant levels of discrimination, they rarely examine or discuss how hiring discrimination contributes to ethnic employment penalties at the aggregate level. Our study draws attention to the role of ethnic and racial inequalities in getting a job but also in remaining employed and avoiding unemployment as factors contributing to aggregate ethnic employment penalties. Our analysis employs population register data from Sweden to estimate unemployment entry and exit rates for the majority and ten groups of children of immigrants (the second generation, G2). Based on counterfactual scenarios we conclude that the substantially higher unemployment rates among the G2 are driven by their higher risk of becoming unemployed rather than their lower chances of becoming employed. Our findings indicate that hiring discrimination and other reasons for inequalities in getting a job play a less significant role than sometimes assumed in explaining ethnic employment penalties—at least in the context of Sweden.]]></content:encoded>
+</item>
+<item>
+<title>Review of “The Price of Justice: Money and the Limits of Sexual Violence Lawsuits”</title>
+<link>https://doi.org/10.1093/sf/soag168</link>
+<guid isPermaLink="false">10.1093/sf/soag168</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nancy Whittier]]></dc:creator>
+<dc:identifier>doi:10.1093/sf/soag168</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Class diplomacy: cross-class friendship, social mobility, and the promise of symbolic exchange</title>
@@ -245,15 +254,6 @@
 <dc:identifier>doi:10.1093/sf/soag098</dc:identifier>
 <description><![CDATA[Abstract Prior studies document a declining but persistent gender housework gap since the 1960s, with declines in women’s housework time far exceeding increases in men’s. Yet scholars differ in their assessment of what these trends mean about the pace and extent of gendered change in family life. Using individual-level longitudinal data from the 1976–2023 waves of the Panel Study of Income Dynamics, this study addresses this theoretical impasse by asking whether housework has become fundamentally degendered over time. I assess degendering using two novel indicators: the residual gender housework gap relative to the total gap and gender symmetry in associations between key predictors and housework. Results show that although the overall gender housework gap has declined substantially, the share of the total gap accounted for by theoretically relevant observed predictors remains small and has not increased over time. Individual fixed-effects models further show that cohabitation, marriage, and children remain much more strongly associated with increases in women’s housework than men’s across periods. Associations of paid work hours and earnings with housework, in contrast, attenuate over time, with less consistent evidence of gender asymmetry. Overall, these findings indicate limited progress in degendering housework and are more consistent with a stalled gender housework revolution.]]></description>
 <content:encoded><![CDATA[Abstract Prior studies document a declining but persistent gender housework gap since the 1960s, with declines in women’s housework time far exceeding increases in men’s. Yet scholars differ in their assessment of what these trends mean about the pace and extent of gendered change in family life. Using individual-level longitudinal data from the 1976–2023 waves of the Panel Study of Income Dynamics, this study addresses this theoretical impasse by asking whether housework has become fundamentally degendered over time. I assess degendering using two novel indicators: the residual gender housework gap relative to the total gap and gender symmetry in associations between key predictors and housework. Results show that although the overall gender housework gap has declined substantially, the share of the total gap accounted for by theoretically relevant observed predictors remains small and has not increased over time. Individual fixed-effects models further show that cohabitation, marriage, and children remain much more strongly associated with increases in women’s housework than men’s across periods. Associations of paid work hours and earnings with housework, in contrast, attenuate over time, with less consistent evidence of gender asymmetry. Overall, these findings indicate limited progress in degendering housework and are more consistent with a stalled gender housework revolution.]]></content:encoded>
-</item>
-<item>
-<title>Review of “Living Diaper to Diaper: The Hidden Crisis of Poverty and Motherhood”</title>
-<link>https://doi.org/10.1093/sf/soag092</link>
-<guid isPermaLink="false">10.1093/sf/soag092</guid>
-<pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jennifer Laird]]></dc:creator>
-<dc:identifier>doi:10.1093/sf/soag092</dc:identifier>
-<description></description>
 </item>
 <item>
 <title>Review of “Family Legal Vulnerability: How Immigration Policy Shapes the Lives of Latino College Students”</title>

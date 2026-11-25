@@ -9,7 +9,7 @@
 <description>GOM — SAGE · Latest in: OnlineFirst · Subfield: ob</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/gom.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 08:07:22 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 21:32:54 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -140,19 +140,19 @@
 <content:encoded><![CDATA[This commentary builds on Schertler et al.’s (2026) study of inclusion in remote work settings by developing a leader-employee training framework aimed at improving inclusivity in remote contexts. It proposes that leaders receive training that develops capabilities for creating and signaling inclusive virtual environments, while employees receive training that develops the complementary capabilities to interpret, respond to, and reinforce inclusionary cues. The commentary further outlines how training can target belongingness and authenticity at both the leader- and employee-level. Importantly, it positions the leader-employee training framework within an organizational training system that incorporates a training needs assessment, sound instructional design principles, assessments of learning and transfer, and evaluations of whether training actually leads to improvements in remote work inclusivity over time. Guidance is also offered for remedying issues with training transfer.]]></content:encoded>
 </item>
 <item>
-<title>Publisher’s Note</title>
-<link>https://doi.org/10.1177/10596011261467710</link>
-<guid isPermaLink="false">10.1177/10596011261467710</guid>
-<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1177/10596011261467710</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Retraction</title>
 <link>https://doi.org/10.1177/10596011261465651</link>
 <guid isPermaLink="false">10.1177/10596011261465651</guid>
 <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
 <dc:identifier>doi:10.1177/10596011261465651</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Publisher’s Note</title>
+<link>https://doi.org/10.1177/10596011261467710</link>
+<guid isPermaLink="false">10.1177/10596011261467710</guid>
+<pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1177/10596011261467710</dc:identifier>
 <description></description>
 </item>
 <item>
