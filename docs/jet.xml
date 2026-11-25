@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 22:16:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:07:22 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -175,21 +175,21 @@
 <description></description>
 </item>
 <item>
-<title>Poverty-reducing taxation with endogenous income</title>
-<link>https://doi.org/10.1016/j.jet.2026.106271</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106271</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Oriol Carbonell-Nicolau]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106271</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Existence of Bayesian equilibria in incomplete information games without common priors</title>
 <link>https://doi.org/10.1016/j.jet.2026.106268</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106268</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Denis Kojevnikov; Kyungchul Song]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106268</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Poverty-reducing taxation with endogenous income</title>
+<link>https://doi.org/10.1016/j.jet.2026.106271</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106271</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Oriol Carbonell-Nicolau]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106271</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,6 +436,15 @@
 <description></description>
 </item>
 <item>
+<title>Anonymous and Strategy-Proof Social Choice under Uncertainty</title>
+<link>https://doi.org/10.1016/j.jet.2026.106286</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106286</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Eric Bahel]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106286</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Efficiency with Political Power Dynamics and Costly Policy Change</title>
 <link>https://doi.org/10.1016/j.jet.2026.106277</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106277</guid>
@@ -586,15 +595,6 @@
 <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Sonny Biswas; Kostas Koufopoulos; Thi Mai Nguyen]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106167</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Self-insurance and market insurance substitutability: An established tenet reconsidered</title>
-<link>https://doi.org/10.1016/j.jet.2026.106180</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106180</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jean-Marc Bourgeon; Pierre Picard]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106180</dc:identifier>
 <description></description>
 </item>
 <item>

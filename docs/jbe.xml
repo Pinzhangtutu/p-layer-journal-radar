@@ -9,9 +9,19 @@
 <description>JBE — Springer · Latest in: Online First · Subfield: management</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jbe.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Tue, 24 Nov 2026 22:16:54 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 08:07:22 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
+<item>
+<title>Earnings Management of Oil &amp; Gas Firms After the Russian Invasion of Ukraine</title>
+<link>https://doi.org/10.1007/s10551-026-06490-7</link>
+<guid isPermaLink="false">10.1007/s10551-026-06490-7</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jochen Bigus; Nadine Georgiou; Nils Hain]]></dc:creator>
+<dc:identifier>doi:10.1007/s10551-026-06490-7</dc:identifier>
+<description><![CDATA[Abstract Political crises often lead to sharp increases in energy prices and, consequently, in the profits of oil and gas companies. However, exceptionally high profits may be perceived as unethical, creating reputational and legitimacy concerns that can influence firms’ financial reporting behavior. Yet, there is no evidence whether European oil & gas firms manage earnings after sudden political crises, and whether their responses differ across countries. Using a difference-in-differences design, this study documents that European oil & gas firms engaged in significant income-decreasing earnings management—through both accrual-based and real activities—following the Russian invasion of Ukraine. This effect is particularly pronounced in the third quarter of 2022 and the first quarter of 2023. We further find that (real) earnings management by oil & gas firms is more pronounced in countries that implemented windfall profit taxes and in institutional environments characterized by stronger democratic governance. At the firm level, the effect is concentrated among oil & gas firms with relatively low sustainability scores, which exhibit significantly greater income-decreasing earnings management than control firms. These findings suggest that earnings management decisions were driven not only by tax considerations but also by legitimacy and reputational concerns. This study contributes to the literature by providing cross-country evidence that exploits variation in taxation regimes and institutional settings, and by explicitly examining the role of legitimacy and reputational concerns in shaping corporate reporting behavior.]]></description>
+<content:encoded><![CDATA[Abstract Political crises often lead to sharp increases in energy prices and, consequently, in the profits of oil and gas companies. However, exceptionally high profits may be perceived as unethical, creating reputational and legitimacy concerns that can influence firms’ financial reporting behavior. Yet, there is no evidence whether European oil & gas firms manage earnings after sudden political crises, and whether their responses differ across countries. Using a difference-in-differences design, this study documents that European oil & gas firms engaged in significant income-decreasing earnings management—through both accrual-based and real activities—following the Russian invasion of Ukraine. This effect is particularly pronounced in the third quarter of 2022 and the first quarter of 2023. We further find that (real) earnings management by oil & gas firms is more pronounced in countries that implemented windfall profit taxes and in institutional environments characterized by stronger democratic governance. At the firm level, the effect is concentrated among oil & gas firms with relatively low sustainability scores, which exhibit significantly greater income-decreasing earnings management than control firms. These findings suggest that earnings management decisions were driven not only by tax considerations but also by legitimacy and reputational concerns. This study contributes to the literature by providing cross-country evidence that exploits variation in taxation regimes and institutional settings, and by explicitly examining the role of legitimacy and reputational concerns in shaping corporate reporting behavior.]]></content:encoded>
+</item>
 <item>
 <title>Does Biodiversity Risk Matter to Capital Markets? New Evidence from China</title>
 <link>https://doi.org/10.1007/s10551-026-06466-7</link>
@@ -642,15 +652,6 @@
 <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yuanyuan Liu; Yu Wang; Lili Jiu; Shengnan Li]]></dc:creator>
 <dc:identifier>doi:10.1007/s10551-026-06500-8</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Ethical Wasta: A Postcolonial Account of Ethical Leadership in Lebanon</title>
-<link>https://doi.org/10.1007/s10551-026-06452-z</link>
-<guid isPermaLink="false">10.1007/s10551-026-06452-z</guid>
-<pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Rima Helal; Sa’ad Ali; Sally Shamieh]]></dc:creator>
-<dc:identifier>doi:10.1007/s10551-026-06452-z</dc:identifier>
 <description></description>
 </item>
 </channel>
