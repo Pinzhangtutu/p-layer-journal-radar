@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 21:32:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 07:56:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -76,15 +76,6 @@
 <description></description>
 </item>
 <item>
-<title>PFMAR: A multi-agent conversational recommender system for high-involvement products</title>
-<link>https://doi.org/10.1016/j.dss.2026.114714</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114714</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jianshan Sun; Wenjuan Chen; Chongming Gao; Ying Xue; Kun Yuan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114714</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Too alike to thrive? Personality and functionality similarity in virtual teams</title>
 <link>https://doi.org/10.1016/j.dss.2026.114775</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114775</guid>
@@ -112,6 +103,15 @@
 <description></description>
 </item>
 <item>
+<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
+<link>https://doi.org/10.1016/j.dss.2026.114774</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Human-led or AI-led? How AI role configuration influences human engagement on knowledge-intensive gig platforms</title>
 <link>https://doi.org/10.1016/j.dss.2026.114781</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114781</guid>
@@ -127,15 +127,6 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Tsung-Hsing Chen; Chia-Yu Lai; Chieh Lee; Jen Yu; Ta-Sen Yeh]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114771</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
-<link>https://doi.org/10.1016/j.dss.2026.114774</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -436,21 +427,21 @@
 <description></description>
 </item>
 <item>
-<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
-<link>https://doi.org/10.1016/j.dss.2026.114742</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
 <link>https://doi.org/10.1016/j.dss.2026.114797</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
+<link>https://doi.org/10.1016/j.dss.2026.114742</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -469,6 +460,15 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kongxuan Xing; Gang Qu; Haiqiong Yang; Jinwen She; Linlin Peng; Mingxin Li; Xing Zhang; Shancheng Jiang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114803</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>More than meets the eye: a multimodal analysis of sentiment misalignment in sponsored content for social media user engagement</title>
+<link>https://doi.org/10.1016/j.dss.2026.114804</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114804</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Zilong Liu; Yiru Guo; Xuequn Wang; Haomin Yang; Xin (Robert) Luo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114804</dc:identifier>
 <description></description>
 </item>
 <item>

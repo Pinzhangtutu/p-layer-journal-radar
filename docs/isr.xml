@@ -9,7 +9,7 @@
 <description>ISR — INFORMS · Latest in: Articles in Advance · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/isr.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 21:32:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 07:56:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -453,14 +453,6 @@
 <content:encoded><![CDATA[More than 90% of medical devices in the United States are approved through the Food and Drug Administration’s 510(k) pathway, primarily based on demonstrating the equivalence of new devices (known as applicant devices) to previously cleared devices (known as predicate devices). However, safety concerns are raised as applicant devices cleared this way may be more prone to recalls that relate to substantial patient harm and financial strain on the healthcare system. In response, this work introduces a data-driven information technology approach to predict medical device recalls, aiming to alleviate these safety concerns by augmenting human decision making. The approach primarily uses the characteristics of the network formed by predicate device citation relationships (predicate network). It uses deep learning to tackle three design challenges: learning the predicate network structure, capturing the temporal patterns of predicate network characteristics, and accounting for dependencies across the predicate citation history. Based on 45,398 medical devices cleared between 2003 and 2020, the approach substantially improves recall prediction accuracy and timeliness compared with existing state-of-the-art approaches. The improved recall-prediction performance and insights into performance variations across device categories provide opportunities to preemptively react to potential recalls and improve the safety of devices cleared through the 510(k) pathway.]]></content:encoded>
 </item>
 <item>
-<title>Research Spotlights</title>
-<link>https://doi.org/10.1287/isre.2026.resspot.v37.n3</link>
-<guid isPermaLink="false">10.1287/isre.2026.resspot.v37.n3</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:identifier>doi:10.1287/isre.2026.resspot.v37.n3</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>SUVA: A Probabilistic Framework for Auditing LLMs with an Application to Social Preferences</title>
 <link>https://doi.org/10.1287/isre.2024.0857</link>
 <guid isPermaLink="false">10.1287/isre.2024.0857</guid>
@@ -469,6 +461,14 @@
 <dc:identifier>doi:10.1287/isre.2024.0857</dc:identifier>
 <description><![CDATA[Organizations are increasingly deploying large language models (LLMs) as customer service agents, decision aids, and semiautonomous agents. We develop State–Understanding–Value–Action (SUVA), a probabilistic auditing framework that turns an LLM’s response into structured evidence about how its decision was produced. SUVA treats the prompt as the state, codes the model’s reasoning to extract its understanding and stated values using a transparent codebook, and then estimates how these elements statistically predict the eventual action. We demonstrate SUVA on social preference games from behavioral economics and show how the same workflow can audit other delegated decisions by using domain-specific prompts and value codebooks. Across eight widely used LLMs, SUVA reveals systematic prosocial and reciprocity patterns and shows how posttraining alignment reshapes them. For practice and policy, SUVA supports a repeatable audit, align, and reaudit workflow for model selection, compliance, and ongoing monitoring of deployed LLM systems.]]></description>
 <content:encoded><![CDATA[Organizations are increasingly deploying large language models (LLMs) as customer service agents, decision aids, and semiautonomous agents. We develop State–Understanding–Value–Action (SUVA), a probabilistic auditing framework that turns an LLM’s response into structured evidence about how its decision was produced. SUVA treats the prompt as the state, codes the model’s reasoning to extract its understanding and stated values using a transparent codebook, and then estimates how these elements statistically predict the eventual action. We demonstrate SUVA on social preference games from behavioral economics and show how the same workflow can audit other delegated decisions by using domain-specific prompts and value codebooks. Across eight widely used LLMs, SUVA reveals systematic prosocial and reciprocity patterns and shows how posttraining alignment reshapes them. For practice and policy, SUVA supports a repeatable audit, align, and reaudit workflow for model selection, compliance, and ongoing monitoring of deployed LLM systems.]]></content:encoded>
+</item>
+<item>
+<title>Research Spotlights</title>
+<link>https://doi.org/10.1287/isre.2026.resspot.v37.n3</link>
+<guid isPermaLink="false">10.1287/isre.2026.resspot.v37.n3</guid>
+<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+<dc:identifier>doi:10.1287/isre.2026.resspot.v37.n3</dc:identifier>
+<description></description>
 </item>
 <item>
 <title>Where the Ball Starts Rolling? An Empirical Investigation into Initial Opinion Formation on Social Media Platforms</title>

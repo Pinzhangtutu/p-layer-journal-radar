@@ -9,7 +9,7 @@
 <description>JEEA — Oxford · Latest in: Advance · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jeea.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Wed, 25 Nov 2026 21:32:54 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 07:56:35 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -21,6 +21,16 @@
 <dc:identifier>doi:10.1093/jeea/jvag071</dc:identifier>
 <description><![CDATA[Abstract We study the mating patterns of non-heterosexual individuals, who represent a significant and increasing portion of the population, particularly among the youth. We estimate a multidimensional matching model of the marriage market where partner’s gender is endogenously chosen conditional on the agent’s sexual orientation, and is subject to trade-offs that depend on both the agents’ preferences and the pool of potential partners. We show that same-sex couples experience lower gains from live-in relationships, a “same-sex penalty”. Absent this penalty, the share of same-sex couples in the U.S. would increase by about 50% (from 1.36% to 2.04% of all couples).]]></description>
 <content:encoded><![CDATA[Abstract We study the mating patterns of non-heterosexual individuals, who represent a significant and increasing portion of the population, particularly among the youth. We estimate a multidimensional matching model of the marriage market where partner’s gender is endogenously chosen conditional on the agent’s sexual orientation, and is subject to trade-offs that depend on both the agents’ preferences and the pool of potential partners. We show that same-sex couples experience lower gains from live-in relationships, a “same-sex penalty”. Absent this penalty, the share of same-sex couples in the U.S. would increase by about 50% (from 1.36% to 2.04% of all couples).]]></content:encoded>
+</item>
+<item>
+<title>The Parenthood Penalty in Mental Health,</title>
+<link>https://doi.org/10.1093/jeea/jvag076</link>
+<guid isPermaLink="false">10.1093/jeea/jvag076</guid>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Alexander Ahammer; Ulrich Glogowsky; Martin Halla; Timo Hener]]></dc:creator>
+<dc:identifier>doi:10.1093/jeea/jvag076</dc:identifier>
+<description><![CDATA[Abstract Using Austrian and Danish administrative data, we examine the effects of parenthood on mental health equality. Parenthood imposes a greater long-run mental health burden on mothers than on fathers: the relative increase in mothers’ antidepressant prescriptions due to parenthood exceeds that of fathers by 97.6 percentage points (Austria) and 41.1 percentage points (Denmark). These parenthood penalties in mental health mainly reflect the demands of having and raising children rather than biology, relationship breakdown, or non-employment. Supporting this interpretation, we show that adoptive mothers encounter substantial penalties and also that employed, cohabiting mothers account for most of the increase in prescriptions. Given our results, one may call for interventions such as longer parental leave. However, additional quasi-experimental evidence demonstrates that such extensions increase rather than reduce the prevalence of mental health problems among mothers and thereby widen inequality.]]></description>
+<content:encoded><![CDATA[Abstract Using Austrian and Danish administrative data, we examine the effects of parenthood on mental health equality. Parenthood imposes a greater long-run mental health burden on mothers than on fathers: the relative increase in mothers’ antidepressant prescriptions due to parenthood exceeds that of fathers by 97.6 percentage points (Austria) and 41.1 percentage points (Denmark). These parenthood penalties in mental health mainly reflect the demands of having and raising children rather than biology, relationship breakdown, or non-employment. Supporting this interpretation, we show that adoptive mothers encounter substantial penalties and also that employed, cohabiting mothers account for most of the increase in prescriptions. Given our results, one may call for interventions such as longer parental leave. However, additional quasi-experimental evidence demonstrates that such extensions increase rather than reduce the prevalence of mental health problems among mothers and thereby widen inequality.]]></content:encoded>
 </item>
 <item>
 <title>The Role of Firms and Job Mobility in the Assimilation of Immigrants: Former Soviet Union Jews in Israel 1990–2019</title>
@@ -631,16 +641,6 @@
 <dc:identifier>doi:10.1093/jeea/jvag014</dc:identifier>
 <description><![CDATA[Abstract We document political interdependence driven by international migration. To examine whether elections in residence countries impact emigrant turnout in homeland elections, we assemble a novel dataset covering 1,267 elections across 43 origin countries and 217 residence countries. Exploiting the quasi-random timing of elections between countries, we find that emigrant turnout increases by 7 percentage points in homeland elections held after residence country elections, compared to those held before. This is consistent with a model of salience where exposure to competitive residence country elections and expanded media coverage increases interest in the political process and drives emigrants to participate in their homeland elections.]]></description>
 <content:encoded><![CDATA[Abstract We document political interdependence driven by international migration. To examine whether elections in residence countries impact emigrant turnout in homeland elections, we assemble a novel dataset covering 1,267 elections across 43 origin countries and 217 residence countries. Exploiting the quasi-random timing of elections between countries, we find that emigrant turnout increases by 7 percentage points in homeland elections held after residence country elections, compared to those held before. This is consistent with a model of salience where exposure to competitive residence country elections and expanded media coverage increases interest in the political process and drives emigrants to participate in their homeland elections.]]></content:encoded>
-</item>
-<item>
-<title>Identifying Rent-Sharing Using Firms’ Energy Input Mix</title>
-<link>https://doi.org/10.1093/jeea/jvag006</link>
-<guid isPermaLink="false">10.1093/jeea/jvag006</guid>
-<pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Matthias Mertens; Steffen Mueller; Georg Neuschaeffer]]></dc:creator>
-<dc:identifier>doi:10.1093/jeea/jvag006</dc:identifier>
-<description><![CDATA[Abstract We present causal evidence on the rent-sharing elasticity of German manufacturing firms. We develop a new firm-level Bartik instrument for firm rents that combines the firms’ predetermined energy input mix with national energy carrier price changes. Instrumental variable estimation yields a rent-sharing elasticity of approximately 0.20, implying that a 10% change in rents leads to a 2% change in wages. Rent-sharing induced by energy price variation is asymmetric and driven by energy price increases, such that, on average, workers do not benefit from energy price reductions but are harmed by price increases. Reduced-form evidence shows that a 10% increase in firm-level energy prices depresses firm-level wage growth by 0.34%.]]></description>
-<content:encoded><![CDATA[Abstract We present causal evidence on the rent-sharing elasticity of German manufacturing firms. We develop a new firm-level Bartik instrument for firm rents that combines the firms’ predetermined energy input mix with national energy carrier price changes. Instrumental variable estimation yields a rent-sharing elasticity of approximately 0.20, implying that a 10% change in rents leads to a 2% change in wages. Rent-sharing induced by energy price variation is asymmetric and driven by energy price increases, such that, on average, workers do not benefit from energy price reductions but are harmed by price increases. Reduced-form evidence shows that a 10% increase in firm-level energy prices depresses firm-level wage growth by 0.34%.]]></content:encoded>
 </item>
 <item>
 <title>Geographic Integration and Firm Exports: Evidence from China,</title>
