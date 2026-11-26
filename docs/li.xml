@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 26 Nov 2026 07:56:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:20:38 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -328,21 +328,21 @@
 <description></description>
 </item>
 <item>
-<title>The underestimated role of effort in ability self-concept formation: Preliminary evidence for another major comparison process</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102471</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102471</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tobias Debatin; Heidrun Stoeger; Albert Ziegler]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102471</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>An integrated cognitive-affective spatial system for geometry</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102492</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102492</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Kelsey E. Schenck; Mitchell J. Nathan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102492</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The underestimated role of effort in ability self-concept formation: Preliminary evidence for another major comparison process</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102471</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102471</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tobias Debatin; Heidrun Stoeger; Albert Ziegler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102471</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -490,15 +490,6 @@
 <description></description>
 </item>
 <item>
-<title>Key arithmetic word problems to assess children's understanding</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102502</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102502</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jeanne Bagnoud; Emmanuel Sander]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102502</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Do you need to add (con)text to the equation? Subject-related, linguistic, and contextual factors in competence-oriented assessment</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102464</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102464</guid>
@@ -535,6 +526,15 @@
 <description></description>
 </item>
 <item>
+<title>Key arithmetic word problems to assess children's understanding</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102502</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102502</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jeanne Bagnoud; Emmanuel Sander]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102502</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>The social embeddedness of learning: Social network formation and academic achievement in an undergraduate student community</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102477</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102477</guid>
@@ -562,21 +562,21 @@
 <description></description>
 </item>
 <item>
-<title>Unveiling gendered participation dynamics in collaborative group work through transition network analysis</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102503</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102503</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jingoo Kang; Stephen Adofo; Jori Manner; Mohammed Saqr]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102503</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>From faux flipped to gamified flipped classrooms: scaffolding and cognitive load management</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102487</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102487</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zamzami Zainuddin; Tianchong Wang; Riyan Hidayat; Madziatul Churiyah]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102487</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Unveiling gendered participation dynamics in collaborative group work through transition network analysis</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102503</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102503</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jingoo Kang; Stephen Adofo; Jori Manner; Mohammed Saqr]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102503</dc:identifier>
 <description></description>
 </item>
 <item>

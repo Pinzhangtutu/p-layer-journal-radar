@@ -9,7 +9,7 @@
 <description>IJIM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/ijim.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 26 Nov 2026 07:56:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:20:38 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -67,21 +67,21 @@
 <description></description>
 </item>
 <item>
-<title>AI for Web3 ecosystems: A socio-technical conceptual framework</title>
-<link>https://doi.org/10.1016/j.ijinfomgt.2026.103118</link>
-<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103118</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Li Zhu; Jiaxin Wang; Ya Liu; Qianang Mao; Jiaqi Yan]]></dc:creator>
-<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103118</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Information signal processing in digital transformation: How platform-based customer feedback and digital capacity shape external knowledge search</title>
 <link>https://doi.org/10.1016/j.ijinfomgt.2026.103110</link>
 <guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103110</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Mauricio Codesso; Rogério João Lunkes; Fabrícia Silva Rosa; Daiane Antonini Bortoluzzi]]></dc:creator>
 <dc:identifier>doi:10.1016/j.ijinfomgt.2026.103110</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>AI for Web3 ecosystems: A socio-technical conceptual framework</title>
+<link>https://doi.org/10.1016/j.ijinfomgt.2026.103118</link>
+<guid isPermaLink="false">10.1016/j.ijinfomgt.2026.103118</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Li Zhu; Jiaxin Wang; Ya Liu; Qianang Mao; Jiaqi Yan]]></dc:creator>
+<dc:identifier>doi:10.1016/j.ijinfomgt.2026.103118</dc:identifier>
 <description></description>
 </item>
 <item>

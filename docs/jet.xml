@@ -9,7 +9,7 @@
 <description>JET — Elsevier · Latest in: Articles in Press · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/jet.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 26 Nov 2026 07:56:35 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 21:20:38 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -418,12 +418,12 @@
 <description></description>
 </item>
 <item>
-<title>Dynamic Consistency in Ambiguous Dutch Auctions</title>
-<link>https://doi.org/10.1016/j.jet.2026.106284</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106284</guid>
+<title>An Economic Model of Acculturation under Strategic Complements and Substitutes</title>
+<link>https://doi.org/10.1016/j.jet.2026.106285</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106285</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Marieke Pahlke]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106284</dc:identifier>
+<dc:creator><![CDATA[Sebastiano Della Lena; Pietro Dindo]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106285</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -580,21 +580,21 @@
 <description></description>
 </item>
 <item>
-<title>Revisiting “A theory of debt maturity and innovation” [J. Econ. Theory 218 (2024) 105828]</title>
-<link>https://doi.org/10.1016/j.jet.2026.106167</link>
-<guid isPermaLink="false">10.1016/j.jet.2026.106167</guid>
-<pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Sonny Biswas; Kostas Koufopoulos; Thi Mai Nguyen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.jet.2026.106167</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Matching with generalized sequential choice rules</title>
 <link>https://doi.org/10.1016/j.jet.2026.106287</link>
 <guid isPermaLink="false">10.1016/j.jet.2026.106287</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Orhan Aygün; Bertan Turhan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.jet.2026.106287</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Dynamic consistency in ambiguous Dutch auctions</title>
+<link>https://doi.org/10.1016/j.jet.2026.106284</link>
+<guid isPermaLink="false">10.1016/j.jet.2026.106284</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Marieke Pahlke]]></dc:creator>
+<dc:identifier>doi:10.1016/j.jet.2026.106284</dc:identifier>
 <description></description>
 </item>
 <item>
