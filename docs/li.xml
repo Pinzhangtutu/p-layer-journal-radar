@@ -9,7 +9,7 @@
 <description>LI — Elsevier · Latest in: Articles in Press · Subfield: education</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/li.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 26 Nov 2026 21:20:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 07:57:56 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -211,15 +211,6 @@
 <description></description>
 </item>
 <item>
-<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
-<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Towards an adaptive AI scaffold for developing student collaborative problem solving</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102418</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102418</guid>
@@ -235,6 +226,15 @@
 <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Marieke de Wijse-van Heeswijk; Sander Meijerink; Etiënne Rouwette; Emma Avoyan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102380</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102422</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102422</guid>
+<pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tristan H.S. de Jonge; Bjorn B. de Koning; Margot van Wermeskerken]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102422</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -301,12 +301,12 @@
 <description></description>
 </item>
 <item>
-<title>Teacher emotional support, question openness and student oral participation: The role of positive emotion across stages in AI-observed STEM and non-STEM classes</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102475</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102475</guid>
+<title>Can elementary schools compensate for disparities across Europe?</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102458</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102458</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yayun Gong; Junyu Huang; Lei Bao; Haidong Li; Junmin Liu; Peng Jing; Jianwen Xiong; Xiaoyu Tang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102475</dc:identifier>
+<dc:creator><![CDATA[Thomas Brüggemann; Ulrich Ludewig; Jakob Schwerter; Nele McElvany; Philipp Doebler]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102458</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -319,12 +319,12 @@
 <description></description>
 </item>
 <item>
-<title>Can elementary schools compensate for disparities across Europe?</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102458</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102458</guid>
+<title>Teacher emotional support, question openness and student oral participation: The role of positive emotion across stages in AI-observed STEM and non-STEM classes</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102475</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102475</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Thomas Brüggemann; Ulrich Ludewig; Jakob Schwerter; Nele McElvany; Philipp Doebler]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102458</dc:identifier>
+<dc:creator><![CDATA[Yayun Gong; Junyu Huang; Lei Bao; Haidong Li; Junmin Liu; Peng Jing; Jianwen Xiong; Xiaoyu Tang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102475</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -499,6 +499,15 @@
 <description></description>
 </item>
 <item>
+<title>From growth mindset to social-emotional skills in early and mid-adolescence: A educational-cultural examination of an integrated mind-body-behavior framework</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102498</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102498</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tong Zhou; Yi Liao; Xiaoyu Cheng; Liwei Liu; Wei Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102498</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>The power of varying more than one thing at a time</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102478</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102478</guid>
@@ -514,15 +523,6 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Lena Biele; Anna Volodina; Rebecca Höhr; Birgit Heppt]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102476</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>From growth mindset to social-emotional skills in early and mid-adolescence: A educational-cultural examination of an integrated mind-body-behavior framework</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102498</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102498</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tong Zhou; Yi Liao; Xiaoyu Cheng; Liwei Liu; Wei Chen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102498</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -580,21 +580,21 @@
 <description></description>
 </item>
 <item>
-<title>Arithmetic development: a longitudinal observational study into the use of adaptive technology</title>
-<link>https://doi.org/10.1016/j.learninstruc.2026.102480</link>
-<guid isPermaLink="false">10.1016/j.learninstruc.2026.102480</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[S.M.M.de Mooij; C. Paans; F. Hasselman; R. Dijkstra; C.A.N. Knoop-van Campen; I. Molenaar]]></dc:creator>
-<dc:identifier>doi:10.1016/j.learninstruc.2026.102480</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Development of preservice teachers’ competence in lesson planning: Analyzing learning opportunities, pedagogical content knowledge, and lesson-planning skills</title>
 <link>https://doi.org/10.1016/j.learninstruc.2026.102497</link>
 <guid isPermaLink="false">10.1016/j.learninstruc.2026.102497</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Johannes König; Jonas Weyers; Petra Hanke; Jörg Jost]]></dc:creator>
 <dc:identifier>doi:10.1016/j.learninstruc.2026.102497</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Arithmetic development: a longitudinal observational study into the use of adaptive technology</title>
+<link>https://doi.org/10.1016/j.learninstruc.2026.102480</link>
+<guid isPermaLink="false">10.1016/j.learninstruc.2026.102480</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[S.M.M.de Mooij; C. Paans; F. Hasselman; R. Dijkstra; C.A.N. Knoop-van Campen; I. Molenaar]]></dc:creator>
+<dc:identifier>doi:10.1016/j.learninstruc.2026.102480</dc:identifier>
 <description></description>
 </item>
 </channel>

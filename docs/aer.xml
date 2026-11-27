@@ -9,7 +9,7 @@
 <description>AER — AEA · Latest in: Forthcoming · Subfield: economics</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/aer.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 26 Nov 2026 21:20:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 07:57:56 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -550,16 +550,6 @@
 <content:encoded><![CDATA[This paper studies the productivity of nurse practitioners (NPs) and physicians, two professions performing overlapping tasks but with starkly different backgrounds, training, and pay. Using quasi-experimental variation in patient assignment to NPs versus physicians in Veterans Health Administration emergency departments, we find that, on average, NPs use more resources and exhibit a higher 30-day preventable hospitalization rate than physicians. However, the NP-physician performance difference varies by case complexity and severity. Importantly, even larger productivity variation exists within each profession, leading to substantial overlap between the productivity distributions of the two professions; NPs outperform physicians in 38 percent of random pairs. (JEL I11, I18, J24, J44, M53)]]></content:encoded>
 </item>
 <item>
-<title>Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods</title>
-<link>https://doi.org/10.1257/aer.20240497</link>
-<guid isPermaLink="false">10.1257/aer.20240497</guid>
-<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Vivek Bhattacharya; Gastón Illanes; David Stillerman]]></dc:creator>
-<dc:identifier>doi:10.1257/aer.20240497</dc:identifier>
-<description><![CDATA[We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)]]></description>
-<content:encoded><![CDATA[We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)]]></content:encoded>
-</item>
-<item>
 <title>Uncertainty and Change: Survey Evidence of Firms' Subjective Beliefs</title>
 <link>https://doi.org/10.1257/aer.20240056</link>
 <guid isPermaLink="false">10.1257/aer.20240056</guid>
@@ -568,6 +558,16 @@
 <dc:identifier>doi:10.1257/aer.20240056</dc:identifier>
 <description><![CDATA[This paper studies how managers plan under uncertainty. In a new panel survey of German manufacturing firms, we observe both forecasts of sales growth and a quantitative measure of subjective uncertainty. We show that subjective uncertainty reflects change experienced by firms: It is high when growth is either unusually low or unusually high. Subjective uncertainty is more than conditional volatility; while more volatile firms are typically more uncertain, experienced change alone increases uncertainty, consistent with a model of learning. Uncertainty over our sample is mostly idiosyncratic but varies substantially over time and leads managers to plan lower employment and prices. (JEL C83, D22, E20, E23)]]></description>
 <content:encoded><![CDATA[This paper studies how managers plan under uncertainty. In a new panel survey of German manufacturing firms, we observe both forecasts of sales growth and a quantitative measure of subjective uncertainty. We show that subjective uncertainty reflects change experienced by firms: It is high when growth is either unusually low or unusually high. Subjective uncertainty is more than conditional volatility; while more volatile firms are typically more uncertain, experienced change alone increases uncertainty, consistent with a model of learning. Uncertainty over our sample is mostly idiosyncratic but varies substantially over time and leads managers to plan lower employment and prices. (JEL C83, D22, E20, E23)]]></content:encoded>
+</item>
+<item>
+<title>Merger Effects and Antitrust Enforcement: Evidence from US Consumer Packaged Goods</title>
+<link>https://doi.org/10.1257/aer.20240497</link>
+<guid isPermaLink="false">10.1257/aer.20240497</guid>
+<pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Vivek Bhattacharya; Gastón Illanes; David Stillerman]]></dc:creator>
+<dc:identifier>doi:10.1257/aer.20240497</dc:identifier>
+<description><![CDATA[We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)]]></description>
+<content:encoded><![CDATA[We document the effects of a comprehensive set of mergers of consumer packaged goods manufacturers on prices, quantities, and product assortment. Across specifications, we find a small average price effect of mergers (−0.5−1.1 percent) but substantial heterogeneity, with a standard deviation between 3.9 and 7.6 percentage points. Through a model of enforcement, we find that agencies act as if they challenge mergers they expect would increase prices more than 4.8 to 6.3 percent. Increases in stringency would reduce prices and the prevalence of completed price-increasing mergers, with minimal impacts on blocked price-decreasing mergers, at significantly greater agency burden. (JEL D43, G34, K21, L13, L41, L66)]]></content:encoded>
 </item>
 <item>
 <title>Energy Transitions in Regulated Markets</title>

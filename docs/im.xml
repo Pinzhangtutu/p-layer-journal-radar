@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Thu, 26 Nov 2026 21:20:38 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 07:57:56 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -40,21 +40,21 @@
 <description></description>
 </item>
 <item>
-<title>The sooner the better? Timing effects on managerial responses to negative online reviews</title>
-<link>https://doi.org/10.1016/j.im.2026.104433</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104433</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Morgan X. Yang; Irina Y. Yu; Kevin J. Zeng; Wenting Feng]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104433</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Breaking the spiral of silence in social media: The interplay between opinion climates and hardcore user identity</title>
 <link>https://doi.org/10.1016/j.im.2026.104430</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104430</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Wanghao Dong; Weijun Wang; Wenjing Zhong; Yu Tong; Wei Wang; Chunmei Gan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104430</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The sooner the better? Timing effects on managerial responses to negative online reviews</title>
+<link>https://doi.org/10.1016/j.im.2026.104433</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104433</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Morgan X. Yang; Irina Y. Yu; Kevin J. Zeng; Wenting Feng]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104433</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -103,6 +103,15 @@
 <description></description>
 </item>
 <item>
+<title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
+<link>https://doi.org/10.1016/j.im.2026.104436</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Seeking love or fearing loss: divergent motivations in content creations of mega and micro creators on social media platforms</title>
 <link>https://doi.org/10.1016/j.im.2026.104434</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104434</guid>
@@ -112,12 +121,12 @@
 <description></description>
 </item>
 <item>
-<title>When does generative AI adoption pay off? ethical governance as a dynamic capability in SMEs</title>
-<link>https://doi.org/10.1016/j.im.2026.104436</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104436</guid>
+<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
+<link>https://doi.org/10.1016/j.im.2026.104432</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tahereh Hasani]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104436</dc:identifier>
+<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -136,15 +145,6 @@
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Yafang Li; Michelle Carter; Robert E. Crossler]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104420</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Investigating the effect of notification deactivation on social media app usage: A longitudinal experiment</title>
-<link>https://doi.org/10.1016/j.im.2026.104432</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104432</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Na Liu; Yi Wu; Yi Shen; Carol Hsu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104432</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -382,21 +382,21 @@
 <description></description>
 </item>
 <item>
-<title>Ethics vs. exhaustion: Ethical AI design and job burnout in takeout platforms</title>
-<link>https://doi.org/10.1016/j.im.2026.104462</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104462</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Nan Feng; Xueqing Wang; Aihui Chen; Yu Zhang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104462</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When product display video meets social commerce: an elaboration likelihood model perspective</title>
 <link>https://doi.org/10.1016/j.im.2026.104471</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104471</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xiang Gong; Xinjuan Li; Jinming Dang; Xiaoxiao Liu; Zhenxin Xiao]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104471</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Ethics vs. exhaustion: Ethical AI design and job burnout in takeout platforms</title>
+<link>https://doi.org/10.1016/j.im.2026.104462</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104462</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Nan Feng; Xueqing Wang; Aihui Chen; Yu Zhang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104462</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -418,21 +418,21 @@
 <description></description>
 </item>
 <item>
-<title>Restoring legitimacy under resource constraints: The impact of data breaches on corporate social responsibility</title>
-<link>https://doi.org/10.1016/j.im.2026.104459</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104459</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Junmin Xu; Xiaoyue Song; Quansheng Li; Qin Su; Wei Thoo Yue]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104459</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>AI error or AI creativity? Attributional ambiguity in AI-generated expectation-violating prerolls</title>
 <link>https://doi.org/10.1016/j.im.2026.104465</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104465</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shichen Zhang; Liang Peng; Yinliang (Ricky) Tan]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104465</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Restoring legitimacy under resource constraints: The impact of data breaches on corporate social responsibility</title>
+<link>https://doi.org/10.1016/j.im.2026.104459</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104459</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Junmin Xu; Xiaoyue Song; Quansheng Li; Qin Su; Wei Thoo Yue]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104459</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -508,21 +508,21 @@
 <description></description>
 </item>
 <item>
-<title>Generative AI identity duality: the mediating effects of AI connection versus AI resistance on generative AI acceptance</title>
-<link>https://doi.org/10.1016/j.im.2026.104467</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104467</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qimei Chen; Yi He; Scott Hachey; Hong Wang; Miao Hu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104467</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Hit the brakes: a configuration study of IT-enabled carpooling drivers’ discontinuance</title>
 <link>https://doi.org/10.1016/j.im.2026.104472</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104472</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zhenya Robin Tang; Xueyan Dong; Yuxin Tian; Dahui Li]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104472</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Generative AI identity duality: the mediating effects of AI connection versus AI resistance on generative AI acceptance</title>
+<link>https://doi.org/10.1016/j.im.2026.104467</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104467</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qimei Chen; Yi He; Scott Hachey; Hong Wang; Miao Hu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104467</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -544,21 +544,21 @@
 <description></description>
 </item>
 <item>
-<title>Human- vs. AI-labeled recommenders: Effectiveness across personalization, discount, and popularity message framing</title>
-<link>https://doi.org/10.1016/j.im.2026.104464</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104464</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xingyu Chen; Li Ji; Mengzhou Zhuang; Chuang Tang]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104464</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Crafting Persuasive Environmental Messages for Virtual Influencers: The Role of Anthropomorphic Conversational Style, Persuasion Appeal, and Behavioral Context</title>
 <link>https://doi.org/10.1016/j.im.2026.104461</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104461</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Calvin Wan; Daisy Lee; Peggy M.L. Ng; Raffaele Filieri]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Human- vs. AI-labeled recommenders: Effectiveness across personalization, discount, and popularity message framing</title>
+<link>https://doi.org/10.1016/j.im.2026.104464</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104464</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xingyu Chen; Li Ji; Mengzhou Zhuang; Chuang Tang]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104464</dc:identifier>
 <description></description>
 </item>
 <item>
