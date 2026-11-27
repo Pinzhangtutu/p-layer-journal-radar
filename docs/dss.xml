@@ -9,7 +9,7 @@
 <description>DSS — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/dss.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 27 Nov 2026 07:57:56 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 21:01:41 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -67,15 +67,6 @@
 <description></description>
 </item>
 <item>
-<title>Configuring human and AI investments: Synergy and its impact on operational efficiency</title>
-<link>https://doi.org/10.1016/j.dss.2026.114702</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114702</guid>
-<pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jiawei Xu; Baofeng Zhang; Jianjun Lu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114702</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Too alike to thrive? Personality and functionality similarity in virtual teams</title>
 <link>https://doi.org/10.1016/j.dss.2026.114775</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114775</guid>
@@ -103,21 +94,21 @@
 <description></description>
 </item>
 <item>
-<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
-<link>https://doi.org/10.1016/j.dss.2026.114774</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
-<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Human-led or AI-led? How AI role configuration influences human engagement on knowledge-intensive gig platforms</title>
 <link>https://doi.org/10.1016/j.dss.2026.114781</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114781</guid>
 <pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Xicheng Yin; Jiachen Wang; Guoyin Jiang]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114781</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The rise of AI-enabled new product ideation: End of innovation crowdsourcing?</title>
+<link>https://doi.org/10.1016/j.dss.2026.114774</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114774</guid>
+<pubDate>Tue, 01 Dec 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Heeseung Lee; Likoebe Maruping]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114774</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -427,21 +418,21 @@
 <description></description>
 </item>
 <item>
-<title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
-<link>https://doi.org/10.1016/j.dss.2026.114797</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Navigating AI-driven technological pressure: How top management team IT readiness and strategic orientation shape data breach risk</title>
 <link>https://doi.org/10.1016/j.dss.2026.114742</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114742</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Niaz Mohammed; Chul Woo Yoo]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114742</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>User attention proxy as a knowledge router: A novel deep learning framework for adaptive knowledge exploration and exploitation in LLMs</title>
+<link>https://doi.org/10.1016/j.dss.2026.114797</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114797</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Jianxiong Wang; Gang Chen; Xiangge Li; Zicong Wang; Haishan Ye]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114797</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -490,6 +481,15 @@
 <description></description>
 </item>
 <item>
+<title>The ease effect: Examining the role of generative AI and conventional search in shaping the perceived difficulty of creative problems</title>
+<link>https://doi.org/10.1016/j.dss.2026.114805</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114805</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Divya Dwivedi; Shankhadeep Banerjee; Rahul De’; Indranil Bose]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114805</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>When AI joins the team: The impact of human-AI diversity on willingness to work with teammates</title>
 <link>https://doi.org/10.1016/j.dss.2026.114786</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114786</guid>
@@ -526,21 +526,21 @@
 <description></description>
 </item>
 <item>
-<title>Inferring health motivation from wearable data: A cluster-based approach to predicting healthcare claims</title>
-<link>https://doi.org/10.1016/j.dss.2026.114802</link>
-<guid isPermaLink="false">10.1016/j.dss.2026.114802</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Michelle Marcus; Lemai Nguyen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.dss.2026.114802</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>When ratings speak louder than words: Seek alpha in Seeking Alpha</title>
 <link>https://doi.org/10.1016/j.dss.2026.114787</link>
 <guid isPermaLink="false">10.1016/j.dss.2026.114787</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zhihao Li; Fun Yi Chan; Chaoyue Gao; Alvin Chung Man Leung; Qiang Ye]]></dc:creator>
 <dc:identifier>doi:10.1016/j.dss.2026.114787</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Inferring health motivation from wearable data: A cluster-based approach to predicting healthcare claims</title>
+<link>https://doi.org/10.1016/j.dss.2026.114802</link>
+<guid isPermaLink="false">10.1016/j.dss.2026.114802</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Michelle Marcus; Lemai Nguyen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.dss.2026.114802</dc:identifier>
 <description></description>
 </item>
 <item>
