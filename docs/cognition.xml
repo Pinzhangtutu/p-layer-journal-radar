@@ -9,7 +9,7 @@
 <description>Cognition — Elsevier · Latest in: Articles in Press · Subfield: psychology</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/cognition.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 27 Nov 2026 21:01:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 07:27:25 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -58,6 +58,15 @@
 <description></description>
 </item>
 <item>
+<title>Working- and long-term memory target templates converge to produce coactive guidance of attention during visual search</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106747</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106747</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Brett Bahle; Zexuan Niu; Jeremy Strueder; Andrew Hollingworth]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106747</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Something's gotta give: Reward-induced effort modulation in task-switching reveals a flexibility-stability trade-off</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106783</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106783</guid>
@@ -73,15 +82,6 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Zihan Yin; Yujing Shi; Yanli Huang; Jiushu Xie]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106754</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Working- and long-term memory target templates converge to produce coactive guidance of attention during visual search</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106747</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106747</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Brett Bahle; Zexuan Niu; Jeremy Strueder; Andrew Hollingworth]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106747</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -166,15 +166,6 @@
 <description></description>
 </item>
 <item>
-<title>The emergence of language-specific biases in visual attention in pre-reading toddlers from two cultures</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106750</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106750</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Christine E. Potter; Nadeen Kherbawy; Christopher R. Sepulveda; Sagi Jaffe-Dax]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106750</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Probing spatiotemporal context reveals differences between true and false memories</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106782</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106782</guid>
@@ -193,21 +184,21 @@
 <description></description>
 </item>
 <item>
+<title>The emergence of language-specific biases in visual attention in pre-reading toddlers from two cultures</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106750</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106750</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Christine E. Potter; Nadeen Kherbawy; Christopher R. Sepulveda; Sagi Jaffe-Dax]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106750</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>General versus specific: Investigating the structure of individual differences in post-error slowing across time</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106769</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106769</guid>
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Clifford E. Hauenstein; Eunbee Kim; Alexis Phillips; Alana M. Montanez; Barry Gordon; Derek M. Smith]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106769</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Repetition increases belief in implausible statements more than for plausible statements</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106780</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106780</guid>
-<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Reed Orchinik; David G. Rand; Gordon Pennycook; Lisa K. Fazio]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106780</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -226,6 +217,15 @@
 <pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Axel Garnier-Allain; Vincent de Gardelle; Thibault Gajdos Preuss; Mathieu Servant]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106779</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Repetition increases belief in implausible statements more than for plausible statements</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106780</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106780</guid>
+<pubDate>Mon, 01 Feb 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Reed Orchinik; David G. Rand; Gordon Pennycook; Lisa K. Fazio]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106780</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -355,21 +355,21 @@
 <description></description>
 </item>
 <item>
-<title>Further predictors of iconicity</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106739</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106739</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[David M. Sidhu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106739</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Contours drive the tilt aftereffect in naturalistic images</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106728</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106728</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Seohee Han; James T. Lochbichler; Dirk B. Walther]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106728</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Further predictors of iconicity</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106739</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106739</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[David M. Sidhu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106739</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -427,6 +427,15 @@
 <description></description>
 </item>
 <item>
+<title>The objecthood of visual working memory representations influences their interaction with attention</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106727</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Time pressure amplifies gender differences in mental rotation through shifts in evidence accumulation and response caution</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106723</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106723</guid>
@@ -442,15 +451,6 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Silvia Seghezzi; Maia Juliet Armstrong; Patrick Haggard]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106701</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>The objecthood of visual working memory representations influences their interaction with attention</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106727</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106727</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Litian Chen; Jiewei Zheng; Mengjiao Xu; Ping Zhu; Yingtao Fu; Mowei Shen; Hui Chen]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106727</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -481,24 +481,6 @@
 <description></description>
 </item>
 <item>
-<title>The impact of visual imagery absence on fine-grained memory for object colour and size: an aphantasia study</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106695</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106695</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Xiangqi Luo; Minhong Zhu; Zhenjiang Cui; J.S.H. Taylor; Huafeng Tang; Zhiyun Dai; Xuliang Zhang; Yuxin Liu; Dorothy Z. Gao; Serena Yu-Xi Shi; Zaizhu Han]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106695</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Grammatical acceptability is affected by the fit between the construction and noun phrase/contextual meaning: Evidence from six pre-registered judgment studies</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106738</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106738</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Ben Ambridge; Aliza Bukhari; I. Made Sena Darmasetiyawan; Chanel Hanes; Wenting Xu; Jingyuan Sun; Yang Cui]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106738</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Joint processing of arrow direction and number magnitude strengthens Spatial-Numerical Associations: evidence from a modified flanker task</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106719</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106719</guid>
@@ -514,6 +496,24 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Louis Longin; Jurgis Karpus; Nadine Meertens; Bahador Bahrami; Ophelia Deroy]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106733</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The impact of visual imagery absence on fine-grained memory for object colour and size: an aphantasia study</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106695</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106695</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Xiangqi Luo; Minhong Zhu; Zhenjiang Cui; J.S.H. Taylor; Huafeng Tang; Zhiyun Dai; Xuliang Zhang; Yuxin Liu; Dorothy Z. Gao; Serena Yu-Xi Shi; Zaizhu Han]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106695</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Grammatical acceptability is affected by the fit between the construction and noun phrase/contextual meaning: Evidence from six pre-registered judgment studies</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106738</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106738</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Ben Ambridge; Aliza Bukhari; I. Made Sena Darmasetiyawan; Chanel Hanes; Wenting Xu; Jingyuan Sun; Yang Cui]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106738</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -553,6 +553,15 @@
 <description></description>
 </item>
 <item>
+<title>Music influences the content of spontaneous thought</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>When “they” is singular: The interplay between cognitive and social factors predicts pronoun misinterpretations in bilingual English speakers</title>
 <link>https://doi.org/10.1016/j.cognition.2026.106729</link>
 <guid isPermaLink="false">10.1016/j.cognition.2026.106729</guid>
@@ -580,12 +589,12 @@
 <description></description>
 </item>
 <item>
-<title>Music influences the content of spontaneous thought</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106722</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106722</guid>
+<title>Near-random behavior in strategic games</title>
+<link>https://doi.org/10.1016/j.cognition.2026.106737</link>
+<guid isPermaLink="false">10.1016/j.cognition.2026.106737</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Wei Wu; Elizabeth H. Margulis; Kelly Jakubowski]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106722</dc:identifier>
+<dc:creator><![CDATA[Tal Boger; Dorsa Amir; Sami R. Yousif]]></dc:creator>
+<dc:identifier>doi:10.1016/j.cognition.2026.106737</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -604,15 +613,6 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Laurina Fazioli; Bat-Sheva Hadad; Rachel N. Denison; Amit Yashar]]></dc:creator>
 <dc:identifier>doi:10.1016/j.cognition.2026.106716</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Near-random behavior in strategic games</title>
-<link>https://doi.org/10.1016/j.cognition.2026.106737</link>
-<guid isPermaLink="false">10.1016/j.cognition.2026.106737</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Tal Boger; Dorsa Amir; Sami R. Yousif]]></dc:creator>
-<dc:identifier>doi:10.1016/j.cognition.2026.106737</dc:identifier>
 <description></description>
 </item>
 <item>

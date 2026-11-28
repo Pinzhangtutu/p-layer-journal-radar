@@ -9,7 +9,7 @@
 <description>IM — Elsevier · Latest in: Articles in Press · Subfield: is</description>
 <language>en</language>
 <atom:link href="https://pinzhangtutu.github.io/p-layer-journal-radar/im.xml" rel="self" type="application/rss+xml"/>
-<lastBuildDate>Fri, 27 Nov 2026 21:01:41 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 07:27:25 +0000</lastBuildDate>
 <generator>p-layer-journal-radar</generator>
 <docs>https://www.rssboard.org/rss-specification</docs>
 <item>
@@ -184,21 +184,21 @@
 <description></description>
 </item>
 <item>
-<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
-<link>https://doi.org/10.1016/j.im.2026.104411</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Effectiveness of empathetic AI in health management on consumers’ advice adherence: The moderating roles of digital devices and health conditions</title>
 <link>https://doi.org/10.1016/j.im.2026.104412</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104412</guid>
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Shuqin Liu; Chundong Zheng; Nianfeng Zeng]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104412</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>The effects of AI identity disclosure on user responses: A meta-analysis</title>
+<link>https://doi.org/10.1016/j.im.2026.104411</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104411</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Hao Chen; Mengqi Sun; Haitao Chen; Bailing Liu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104411</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -346,6 +346,15 @@
 <description></description>
 </item>
 <item>
+<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
+<link>https://doi.org/10.1016/j.im.2026.104414</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
+<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Beyond speculation: Explaining the intention to use cryptocurrency</title>
 <link>https://doi.org/10.1016/j.im.2026.104410</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104410</guid>
@@ -361,15 +370,6 @@
 <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Canjun Chen; Lelin Lv; Changxin Xu]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104400</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>A stakeholder perspective-based ranking system for assessing the sustainable performance of decentralized applications (DApps)</title>
-<link>https://doi.org/10.1016/j.im.2026.104414</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104414</guid>
-<pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Yifei Shuang; Xi Zhao; Hsing K. Cheng; Jian Li; Hong Mei]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104414</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -508,15 +508,6 @@
 <description></description>
 </item>
 <item>
-<title>Generative AI identity duality: the mediating effects of AI connection versus AI resistance on generative AI acceptance</title>
-<link>https://doi.org/10.1016/j.im.2026.104467</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104467</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[Qimei Chen; Yi He; Scott Hachey; Hong Wang; Miao Hu]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104467</dc:identifier>
-<description></description>
-</item>
-<item>
 <title>Hit the brakes: a configuration study of IT-enabled carpooling drivers’ discontinuance</title>
 <link>https://doi.org/10.1016/j.im.2026.104472</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104472</guid>
@@ -526,21 +517,21 @@
 <description></description>
 </item>
 <item>
+<title>Generative AI identity duality: the mediating effects of AI connection versus AI resistance on generative AI acceptance</title>
+<link>https://doi.org/10.1016/j.im.2026.104467</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104467</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[Qimei Chen; Yi He; Scott Hachey; Hong Wang; Miao Hu]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104467</dc:identifier>
+<description></description>
+</item>
+<item>
 <title>Subsidizing consumers to share: an economic analysis of manufacturers’ cooperation with sharing platforms</title>
 <link>https://doi.org/10.1016/j.im.2026.104453</link>
 <guid isPermaLink="false">10.1016/j.im.2026.104453</guid>
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Wenyi Zhang; Nan Feng; Haiyang Feng; Minqiang Li]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104453</dc:identifier>
-<description></description>
-</item>
-<item>
-<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
-<link>https://doi.org/10.1016/j.im.2026.104454</link>
-<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
-<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
-<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
-<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
 <description></description>
 </item>
 <item>
@@ -559,6 +550,15 @@
 <pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
 <dc:creator><![CDATA[Calvin Wan; Daisy Lee; Peggy M.L. Ng; Raffaele Filieri]]></dc:creator>
 <dc:identifier>doi:10.1016/j.im.2026.104461</dc:identifier>
+<description></description>
+</item>
+<item>
+<title>Asymmetric trust production in human–AI augmentation: the structural vulnerability of affected groups</title>
+<link>https://doi.org/10.1016/j.im.2026.104454</link>
+<guid isPermaLink="false">10.1016/j.im.2026.104454</guid>
+<pubDate>Fri, 01 Jan 2027 00:00:00 +0000</pubDate>
+<dc:creator><![CDATA[ChangHyun Lee; Kyung Jin Cha]]></dc:creator>
+<dc:identifier>doi:10.1016/j.im.2026.104454</dc:identifier>
 <description></description>
 </item>
 <item>
